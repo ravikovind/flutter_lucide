@@ -1,7 +1,6 @@
 # flutter_lucide
 
 [![pub package](https://img.shields.io/pub/v/flutter_lucide.svg)](https://pub.dartlang.org/packages/flutter_lucide)
-[![codecov](https://codecov.io/gh/ravikovind/flutter_lucide/branch/main/graph/badge.svg?token=ZQZQZQZQZQ)](https://codecov.io/gh/ravikovind/flutter_lucide)
 ![GitHub stars](https://img.shields.io/github/stars/ravikovind/flutter_lucide)
 ![GitHub forks](https://img.shields.io/github/forks/ravikovind/flutter_lucide)
 ![GitHub issues](https://img.shields.io/github/issues/ravikovind/flutter_lucide)
@@ -20,7 +19,7 @@ To use this plugin, add `flutter_lucide` as a [dependency in your pubspec.yaml f
 
 ```yaml
 dependencies:
-  flutter_lucide: ^0.0.1
+  flutter_lucide: ^1.1.0
 ```
 
 ## Example
@@ -53,6 +52,7 @@ MIT License
 ## Maintainers
 
 ### [Ravi Kovind](ravikovind.github.io)
+### [Achintya Singh](https://achiit.github.io/aboutachintya/#/)
 
 ## Disclaimer
 
