@@ -1,3 +1,6 @@
+# 1.1.1
+- Fixed broken links in `README.md`.
+
 # 1.1.0
 
 - README.md updated with badges & other information.

@@ -5,6 +5,7 @@ import 'package:flutter/widgets.dart';
 /// Lucide is licensed under the ISC license.
 ///
 /// for more info visit [https://lucide.dev/](https://lucide.dev/).
+///
 @staticIconProvider
 abstract final class LucideIcons {
   /// const constructor for [LucideIcons]

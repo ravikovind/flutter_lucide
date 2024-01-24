@@ -51,7 +51,8 @@ MIT License
 
 ## Maintainers
 
-### [Ravi Kovind](ravikovind.github.io)
+### [Ravi Kovind](https://ravikovind.github.io/)
+
 ### [Achintya Singh](https://achiit.github.io/aboutachintya/#/)
 
 ## Disclaimer
