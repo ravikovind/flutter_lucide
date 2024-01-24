@@ -1,12 +1,12 @@
 name: flutter_lucide
 description: Flutter package for Lucide Icons. Lucide is a free, open-source icon set with 1450+ icons. It's a fork of the popular Feather icon set.
-version: 0.0.1
+version: 1.0.0
 homepage: https://lucide.dev/
 repository: https://github.com/ravikovind/flutter_lucide
 issue_tracker: https://github.com/ravikovind/flutter_lucide/issues
 
 environment:
-  sdk: ">=3.2.5 <4.0.0"
+  sdk: ">=3.1.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -29,3 +29,10 @@ flutter:
 screenshots:
   - description: Lucide Logo
     path: screenshots/logo.png
+
+topics:
+  - lucide
+  - feather
+  - icons
+  - icon-pack
+  - beautiful-icons
