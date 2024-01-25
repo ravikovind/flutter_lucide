@@ -13,10 +13,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Lucide Icons Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Lucide Icons Demo'),
     );
   }
 }
@@ -39,68 +39,74 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+  void _decrementCounter() {
+    setState(() {
+      _counter--;
+    });
+  }
+
+  void _resetCounter() {
+    setState(() {
+      _counter = 0;
+    });
+  }
+
   @override
-  Widget build(BuildContext context) {
-    //
-
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          //
-
-          //
-
+  Widget build(BuildContext context) => Scaffold(
+        appBar: AppBar(
+          backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+          title: Text(widget.title),
+        ),
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              const Text(
+                'You have pushed the button this many times: ',
+              ),
+              if (_counter > 0) ...[
+                const SizedBox(height: 16),
+                IconButton.filled(
+                    onPressed: _incrementCounter,
+                    icon: const Icon(
+                      LucideIcons.plus,
+                      size: 32,
+                    )),
+              ] else if (_counter < 0) ...[
+                const SizedBox(height: 16),
+                IconButton.filled(
+                  onPressed: _decrementCounter,
+                  icon: const Icon(
+                    LucideIcons.minus,
+                    size: 32,
+                  ),
+                ),
+              ],
+              Text(
+                '$_counter',
+                style: Theme.of(context).textTheme.headlineLarge,
+              ),
+            ],
+          ),
+        ),
+        floatingActionButton: Row(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
+          children: [
+            FloatingActionButton(
+              onPressed: _incrementCounter,
+              child: const Icon(LucideIcons.plus),
             ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headlineMedium,
+            const SizedBox(width: 8),
+            FloatingActionButton(
+              onPressed: _resetCounter,
+              child: const Icon(LucideIcons.refresh_ccw),
+            ),
+            const SizedBox(width: 8),
+            FloatingActionButton(
+              onPressed: _decrementCounter,
+              child: const Icon(LucideIcons.minus),
             ),
           ],
         ),
-      ),
-      floatingActionButton: Row(
-        mainAxisAlignment: MainAxisAlignment.end,
-        children: [
-          FloatingActionButton(
-            onPressed: _incrementCounter,
-            tooltip: 'Increment',
-            child: const Icon(LucideIcons.plus),
-          ),
-          const SizedBox(width: 8),
-          FloatingActionButton(
-            onPressed: _incrementCounter,
-            tooltip: 'Increment',
-            child: const Icon(LucideIcons.minus),
-          ),
-          const SizedBox(width: 8),
-          FloatingActionButton(
-            onPressed: _incrementCounter,
-            tooltip: 'Increment',
-            child: const Icon(LucideIcons.heart),
-          ),
-          const SizedBox(width: 8),
-          FloatingActionButton(
-            onPressed: _incrementCounter,
-            tooltip: 'Increment',
-            child: const Icon(LucideIcons.star),
-          ),
-          const SizedBox(width: 8),
-          FloatingActionButton(
-            onPressed: _incrementCounter,
-            tooltip: 'Increment',
-            // ignore: deprecated_member_use
-            child: const Icon(LucideIcons.chrome),
-          ),
-        ],
-      ),
-    );
-  }
+      );
 }

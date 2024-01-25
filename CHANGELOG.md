@@ -1,4 +1,12 @@
+# 1.1.2
+
+- Improved `README.md` with badges & other information.
+- Added `fromCode` constructor to `LucideIcons` class. it will help to get the icon from the code.
+- Formatted code with dartfmt. improved code readability.
+- improved the example app.
+
 # 1.1.1
+
 - Fixed broken links in `README.md`.
 
 # 1.1.0

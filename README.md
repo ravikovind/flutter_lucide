@@ -1,12 +1,15 @@
 # flutter_lucide
 
 [![pub package](https://img.shields.io/pub/v/flutter_lucide.svg)](https://pub.dartlang.org/packages/flutter_lucide)
+[![Score](https://img.shields.io/pub/points/flutter_lucide?label=Score&logo=dart)](https://pub.dartlang.org/packages/flutter_lucide/score)
+[![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS%20|%20Web%20|%20macOS%20|%20Windows%20|%20Linux%20-blue.svg?logo=flutter)](https://pub.dartlang.org/packages/flutter_lucide)
 ![GitHub stars](https://img.shields.io/github/stars/ravikovind/flutter_lucide)
 ![GitHub forks](https://img.shields.io/github/forks/ravikovind/flutter_lucide)
 ![GitHub issues](https://img.shields.io/github/issues/ravikovind/flutter_lucide)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ravikovind/flutter_lucide)
 
-Flutter package for Lucide Icons. Lucide is a free, open-source icon set with 1450+ icons. It's a fork of the popular Feather icon set.
+Lucide is a free, open-source icon set with over 1450+ icons, derived from the popular Feather icon set. It's available as a Flutter package for easy integration. Featuring a clean, modern design, it's perfect for enhancing user interfaces.
+
 For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 
 ![Lucid](https://github.com/ravikovind/flutter_lucide/raw/main/screenshots/logo.png)
@@ -19,7 +22,7 @@ To use this plugin, add `flutter_lucide` as a [dependency in your pubspec.yaml f
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.1.0
+  flutter_lucide: ^1.1.2
 ```
 
 ## Example
@@ -57,4 +60,4 @@ MIT License
 
 ## Disclaimer
 
-This is not an official Lucide icon package. All the assets are owned by their respective owners([https://lucide.dev/](https://lucide.dev/)). Please visit their website for more information.
+This is not an official Lucide Icon package. All the assets are owned by their respective owners([https://lucide.dev/](https://lucide.dev/)). Please visit their website for more information. This package is created to help the Flutter Community.
