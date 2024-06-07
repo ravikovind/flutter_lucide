@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "karsa-mistmere",
+    "jguddas",
+    "danielbayley"
+  ],
+  "tags": [
+    "reaction",
+    "emotion",
+    "smile",
+    "happy",
+    "feedback"
+  ],
+  "categories": [
+    "communication",
+    "social"
+  ]
+}
