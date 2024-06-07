@@ -1,3 +1,9 @@
+# 1.2.0
+
+- 0.390.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+- Formatted code with dartfmt. improved code readability.
+
 # 1.1.2
 
 - Improved `README.md` with badges & other information.
