@@ -103,25 +103,29 @@ abstract final class LucideIcons {
   /// const constructor for [LucideIcons]
   const LucideIcons._();
 
-  /// [fromCode] is a helper function that returns the icon data for a particular icon code.
-  /// The icon code can be found in the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
-  ///
-  /// avoid using this function directly, instead use the icon directly from the [LucideIcons] class.
-  /// Tree shaking will remove the unused icons from the final build.
-  /// This will reduce the final build size.
-  ///
-  /// Example: To use the [a_arrow_down] icon, use the following code:
-  /// ```dart
-  /// Icon(LucideIcons.fromCode(0xe900))
-  /// ```
-  ///
-  static IconData? fromCode(int code) {
-    try {
-      return IconData(code, fontFamily: _fontFamily, fontPackage: _fontPackage);
-    } on Exception catch (_) {
-      return null;
-    }
-  }
+  // /// [fromCode] is a helper function that returns the icon data for a particular icon code.
+  // /// The icon code can be found in the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
+  // ///
+  // /// avoid using this function directly, instead use the icon directly from the [LucideIcons] class.
+  // /// Tree shaking will remove the unused icons from the final build.
+  // /// This will reduce the final build size.
+  // ///
+  // /// Example: To use the [a_arrow_down] icon, use the following code:
+  // /// ```dart
+  // /// Icon(LucideIcons.fromCode(0xe900))
+  // /// ```
+  // ///
+  // Removed:
+  // Unable to tree shake when build #3
+  // [https://github.com/ravikovind/flutter_lucide/issues/3]
+  //
+  // static IconData? fromCode(int code) {
+  //   try {
+  //     return IconData(code, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  //   } on Exception catch (_) {
+  //     return null;
+  //   }
+  // }
 
   /// [_fontFamily] is the font family for the lucide icon set.
   static const String _fontFamily = 'lucide';

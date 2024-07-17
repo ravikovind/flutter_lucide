@@ -1,29 +1,24 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_lucide/flutter_lucide.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Lucide Icons Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange),
-        useMaterial3: true,
-      ),
-      home: const MyHomePage(title: 'Lucide Icons Demo'),
-    );
-  }
+  Widget build(BuildContext context) => MaterialApp(
+        title: 'Lucide Icons Example',
+        theme: ThemeData(
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange),
+          useMaterial3: true,
+        ),
+        home: const MyHomePage(title: 'Lucide Icons Example'),
+      );
 }
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
-
   final String title;
 
   @override
@@ -33,23 +28,11 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
-  }
+  void _incrementCounter() => setState(() => _counter++);
 
-  void _decrementCounter() {
-    setState(() {
-      _counter--;
-    });
-  }
+  void _decrementCounter() => setState(() => _counter--);
 
-  void _resetCounter() {
-    setState(() {
-      _counter = 0;
-    });
-  }
+  void _resetCounter() => setState(() => _counter = 0);
 
   @override
   Widget build(BuildContext context) => Scaffold(

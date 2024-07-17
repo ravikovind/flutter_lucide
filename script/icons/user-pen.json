@@ -1,13 +1,18 @@
 {
   "$schema": "../icon.schema.json",
   "contributors": [
+    "karsa-mistmere",
     "colebemis",
     "csandman",
     "ericfennis"
   ],
   "tags": [
-    "house",
-    "living"
+    "person",
+    "account",
+    "contact",
+    "profile",
+    "edit",
+    "change"
   ],
   "categories": [
     "account"

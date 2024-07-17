@@ -11,26 +11,6 @@ abstract final class LucideIcons {
 /// const constructor for [LucideIcons]
 const LucideIcons.\_();
 
-/// [fromCode] is a helper function that returns the icon data for a particular icon code.
-/// The icon code can be found in the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
-///
-/// avoid using this function directly, instead use the icon directly from the [LucideIcons] class.
-/// Tree shaking will remove the unused icons from the final build.
-/// This will reduce the final build size.
-///
-/// Example: To use the [a_arrow_down] icon, use the following code:
-/// `dart
-  /// Icon(LucideIcons.fromCode(0xe900))
-  /// `
-///
-static IconData? fromCode(int code) {
-try {
-return IconData(code, fontFamily: _fontFamily, fontPackage: \_fontPackage);
-} on Exception catch (_) {
-return null;
-}
-}
-
 /// [_fontFamily] is the font family for the lucide icon set.
 static const String \_fontFamily = 'lucide';
 
@@ -48,7 +28,7 @@ static const String \_fontPackage = 'flutter_lucide';
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData a_arrow_down = IconData(0xe900, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData a_arrow_down = IconData(0xe900, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [a_arrow_up] icon from the Lucide icon set.
 ///
@@ -61,7 +41,7 @@ static const IconData a_arrow_down = IconData(0xe900, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData a_arrow_up = IconData(0xe901, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData a_arrow_up = IconData(0xe901, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [a_large_small] icon from the Lucide icon set.
 ///
@@ -74,7 +54,7 @@ static const IconData a_arrow_up = IconData(0xe901, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData a_large_small = IconData(0xe902, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData a_large_small = IconData(0xe902, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [accessibility] icon from the Lucide icon set.
 ///
@@ -87,7 +67,7 @@ static const IconData a_large_small = IconData(0xe902, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData accessibility = IconData(0xe903, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData accessibility = IconData(0xe903, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [activity_square] icon from the Lucide icon set.
 ///
@@ -100,7 +80,7 @@ static const IconData accessibility = IconData(0xe903, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData activity_square = IconData(0xe904, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData activity_square = IconData(0xe904, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [activity] icon from the Lucide icon set.
 ///
@@ -113,7 +93,7 @@ static const IconData activity_square = IconData(0xe904, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData activity = IconData(0xe905, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData activity = IconData(0xe905, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [air_vent] icon from the Lucide icon set.
 ///
@@ -126,7 +106,7 @@ static const IconData activity = IconData(0xe905, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData air_vent = IconData(0xe906, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData air_vent = IconData(0xe906, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [airplay] icon from the Lucide icon set.
 ///
@@ -139,7 +119,7 @@ static const IconData air_vent = IconData(0xe906, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData airplay = IconData(0xe907, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData airplay = IconData(0xe907, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_clock_check] icon from the Lucide icon set.
 ///
@@ -152,7 +132,7 @@ static const IconData airplay = IconData(0xe907, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_clock_check = IconData(0xe908, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_clock_check = IconData(0xe908, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_clock_minus] icon from the Lucide icon set.
 ///
@@ -165,7 +145,7 @@ static const IconData alarm_clock_check = IconData(0xe908, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_clock_minus = IconData(0xe909, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_clock_minus = IconData(0xe909, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_clock_off] icon from the Lucide icon set.
 ///
@@ -178,7 +158,7 @@ static const IconData alarm_clock_minus = IconData(0xe909, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_clock_off = IconData(0xe90a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_clock_off = IconData(0xe90a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_clock_plus] icon from the Lucide icon set.
 ///
@@ -191,7 +171,7 @@ static const IconData alarm_clock_off = IconData(0xe90a, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_clock_plus = IconData(0xe90b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_clock_plus = IconData(0xe90b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_clock] icon from the Lucide icon set.
 ///
@@ -204,7 +184,7 @@ static const IconData alarm_clock_plus = IconData(0xe90b, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_clock = IconData(0xe90c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_clock = IconData(0xe90c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alarm_smoke] icon from the Lucide icon set.
 ///
@@ -217,7 +197,7 @@ static const IconData alarm_clock = IconData(0xe90c, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alarm_smoke = IconData(0xe90d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alarm_smoke = IconData(0xe90d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [album] icon from the Lucide icon set.
 ///
@@ -230,7 +210,7 @@ static const IconData alarm_smoke = IconData(0xe90d, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData album = IconData(0xe90e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData album = IconData(0xe90e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alert_circle] icon from the Lucide icon set.
 ///
@@ -243,7 +223,7 @@ static const IconData album = IconData(0xe90e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alert_circle = IconData(0xe90f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alert_circle = IconData(0xe90f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alert_octagon] icon from the Lucide icon set.
 ///
@@ -256,7 +236,7 @@ static const IconData alert_circle = IconData(0xe90f, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alert_octagon = IconData(0xe910, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alert_octagon = IconData(0xe910, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [alert_triangle] icon from the Lucide icon set.
 ///
@@ -269,7 +249,7 @@ static const IconData alert_octagon = IconData(0xe910, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData alert_triangle = IconData(0xe911, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData alert_triangle = IconData(0xe911, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_center_horizontal] icon from the Lucide icon set.
 ///
@@ -282,7 +262,7 @@ static const IconData alert_triangle = IconData(0xe911, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_center_horizontal = IconData(0xe912, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_center_horizontal = IconData(0xe912, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_center_vertical] icon from the Lucide icon set.
 ///
@@ -295,7 +275,7 @@ static const IconData align_center_horizontal = IconData(0xe912, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_center_vertical = IconData(0xe913, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_center_vertical = IconData(0xe913, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_center] icon from the Lucide icon set.
 ///
@@ -308,7 +288,7 @@ static const IconData align_center_vertical = IconData(0xe913, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_center = IconData(0xe914, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_center = IconData(0xe914, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_end_horizontal] icon from the Lucide icon set.
 ///
@@ -321,7 +301,7 @@ static const IconData align_center = IconData(0xe914, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_end_horizontal = IconData(0xe915, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_end_horizontal = IconData(0xe915, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_end_vertical] icon from the Lucide icon set.
 ///
@@ -334,7 +314,7 @@ static const IconData align_end_horizontal = IconData(0xe915, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_end_vertical = IconData(0xe916, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_end_vertical = IconData(0xe916, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_distribute_center] icon from the Lucide icon set.
 ///
@@ -347,7 +327,7 @@ static const IconData align_end_vertical = IconData(0xe916, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_distribute_center = IconData(0xe917, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_distribute_center = IconData(0xe917, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_distribute_end] icon from the Lucide icon set.
 ///
@@ -360,7 +340,7 @@ static const IconData align_horizontal_distribute_center = IconData(0xe917, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_distribute_end = IconData(0xe918, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_distribute_end = IconData(0xe918, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_distribute_start] icon from the Lucide icon set.
 ///
@@ -373,7 +353,7 @@ static const IconData align_horizontal_distribute_end = IconData(0xe918, fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_distribute_start = IconData(0xe919, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_distribute_start = IconData(0xe919, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_justify_center] icon from the Lucide icon set.
 ///
@@ -386,7 +366,7 @@ static const IconData align_horizontal_distribute_start = IconData(0xe919, fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_justify_center = IconData(0xe91a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_justify_center = IconData(0xe91a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_justify_end] icon from the Lucide icon set.
 ///
@@ -399,7 +379,7 @@ static const IconData align_horizontal_justify_center = IconData(0xe91a, fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_justify_end = IconData(0xe91b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_justify_end = IconData(0xe91b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_justify_start] icon from the Lucide icon set.
 ///
@@ -412,7 +392,7 @@ static const IconData align_horizontal_justify_end = IconData(0xe91b, fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_justify_start = IconData(0xe91c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_justify_start = IconData(0xe91c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_space_around] icon from the Lucide icon set.
 ///
@@ -425,7 +405,7 @@ static const IconData align_horizontal_justify_start = IconData(0xe91c, fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_space_around = IconData(0xe91d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_space_around = IconData(0xe91d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_horizontal_space_between] icon from the Lucide icon set.
 ///
@@ -438,7 +418,7 @@ static const IconData align_horizontal_space_around = IconData(0xe91d, fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_horizontal_space_between = IconData(0xe91e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_horizontal_space_between = IconData(0xe91e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_justify] icon from the Lucide icon set.
 ///
@@ -451,7 +431,7 @@ static const IconData align_horizontal_space_between = IconData(0xe91e, fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_justify = IconData(0xe91f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_justify = IconData(0xe91f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_left] icon from the Lucide icon set.
 ///
@@ -464,7 +444,7 @@ static const IconData align_justify = IconData(0xe91f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_left = IconData(0xe920, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_left = IconData(0xe920, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_right] icon from the Lucide icon set.
 ///
@@ -477,7 +457,7 @@ static const IconData align_left = IconData(0xe920, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_right = IconData(0xe921, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_right = IconData(0xe921, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_start_horizontal] icon from the Lucide icon set.
 ///
@@ -490,7 +470,7 @@ static const IconData align_right = IconData(0xe921, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_start_horizontal = IconData(0xe922, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_start_horizontal = IconData(0xe922, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_start_vertical] icon from the Lucide icon set.
 ///
@@ -503,7 +483,7 @@ static const IconData align_start_horizontal = IconData(0xe922, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_start_vertical = IconData(0xe923, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_start_vertical = IconData(0xe923, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_distribute_center] icon from the Lucide icon set.
 ///
@@ -516,7 +496,7 @@ static const IconData align_start_vertical = IconData(0xe923, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_distribute_center = IconData(0xe924, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_distribute_center = IconData(0xe924, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_distribute_end] icon from the Lucide icon set.
 ///
@@ -529,7 +509,7 @@ static const IconData align_vertical_distribute_center = IconData(0xe924, fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_distribute_end = IconData(0xe925, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_distribute_end = IconData(0xe925, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_distribute_start] icon from the Lucide icon set.
 ///
@@ -542,7 +522,7 @@ static const IconData align_vertical_distribute_end = IconData(0xe925, fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_distribute_start = IconData(0xe926, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_distribute_start = IconData(0xe926, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_justify_center] icon from the Lucide icon set.
 ///
@@ -555,7 +535,7 @@ static const IconData align_vertical_distribute_start = IconData(0xe926, fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_justify_center = IconData(0xe927, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_justify_center = IconData(0xe927, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_justify_end] icon from the Lucide icon set.
 ///
@@ -568,7 +548,7 @@ static const IconData align_vertical_justify_center = IconData(0xe927, fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_justify_end = IconData(0xe928, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_justify_end = IconData(0xe928, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_justify_start] icon from the Lucide icon set.
 ///
@@ -581,7 +561,7 @@ static const IconData align_vertical_justify_end = IconData(0xe928, fontFamily: 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_justify_start = IconData(0xe929, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_justify_start = IconData(0xe929, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_space_around] icon from the Lucide icon set.
 ///
@@ -594,7 +574,7 @@ static const IconData align_vertical_justify_start = IconData(0xe929, fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_space_around = IconData(0xe92a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_space_around = IconData(0xe92a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [align_vertical_space_between] icon from the Lucide icon set.
 ///
@@ -607,7 +587,7 @@ static const IconData align_vertical_space_around = IconData(0xe92a, fontFamily:
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData align_vertical_space_between = IconData(0xe92b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData align_vertical_space_between = IconData(0xe92b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ampersand] icon from the Lucide icon set.
 ///
@@ -620,7 +600,7 @@ static const IconData align_vertical_space_between = IconData(0xe92b, fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ampersand = IconData(0xe92c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ampersand = IconData(0xe92c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ampersands] icon from the Lucide icon set.
 ///
@@ -633,7 +613,7 @@ static const IconData ampersand = IconData(0xe92c, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ampersands = IconData(0xe92d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ampersands = IconData(0xe92d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [anchor] icon from the Lucide icon set.
 ///
@@ -646,7 +626,7 @@ static const IconData ampersands = IconData(0xe92d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData anchor = IconData(0xe92e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData anchor = IconData(0xe92e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [angry] icon from the Lucide icon set.
 ///
@@ -659,7 +639,7 @@ static const IconData anchor = IconData(0xe92e, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData angry = IconData(0xe92f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData angry = IconData(0xe92f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [annoyed] icon from the Lucide icon set.
 ///
@@ -672,7 +652,7 @@ static const IconData angry = IconData(0xe92f, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData annoyed = IconData(0xe930, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData annoyed = IconData(0xe930, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [antenna] icon from the Lucide icon set.
 ///
@@ -685,7 +665,7 @@ static const IconData annoyed = IconData(0xe930, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData antenna = IconData(0xe931, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData antenna = IconData(0xe931, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [anvil] icon from the Lucide icon set.
 ///
@@ -698,7 +678,7 @@ static const IconData antenna = IconData(0xe931, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData anvil = IconData(0xe932, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData anvil = IconData(0xe932, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [aperture] icon from the Lucide icon set.
 ///
@@ -711,7 +691,7 @@ static const IconData anvil = IconData(0xe932, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData aperture = IconData(0xe933, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData aperture = IconData(0xe933, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [app_window] icon from the Lucide icon set.
 ///
@@ -724,7 +704,7 @@ static const IconData aperture = IconData(0xe933, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData app_window = IconData(0xe934, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData app_window = IconData(0xe934, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [apple] icon from the Lucide icon set.
 ///
@@ -737,7 +717,7 @@ static const IconData app_window = IconData(0xe934, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData apple = IconData(0xe935, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData apple = IconData(0xe935, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [archive_restore] icon from the Lucide icon set.
 ///
@@ -750,7 +730,7 @@ static const IconData apple = IconData(0xe935, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData archive_restore = IconData(0xe936, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData archive_restore = IconData(0xe936, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [archive_x] icon from the Lucide icon set.
 ///
@@ -763,7 +743,7 @@ static const IconData archive_restore = IconData(0xe936, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData archive_x = IconData(0xe937, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData archive_x = IconData(0xe937, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [archive] icon from the Lucide icon set.
 ///
@@ -776,7 +756,7 @@ static const IconData archive_x = IconData(0xe937, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData archive = IconData(0xe938, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData archive = IconData(0xe938, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [area_chart] icon from the Lucide icon set.
 ///
@@ -789,7 +769,7 @@ static const IconData archive = IconData(0xe938, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData area_chart = IconData(0xe939, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData area_chart = IconData(0xe939, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [armchair] icon from the Lucide icon set.
 ///
@@ -802,7 +782,7 @@ static const IconData area_chart = IconData(0xe939, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData armchair = IconData(0xe93a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData armchair = IconData(0xe93a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_down_dash] icon from the Lucide icon set.
 ///
@@ -815,7 +795,7 @@ static const IconData armchair = IconData(0xe93a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_down_dash = IconData(0xe93b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_down_dash = IconData(0xe93b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_down] icon from the Lucide icon set.
 ///
@@ -828,7 +808,7 @@ static const IconData arrow_big_down_dash = IconData(0xe93b, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_down = IconData(0xe93c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_down = IconData(0xe93c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_left_dash] icon from the Lucide icon set.
 ///
@@ -841,7 +821,7 @@ static const IconData arrow_big_down = IconData(0xe93c, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_left_dash = IconData(0xe93d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_left_dash = IconData(0xe93d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_left] icon from the Lucide icon set.
 ///
@@ -854,7 +834,7 @@ static const IconData arrow_big_left_dash = IconData(0xe93d, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_left = IconData(0xe93e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_left = IconData(0xe93e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_right_dash] icon from the Lucide icon set.
 ///
@@ -867,7 +847,7 @@ static const IconData arrow_big_left = IconData(0xe93e, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_right_dash = IconData(0xe93f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_right_dash = IconData(0xe93f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_right] icon from the Lucide icon set.
 ///
@@ -880,7 +860,7 @@ static const IconData arrow_big_right_dash = IconData(0xe93f, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_right = IconData(0xe940, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_right = IconData(0xe940, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_up_dash] icon from the Lucide icon set.
 ///
@@ -893,7 +873,7 @@ static const IconData arrow_big_right = IconData(0xe940, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_up_dash = IconData(0xe941, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_up_dash = IconData(0xe941, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_big_up] icon from the Lucide icon set.
 ///
@@ -906,7 +886,7 @@ static const IconData arrow_big_up_dash = IconData(0xe941, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_big_up = IconData(0xe942, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_big_up = IconData(0xe942, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_0_1] icon from the Lucide icon set.
 ///
@@ -919,7 +899,7 @@ static const IconData arrow_big_up = IconData(0xe942, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_0_1 = IconData(0xe943, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_0_1 = IconData(0xe943, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_1_0] icon from the Lucide icon set.
 ///
@@ -932,7 +912,7 @@ static const IconData arrow_down_0_1 = IconData(0xe943, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_1_0 = IconData(0xe944, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_1_0 = IconData(0xe944, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_a_z] icon from the Lucide icon set.
 ///
@@ -945,7 +925,7 @@ static const IconData arrow_down_1_0 = IconData(0xe944, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_a_z = IconData(0xe945, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_a_z = IconData(0xe945, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_circle] icon from the Lucide icon set.
 ///
@@ -958,7 +938,7 @@ static const IconData arrow_down_a_z = IconData(0xe945, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_circle = IconData(0xe946, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_circle = IconData(0xe946, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_from_line] icon from the Lucide icon set.
 ///
@@ -971,7 +951,7 @@ static const IconData arrow_down_circle = IconData(0xe946, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_from_line = IconData(0xe947, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_from_line = IconData(0xe947, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_left_from_circle] icon from the Lucide icon set.
 ///
@@ -984,7 +964,7 @@ static const IconData arrow_down_from_line = IconData(0xe947, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_left_from_circle = IconData(0xe948, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_left_from_circle = IconData(0xe948, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_left_from_square] icon from the Lucide icon set.
 ///
@@ -997,7 +977,7 @@ static const IconData arrow_down_left_from_circle = IconData(0xe948, fontFamily:
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_left_from_square = IconData(0xe949, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_left_from_square = IconData(0xe949, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_left_square] icon from the Lucide icon set.
 ///
@@ -1010,7 +990,7 @@ static const IconData arrow_down_left_from_square = IconData(0xe949, fontFamily:
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_left_square = IconData(0xe94a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_left_square = IconData(0xe94a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_left] icon from the Lucide icon set.
 ///
@@ -1023,7 +1003,7 @@ static const IconData arrow_down_left_square = IconData(0xe94a, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_left = IconData(0xe94b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_left = IconData(0xe94b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_narrow_wide] icon from the Lucide icon set.
 ///
@@ -1036,7 +1016,7 @@ static const IconData arrow_down_left = IconData(0xe94b, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_narrow_wide = IconData(0xe94c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_narrow_wide = IconData(0xe94c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_right_from_circle] icon from the Lucide icon set.
 ///
@@ -1049,7 +1029,7 @@ static const IconData arrow_down_narrow_wide = IconData(0xe94c, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_right_from_circle = IconData(0xe94d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_right_from_circle = IconData(0xe94d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_right_from_square] icon from the Lucide icon set.
 ///
@@ -1062,7 +1042,7 @@ static const IconData arrow_down_right_from_circle = IconData(0xe94d, fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_right_from_square = IconData(0xe94e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_right_from_square = IconData(0xe94e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_right_square] icon from the Lucide icon set.
 ///
@@ -1075,7 +1055,7 @@ static const IconData arrow_down_right_from_square = IconData(0xe94e, fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_right_square = IconData(0xe94f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_right_square = IconData(0xe94f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_right] icon from the Lucide icon set.
 ///
@@ -1088,7 +1068,7 @@ static const IconData arrow_down_right_square = IconData(0xe94f, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_right = IconData(0xe950, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_right = IconData(0xe950, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_square] icon from the Lucide icon set.
 ///
@@ -1101,7 +1081,7 @@ static const IconData arrow_down_right = IconData(0xe950, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_square = IconData(0xe951, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_square = IconData(0xe951, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_to_dot] icon from the Lucide icon set.
 ///
@@ -1114,7 +1094,7 @@ static const IconData arrow_down_square = IconData(0xe951, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_to_dot = IconData(0xe952, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_to_dot = IconData(0xe952, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_to_line] icon from the Lucide icon set.
 ///
@@ -1127,7 +1107,7 @@ static const IconData arrow_down_to_dot = IconData(0xe952, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_to_line = IconData(0xe953, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_to_line = IconData(0xe953, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_up] icon from the Lucide icon set.
 ///
@@ -1140,7 +1120,7 @@ static const IconData arrow_down_to_line = IconData(0xe953, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_up = IconData(0xe954, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_up = IconData(0xe954, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_wide_narrow] icon from the Lucide icon set.
 ///
@@ -1153,7 +1133,7 @@ static const IconData arrow_down_up = IconData(0xe954, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_wide_narrow = IconData(0xe955, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_wide_narrow = IconData(0xe955, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down_z_a] icon from the Lucide icon set.
 ///
@@ -1166,7 +1146,7 @@ static const IconData arrow_down_wide_narrow = IconData(0xe955, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down_z_a = IconData(0xe956, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down_z_a = IconData(0xe956, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_down] icon from the Lucide icon set.
 ///
@@ -1179,7 +1159,7 @@ static const IconData arrow_down_z_a = IconData(0xe956, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_down = IconData(0xe957, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_down = IconData(0xe957, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left_circle] icon from the Lucide icon set.
 ///
@@ -1192,7 +1172,7 @@ static const IconData arrow_down = IconData(0xe957, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left_circle = IconData(0xe958, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left_circle = IconData(0xe958, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left_from_line] icon from the Lucide icon set.
 ///
@@ -1205,7 +1185,7 @@ static const IconData arrow_left_circle = IconData(0xe958, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left_from_line = IconData(0xe959, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left_from_line = IconData(0xe959, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left_right] icon from the Lucide icon set.
 ///
@@ -1218,7 +1198,7 @@ static const IconData arrow_left_from_line = IconData(0xe959, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left_right = IconData(0xe95a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left_right = IconData(0xe95a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left_square] icon from the Lucide icon set.
 ///
@@ -1231,7 +1211,7 @@ static const IconData arrow_left_right = IconData(0xe95a, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left_square = IconData(0xe95b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left_square = IconData(0xe95b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left_to_line] icon from the Lucide icon set.
 ///
@@ -1244,7 +1224,7 @@ static const IconData arrow_left_square = IconData(0xe95b, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left_to_line = IconData(0xe95c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left_to_line = IconData(0xe95c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_left] icon from the Lucide icon set.
 ///
@@ -1257,7 +1237,7 @@ static const IconData arrow_left_to_line = IconData(0xe95c, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_left = IconData(0xe95d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_left = IconData(0xe95d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right_circle] icon from the Lucide icon set.
 ///
@@ -1270,7 +1250,7 @@ static const IconData arrow_left = IconData(0xe95d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right_circle = IconData(0xe95e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right_circle = IconData(0xe95e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right_from_line] icon from the Lucide icon set.
 ///
@@ -1283,7 +1263,7 @@ static const IconData arrow_right_circle = IconData(0xe95e, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right_from_line = IconData(0xe95f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right_from_line = IconData(0xe95f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right_left] icon from the Lucide icon set.
 ///
@@ -1296,7 +1276,7 @@ static const IconData arrow_right_from_line = IconData(0xe95f, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right_left = IconData(0xe960, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right_left = IconData(0xe960, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right_square] icon from the Lucide icon set.
 ///
@@ -1309,7 +1289,7 @@ static const IconData arrow_right_left = IconData(0xe960, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right_square = IconData(0xe961, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right_square = IconData(0xe961, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right_to_line] icon from the Lucide icon set.
 ///
@@ -1322,7 +1302,7 @@ static const IconData arrow_right_square = IconData(0xe961, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right_to_line = IconData(0xe962, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right_to_line = IconData(0xe962, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_right] icon from the Lucide icon set.
 ///
@@ -1335,7 +1315,7 @@ static const IconData arrow_right_to_line = IconData(0xe962, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_right = IconData(0xe963, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_right = IconData(0xe963, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_0_1] icon from the Lucide icon set.
 ///
@@ -1348,7 +1328,7 @@ static const IconData arrow_right = IconData(0xe963, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_0_1 = IconData(0xe964, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_0_1 = IconData(0xe964, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_1_0] icon from the Lucide icon set.
 ///
@@ -1361,7 +1341,7 @@ static const IconData arrow_up_0_1 = IconData(0xe964, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_1_0 = IconData(0xe965, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_1_0 = IconData(0xe965, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_a_z] icon from the Lucide icon set.
 ///
@@ -1374,7 +1354,7 @@ static const IconData arrow_up_1_0 = IconData(0xe965, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_a_z = IconData(0xe966, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_a_z = IconData(0xe966, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_circle] icon from the Lucide icon set.
 ///
@@ -1387,7 +1367,7 @@ static const IconData arrow_up_a_z = IconData(0xe966, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_circle = IconData(0xe967, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_circle = IconData(0xe967, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_down] icon from the Lucide icon set.
 ///
@@ -1400,7 +1380,7 @@ static const IconData arrow_up_circle = IconData(0xe967, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_down = IconData(0xe968, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_down = IconData(0xe968, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_from_dot] icon from the Lucide icon set.
 ///
@@ -1413,7 +1393,7 @@ static const IconData arrow_up_down = IconData(0xe968, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_from_dot = IconData(0xe969, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_from_dot = IconData(0xe969, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_from_line] icon from the Lucide icon set.
 ///
@@ -1426,7 +1406,7 @@ static const IconData arrow_up_from_dot = IconData(0xe969, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_from_line = IconData(0xe96a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_from_line = IconData(0xe96a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_left_from_circle] icon from the Lucide icon set.
 ///
@@ -1439,7 +1419,7 @@ static const IconData arrow_up_from_line = IconData(0xe96a, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_left_from_circle = IconData(0xe96b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_left_from_circle = IconData(0xe96b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_left_from_square] icon from the Lucide icon set.
 ///
@@ -1452,7 +1432,7 @@ static const IconData arrow_up_left_from_circle = IconData(0xe96b, fontFamily: _
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_left_from_square = IconData(0xe96c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_left_from_square = IconData(0xe96c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_left_square] icon from the Lucide icon set.
 ///
@@ -1465,7 +1445,7 @@ static const IconData arrow_up_left_from_square = IconData(0xe96c, fontFamily: _
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_left_square = IconData(0xe96d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_left_square = IconData(0xe96d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_left] icon from the Lucide icon set.
 ///
@@ -1478,7 +1458,7 @@ static const IconData arrow_up_left_square = IconData(0xe96d, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_left = IconData(0xe96e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_left = IconData(0xe96e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_narrow_wide] icon from the Lucide icon set.
 ///
@@ -1491,7 +1471,7 @@ static const IconData arrow_up_left = IconData(0xe96e, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_narrow_wide = IconData(0xe96f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_narrow_wide = IconData(0xe96f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_right_from_circle] icon from the Lucide icon set.
 ///
@@ -1504,7 +1484,7 @@ static const IconData arrow_up_narrow_wide = IconData(0xe96f, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_right_from_circle = IconData(0xe970, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_right_from_circle = IconData(0xe970, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_right_from_square] icon from the Lucide icon set.
 ///
@@ -1517,7 +1497,7 @@ static const IconData arrow_up_right_from_circle = IconData(0xe970, fontFamily: 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_right_from_square = IconData(0xe971, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_right_from_square = IconData(0xe971, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_right_square] icon from the Lucide icon set.
 ///
@@ -1530,7 +1510,7 @@ static const IconData arrow_up_right_from_square = IconData(0xe971, fontFamily: 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_right_square = IconData(0xe972, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_right_square = IconData(0xe972, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_right] icon from the Lucide icon set.
 ///
@@ -1543,7 +1523,7 @@ static const IconData arrow_up_right_square = IconData(0xe972, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_right = IconData(0xe973, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_right = IconData(0xe973, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_square] icon from the Lucide icon set.
 ///
@@ -1556,7 +1536,7 @@ static const IconData arrow_up_right = IconData(0xe973, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_square = IconData(0xe974, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_square = IconData(0xe974, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_to_line] icon from the Lucide icon set.
 ///
@@ -1569,7 +1549,7 @@ static const IconData arrow_up_square = IconData(0xe974, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_to_line = IconData(0xe975, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_to_line = IconData(0xe975, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_wide_narrow] icon from the Lucide icon set.
 ///
@@ -1582,7 +1562,7 @@ static const IconData arrow_up_to_line = IconData(0xe975, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_wide_narrow = IconData(0xe976, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_wide_narrow = IconData(0xe976, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up_z_a] icon from the Lucide icon set.
 ///
@@ -1595,7 +1575,7 @@ static const IconData arrow_up_wide_narrow = IconData(0xe976, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up_z_a = IconData(0xe977, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up_z_a = IconData(0xe977, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrow_up] icon from the Lucide icon set.
 ///
@@ -1608,7 +1588,7 @@ static const IconData arrow_up_z_a = IconData(0xe977, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrow_up = IconData(0xe978, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrow_up = IconData(0xe978, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [arrows_up_from_line] icon from the Lucide icon set.
 ///
@@ -1621,7 +1601,7 @@ static const IconData arrow_up = IconData(0xe978, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData arrows_up_from_line = IconData(0xe979, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData arrows_up_from_line = IconData(0xe979, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [asterisk_square] icon from the Lucide icon set.
 ///
@@ -1634,7 +1614,7 @@ static const IconData arrows_up_from_line = IconData(0xe979, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData asterisk_square = IconData(0xe97a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData asterisk_square = IconData(0xe97a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [asterisk] icon from the Lucide icon set.
 ///
@@ -1647,7 +1627,7 @@ static const IconData asterisk_square = IconData(0xe97a, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData asterisk = IconData(0xe97b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData asterisk = IconData(0xe97b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [at_sign] icon from the Lucide icon set.
 ///
@@ -1660,7 +1640,7 @@ static const IconData asterisk = IconData(0xe97b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData at_sign = IconData(0xe97c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData at_sign = IconData(0xe97c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [atom] icon from the Lucide icon set.
 ///
@@ -1673,7 +1653,7 @@ static const IconData at_sign = IconData(0xe97c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData atom = IconData(0xe97d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData atom = IconData(0xe97d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [audio_lines] icon from the Lucide icon set.
 ///
@@ -1686,7 +1666,7 @@ static const IconData atom = IconData(0xe97d, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData audio_lines = IconData(0xe97e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData audio_lines = IconData(0xe97e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [audio_waveform] icon from the Lucide icon set.
 ///
@@ -1699,7 +1679,7 @@ static const IconData audio_lines = IconData(0xe97e, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData audio_waveform = IconData(0xe97f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData audio_waveform = IconData(0xe97f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [award] icon from the Lucide icon set.
 ///
@@ -1712,7 +1692,7 @@ static const IconData audio_waveform = IconData(0xe97f, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData award = IconData(0xe980, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData award = IconData(0xe980, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [axe] icon from the Lucide icon set.
 ///
@@ -1725,7 +1705,7 @@ static const IconData award = IconData(0xe980, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData axe = IconData(0xe981, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData axe = IconData(0xe981, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [axis_3d] icon from the Lucide icon set.
 ///
@@ -1738,7 +1718,7 @@ static const IconData axe = IconData(0xe981, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData axis_3d = IconData(0xe982, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData axis_3d = IconData(0xe982, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [baby] icon from the Lucide icon set.
 ///
@@ -1751,7 +1731,7 @@ static const IconData axis_3d = IconData(0xe982, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData baby = IconData(0xe983, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData baby = IconData(0xe983, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [backpack] icon from the Lucide icon set.
 ///
@@ -1764,7 +1744,7 @@ static const IconData baby = IconData(0xe983, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData backpack = IconData(0xe984, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData backpack = IconData(0xe984, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_alert] icon from the Lucide icon set.
 ///
@@ -1777,7 +1757,7 @@ static const IconData backpack = IconData(0xe984, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_alert = IconData(0xe985, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_alert = IconData(0xe985, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_cent] icon from the Lucide icon set.
 ///
@@ -1790,7 +1770,7 @@ static const IconData badge_alert = IconData(0xe985, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_cent = IconData(0xe986, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_cent = IconData(0xe986, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_check] icon from the Lucide icon set.
 ///
@@ -1803,7 +1783,7 @@ static const IconData badge_cent = IconData(0xe986, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_check = IconData(0xe987, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_check = IconData(0xe987, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_dollar_sign] icon from the Lucide icon set.
 ///
@@ -1816,7 +1796,7 @@ static const IconData badge_check = IconData(0xe987, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_dollar_sign = IconData(0xe988, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_dollar_sign = IconData(0xe988, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_euro] icon from the Lucide icon set.
 ///
@@ -1829,7 +1809,7 @@ static const IconData badge_dollar_sign = IconData(0xe988, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_euro = IconData(0xe989, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_euro = IconData(0xe989, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_help] icon from the Lucide icon set.
 ///
@@ -1842,7 +1822,7 @@ static const IconData badge_euro = IconData(0xe989, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_help = IconData(0xe98a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_help = IconData(0xe98a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_indian_rupee] icon from the Lucide icon set.
 ///
@@ -1855,7 +1835,7 @@ static const IconData badge_help = IconData(0xe98a, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_indian_rupee = IconData(0xe98b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_indian_rupee = IconData(0xe98b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_info] icon from the Lucide icon set.
 ///
@@ -1868,7 +1848,7 @@ static const IconData badge_indian_rupee = IconData(0xe98b, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_info = IconData(0xe98c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_info = IconData(0xe98c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_japanese_yen] icon from the Lucide icon set.
 ///
@@ -1881,7 +1861,7 @@ static const IconData badge_info = IconData(0xe98c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_japanese_yen = IconData(0xe98d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_japanese_yen = IconData(0xe98d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_minus] icon from the Lucide icon set.
 ///
@@ -1894,7 +1874,7 @@ static const IconData badge_japanese_yen = IconData(0xe98d, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_minus = IconData(0xe98e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_minus = IconData(0xe98e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_percent] icon from the Lucide icon set.
 ///
@@ -1907,7 +1887,7 @@ static const IconData badge_minus = IconData(0xe98e, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_percent = IconData(0xe98f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_percent = IconData(0xe98f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_plus] icon from the Lucide icon set.
 ///
@@ -1920,7 +1900,7 @@ static const IconData badge_percent = IconData(0xe98f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_plus = IconData(0xe990, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_plus = IconData(0xe990, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_pound_sterling] icon from the Lucide icon set.
 ///
@@ -1933,7 +1913,7 @@ static const IconData badge_plus = IconData(0xe990, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_pound_sterling = IconData(0xe991, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_pound_sterling = IconData(0xe991, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_russian_ruble] icon from the Lucide icon set.
 ///
@@ -1946,7 +1926,7 @@ static const IconData badge_pound_sterling = IconData(0xe991, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_russian_ruble = IconData(0xe992, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_russian_ruble = IconData(0xe992, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_swiss_franc] icon from the Lucide icon set.
 ///
@@ -1959,7 +1939,7 @@ static const IconData badge_russian_ruble = IconData(0xe992, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_swiss_franc = IconData(0xe993, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_swiss_franc = IconData(0xe993, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge_x] icon from the Lucide icon set.
 ///
@@ -1972,7 +1952,7 @@ static const IconData badge_swiss_franc = IconData(0xe993, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge_x = IconData(0xe994, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge_x = IconData(0xe994, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [badge] icon from the Lucide icon set.
 ///
@@ -1985,7 +1965,7 @@ static const IconData badge_x = IconData(0xe994, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData badge = IconData(0xe995, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData badge = IconData(0xe995, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [baggage_claim] icon from the Lucide icon set.
 ///
@@ -1998,7 +1978,7 @@ static const IconData badge = IconData(0xe995, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData baggage_claim = IconData(0xe996, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData baggage_claim = IconData(0xe996, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ban] icon from the Lucide icon set.
 ///
@@ -2011,7 +1991,7 @@ static const IconData baggage_claim = IconData(0xe996, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ban = IconData(0xe997, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ban = IconData(0xe997, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [banana] icon from the Lucide icon set.
 ///
@@ -2024,7 +2004,7 @@ static const IconData ban = IconData(0xe997, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData banana = IconData(0xe998, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData banana = IconData(0xe998, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [banknote] icon from the Lucide icon set.
 ///
@@ -2037,7 +2017,7 @@ static const IconData banana = IconData(0xe998, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData banknote = IconData(0xe999, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData banknote = IconData(0xe999, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_2] icon from the Lucide icon set.
 ///
@@ -2050,7 +2030,7 @@ static const IconData banknote = IconData(0xe999, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_2 = IconData(0xe99a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_2 = IconData(0xe99a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_3] icon from the Lucide icon set.
 ///
@@ -2063,7 +2043,7 @@ static const IconData bar_chart_2 = IconData(0xe99a, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_3 = IconData(0xe99b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_3 = IconData(0xe99b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_4] icon from the Lucide icon set.
 ///
@@ -2076,7 +2056,7 @@ static const IconData bar_chart_3 = IconData(0xe99b, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_4 = IconData(0xe99c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_4 = IconData(0xe99c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_big] icon from the Lucide icon set.
 ///
@@ -2089,7 +2069,7 @@ static const IconData bar_chart_4 = IconData(0xe99c, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_big = IconData(0xe99d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_big = IconData(0xe99d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_horizontal_big] icon from the Lucide icon set.
 ///
@@ -2102,7 +2082,7 @@ static const IconData bar_chart_big = IconData(0xe99d, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_horizontal_big = IconData(0xe99e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_horizontal_big = IconData(0xe99e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart_horizontal] icon from the Lucide icon set.
 ///
@@ -2115,7 +2095,7 @@ static const IconData bar_chart_horizontal_big = IconData(0xe99e, fontFamily: _f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart_horizontal = IconData(0xe99f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart_horizontal = IconData(0xe99f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bar_chart] icon from the Lucide icon set.
 ///
@@ -2128,7 +2108,7 @@ static const IconData bar_chart_horizontal = IconData(0xe99f, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bar_chart = IconData(0xe9a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bar_chart = IconData(0xe9a0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [barcode] icon from the Lucide icon set.
 ///
@@ -2141,7 +2121,7 @@ static const IconData bar_chart = IconData(0xe9a0, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData barcode = IconData(0xe9a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData barcode = IconData(0xe9a1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [baseline] icon from the Lucide icon set.
 ///
@@ -2154,7 +2134,7 @@ static const IconData barcode = IconData(0xe9a1, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData baseline = IconData(0xe9a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData baseline = IconData(0xe9a2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bath] icon from the Lucide icon set.
 ///
@@ -2167,7 +2147,7 @@ static const IconData baseline = IconData(0xe9a2, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bath = IconData(0xe9a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bath = IconData(0xe9a3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery_charging] icon from the Lucide icon set.
 ///
@@ -2180,7 +2160,7 @@ static const IconData bath = IconData(0xe9a3, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery_charging = IconData(0xe9a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery_charging = IconData(0xe9a4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery_full] icon from the Lucide icon set.
 ///
@@ -2193,7 +2173,7 @@ static const IconData battery_charging = IconData(0xe9a4, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery_full = IconData(0xe9a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery_full = IconData(0xe9a5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery_low] icon from the Lucide icon set.
 ///
@@ -2206,7 +2186,7 @@ static const IconData battery_full = IconData(0xe9a5, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery_low = IconData(0xe9a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery_low = IconData(0xe9a6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery_medium] icon from the Lucide icon set.
 ///
@@ -2219,7 +2199,7 @@ static const IconData battery_low = IconData(0xe9a6, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery_medium = IconData(0xe9a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery_medium = IconData(0xe9a7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery_warning] icon from the Lucide icon set.
 ///
@@ -2232,7 +2212,7 @@ static const IconData battery_medium = IconData(0xe9a7, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery_warning = IconData(0xe9a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery_warning = IconData(0xe9a8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [battery] icon from the Lucide icon set.
 ///
@@ -2245,7 +2225,7 @@ static const IconData battery_warning = IconData(0xe9a8, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData battery = IconData(0xe9a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData battery = IconData(0xe9a9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [beaker] icon from the Lucide icon set.
 ///
@@ -2258,7 +2238,7 @@ static const IconData battery = IconData(0xe9a9, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData beaker = IconData(0xe9aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData beaker = IconData(0xe9aa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bean_off] icon from the Lucide icon set.
 ///
@@ -2271,7 +2251,7 @@ static const IconData beaker = IconData(0xe9aa, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bean_off = IconData(0xe9ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bean_off = IconData(0xe9ab, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bean] icon from the Lucide icon set.
 ///
@@ -2284,7 +2264,7 @@ static const IconData bean_off = IconData(0xe9ab, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bean = IconData(0xe9ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bean = IconData(0xe9ac, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bed_double] icon from the Lucide icon set.
 ///
@@ -2297,7 +2277,7 @@ static const IconData bean = IconData(0xe9ac, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bed_double = IconData(0xe9ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bed_double = IconData(0xe9ad, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bed_single] icon from the Lucide icon set.
 ///
@@ -2310,7 +2290,7 @@ static const IconData bed_double = IconData(0xe9ad, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bed_single = IconData(0xe9ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bed_single = IconData(0xe9ae, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bed] icon from the Lucide icon set.
 ///
@@ -2323,7 +2303,7 @@ static const IconData bed_single = IconData(0xe9ae, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bed = IconData(0xe9af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bed = IconData(0xe9af, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [beef] icon from the Lucide icon set.
 ///
@@ -2336,7 +2316,7 @@ static const IconData bed = IconData(0xe9af, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData beef = IconData(0xe9b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData beef = IconData(0xe9b0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [beer] icon from the Lucide icon set.
 ///
@@ -2349,7 +2329,7 @@ static const IconData beef = IconData(0xe9b0, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData beer = IconData(0xe9b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData beer = IconData(0xe9b1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_dot] icon from the Lucide icon set.
 ///
@@ -2362,7 +2342,7 @@ static const IconData beer = IconData(0xe9b1, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_dot = IconData(0xe9b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_dot = IconData(0xe9b2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_electric] icon from the Lucide icon set.
 ///
@@ -2375,7 +2355,7 @@ static const IconData bell_dot = IconData(0xe9b2, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_electric = IconData(0xe9b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_electric = IconData(0xe9b3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_minus] icon from the Lucide icon set.
 ///
@@ -2388,7 +2368,7 @@ static const IconData bell_electric = IconData(0xe9b3, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_minus = IconData(0xe9b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_minus = IconData(0xe9b4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_off] icon from the Lucide icon set.
 ///
@@ -2401,7 +2381,7 @@ static const IconData bell_minus = IconData(0xe9b4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_off = IconData(0xe9b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_off = IconData(0xe9b5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_plus] icon from the Lucide icon set.
 ///
@@ -2414,7 +2394,7 @@ static const IconData bell_off = IconData(0xe9b5, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_plus = IconData(0xe9b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_plus = IconData(0xe9b6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell_ring] icon from the Lucide icon set.
 ///
@@ -2427,7 +2407,7 @@ static const IconData bell_plus = IconData(0xe9b6, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell_ring = IconData(0xe9b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell_ring = IconData(0xe9b7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bell] icon from the Lucide icon set.
 ///
@@ -2440,7 +2420,7 @@ static const IconData bell_ring = IconData(0xe9b7, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bell = IconData(0xe9b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bell = IconData(0xe9b8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [between_horizontal_end] icon from the Lucide icon set.
 ///
@@ -2453,7 +2433,7 @@ static const IconData bell = IconData(0xe9b8, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData between_horizontal_end = IconData(0xe9b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData between_horizontal_end = IconData(0xe9b9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [between_horizontal_start] icon from the Lucide icon set.
 ///
@@ -2466,7 +2446,7 @@ static const IconData between_horizontal_end = IconData(0xe9b9, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData between_horizontal_start = IconData(0xe9ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData between_horizontal_start = IconData(0xe9ba, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [between_vertical_end] icon from the Lucide icon set.
 ///
@@ -2479,7 +2459,7 @@ static const IconData between_horizontal_start = IconData(0xe9ba, fontFamily: _f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData between_vertical_end = IconData(0xe9bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData between_vertical_end = IconData(0xe9bb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [between_vertical_start] icon from the Lucide icon set.
 ///
@@ -2492,7 +2472,7 @@ static const IconData between_vertical_end = IconData(0xe9bb, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData between_vertical_start = IconData(0xe9bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData between_vertical_start = IconData(0xe9bc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bike] icon from the Lucide icon set.
 ///
@@ -2505,7 +2485,7 @@ static const IconData between_vertical_start = IconData(0xe9bc, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bike = IconData(0xe9bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bike = IconData(0xe9bd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [binary] icon from the Lucide icon set.
 ///
@@ -2518,7 +2498,7 @@ static const IconData bike = IconData(0xe9bd, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData binary = IconData(0xe9be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData binary = IconData(0xe9be, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [biohazard] icon from the Lucide icon set.
 ///
@@ -2531,7 +2511,7 @@ static const IconData binary = IconData(0xe9be, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData biohazard = IconData(0xe9bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData biohazard = IconData(0xe9bf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bird] icon from the Lucide icon set.
 ///
@@ -2544,7 +2524,7 @@ static const IconData biohazard = IconData(0xe9bf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bird = IconData(0xe9c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bird = IconData(0xe9c0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bitcoin] icon from the Lucide icon set.
 ///
@@ -2557,7 +2537,7 @@ static const IconData bird = IconData(0xe9c0, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bitcoin = IconData(0xe9c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bitcoin = IconData(0xe9c1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [blend] icon from the Lucide icon set.
 ///
@@ -2570,7 +2550,7 @@ static const IconData bitcoin = IconData(0xe9c1, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData blend = IconData(0xe9c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData blend = IconData(0xe9c2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [blinds] icon from the Lucide icon set.
 ///
@@ -2583,7 +2563,7 @@ static const IconData blend = IconData(0xe9c2, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData blinds = IconData(0xe9c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData blinds = IconData(0xe9c3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [blocks] icon from the Lucide icon set.
 ///
@@ -2596,7 +2576,7 @@ static const IconData blinds = IconData(0xe9c3, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData blocks = IconData(0xe9c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData blocks = IconData(0xe9c4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bluetooth_connected] icon from the Lucide icon set.
 ///
@@ -2609,7 +2589,7 @@ static const IconData blocks = IconData(0xe9c4, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bluetooth_connected = IconData(0xe9c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bluetooth_connected = IconData(0xe9c5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bluetooth_off] icon from the Lucide icon set.
 ///
@@ -2622,7 +2602,7 @@ static const IconData bluetooth_connected = IconData(0xe9c5, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bluetooth_off = IconData(0xe9c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bluetooth_off = IconData(0xe9c6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bluetooth_searching] icon from the Lucide icon set.
 ///
@@ -2635,7 +2615,7 @@ static const IconData bluetooth_off = IconData(0xe9c6, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bluetooth_searching = IconData(0xe9c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bluetooth_searching = IconData(0xe9c7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bluetooth] icon from the Lucide icon set.
 ///
@@ -2648,7 +2628,7 @@ static const IconData bluetooth_searching = IconData(0xe9c7, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bluetooth = IconData(0xe9c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bluetooth = IconData(0xe9c8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bold] icon from the Lucide icon set.
 ///
@@ -2661,7 +2641,7 @@ static const IconData bluetooth = IconData(0xe9c8, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bold = IconData(0xe9c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bold = IconData(0xe9c9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bolt] icon from the Lucide icon set.
 ///
@@ -2674,7 +2654,7 @@ static const IconData bold = IconData(0xe9c9, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bolt = IconData(0xe9ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bolt = IconData(0xe9ca, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bomb] icon from the Lucide icon set.
 ///
@@ -2687,7 +2667,7 @@ static const IconData bolt = IconData(0xe9ca, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bomb = IconData(0xe9cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bomb = IconData(0xe9cb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bone] icon from the Lucide icon set.
 ///
@@ -2700,7 +2680,7 @@ static const IconData bomb = IconData(0xe9cb, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bone = IconData(0xe9cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bone = IconData(0xe9cc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_a] icon from the Lucide icon set.
 ///
@@ -2713,7 +2693,7 @@ static const IconData bone = IconData(0xe9cc, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_a = IconData(0xe9cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_a = IconData(0xe9cd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_audio] icon from the Lucide icon set.
 ///
@@ -2726,7 +2706,7 @@ static const IconData book_a = IconData(0xe9cd, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_audio = IconData(0xe9ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_audio = IconData(0xe9ce, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_check] icon from the Lucide icon set.
 ///
@@ -2739,7 +2719,7 @@ static const IconData book_audio = IconData(0xe9ce, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_check = IconData(0xe9cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_check = IconData(0xe9cf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_copy] icon from the Lucide icon set.
 ///
@@ -2752,7 +2732,7 @@ static const IconData book_check = IconData(0xe9cf, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_copy = IconData(0xe9d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_copy = IconData(0xe9d0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_dashed] icon from the Lucide icon set.
 ///
@@ -2765,7 +2745,7 @@ static const IconData book_copy = IconData(0xe9d0, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_dashed = IconData(0xe9d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_dashed = IconData(0xe9d1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_down] icon from the Lucide icon set.
 ///
@@ -2778,7 +2758,7 @@ static const IconData book_dashed = IconData(0xe9d1, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_down = IconData(0xe9d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_down = IconData(0xe9d2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_headphones] icon from the Lucide icon set.
 ///
@@ -2791,7 +2771,7 @@ static const IconData book_down = IconData(0xe9d2, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_headphones = IconData(0xe9d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_headphones = IconData(0xe9d3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_heart] icon from the Lucide icon set.
 ///
@@ -2804,7 +2784,7 @@ static const IconData book_headphones = IconData(0xe9d3, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_heart = IconData(0xe9d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_heart = IconData(0xe9d4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_image] icon from the Lucide icon set.
 ///
@@ -2817,7 +2797,7 @@ static const IconData book_heart = IconData(0xe9d4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_image = IconData(0xe9d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_image = IconData(0xe9d5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_key] icon from the Lucide icon set.
 ///
@@ -2830,7 +2810,7 @@ static const IconData book_image = IconData(0xe9d5, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_key = IconData(0xe9d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_key = IconData(0xe9d6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_lock] icon from the Lucide icon set.
 ///
@@ -2843,7 +2823,7 @@ static const IconData book_key = IconData(0xe9d6, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_lock = IconData(0xe9d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_lock = IconData(0xe9d7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_marked] icon from the Lucide icon set.
 ///
@@ -2856,7 +2836,7 @@ static const IconData book_lock = IconData(0xe9d7, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_marked = IconData(0xe9d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_marked = IconData(0xe9d8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_minus] icon from the Lucide icon set.
 ///
@@ -2869,7 +2849,7 @@ static const IconData book_marked = IconData(0xe9d8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_minus = IconData(0xe9d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_minus = IconData(0xe9d9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_open_check] icon from the Lucide icon set.
 ///
@@ -2882,7 +2862,7 @@ static const IconData book_minus = IconData(0xe9d9, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_open_check = IconData(0xe9da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_open_check = IconData(0xe9da, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_open_text] icon from the Lucide icon set.
 ///
@@ -2895,7 +2875,7 @@ static const IconData book_open_check = IconData(0xe9da, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_open_text = IconData(0xe9db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_open_text = IconData(0xe9db, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_open] icon from the Lucide icon set.
 ///
@@ -2908,7 +2888,7 @@ static const IconData book_open_text = IconData(0xe9db, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_open = IconData(0xe9dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_open = IconData(0xe9dc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_plus] icon from the Lucide icon set.
 ///
@@ -2921,7 +2901,7 @@ static const IconData book_open = IconData(0xe9dc, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_plus = IconData(0xe9dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_plus = IconData(0xe9dd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_text] icon from the Lucide icon set.
 ///
@@ -2934,7 +2914,7 @@ static const IconData book_plus = IconData(0xe9dd, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_text = IconData(0xe9de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_text = IconData(0xe9de, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_type] icon from the Lucide icon set.
 ///
@@ -2947,7 +2927,7 @@ static const IconData book_text = IconData(0xe9de, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_type = IconData(0xe9df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_type = IconData(0xe9df, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_up_2] icon from the Lucide icon set.
 ///
@@ -2960,7 +2940,7 @@ static const IconData book_type = IconData(0xe9df, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_up_2 = IconData(0xe9e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_up_2 = IconData(0xe9e0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_up] icon from the Lucide icon set.
 ///
@@ -2973,7 +2953,7 @@ static const IconData book_up_2 = IconData(0xe9e0, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_up = IconData(0xe9e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_up = IconData(0xe9e1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_user] icon from the Lucide icon set.
 ///
@@ -2986,7 +2966,7 @@ static const IconData book_up = IconData(0xe9e1, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_user = IconData(0xe9e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_user = IconData(0xe9e2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book_x] icon from the Lucide icon set.
 ///
@@ -2999,7 +2979,7 @@ static const IconData book_user = IconData(0xe9e2, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book_x = IconData(0xe9e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book_x = IconData(0xe9e3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [book] icon from the Lucide icon set.
 ///
@@ -3012,7 +2992,7 @@ static const IconData book_x = IconData(0xe9e3, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData book = IconData(0xe9e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData book = IconData(0xe9e4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bookmark_check] icon from the Lucide icon set.
 ///
@@ -3025,7 +3005,7 @@ static const IconData book = IconData(0xe9e4, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bookmark_check = IconData(0xe9e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bookmark_check = IconData(0xe9e5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bookmark_minus] icon from the Lucide icon set.
 ///
@@ -3038,7 +3018,7 @@ static const IconData bookmark_check = IconData(0xe9e5, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bookmark_minus = IconData(0xe9e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bookmark_minus = IconData(0xe9e6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bookmark_plus] icon from the Lucide icon set.
 ///
@@ -3051,7 +3031,7 @@ static const IconData bookmark_minus = IconData(0xe9e6, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bookmark_plus = IconData(0xe9e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bookmark_plus = IconData(0xe9e7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bookmark_x] icon from the Lucide icon set.
 ///
@@ -3064,7 +3044,7 @@ static const IconData bookmark_plus = IconData(0xe9e7, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bookmark_x = IconData(0xe9e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bookmark_x = IconData(0xe9e8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bookmark] icon from the Lucide icon set.
 ///
@@ -3077,7 +3057,7 @@ static const IconData bookmark_x = IconData(0xe9e8, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bookmark = IconData(0xe9e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bookmark = IconData(0xe9e9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [boom_box] icon from the Lucide icon set.
 ///
@@ -3090,7 +3070,7 @@ static const IconData bookmark = IconData(0xe9e9, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData boom_box = IconData(0xe9ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData boom_box = IconData(0xe9ea, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bot] icon from the Lucide icon set.
 ///
@@ -3103,7 +3083,7 @@ static const IconData boom_box = IconData(0xe9ea, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bot = IconData(0xe9eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bot = IconData(0xe9eb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [box_select] icon from the Lucide icon set.
 ///
@@ -3116,7 +3096,7 @@ static const IconData bot = IconData(0xe9eb, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData box_select = IconData(0xe9ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData box_select = IconData(0xe9ec, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [box] icon from the Lucide icon set.
 ///
@@ -3129,7 +3109,7 @@ static const IconData box_select = IconData(0xe9ec, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData box = IconData(0xe9ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData box = IconData(0xe9ed, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [boxes] icon from the Lucide icon set.
 ///
@@ -3142,7 +3122,7 @@ static const IconData box = IconData(0xe9ed, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData boxes = IconData(0xe9ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData boxes = IconData(0xe9ee, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [braces] icon from the Lucide icon set.
 ///
@@ -3155,7 +3135,7 @@ static const IconData boxes = IconData(0xe9ee, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData braces = IconData(0xe9ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData braces = IconData(0xe9ef, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brackets] icon from the Lucide icon set.
 ///
@@ -3168,7 +3148,7 @@ static const IconData braces = IconData(0xe9ef, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brackets = IconData(0xe9f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brackets = IconData(0xe9f0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brain_circuit] icon from the Lucide icon set.
 ///
@@ -3181,7 +3161,7 @@ static const IconData brackets = IconData(0xe9f0, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brain_circuit = IconData(0xe9f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brain_circuit = IconData(0xe9f1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brain_cog] icon from the Lucide icon set.
 ///
@@ -3194,7 +3174,7 @@ static const IconData brain_circuit = IconData(0xe9f1, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brain_cog = IconData(0xe9f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brain_cog = IconData(0xe9f2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brain] icon from the Lucide icon set.
 ///
@@ -3207,7 +3187,7 @@ static const IconData brain_cog = IconData(0xe9f2, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brain = IconData(0xe9f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brain = IconData(0xe9f3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brick_wall] icon from the Lucide icon set.
 ///
@@ -3220,7 +3200,7 @@ static const IconData brain = IconData(0xe9f3, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brick_wall = IconData(0xe9f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brick_wall = IconData(0xe9f4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [briefcase] icon from the Lucide icon set.
 ///
@@ -3233,7 +3213,7 @@ static const IconData brick_wall = IconData(0xe9f4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData briefcase = IconData(0xe9f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData briefcase = IconData(0xe9f5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bring_to_front] icon from the Lucide icon set.
 ///
@@ -3246,7 +3226,7 @@ static const IconData briefcase = IconData(0xe9f5, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bring_to_front = IconData(0xe9f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bring_to_front = IconData(0xe9f6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [brush] icon from the Lucide icon set.
 ///
@@ -3259,7 +3239,7 @@ static const IconData bring_to_front = IconData(0xe9f6, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData brush = IconData(0xe9f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData brush = IconData(0xe9f7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bug_off] icon from the Lucide icon set.
 ///
@@ -3272,7 +3252,7 @@ static const IconData brush = IconData(0xe9f7, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bug_off = IconData(0xe9f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bug_off = IconData(0xe9f8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bug_play] icon from the Lucide icon set.
 ///
@@ -3285,7 +3265,7 @@ static const IconData bug_off = IconData(0xe9f8, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bug_play = IconData(0xe9f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bug_play = IconData(0xe9f9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bug] icon from the Lucide icon set.
 ///
@@ -3298,7 +3278,7 @@ static const IconData bug_play = IconData(0xe9f9, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bug = IconData(0xe9fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bug = IconData(0xe9fa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [building_2] icon from the Lucide icon set.
 ///
@@ -3311,7 +3291,7 @@ static const IconData bug = IconData(0xe9fa, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData building_2 = IconData(0xe9fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData building_2 = IconData(0xe9fb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [building] icon from the Lucide icon set.
 ///
@@ -3324,7 +3304,7 @@ static const IconData building_2 = IconData(0xe9fb, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData building = IconData(0xe9fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData building = IconData(0xe9fc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bus_front] icon from the Lucide icon set.
 ///
@@ -3337,7 +3317,7 @@ static const IconData building = IconData(0xe9fc, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bus_front = IconData(0xe9fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bus_front = IconData(0xe9fd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [bus] icon from the Lucide icon set.
 ///
@@ -3350,7 +3330,7 @@ static const IconData bus_front = IconData(0xe9fd, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData bus = IconData(0xe9fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData bus = IconData(0xe9fe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cable_car] icon from the Lucide icon set.
 ///
@@ -3363,7 +3343,7 @@ static const IconData bus = IconData(0xe9fe, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cable_car = IconData(0xe9ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cable_car = IconData(0xe9ff, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cable] icon from the Lucide icon set.
 ///
@@ -3376,7 +3356,7 @@ static const IconData cable_car = IconData(0xe9ff, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cable = IconData(0xea00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cable = IconData(0xea00, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cake_slice] icon from the Lucide icon set.
 ///
@@ -3389,7 +3369,7 @@ static const IconData cable = IconData(0xea00, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cake_slice = IconData(0xea01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cake_slice = IconData(0xea01, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cake] icon from the Lucide icon set.
 ///
@@ -3402,7 +3382,7 @@ static const IconData cake_slice = IconData(0xea01, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cake = IconData(0xea02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cake = IconData(0xea02, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calculator] icon from the Lucide icon set.
 ///
@@ -3415,7 +3395,7 @@ static const IconData cake = IconData(0xea02, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calculator = IconData(0xea03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calculator = IconData(0xea03, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_check_2] icon from the Lucide icon set.
 ///
@@ -3428,7 +3408,7 @@ static const IconData calculator = IconData(0xea03, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_check_2 = IconData(0xea04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_check_2 = IconData(0xea04, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_check] icon from the Lucide icon set.
 ///
@@ -3441,7 +3421,7 @@ static const IconData calendar_check_2 = IconData(0xea04, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_check = IconData(0xea05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_check = IconData(0xea05, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_clock] icon from the Lucide icon set.
 ///
@@ -3454,7 +3434,7 @@ static const IconData calendar_check = IconData(0xea05, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_clock = IconData(0xea06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_clock = IconData(0xea06, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_days] icon from the Lucide icon set.
 ///
@@ -3467,7 +3447,7 @@ static const IconData calendar_clock = IconData(0xea06, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_days = IconData(0xea07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_days = IconData(0xea07, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_heart] icon from the Lucide icon set.
 ///
@@ -3480,7 +3460,7 @@ static const IconData calendar_days = IconData(0xea07, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_heart = IconData(0xea08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_heart = IconData(0xea08, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_minus] icon from the Lucide icon set.
 ///
@@ -3493,7 +3473,7 @@ static const IconData calendar_heart = IconData(0xea08, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_minus = IconData(0xea09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_minus = IconData(0xea09, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_off] icon from the Lucide icon set.
 ///
@@ -3506,7 +3486,7 @@ static const IconData calendar_minus = IconData(0xea09, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_off = IconData(0xea0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_off = IconData(0xea0a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_plus] icon from the Lucide icon set.
 ///
@@ -3519,7 +3499,7 @@ static const IconData calendar_off = IconData(0xea0a, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_plus = IconData(0xea0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_plus = IconData(0xea0b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_range] icon from the Lucide icon set.
 ///
@@ -3532,7 +3512,7 @@ static const IconData calendar_plus = IconData(0xea0b, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_range = IconData(0xea0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_range = IconData(0xea0c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_search] icon from the Lucide icon set.
 ///
@@ -3545,7 +3525,7 @@ static const IconData calendar_range = IconData(0xea0c, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_search = IconData(0xea0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_search = IconData(0xea0d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_x_2] icon from the Lucide icon set.
 ///
@@ -3558,7 +3538,7 @@ static const IconData calendar_search = IconData(0xea0d, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_x_2 = IconData(0xea0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_x_2 = IconData(0xea0e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar_x] icon from the Lucide icon set.
 ///
@@ -3571,7 +3551,7 @@ static const IconData calendar_x_2 = IconData(0xea0e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar_x = IconData(0xea0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar_x = IconData(0xea0f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [calendar] icon from the Lucide icon set.
 ///
@@ -3584,7 +3564,7 @@ static const IconData calendar_x = IconData(0xea0f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData calendar = IconData(0xea10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData calendar = IconData(0xea10, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [camera_off] icon from the Lucide icon set.
 ///
@@ -3597,7 +3577,7 @@ static const IconData calendar = IconData(0xea10, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData camera_off = IconData(0xea11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData camera_off = IconData(0xea11, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [camera] icon from the Lucide icon set.
 ///
@@ -3610,7 +3590,7 @@ static const IconData camera_off = IconData(0xea11, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData camera = IconData(0xea12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData camera = IconData(0xea12, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [candlestick_chart] icon from the Lucide icon set.
 ///
@@ -3623,7 +3603,7 @@ static const IconData camera = IconData(0xea12, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData candlestick_chart = IconData(0xea13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData candlestick_chart = IconData(0xea13, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [candy_cane] icon from the Lucide icon set.
 ///
@@ -3636,7 +3616,7 @@ static const IconData candlestick_chart = IconData(0xea13, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData candy_cane = IconData(0xea14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData candy_cane = IconData(0xea14, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [candy_off] icon from the Lucide icon set.
 ///
@@ -3649,7 +3629,7 @@ static const IconData candy_cane = IconData(0xea14, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData candy_off = IconData(0xea15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData candy_off = IconData(0xea15, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [candy] icon from the Lucide icon set.
 ///
@@ -3662,7 +3642,7 @@ static const IconData candy_off = IconData(0xea15, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData candy = IconData(0xea16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData candy = IconData(0xea16, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [car_front] icon from the Lucide icon set.
 ///
@@ -3675,7 +3655,7 @@ static const IconData candy = IconData(0xea16, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData car_front = IconData(0xea17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData car_front = IconData(0xea17, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [car_taxi_front] icon from the Lucide icon set.
 ///
@@ -3688,7 +3668,7 @@ static const IconData car_front = IconData(0xea17, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData car_taxi_front = IconData(0xea18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData car_taxi_front = IconData(0xea18, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [car] icon from the Lucide icon set.
 ///
@@ -3701,7 +3681,7 @@ static const IconData car_taxi_front = IconData(0xea18, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData car = IconData(0xea19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData car = IconData(0xea19, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [caravan] icon from the Lucide icon set.
 ///
@@ -3714,7 +3694,7 @@ static const IconData car = IconData(0xea19, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData caravan = IconData(0xea1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData caravan = IconData(0xea1a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [carrot] icon from the Lucide icon set.
 ///
@@ -3727,7 +3707,7 @@ static const IconData caravan = IconData(0xea1a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData carrot = IconData(0xea1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData carrot = IconData(0xea1b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [case_lower] icon from the Lucide icon set.
 ///
@@ -3740,7 +3720,7 @@ static const IconData carrot = IconData(0xea1b, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData case_lower = IconData(0xea1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData case_lower = IconData(0xea1c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [case_sensitive] icon from the Lucide icon set.
 ///
@@ -3753,7 +3733,7 @@ static const IconData case_lower = IconData(0xea1c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData case_sensitive = IconData(0xea1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData case_sensitive = IconData(0xea1d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [case_upper] icon from the Lucide icon set.
 ///
@@ -3766,7 +3746,7 @@ static const IconData case_sensitive = IconData(0xea1d, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData case_upper = IconData(0xea1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData case_upper = IconData(0xea1e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cassette_tape] icon from the Lucide icon set.
 ///
@@ -3779,7 +3759,7 @@ static const IconData case_upper = IconData(0xea1e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cassette_tape = IconData(0xea1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cassette_tape = IconData(0xea1f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cast] icon from the Lucide icon set.
 ///
@@ -3792,7 +3772,7 @@ static const IconData cassette_tape = IconData(0xea1f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cast = IconData(0xea20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cast = IconData(0xea20, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [castle] icon from the Lucide icon set.
 ///
@@ -3805,7 +3785,7 @@ static const IconData cast = IconData(0xea20, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData castle = IconData(0xea21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData castle = IconData(0xea21, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cat] icon from the Lucide icon set.
 ///
@@ -3818,7 +3798,7 @@ static const IconData castle = IconData(0xea21, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cat = IconData(0xea22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cat = IconData(0xea22, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cctv] icon from the Lucide icon set.
 ///
@@ -3831,7 +3811,7 @@ static const IconData cat = IconData(0xea22, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cctv = IconData(0xea23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cctv = IconData(0xea23, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check_check] icon from the Lucide icon set.
 ///
@@ -3844,7 +3824,7 @@ static const IconData cctv = IconData(0xea23, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check_check = IconData(0xea24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check_check = IconData(0xea24, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check_circle_2] icon from the Lucide icon set.
 ///
@@ -3857,7 +3837,7 @@ static const IconData check_check = IconData(0xea24, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check_circle_2 = IconData(0xea25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check_circle_2 = IconData(0xea25, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check_circle] icon from the Lucide icon set.
 ///
@@ -3870,7 +3850,7 @@ static const IconData check_circle_2 = IconData(0xea25, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check_circle = IconData(0xea26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check_circle = IconData(0xea26, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check_square_2] icon from the Lucide icon set.
 ///
@@ -3883,7 +3863,7 @@ static const IconData check_circle = IconData(0xea26, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check_square_2 = IconData(0xea27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check_square_2 = IconData(0xea27, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check_square] icon from the Lucide icon set.
 ///
@@ -3896,7 +3876,7 @@ static const IconData check_square_2 = IconData(0xea27, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check_square = IconData(0xea28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check_square = IconData(0xea28, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [check] icon from the Lucide icon set.
 ///
@@ -3909,7 +3889,7 @@ static const IconData check_square = IconData(0xea28, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData check = IconData(0xea29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData check = IconData(0xea29, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chef_hat] icon from the Lucide icon set.
 ///
@@ -3922,7 +3902,7 @@ static const IconData check = IconData(0xea29, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chef_hat = IconData(0xea2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chef_hat = IconData(0xea2a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cherry] icon from the Lucide icon set.
 ///
@@ -3935,7 +3915,7 @@ static const IconData chef_hat = IconData(0xea2a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cherry = IconData(0xea2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cherry = IconData(0xea2b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_down_circle] icon from the Lucide icon set.
 ///
@@ -3948,7 +3928,7 @@ static const IconData cherry = IconData(0xea2b, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_down_circle = IconData(0xea2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_down_circle = IconData(0xea2c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_down_square] icon from the Lucide icon set.
 ///
@@ -3961,7 +3941,7 @@ static const IconData chevron_down_circle = IconData(0xea2c, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_down_square = IconData(0xea2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_down_square = IconData(0xea2d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_down] icon from the Lucide icon set.
 ///
@@ -3974,7 +3954,7 @@ static const IconData chevron_down_square = IconData(0xea2d, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_down = IconData(0xea2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_down = IconData(0xea2e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_first] icon from the Lucide icon set.
 ///
@@ -3987,7 +3967,7 @@ static const IconData chevron_down = IconData(0xea2e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_first = IconData(0xea2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_first = IconData(0xea2f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_last] icon from the Lucide icon set.
 ///
@@ -4000,7 +3980,7 @@ static const IconData chevron_first = IconData(0xea2f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_last = IconData(0xea30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_last = IconData(0xea30, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_left_circle] icon from the Lucide icon set.
 ///
@@ -4013,7 +3993,7 @@ static const IconData chevron_last = IconData(0xea30, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_left_circle = IconData(0xea31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_left_circle = IconData(0xea31, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_left_square] icon from the Lucide icon set.
 ///
@@ -4026,7 +4006,7 @@ static const IconData chevron_left_circle = IconData(0xea31, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_left_square = IconData(0xea32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_left_square = IconData(0xea32, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_left] icon from the Lucide icon set.
 ///
@@ -4039,7 +4019,7 @@ static const IconData chevron_left_square = IconData(0xea32, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_left = IconData(0xea33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_left = IconData(0xea33, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_right_circle] icon from the Lucide icon set.
 ///
@@ -4052,7 +4032,7 @@ static const IconData chevron_left = IconData(0xea33, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_right_circle = IconData(0xea34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_right_circle = IconData(0xea34, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_right_square] icon from the Lucide icon set.
 ///
@@ -4065,7 +4045,7 @@ static const IconData chevron_right_circle = IconData(0xea34, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_right_square = IconData(0xea35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_right_square = IconData(0xea35, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_right] icon from the Lucide icon set.
 ///
@@ -4078,7 +4058,7 @@ static const IconData chevron_right_square = IconData(0xea35, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_right = IconData(0xea36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_right = IconData(0xea36, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_up_circle] icon from the Lucide icon set.
 ///
@@ -4091,7 +4071,7 @@ static const IconData chevron_right = IconData(0xea36, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_up_circle = IconData(0xea37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_up_circle = IconData(0xea37, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_up_square] icon from the Lucide icon set.
 ///
@@ -4104,7 +4084,7 @@ static const IconData chevron_up_circle = IconData(0xea37, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_up_square = IconData(0xea38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_up_square = IconData(0xea38, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevron_up] icon from the Lucide icon set.
 ///
@@ -4117,7 +4097,7 @@ static const IconData chevron_up_square = IconData(0xea38, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevron_up = IconData(0xea39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevron_up = IconData(0xea39, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_down_up] icon from the Lucide icon set.
 ///
@@ -4130,7 +4110,7 @@ static const IconData chevron_up = IconData(0xea39, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_down_up = IconData(0xea3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_down_up = IconData(0xea3a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_down] icon from the Lucide icon set.
 ///
@@ -4143,7 +4123,7 @@ static const IconData chevrons_down_up = IconData(0xea3a, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_down = IconData(0xea3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_down = IconData(0xea3b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_left_right] icon from the Lucide icon set.
 ///
@@ -4156,7 +4136,7 @@ static const IconData chevrons_down = IconData(0xea3b, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_left_right = IconData(0xea3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_left_right = IconData(0xea3c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_left] icon from the Lucide icon set.
 ///
@@ -4169,7 +4149,7 @@ static const IconData chevrons_left_right = IconData(0xea3c, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_left = IconData(0xea3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_left = IconData(0xea3d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_right_left] icon from the Lucide icon set.
 ///
@@ -4182,7 +4162,7 @@ static const IconData chevrons_left = IconData(0xea3d, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_right_left = IconData(0xea3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_right_left = IconData(0xea3e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_right] icon from the Lucide icon set.
 ///
@@ -4195,7 +4175,7 @@ static const IconData chevrons_right_left = IconData(0xea3e, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_right = IconData(0xea3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_right = IconData(0xea3f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_up_down] icon from the Lucide icon set.
 ///
@@ -4208,7 +4188,7 @@ static const IconData chevrons_right = IconData(0xea3f, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_up_down = IconData(0xea40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_up_down = IconData(0xea40, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chevrons_up] icon from the Lucide icon set.
 ///
@@ -4221,7 +4201,7 @@ static const IconData chevrons_up_down = IconData(0xea40, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData chevrons_up = IconData(0xea41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chevrons_up = IconData(0xea41, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [chrome] icon from the Lucide icon set.
 ///
@@ -4235,7 +4215,7 @@ static const IconData chevrons_up = IconData(0xea41, fontFamily: _fontFamily, fo
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : browser, logo, brands")
-static const IconData chrome = IconData(0xea42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData chrome = IconData(0xea42, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [church] icon from the Lucide icon set.
 ///
@@ -4248,7 +4228,7 @@ static const IconData chrome = IconData(0xea42, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData church = IconData(0xea43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData church = IconData(0xea43, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cigarette_off] icon from the Lucide icon set.
 ///
@@ -4261,7 +4241,7 @@ static const IconData church = IconData(0xea43, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cigarette_off = IconData(0xea44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cigarette_off = IconData(0xea44, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cigarette] icon from the Lucide icon set.
 ///
@@ -4274,7 +4254,7 @@ static const IconData cigarette_off = IconData(0xea44, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cigarette = IconData(0xea45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cigarette = IconData(0xea45, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_dashed] icon from the Lucide icon set.
 ///
@@ -4287,7 +4267,7 @@ static const IconData cigarette = IconData(0xea45, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_dashed = IconData(0xea46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_dashed = IconData(0xea46, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_dollar_sign] icon from the Lucide icon set.
 ///
@@ -4300,7 +4280,7 @@ static const IconData circle_dashed = IconData(0xea46, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_dollar_sign = IconData(0xea47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_dollar_sign = IconData(0xea47, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_dot_dashed] icon from the Lucide icon set.
 ///
@@ -4313,7 +4293,7 @@ static const IconData circle_dollar_sign = IconData(0xea47, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_dot_dashed = IconData(0xea48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_dot_dashed = IconData(0xea48, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_dot] icon from the Lucide icon set.
 ///
@@ -4326,7 +4306,7 @@ static const IconData circle_dot_dashed = IconData(0xea48, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_dot = IconData(0xea49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_dot = IconData(0xea49, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_ellipsis] icon from the Lucide icon set.
 ///
@@ -4339,7 +4319,7 @@ static const IconData circle_dot = IconData(0xea49, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_ellipsis = IconData(0xea4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_ellipsis = IconData(0xea4a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_equal] icon from the Lucide icon set.
 ///
@@ -4352,7 +4332,7 @@ static const IconData circle_ellipsis = IconData(0xea4a, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_equal = IconData(0xea4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_equal = IconData(0xea4b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_off] icon from the Lucide icon set.
 ///
@@ -4365,7 +4345,7 @@ static const IconData circle_equal = IconData(0xea4b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_off = IconData(0xea4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_off = IconData(0xea4c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_slash_2] icon from the Lucide icon set.
 ///
@@ -4378,7 +4358,7 @@ static const IconData circle_off = IconData(0xea4c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_slash_2 = IconData(0xea4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_slash_2 = IconData(0xea4d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_slash] icon from the Lucide icon set.
 ///
@@ -4391,7 +4371,7 @@ static const IconData circle_slash_2 = IconData(0xea4d, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_slash = IconData(0xea4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_slash = IconData(0xea4e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_user_round] icon from the Lucide icon set.
 ///
@@ -4404,7 +4384,7 @@ static const IconData circle_slash = IconData(0xea4e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_user_round = IconData(0xea4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_user_round = IconData(0xea4f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle_user] icon from the Lucide icon set.
 ///
@@ -4417,7 +4397,7 @@ static const IconData circle_user_round = IconData(0xea4f, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle_user = IconData(0xea50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle_user = IconData(0xea50, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circle] icon from the Lucide icon set.
 ///
@@ -4430,7 +4410,7 @@ static const IconData circle_user = IconData(0xea50, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circle = IconData(0xea51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circle = IconData(0xea51, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [circuit_board] icon from the Lucide icon set.
 ///
@@ -4443,7 +4423,7 @@ static const IconData circle = IconData(0xea51, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData circuit_board = IconData(0xea52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData circuit_board = IconData(0xea52, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [citrus] icon from the Lucide icon set.
 ///
@@ -4456,7 +4436,7 @@ static const IconData circuit_board = IconData(0xea52, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData citrus = IconData(0xea53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData citrus = IconData(0xea53, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clapperboard] icon from the Lucide icon set.
 ///
@@ -4469,7 +4449,7 @@ static const IconData citrus = IconData(0xea53, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clapperboard = IconData(0xea54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clapperboard = IconData(0xea54, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_check] icon from the Lucide icon set.
 ///
@@ -4482,7 +4462,7 @@ static const IconData clapperboard = IconData(0xea54, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_check = IconData(0xea55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_check = IconData(0xea55, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_copy] icon from the Lucide icon set.
 ///
@@ -4495,7 +4475,7 @@ static const IconData clipboard_check = IconData(0xea55, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_copy = IconData(0xea56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_copy = IconData(0xea56, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_list] icon from the Lucide icon set.
 ///
@@ -4508,7 +4488,7 @@ static const IconData clipboard_copy = IconData(0xea56, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_list = IconData(0xea57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_list = IconData(0xea57, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_paste] icon from the Lucide icon set.
 ///
@@ -4521,7 +4501,7 @@ static const IconData clipboard_list = IconData(0xea57, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_paste = IconData(0xea58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_paste = IconData(0xea58, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_pen_line] icon from the Lucide icon set.
 ///
@@ -4534,7 +4514,7 @@ static const IconData clipboard_paste = IconData(0xea58, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_pen_line = IconData(0xea59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_pen_line = IconData(0xea59, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_pen] icon from the Lucide icon set.
 ///
@@ -4547,7 +4527,7 @@ static const IconData clipboard_pen_line = IconData(0xea59, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_pen = IconData(0xea5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_pen = IconData(0xea5a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_type] icon from the Lucide icon set.
 ///
@@ -4560,7 +4540,7 @@ static const IconData clipboard_pen = IconData(0xea5a, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_type = IconData(0xea5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_type = IconData(0xea5b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard_x] icon from the Lucide icon set.
 ///
@@ -4573,7 +4553,7 @@ static const IconData clipboard_type = IconData(0xea5b, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard_x = IconData(0xea5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard_x = IconData(0xea5c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clipboard] icon from the Lucide icon set.
 ///
@@ -4586,7 +4566,7 @@ static const IconData clipboard_x = IconData(0xea5c, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clipboard = IconData(0xea5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clipboard = IconData(0xea5d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_1] icon from the Lucide icon set.
 ///
@@ -4599,7 +4579,7 @@ static const IconData clipboard = IconData(0xea5d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_1 = IconData(0xea5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_1 = IconData(0xea5e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_2] icon from the Lucide icon set.
 ///
@@ -4612,7 +4592,7 @@ static const IconData clock_1 = IconData(0xea5e, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_2 = IconData(0xea5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_2 = IconData(0xea5f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_3] icon from the Lucide icon set.
 ///
@@ -4625,7 +4605,7 @@ static const IconData clock_2 = IconData(0xea5f, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_3 = IconData(0xea60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_3 = IconData(0xea60, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_4] icon from the Lucide icon set.
 ///
@@ -4638,7 +4618,7 @@ static const IconData clock_3 = IconData(0xea60, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_4 = IconData(0xea61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_4 = IconData(0xea61, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_5] icon from the Lucide icon set.
 ///
@@ -4651,7 +4631,7 @@ static const IconData clock_4 = IconData(0xea61, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_5 = IconData(0xea62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_5 = IconData(0xea62, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_6] icon from the Lucide icon set.
 ///
@@ -4664,7 +4644,7 @@ static const IconData clock_5 = IconData(0xea62, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_6 = IconData(0xea63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_6 = IconData(0xea63, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_7] icon from the Lucide icon set.
 ///
@@ -4677,7 +4657,7 @@ static const IconData clock_6 = IconData(0xea63, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_7 = IconData(0xea64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_7 = IconData(0xea64, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_8] icon from the Lucide icon set.
 ///
@@ -4690,7 +4670,7 @@ static const IconData clock_7 = IconData(0xea64, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_8 = IconData(0xea65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_8 = IconData(0xea65, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_9] icon from the Lucide icon set.
 ///
@@ -4703,7 +4683,7 @@ static const IconData clock_8 = IconData(0xea65, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_9 = IconData(0xea66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_9 = IconData(0xea66, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_10] icon from the Lucide icon set.
 ///
@@ -4716,7 +4696,7 @@ static const IconData clock_9 = IconData(0xea66, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_10 = IconData(0xea67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_10 = IconData(0xea67, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_11] icon from the Lucide icon set.
 ///
@@ -4729,7 +4709,7 @@ static const IconData clock_10 = IconData(0xea67, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_11 = IconData(0xea68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_11 = IconData(0xea68, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock_12] icon from the Lucide icon set.
 ///
@@ -4742,7 +4722,7 @@ static const IconData clock_11 = IconData(0xea68, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock_12 = IconData(0xea69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock_12 = IconData(0xea69, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clock] icon from the Lucide icon set.
 ///
@@ -4755,7 +4735,7 @@ static const IconData clock_12 = IconData(0xea69, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clock = IconData(0xea6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clock = IconData(0xea6a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_cog] icon from the Lucide icon set.
 ///
@@ -4768,7 +4748,7 @@ static const IconData clock = IconData(0xea6a, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_cog = IconData(0xea6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_cog = IconData(0xea6b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_drizzle] icon from the Lucide icon set.
 ///
@@ -4781,7 +4761,7 @@ static const IconData cloud_cog = IconData(0xea6b, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_drizzle = IconData(0xea6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_drizzle = IconData(0xea6c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_fog] icon from the Lucide icon set.
 ///
@@ -4794,7 +4774,7 @@ static const IconData cloud_drizzle = IconData(0xea6c, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_fog = IconData(0xea6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_fog = IconData(0xea6d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_hail] icon from the Lucide icon set.
 ///
@@ -4807,7 +4787,7 @@ static const IconData cloud_fog = IconData(0xea6d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_hail = IconData(0xea6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_hail = IconData(0xea6e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_lightning] icon from the Lucide icon set.
 ///
@@ -4820,7 +4800,7 @@ static const IconData cloud_hail = IconData(0xea6e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_lightning = IconData(0xea6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_lightning = IconData(0xea6f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_moon_rain] icon from the Lucide icon set.
 ///
@@ -4833,7 +4813,7 @@ static const IconData cloud_lightning = IconData(0xea6f, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_moon_rain = IconData(0xea70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_moon_rain = IconData(0xea70, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_moon] icon from the Lucide icon set.
 ///
@@ -4846,7 +4826,7 @@ static const IconData cloud_moon_rain = IconData(0xea70, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_moon = IconData(0xea71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_moon = IconData(0xea71, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_off] icon from the Lucide icon set.
 ///
@@ -4859,7 +4839,7 @@ static const IconData cloud_moon = IconData(0xea71, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_off = IconData(0xea72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_off = IconData(0xea72, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_rain_wind] icon from the Lucide icon set.
 ///
@@ -4872,7 +4852,7 @@ static const IconData cloud_off = IconData(0xea72, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_rain_wind = IconData(0xea73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_rain_wind = IconData(0xea73, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_rain] icon from the Lucide icon set.
 ///
@@ -4885,7 +4865,7 @@ static const IconData cloud_rain_wind = IconData(0xea73, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_rain = IconData(0xea74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_rain = IconData(0xea74, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_snow] icon from the Lucide icon set.
 ///
@@ -4898,7 +4878,7 @@ static const IconData cloud_rain = IconData(0xea74, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_snow = IconData(0xea75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_snow = IconData(0xea75, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_sun_rain] icon from the Lucide icon set.
 ///
@@ -4911,7 +4891,7 @@ static const IconData cloud_snow = IconData(0xea75, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_sun_rain = IconData(0xea76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_sun_rain = IconData(0xea76, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud_sun] icon from the Lucide icon set.
 ///
@@ -4924,7 +4904,7 @@ static const IconData cloud_sun_rain = IconData(0xea76, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud_sun = IconData(0xea77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud_sun = IconData(0xea77, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloud] icon from the Lucide icon set.
 ///
@@ -4937,7 +4917,7 @@ static const IconData cloud_sun = IconData(0xea77, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloud = IconData(0xea78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloud = IconData(0xea78, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cloudy] icon from the Lucide icon set.
 ///
@@ -4950,7 +4930,7 @@ static const IconData cloud = IconData(0xea78, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cloudy = IconData(0xea79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cloudy = IconData(0xea79, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [clover] icon from the Lucide icon set.
 ///
@@ -4963,7 +4943,7 @@ static const IconData cloudy = IconData(0xea79, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData clover = IconData(0xea7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData clover = IconData(0xea7a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [club] icon from the Lucide icon set.
 ///
@@ -4976,7 +4956,7 @@ static const IconData clover = IconData(0xea7a, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData club = IconData(0xea7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData club = IconData(0xea7b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [code_2] icon from the Lucide icon set.
 ///
@@ -4989,7 +4969,7 @@ static const IconData club = IconData(0xea7b, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData code_2 = IconData(0xea7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData code_2 = IconData(0xea7c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [code_square] icon from the Lucide icon set.
 ///
@@ -5002,7 +4982,7 @@ static const IconData code_2 = IconData(0xea7c, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData code_square = IconData(0xea7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData code_square = IconData(0xea7d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [code] icon from the Lucide icon set.
 ///
@@ -5015,7 +4995,7 @@ static const IconData code_square = IconData(0xea7d, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData code = IconData(0xea7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData code = IconData(0xea7e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [codepen] icon from the Lucide icon set.
 ///
@@ -5029,7 +5009,7 @@ static const IconData code = IconData(0xea7e, fontFamily: _fontFamily, fontPacka
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, brands, development")
-static const IconData codepen = IconData(0xea7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData codepen = IconData(0xea7f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [codesandbox] icon from the Lucide icon set.
 ///
@@ -5043,7 +5023,7 @@ static const IconData codepen = IconData(0xea7f, fontFamily: _fontFamily, fontPa
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, brands, development")
-static const IconData codesandbox = IconData(0xea80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData codesandbox = IconData(0xea80, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [coffee] icon from the Lucide icon set.
 ///
@@ -5056,7 +5036,7 @@ static const IconData codesandbox = IconData(0xea80, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData coffee = IconData(0xea81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData coffee = IconData(0xea81, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cog] icon from the Lucide icon set.
 ///
@@ -5069,7 +5049,7 @@ static const IconData coffee = IconData(0xea81, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cog = IconData(0xea82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cog = IconData(0xea82, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [coins] icon from the Lucide icon set.
 ///
@@ -5082,7 +5062,7 @@ static const IconData cog = IconData(0xea82, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData coins = IconData(0xea83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData coins = IconData(0xea83, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [columns_2] icon from the Lucide icon set.
 ///
@@ -5095,7 +5075,7 @@ static const IconData coins = IconData(0xea83, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData columns_2 = IconData(0xea84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData columns_2 = IconData(0xea84, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [columns_3] icon from the Lucide icon set.
 ///
@@ -5108,7 +5088,7 @@ static const IconData columns_2 = IconData(0xea84, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData columns_3 = IconData(0xea85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData columns_3 = IconData(0xea85, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [columns_4] icon from the Lucide icon set.
 ///
@@ -5121,7 +5101,7 @@ static const IconData columns_3 = IconData(0xea85, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData columns_4 = IconData(0xea86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData columns_4 = IconData(0xea86, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [combine] icon from the Lucide icon set.
 ///
@@ -5134,7 +5114,7 @@ static const IconData columns_4 = IconData(0xea86, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData combine = IconData(0xea87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData combine = IconData(0xea87, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [command] icon from the Lucide icon set.
 ///
@@ -5147,7 +5127,7 @@ static const IconData combine = IconData(0xea87, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData command = IconData(0xea88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData command = IconData(0xea88, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [compass] icon from the Lucide icon set.
 ///
@@ -5160,7 +5140,7 @@ static const IconData command = IconData(0xea88, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData compass = IconData(0xea89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData compass = IconData(0xea89, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [component] icon from the Lucide icon set.
 ///
@@ -5173,7 +5153,7 @@ static const IconData compass = IconData(0xea89, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData component = IconData(0xea8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData component = IconData(0xea8a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [computer] icon from the Lucide icon set.
 ///
@@ -5186,7 +5166,7 @@ static const IconData component = IconData(0xea8a, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData computer = IconData(0xea8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData computer = IconData(0xea8b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [concierge_bell] icon from the Lucide icon set.
 ///
@@ -5199,7 +5179,7 @@ static const IconData computer = IconData(0xea8b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData concierge_bell = IconData(0xea8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData concierge_bell = IconData(0xea8c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cone] icon from the Lucide icon set.
 ///
@@ -5212,7 +5192,7 @@ static const IconData concierge_bell = IconData(0xea8c, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cone = IconData(0xea8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cone = IconData(0xea8d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [construction] icon from the Lucide icon set.
 ///
@@ -5225,7 +5205,7 @@ static const IconData cone = IconData(0xea8d, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData construction = IconData(0xea8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData construction = IconData(0xea8e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [contact_2] icon from the Lucide icon set.
 ///
@@ -5238,7 +5218,7 @@ static const IconData construction = IconData(0xea8e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData contact_2 = IconData(0xea8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData contact_2 = IconData(0xea8f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [contact] icon from the Lucide icon set.
 ///
@@ -5251,7 +5231,7 @@ static const IconData contact_2 = IconData(0xea8f, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData contact = IconData(0xea90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData contact = IconData(0xea90, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [container] icon from the Lucide icon set.
 ///
@@ -5264,7 +5244,7 @@ static const IconData contact = IconData(0xea90, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData container = IconData(0xea91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData container = IconData(0xea91, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [contrast] icon from the Lucide icon set.
 ///
@@ -5277,7 +5257,7 @@ static const IconData container = IconData(0xea91, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData contrast = IconData(0xea92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData contrast = IconData(0xea92, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cookie] icon from the Lucide icon set.
 ///
@@ -5290,7 +5270,7 @@ static const IconData contrast = IconData(0xea92, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cookie = IconData(0xea93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cookie = IconData(0xea93, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cooking_pot] icon from the Lucide icon set.
 ///
@@ -5303,7 +5283,7 @@ static const IconData cookie = IconData(0xea93, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cooking_pot = IconData(0xea94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cooking_pot = IconData(0xea94, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy_check] icon from the Lucide icon set.
 ///
@@ -5316,7 +5296,7 @@ static const IconData cooking_pot = IconData(0xea94, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy_check = IconData(0xea95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy_check = IconData(0xea95, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy_minus] icon from the Lucide icon set.
 ///
@@ -5329,7 +5309,7 @@ static const IconData copy_check = IconData(0xea95, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy_minus = IconData(0xea96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy_minus = IconData(0xea96, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy_plus] icon from the Lucide icon set.
 ///
@@ -5342,7 +5322,7 @@ static const IconData copy_minus = IconData(0xea96, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy_plus = IconData(0xea97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy_plus = IconData(0xea97, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy_slash] icon from the Lucide icon set.
 ///
@@ -5355,7 +5335,7 @@ static const IconData copy_plus = IconData(0xea97, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy_slash = IconData(0xea98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy_slash = IconData(0xea98, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy_x] icon from the Lucide icon set.
 ///
@@ -5368,7 +5348,7 @@ static const IconData copy_slash = IconData(0xea98, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy_x = IconData(0xea99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy_x = IconData(0xea99, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copy] icon from the Lucide icon set.
 ///
@@ -5381,7 +5361,7 @@ static const IconData copy_x = IconData(0xea99, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copy = IconData(0xea9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copy = IconData(0xea9a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copyleft] icon from the Lucide icon set.
 ///
@@ -5394,7 +5374,7 @@ static const IconData copy = IconData(0xea9a, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copyleft = IconData(0xea9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copyleft = IconData(0xea9b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [copyright] icon from the Lucide icon set.
 ///
@@ -5407,7 +5387,7 @@ static const IconData copyleft = IconData(0xea9b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData copyright = IconData(0xea9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData copyright = IconData(0xea9c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_down_left] icon from the Lucide icon set.
 ///
@@ -5420,7 +5400,7 @@ static const IconData copyright = IconData(0xea9c, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_down_left = IconData(0xea9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_down_left = IconData(0xea9d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_down_right] icon from the Lucide icon set.
 ///
@@ -5433,7 +5413,7 @@ static const IconData corner_down_left = IconData(0xea9d, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_down_right = IconData(0xea9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_down_right = IconData(0xea9e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_left_down] icon from the Lucide icon set.
 ///
@@ -5446,7 +5426,7 @@ static const IconData corner_down_right = IconData(0xea9e, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_left_down = IconData(0xea9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_left_down = IconData(0xea9f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_left_up] icon from the Lucide icon set.
 ///
@@ -5459,7 +5439,7 @@ static const IconData corner_left_down = IconData(0xea9f, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_left_up = IconData(0xeaa0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_left_up = IconData(0xeaa0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_right_down] icon from the Lucide icon set.
 ///
@@ -5472,7 +5452,7 @@ static const IconData corner_left_up = IconData(0xeaa0, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_right_down = IconData(0xeaa1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_right_down = IconData(0xeaa1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_right_up] icon from the Lucide icon set.
 ///
@@ -5485,7 +5465,7 @@ static const IconData corner_right_down = IconData(0xeaa1, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_right_up = IconData(0xeaa2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_right_up = IconData(0xeaa2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_up_left] icon from the Lucide icon set.
 ///
@@ -5498,7 +5478,7 @@ static const IconData corner_right_up = IconData(0xeaa2, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_up_left = IconData(0xeaa3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_up_left = IconData(0xeaa3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [corner_up_right] icon from the Lucide icon set.
 ///
@@ -5511,7 +5491,7 @@ static const IconData corner_up_left = IconData(0xeaa3, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData corner_up_right = IconData(0xeaa4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData corner_up_right = IconData(0xeaa4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cpu] icon from the Lucide icon set.
 ///
@@ -5524,7 +5504,7 @@ static const IconData corner_up_right = IconData(0xeaa4, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cpu = IconData(0xeaa5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cpu = IconData(0xeaa5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [creative_commons] icon from the Lucide icon set.
 ///
@@ -5537,7 +5517,7 @@ static const IconData cpu = IconData(0xeaa5, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData creative_commons = IconData(0xeaa6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData creative_commons = IconData(0xeaa6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [credit_card] icon from the Lucide icon set.
 ///
@@ -5550,7 +5530,7 @@ static const IconData creative_commons = IconData(0xeaa6, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData credit_card = IconData(0xeaa7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData credit_card = IconData(0xeaa7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [croissant] icon from the Lucide icon set.
 ///
@@ -5563,7 +5543,7 @@ static const IconData credit_card = IconData(0xeaa7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData croissant = IconData(0xeaa8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData croissant = IconData(0xeaa8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [crop] icon from the Lucide icon set.
 ///
@@ -5576,7 +5556,7 @@ static const IconData croissant = IconData(0xeaa8, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData crop = IconData(0xeaa9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData crop = IconData(0xeaa9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cross] icon from the Lucide icon set.
 ///
@@ -5589,7 +5569,7 @@ static const IconData crop = IconData(0xeaa9, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cross = IconData(0xeaaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cross = IconData(0xeaaa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [crosshair] icon from the Lucide icon set.
 ///
@@ -5602,7 +5582,7 @@ static const IconData cross = IconData(0xeaaa, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData crosshair = IconData(0xeaab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData crosshair = IconData(0xeaab, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [crown] icon from the Lucide icon set.
 ///
@@ -5615,7 +5595,7 @@ static const IconData crosshair = IconData(0xeaab, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData crown = IconData(0xeaac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData crown = IconData(0xeaac, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cuboid] icon from the Lucide icon set.
 ///
@@ -5628,7 +5608,7 @@ static const IconData crown = IconData(0xeaac, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cuboid = IconData(0xeaad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cuboid = IconData(0xeaad, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cup_soda] icon from the Lucide icon set.
 ///
@@ -5641,7 +5621,7 @@ static const IconData cuboid = IconData(0xeaad, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cup_soda = IconData(0xeaae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cup_soda = IconData(0xeaae, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [currency] icon from the Lucide icon set.
 ///
@@ -5654,7 +5634,7 @@ static const IconData cup_soda = IconData(0xeaae, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData currency = IconData(0xeaaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData currency = IconData(0xeaaf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [cylinder] icon from the Lucide icon set.
 ///
@@ -5667,7 +5647,7 @@ static const IconData currency = IconData(0xeaaf, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData cylinder = IconData(0xeab0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData cylinder = IconData(0xeab0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [database_backup] icon from the Lucide icon set.
 ///
@@ -5680,7 +5660,7 @@ static const IconData cylinder = IconData(0xeab0, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData database_backup = IconData(0xeab1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData database_backup = IconData(0xeab1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [database_zap] icon from the Lucide icon set.
 ///
@@ -5693,7 +5673,7 @@ static const IconData database_backup = IconData(0xeab1, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData database_zap = IconData(0xeab2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData database_zap = IconData(0xeab2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [database] icon from the Lucide icon set.
 ///
@@ -5706,7 +5686,7 @@ static const IconData database_zap = IconData(0xeab2, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData database = IconData(0xeab3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData database = IconData(0xeab3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [delete] icon from the Lucide icon set.
 ///
@@ -5719,7 +5699,7 @@ static const IconData database = IconData(0xeab3, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData delete = IconData(0xeab4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData delete = IconData(0xeab4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dessert] icon from the Lucide icon set.
 ///
@@ -5732,7 +5712,7 @@ static const IconData delete = IconData(0xeab4, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dessert = IconData(0xeab5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dessert = IconData(0xeab5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [diameter] icon from the Lucide icon set.
 ///
@@ -5745,7 +5725,7 @@ static const IconData dessert = IconData(0xeab5, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData diameter = IconData(0xeab6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData diameter = IconData(0xeab6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [diamond] icon from the Lucide icon set.
 ///
@@ -5758,7 +5738,7 @@ static const IconData diameter = IconData(0xeab6, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData diamond = IconData(0xeab7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData diamond = IconData(0xeab7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_1] icon from the Lucide icon set.
 ///
@@ -5771,7 +5751,7 @@ static const IconData diamond = IconData(0xeab7, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_1 = IconData(0xeab8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_1 = IconData(0xeab8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_2] icon from the Lucide icon set.
 ///
@@ -5784,7 +5764,7 @@ static const IconData dice_1 = IconData(0xeab8, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_2 = IconData(0xeab9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_2 = IconData(0xeab9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_3] icon from the Lucide icon set.
 ///
@@ -5797,7 +5777,7 @@ static const IconData dice_2 = IconData(0xeab9, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_3 = IconData(0xeaba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_3 = IconData(0xeaba, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_4] icon from the Lucide icon set.
 ///
@@ -5810,7 +5790,7 @@ static const IconData dice_3 = IconData(0xeaba, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_4 = IconData(0xeabb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_4 = IconData(0xeabb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_5] icon from the Lucide icon set.
 ///
@@ -5823,7 +5803,7 @@ static const IconData dice_4 = IconData(0xeabb, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_5 = IconData(0xeabc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_5 = IconData(0xeabc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dice_6] icon from the Lucide icon set.
 ///
@@ -5836,7 +5816,7 @@ static const IconData dice_5 = IconData(0xeabc, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dice_6 = IconData(0xeabd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dice_6 = IconData(0xeabd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dices] icon from the Lucide icon set.
 ///
@@ -5849,7 +5829,7 @@ static const IconData dice_6 = IconData(0xeabd, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dices = IconData(0xeabe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dices = IconData(0xeabe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [diff] icon from the Lucide icon set.
 ///
@@ -5862,7 +5842,7 @@ static const IconData dices = IconData(0xeabe, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData diff = IconData(0xeabf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData diff = IconData(0xeabf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [disc_2] icon from the Lucide icon set.
 ///
@@ -5875,7 +5855,7 @@ static const IconData diff = IconData(0xeabf, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData disc_2 = IconData(0xeac0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData disc_2 = IconData(0xeac0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [disc_3] icon from the Lucide icon set.
 ///
@@ -5888,7 +5868,7 @@ static const IconData disc_2 = IconData(0xeac0, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData disc_3 = IconData(0xeac1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData disc_3 = IconData(0xeac1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [disc_album] icon from the Lucide icon set.
 ///
@@ -5901,7 +5881,7 @@ static const IconData disc_3 = IconData(0xeac1, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData disc_album = IconData(0xeac2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData disc_album = IconData(0xeac2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [disc] icon from the Lucide icon set.
 ///
@@ -5914,7 +5894,7 @@ static const IconData disc_album = IconData(0xeac2, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData disc = IconData(0xeac3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData disc = IconData(0xeac3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [divide_circle] icon from the Lucide icon set.
 ///
@@ -5927,7 +5907,7 @@ static const IconData disc = IconData(0xeac3, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData divide_circle = IconData(0xeac4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData divide_circle = IconData(0xeac4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [divide_square] icon from the Lucide icon set.
 ///
@@ -5940,7 +5920,7 @@ static const IconData divide_circle = IconData(0xeac4, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData divide_square = IconData(0xeac5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData divide_square = IconData(0xeac5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [divide] icon from the Lucide icon set.
 ///
@@ -5953,7 +5933,7 @@ static const IconData divide_square = IconData(0xeac5, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData divide = IconData(0xeac6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData divide = IconData(0xeac6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dna_off] icon from the Lucide icon set.
 ///
@@ -5966,7 +5946,7 @@ static const IconData divide = IconData(0xeac6, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dna_off = IconData(0xeac7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dna_off = IconData(0xeac7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dna] icon from the Lucide icon set.
 ///
@@ -5979,7 +5959,7 @@ static const IconData dna_off = IconData(0xeac7, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dna = IconData(0xeac8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dna = IconData(0xeac8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dog] icon from the Lucide icon set.
 ///
@@ -5992,7 +5972,7 @@ static const IconData dna = IconData(0xeac8, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dog = IconData(0xeac9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dog = IconData(0xeac9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dollar_sign] icon from the Lucide icon set.
 ///
@@ -6005,7 +5985,7 @@ static const IconData dog = IconData(0xeac9, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dollar_sign = IconData(0xeaca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dollar_sign = IconData(0xeaca, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [donut] icon from the Lucide icon set.
 ///
@@ -6018,7 +5998,7 @@ static const IconData dollar_sign = IconData(0xeaca, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData donut = IconData(0xeacb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData donut = IconData(0xeacb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [door_closed] icon from the Lucide icon set.
 ///
@@ -6031,7 +6011,7 @@ static const IconData donut = IconData(0xeacb, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData door_closed = IconData(0xeacc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData door_closed = IconData(0xeacc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [door_open] icon from the Lucide icon set.
 ///
@@ -6044,7 +6024,7 @@ static const IconData door_closed = IconData(0xeacc, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData door_open = IconData(0xeacd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData door_open = IconData(0xeacd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dot_square] icon from the Lucide icon set.
 ///
@@ -6057,7 +6037,7 @@ static const IconData door_open = IconData(0xeacd, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dot_square = IconData(0xeace, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dot_square = IconData(0xeace, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dot] icon from the Lucide icon set.
 ///
@@ -6070,7 +6050,7 @@ static const IconData dot_square = IconData(0xeace, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dot = IconData(0xeacf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dot = IconData(0xeacf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [download_cloud] icon from the Lucide icon set.
 ///
@@ -6083,7 +6063,7 @@ static const IconData dot = IconData(0xeacf, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData download_cloud = IconData(0xead0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData download_cloud = IconData(0xead0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [download] icon from the Lucide icon set.
 ///
@@ -6096,7 +6076,7 @@ static const IconData download_cloud = IconData(0xead0, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData download = IconData(0xead1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData download = IconData(0xead1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [drafting_compass] icon from the Lucide icon set.
 ///
@@ -6109,7 +6089,7 @@ static const IconData download = IconData(0xead1, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData drafting_compass = IconData(0xead2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData drafting_compass = IconData(0xead2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [drama] icon from the Lucide icon set.
 ///
@@ -6122,7 +6102,7 @@ static const IconData drafting_compass = IconData(0xead2, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData drama = IconData(0xead3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData drama = IconData(0xead3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dribbble] icon from the Lucide icon set.
 ///
@@ -6136,7 +6116,7 @@ static const IconData drama = IconData(0xead3, fontFamily: _fontFamily, fontPack
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : design, social, brands")
-static const IconData dribbble = IconData(0xead4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dribbble = IconData(0xead4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [drill] icon from the Lucide icon set.
 ///
@@ -6149,7 +6129,7 @@ static const IconData dribbble = IconData(0xead4, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData drill = IconData(0xead5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData drill = IconData(0xead5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [droplet] icon from the Lucide icon set.
 ///
@@ -6162,7 +6142,7 @@ static const IconData drill = IconData(0xead5, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData droplet = IconData(0xead6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData droplet = IconData(0xead6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [droplets] icon from the Lucide icon set.
 ///
@@ -6175,7 +6155,7 @@ static const IconData droplet = IconData(0xead6, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData droplets = IconData(0xead7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData droplets = IconData(0xead7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [drum] icon from the Lucide icon set.
 ///
@@ -6188,7 +6168,7 @@ static const IconData droplets = IconData(0xead7, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData drum = IconData(0xead8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData drum = IconData(0xead8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [drumstick] icon from the Lucide icon set.
 ///
@@ -6201,7 +6181,7 @@ static const IconData drum = IconData(0xead8, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData drumstick = IconData(0xead9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData drumstick = IconData(0xead9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [dumbbell] icon from the Lucide icon set.
 ///
@@ -6214,7 +6194,7 @@ static const IconData drumstick = IconData(0xead9, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData dumbbell = IconData(0xeada, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData dumbbell = IconData(0xeada, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ear_off] icon from the Lucide icon set.
 ///
@@ -6227,7 +6207,7 @@ static const IconData dumbbell = IconData(0xeada, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ear_off = IconData(0xeadb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ear_off = IconData(0xeadb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ear] icon from the Lucide icon set.
 ///
@@ -6240,7 +6220,7 @@ static const IconData ear_off = IconData(0xeadb, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ear = IconData(0xeadc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ear = IconData(0xeadc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [eclipse] icon from the Lucide icon set.
 ///
@@ -6253,7 +6233,7 @@ static const IconData ear = IconData(0xeadc, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData eclipse = IconData(0xeadd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData eclipse = IconData(0xeadd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [egg_fried] icon from the Lucide icon set.
 ///
@@ -6266,7 +6246,7 @@ static const IconData eclipse = IconData(0xeadd, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData egg_fried = IconData(0xeade, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData egg_fried = IconData(0xeade, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [egg_off] icon from the Lucide icon set.
 ///
@@ -6279,7 +6259,7 @@ static const IconData egg_fried = IconData(0xeade, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData egg_off = IconData(0xeadf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData egg_off = IconData(0xeadf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [egg] icon from the Lucide icon set.
 ///
@@ -6292,7 +6272,7 @@ static const IconData egg_off = IconData(0xeadf, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData egg = IconData(0xeae0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData egg = IconData(0xeae0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [equal_not] icon from the Lucide icon set.
 ///
@@ -6305,7 +6285,7 @@ static const IconData egg = IconData(0xeae0, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData equal_not = IconData(0xeae1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData equal_not = IconData(0xeae1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [equal_square] icon from the Lucide icon set.
 ///
@@ -6318,7 +6298,7 @@ static const IconData equal_not = IconData(0xeae1, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData equal_square = IconData(0xeae2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData equal_square = IconData(0xeae2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [equal] icon from the Lucide icon set.
 ///
@@ -6331,7 +6311,7 @@ static const IconData equal_square = IconData(0xeae2, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData equal = IconData(0xeae3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData equal = IconData(0xeae3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [eraser] icon from the Lucide icon set.
 ///
@@ -6344,7 +6324,7 @@ static const IconData equal = IconData(0xeae3, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData eraser = IconData(0xeae4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData eraser = IconData(0xeae4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [euro] icon from the Lucide icon set.
 ///
@@ -6357,7 +6337,7 @@ static const IconData eraser = IconData(0xeae4, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData euro = IconData(0xeae5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData euro = IconData(0xeae5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [expand] icon from the Lucide icon set.
 ///
@@ -6370,7 +6350,7 @@ static const IconData euro = IconData(0xeae5, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData expand = IconData(0xeae6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData expand = IconData(0xeae6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [external_link] icon from the Lucide icon set.
 ///
@@ -6383,7 +6363,7 @@ static const IconData expand = IconData(0xeae6, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData external_link = IconData(0xeae7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData external_link = IconData(0xeae7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [eye_off] icon from the Lucide icon set.
 ///
@@ -6396,7 +6376,7 @@ static const IconData external_link = IconData(0xeae7, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData eye_off = IconData(0xeae8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData eye_off = IconData(0xeae8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [eye] icon from the Lucide icon set.
 ///
@@ -6409,7 +6389,7 @@ static const IconData eye_off = IconData(0xeae8, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData eye = IconData(0xeae9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData eye = IconData(0xeae9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [facebook] icon from the Lucide icon set.
 ///
@@ -6423,7 +6403,7 @@ static const IconData eye = IconData(0xeae9, fontFamily: _fontFamily, fontPackag
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, social, account, brands")
-static const IconData facebook = IconData(0xeaea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData facebook = IconData(0xeaea, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [factory] icon from the Lucide icon set.
 ///
@@ -6436,7 +6416,7 @@ static const IconData facebook = IconData(0xeaea, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData factory = IconData(0xeaeb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData factory = IconData(0xeaeb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fan] icon from the Lucide icon set.
 ///
@@ -6449,7 +6429,7 @@ static const IconData factory = IconData(0xeaeb, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fan = IconData(0xeaec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fan = IconData(0xeaec, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fast_forward] icon from the Lucide icon set.
 ///
@@ -6462,7 +6442,7 @@ static const IconData fan = IconData(0xeaec, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fast_forward = IconData(0xeaed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fast_forward = IconData(0xeaed, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [feather] icon from the Lucide icon set.
 ///
@@ -6475,7 +6455,7 @@ static const IconData fast_forward = IconData(0xeaed, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData feather = IconData(0xeaee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData feather = IconData(0xeaee, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fence] icon from the Lucide icon set.
 ///
@@ -6488,7 +6468,7 @@ static const IconData feather = IconData(0xeaee, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fence = IconData(0xeaef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fence = IconData(0xeaef, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ferris_wheel] icon from the Lucide icon set.
 ///
@@ -6501,7 +6481,7 @@ static const IconData fence = IconData(0xeaef, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ferris_wheel = IconData(0xeaf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ferris_wheel = IconData(0xeaf0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [figma] icon from the Lucide icon set.
 ///
@@ -6515,7 +6495,7 @@ static const IconData ferris_wheel = IconData(0xeaf0, fontFamily: _fontFamily, f
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, design, tool, brands")
-static const IconData figma = IconData(0xeaf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData figma = IconData(0xeaf1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_archive] icon from the Lucide icon set.
 ///
@@ -6528,7 +6508,7 @@ static const IconData figma = IconData(0xeaf1, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_archive = IconData(0xeaf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_archive = IconData(0xeaf2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_audio_2] icon from the Lucide icon set.
 ///
@@ -6541,7 +6521,7 @@ static const IconData file_archive = IconData(0xeaf2, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_audio_2 = IconData(0xeaf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_audio_2 = IconData(0xeaf3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_audio] icon from the Lucide icon set.
 ///
@@ -6554,7 +6534,7 @@ static const IconData file_audio_2 = IconData(0xeaf3, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_audio = IconData(0xeaf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_audio = IconData(0xeaf4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_axis_3d] icon from the Lucide icon set.
 ///
@@ -6567,7 +6547,7 @@ static const IconData file_audio = IconData(0xeaf4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_axis_3d = IconData(0xeaf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_axis_3d = IconData(0xeaf5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_badge_2] icon from the Lucide icon set.
 ///
@@ -6580,7 +6560,7 @@ static const IconData file_axis_3d = IconData(0xeaf5, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_badge_2 = IconData(0xeaf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_badge_2 = IconData(0xeaf6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_badge] icon from the Lucide icon set.
 ///
@@ -6593,7 +6573,7 @@ static const IconData file_badge_2 = IconData(0xeaf6, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_badge = IconData(0xeaf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_badge = IconData(0xeaf7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_bar_chart_2] icon from the Lucide icon set.
 ///
@@ -6606,7 +6586,7 @@ static const IconData file_badge = IconData(0xeaf7, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_bar_chart_2 = IconData(0xeaf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_bar_chart_2 = IconData(0xeaf8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_bar_chart] icon from the Lucide icon set.
 ///
@@ -6619,7 +6599,7 @@ static const IconData file_bar_chart_2 = IconData(0xeaf8, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_bar_chart = IconData(0xeaf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_bar_chart = IconData(0xeaf9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_box] icon from the Lucide icon set.
 ///
@@ -6632,7 +6612,7 @@ static const IconData file_bar_chart = IconData(0xeaf9, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_box = IconData(0xeafa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_box = IconData(0xeafa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_check_2] icon from the Lucide icon set.
 ///
@@ -6645,7 +6625,7 @@ static const IconData file_box = IconData(0xeafa, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_check_2 = IconData(0xeafb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_check_2 = IconData(0xeafb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_check] icon from the Lucide icon set.
 ///
@@ -6658,7 +6638,7 @@ static const IconData file_check_2 = IconData(0xeafb, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_check = IconData(0xeafc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_check = IconData(0xeafc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_clock] icon from the Lucide icon set.
 ///
@@ -6671,7 +6651,7 @@ static const IconData file_check = IconData(0xeafc, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_clock = IconData(0xeafd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_clock = IconData(0xeafd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_code_2] icon from the Lucide icon set.
 ///
@@ -6684,7 +6664,7 @@ static const IconData file_clock = IconData(0xeafd, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_code_2 = IconData(0xeafe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_code_2 = IconData(0xeafe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_code] icon from the Lucide icon set.
 ///
@@ -6697,7 +6677,7 @@ static const IconData file_code_2 = IconData(0xeafe, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_code = IconData(0xeaff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_code = IconData(0xeaff, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_cog] icon from the Lucide icon set.
 ///
@@ -6710,7 +6690,7 @@ static const IconData file_code = IconData(0xeaff, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_cog = IconData(0xeb00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_cog = IconData(0xeb00, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_diff] icon from the Lucide icon set.
 ///
@@ -6723,7 +6703,7 @@ static const IconData file_cog = IconData(0xeb00, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_diff = IconData(0xeb01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_diff = IconData(0xeb01, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_digit] icon from the Lucide icon set.
 ///
@@ -6736,7 +6716,7 @@ static const IconData file_diff = IconData(0xeb01, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_digit = IconData(0xeb02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_digit = IconData(0xeb02, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_down] icon from the Lucide icon set.
 ///
@@ -6749,7 +6729,7 @@ static const IconData file_digit = IconData(0xeb02, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_down = IconData(0xeb03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_down = IconData(0xeb03, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_heart] icon from the Lucide icon set.
 ///
@@ -6762,7 +6742,7 @@ static const IconData file_down = IconData(0xeb03, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_heart = IconData(0xeb04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_heart = IconData(0xeb04, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_image] icon from the Lucide icon set.
 ///
@@ -6775,7 +6755,7 @@ static const IconData file_heart = IconData(0xeb04, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_image = IconData(0xeb05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_image = IconData(0xeb05, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_input] icon from the Lucide icon set.
 ///
@@ -6788,7 +6768,7 @@ static const IconData file_image = IconData(0xeb05, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_input = IconData(0xeb06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_input = IconData(0xeb06, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_json_2] icon from the Lucide icon set.
 ///
@@ -6801,7 +6781,7 @@ static const IconData file_input = IconData(0xeb06, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_json_2 = IconData(0xeb07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_json_2 = IconData(0xeb07, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_json] icon from the Lucide icon set.
 ///
@@ -6814,7 +6794,7 @@ static const IconData file_json_2 = IconData(0xeb07, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_json = IconData(0xeb08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_json = IconData(0xeb08, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_key_2] icon from the Lucide icon set.
 ///
@@ -6827,7 +6807,7 @@ static const IconData file_json = IconData(0xeb08, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_key_2 = IconData(0xeb09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_key_2 = IconData(0xeb09, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_key] icon from the Lucide icon set.
 ///
@@ -6840,7 +6820,7 @@ static const IconData file_key_2 = IconData(0xeb09, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_key = IconData(0xeb0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_key = IconData(0xeb0a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_line_chart] icon from the Lucide icon set.
 ///
@@ -6853,7 +6833,7 @@ static const IconData file_key = IconData(0xeb0a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_line_chart = IconData(0xeb0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_line_chart = IconData(0xeb0b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_lock_2] icon from the Lucide icon set.
 ///
@@ -6866,7 +6846,7 @@ static const IconData file_line_chart = IconData(0xeb0b, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_lock_2 = IconData(0xeb0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_lock_2 = IconData(0xeb0c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_lock] icon from the Lucide icon set.
 ///
@@ -6879,7 +6859,7 @@ static const IconData file_lock_2 = IconData(0xeb0c, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_lock = IconData(0xeb0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_lock = IconData(0xeb0d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_minus_2] icon from the Lucide icon set.
 ///
@@ -6892,7 +6872,7 @@ static const IconData file_lock = IconData(0xeb0d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_minus_2 = IconData(0xeb0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_minus_2 = IconData(0xeb0e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_minus] icon from the Lucide icon set.
 ///
@@ -6905,7 +6885,7 @@ static const IconData file_minus_2 = IconData(0xeb0e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_minus = IconData(0xeb0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_minus = IconData(0xeb0f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_music] icon from the Lucide icon set.
 ///
@@ -6918,7 +6898,7 @@ static const IconData file_minus = IconData(0xeb0f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_music = IconData(0xeb10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_music = IconData(0xeb10, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_output] icon from the Lucide icon set.
 ///
@@ -6931,7 +6911,7 @@ static const IconData file_music = IconData(0xeb10, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_output = IconData(0xeb11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_output = IconData(0xeb11, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_pen_line] icon from the Lucide icon set.
 ///
@@ -6944,7 +6924,7 @@ static const IconData file_output = IconData(0xeb11, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_pen_line = IconData(0xeb12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_pen_line = IconData(0xeb12, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_pen] icon from the Lucide icon set.
 ///
@@ -6957,7 +6937,7 @@ static const IconData file_pen_line = IconData(0xeb12, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_pen = IconData(0xeb13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_pen = IconData(0xeb13, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_pie_chart] icon from the Lucide icon set.
 ///
@@ -6970,7 +6950,7 @@ static const IconData file_pen = IconData(0xeb13, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_pie_chart = IconData(0xeb14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_pie_chart = IconData(0xeb14, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_plus_2] icon from the Lucide icon set.
 ///
@@ -6983,7 +6963,7 @@ static const IconData file_pie_chart = IconData(0xeb14, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_plus_2 = IconData(0xeb15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_plus_2 = IconData(0xeb15, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_plus] icon from the Lucide icon set.
 ///
@@ -6996,7 +6976,7 @@ static const IconData file_plus_2 = IconData(0xeb15, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_plus = IconData(0xeb16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_plus = IconData(0xeb16, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_question] icon from the Lucide icon set.
 ///
@@ -7009,7 +6989,7 @@ static const IconData file_plus = IconData(0xeb16, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_question = IconData(0xeb17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_question = IconData(0xeb17, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_scan] icon from the Lucide icon set.
 ///
@@ -7022,7 +7002,7 @@ static const IconData file_question = IconData(0xeb17, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_scan = IconData(0xeb18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_scan = IconData(0xeb18, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_search_2] icon from the Lucide icon set.
 ///
@@ -7035,7 +7015,7 @@ static const IconData file_scan = IconData(0xeb18, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_search_2 = IconData(0xeb19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_search_2 = IconData(0xeb19, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_search] icon from the Lucide icon set.
 ///
@@ -7048,7 +7028,7 @@ static const IconData file_search_2 = IconData(0xeb19, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_search = IconData(0xeb1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_search = IconData(0xeb1a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_sliders] icon from the Lucide icon set.
 ///
@@ -7061,7 +7041,7 @@ static const IconData file_search = IconData(0xeb1a, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_sliders = IconData(0xeb1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_sliders = IconData(0xeb1b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_spreadsheet] icon from the Lucide icon set.
 ///
@@ -7074,7 +7054,7 @@ static const IconData file_sliders = IconData(0xeb1b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_spreadsheet = IconData(0xeb1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_spreadsheet = IconData(0xeb1c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_stack] icon from the Lucide icon set.
 ///
@@ -7087,7 +7067,7 @@ static const IconData file_spreadsheet = IconData(0xeb1c, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_stack = IconData(0xeb1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_stack = IconData(0xeb1d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_symlink] icon from the Lucide icon set.
 ///
@@ -7100,7 +7080,7 @@ static const IconData file_stack = IconData(0xeb1d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_symlink = IconData(0xeb1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_symlink = IconData(0xeb1e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_terminal] icon from the Lucide icon set.
 ///
@@ -7113,7 +7093,7 @@ static const IconData file_symlink = IconData(0xeb1e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_terminal = IconData(0xeb1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_terminal = IconData(0xeb1f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_text] icon from the Lucide icon set.
 ///
@@ -7126,7 +7106,7 @@ static const IconData file_terminal = IconData(0xeb1f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_text = IconData(0xeb20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_text = IconData(0xeb20, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_type_2] icon from the Lucide icon set.
 ///
@@ -7139,7 +7119,7 @@ static const IconData file_text = IconData(0xeb20, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_type_2 = IconData(0xeb21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_type_2 = IconData(0xeb21, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_type] icon from the Lucide icon set.
 ///
@@ -7152,7 +7132,7 @@ static const IconData file_type_2 = IconData(0xeb21, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_type = IconData(0xeb22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_type = IconData(0xeb22, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_up] icon from the Lucide icon set.
 ///
@@ -7165,7 +7145,7 @@ static const IconData file_type = IconData(0xeb22, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_up = IconData(0xeb23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_up = IconData(0xeb23, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_video_2] icon from the Lucide icon set.
 ///
@@ -7178,7 +7158,7 @@ static const IconData file_up = IconData(0xeb23, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_video_2 = IconData(0xeb24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_video_2 = IconData(0xeb24, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_video] icon from the Lucide icon set.
 ///
@@ -7191,7 +7171,7 @@ static const IconData file_video_2 = IconData(0xeb24, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_video = IconData(0xeb25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_video = IconData(0xeb25, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_volume_2] icon from the Lucide icon set.
 ///
@@ -7204,7 +7184,7 @@ static const IconData file_video = IconData(0xeb25, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_volume_2 = IconData(0xeb26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_volume_2 = IconData(0xeb26, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_volume] icon from the Lucide icon set.
 ///
@@ -7217,7 +7197,7 @@ static const IconData file_volume_2 = IconData(0xeb26, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_volume = IconData(0xeb27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_volume = IconData(0xeb27, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_warning] icon from the Lucide icon set.
 ///
@@ -7230,7 +7210,7 @@ static const IconData file_volume = IconData(0xeb27, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_warning = IconData(0xeb28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_warning = IconData(0xeb28, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_x_2] icon from the Lucide icon set.
 ///
@@ -7243,7 +7223,7 @@ static const IconData file_warning = IconData(0xeb28, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_x_2 = IconData(0xeb29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_x_2 = IconData(0xeb29, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file_x] icon from the Lucide icon set.
 ///
@@ -7256,7 +7236,7 @@ static const IconData file_x_2 = IconData(0xeb29, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file_x = IconData(0xeb2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file_x = IconData(0xeb2a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [file] icon from the Lucide icon set.
 ///
@@ -7269,7 +7249,7 @@ static const IconData file_x = IconData(0xeb2a, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData file = IconData(0xeb2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData file = IconData(0xeb2b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [files] icon from the Lucide icon set.
 ///
@@ -7282,7 +7262,7 @@ static const IconData file = IconData(0xeb2b, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData files = IconData(0xeb2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData files = IconData(0xeb2c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [film] icon from the Lucide icon set.
 ///
@@ -7295,7 +7275,7 @@ static const IconData files = IconData(0xeb2c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData film = IconData(0xeb2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData film = IconData(0xeb2d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [filter_x] icon from the Lucide icon set.
 ///
@@ -7308,7 +7288,7 @@ static const IconData film = IconData(0xeb2d, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData filter_x = IconData(0xeb2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData filter_x = IconData(0xeb2e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [filter] icon from the Lucide icon set.
 ///
@@ -7321,7 +7301,7 @@ static const IconData filter_x = IconData(0xeb2e, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData filter = IconData(0xeb2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData filter = IconData(0xeb2f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fingerprint] icon from the Lucide icon set.
 ///
@@ -7334,7 +7314,7 @@ static const IconData filter = IconData(0xeb2f, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fingerprint = IconData(0xeb30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fingerprint = IconData(0xeb30, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fire_extinguisher] icon from the Lucide icon set.
 ///
@@ -7347,7 +7327,7 @@ static const IconData fingerprint = IconData(0xeb30, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fire_extinguisher = IconData(0xeb31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fire_extinguisher = IconData(0xeb31, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fish_off] icon from the Lucide icon set.
 ///
@@ -7360,7 +7340,7 @@ static const IconData fire_extinguisher = IconData(0xeb31, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fish_off = IconData(0xeb32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fish_off = IconData(0xeb32, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fish_symbol] icon from the Lucide icon set.
 ///
@@ -7373,7 +7353,7 @@ static const IconData fish_off = IconData(0xeb32, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fish_symbol = IconData(0xeb33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fish_symbol = IconData(0xeb33, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fish] icon from the Lucide icon set.
 ///
@@ -7386,7 +7366,7 @@ static const IconData fish_symbol = IconData(0xeb33, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fish = IconData(0xeb34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fish = IconData(0xeb34, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flag_off] icon from the Lucide icon set.
 ///
@@ -7399,7 +7379,7 @@ static const IconData fish = IconData(0xeb34, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flag_off = IconData(0xeb35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flag_off = IconData(0xeb35, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flag_triangle_left] icon from the Lucide icon set.
 ///
@@ -7412,7 +7392,7 @@ static const IconData flag_off = IconData(0xeb35, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flag_triangle_left = IconData(0xeb36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flag_triangle_left = IconData(0xeb36, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flag_triangle_right] icon from the Lucide icon set.
 ///
@@ -7425,7 +7405,7 @@ static const IconData flag_triangle_left = IconData(0xeb36, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flag_triangle_right = IconData(0xeb37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flag_triangle_right = IconData(0xeb37, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flag] icon from the Lucide icon set.
 ///
@@ -7438,7 +7418,7 @@ static const IconData flag_triangle_right = IconData(0xeb37, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flag = IconData(0xeb38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flag = IconData(0xeb38, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flame_kindling] icon from the Lucide icon set.
 ///
@@ -7451,7 +7431,7 @@ static const IconData flag = IconData(0xeb38, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flame_kindling = IconData(0xeb39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flame_kindling = IconData(0xeb39, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flame] icon from the Lucide icon set.
 ///
@@ -7464,7 +7444,7 @@ static const IconData flame_kindling = IconData(0xeb39, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flame = IconData(0xeb3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flame = IconData(0xeb3a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flashlight_off] icon from the Lucide icon set.
 ///
@@ -7477,7 +7457,7 @@ static const IconData flame = IconData(0xeb3a, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flashlight_off = IconData(0xeb3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flashlight_off = IconData(0xeb3b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flashlight] icon from the Lucide icon set.
 ///
@@ -7490,7 +7470,7 @@ static const IconData flashlight_off = IconData(0xeb3b, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flashlight = IconData(0xeb3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flashlight = IconData(0xeb3c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flask_conical_off] icon from the Lucide icon set.
 ///
@@ -7503,7 +7483,7 @@ static const IconData flashlight = IconData(0xeb3c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flask_conical_off = IconData(0xeb3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flask_conical_off = IconData(0xeb3d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flask_conical] icon from the Lucide icon set.
 ///
@@ -7516,7 +7496,7 @@ static const IconData flask_conical_off = IconData(0xeb3d, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flask_conical = IconData(0xeb3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flask_conical = IconData(0xeb3e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flask_round] icon from the Lucide icon set.
 ///
@@ -7529,7 +7509,7 @@ static const IconData flask_conical = IconData(0xeb3e, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flask_round = IconData(0xeb3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flask_round = IconData(0xeb3f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flip_horizontal_2] icon from the Lucide icon set.
 ///
@@ -7542,7 +7522,7 @@ static const IconData flask_round = IconData(0xeb3f, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flip_horizontal_2 = IconData(0xeb40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flip_horizontal_2 = IconData(0xeb40, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flip_horizontal] icon from the Lucide icon set.
 ///
@@ -7555,7 +7535,7 @@ static const IconData flip_horizontal_2 = IconData(0xeb40, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flip_horizontal = IconData(0xeb41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flip_horizontal = IconData(0xeb41, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flip_vertical_2] icon from the Lucide icon set.
 ///
@@ -7568,7 +7548,7 @@ static const IconData flip_horizontal = IconData(0xeb41, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flip_vertical_2 = IconData(0xeb42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flip_vertical_2 = IconData(0xeb42, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flip_vertical] icon from the Lucide icon set.
 ///
@@ -7581,7 +7561,7 @@ static const IconData flip_vertical_2 = IconData(0xeb42, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flip_vertical = IconData(0xeb43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flip_vertical = IconData(0xeb43, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flower_2] icon from the Lucide icon set.
 ///
@@ -7594,7 +7574,7 @@ static const IconData flip_vertical = IconData(0xeb43, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flower_2 = IconData(0xeb44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flower_2 = IconData(0xeb44, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [flower] icon from the Lucide icon set.
 ///
@@ -7607,7 +7587,7 @@ static const IconData flower_2 = IconData(0xeb44, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData flower = IconData(0xeb45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData flower = IconData(0xeb45, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [focus] icon from the Lucide icon set.
 ///
@@ -7620,7 +7600,7 @@ static const IconData flower = IconData(0xeb45, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData focus = IconData(0xeb46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData focus = IconData(0xeb46, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fold_horizontal] icon from the Lucide icon set.
 ///
@@ -7633,7 +7613,7 @@ static const IconData focus = IconData(0xeb46, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fold_horizontal = IconData(0xeb47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fold_horizontal = IconData(0xeb47, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fold_vertical] icon from the Lucide icon set.
 ///
@@ -7646,7 +7626,7 @@ static const IconData fold_horizontal = IconData(0xeb47, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fold_vertical = IconData(0xeb48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fold_vertical = IconData(0xeb48, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_archive] icon from the Lucide icon set.
 ///
@@ -7659,7 +7639,7 @@ static const IconData fold_vertical = IconData(0xeb48, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_archive = IconData(0xeb49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_archive = IconData(0xeb49, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_check] icon from the Lucide icon set.
 ///
@@ -7672,7 +7652,7 @@ static const IconData folder_archive = IconData(0xeb49, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_check = IconData(0xeb4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_check = IconData(0xeb4a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_clock] icon from the Lucide icon set.
 ///
@@ -7685,7 +7665,7 @@ static const IconData folder_check = IconData(0xeb4a, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_clock = IconData(0xeb4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_clock = IconData(0xeb4b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_closed] icon from the Lucide icon set.
 ///
@@ -7698,7 +7678,7 @@ static const IconData folder_clock = IconData(0xeb4b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_closed = IconData(0xeb4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_closed = IconData(0xeb4c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_cog] icon from the Lucide icon set.
 ///
@@ -7711,7 +7691,7 @@ static const IconData folder_closed = IconData(0xeb4c, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_cog = IconData(0xeb4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_cog = IconData(0xeb4d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_dot] icon from the Lucide icon set.
 ///
@@ -7724,7 +7704,7 @@ static const IconData folder_cog = IconData(0xeb4d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_dot = IconData(0xeb4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_dot = IconData(0xeb4e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_down] icon from the Lucide icon set.
 ///
@@ -7737,7 +7717,7 @@ static const IconData folder_dot = IconData(0xeb4e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_down = IconData(0xeb4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_down = IconData(0xeb4f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_git_2] icon from the Lucide icon set.
 ///
@@ -7750,7 +7730,7 @@ static const IconData folder_down = IconData(0xeb4f, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_git_2 = IconData(0xeb50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_git_2 = IconData(0xeb50, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_git] icon from the Lucide icon set.
 ///
@@ -7763,7 +7743,7 @@ static const IconData folder_git_2 = IconData(0xeb50, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_git = IconData(0xeb51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_git = IconData(0xeb51, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_heart] icon from the Lucide icon set.
 ///
@@ -7776,7 +7756,7 @@ static const IconData folder_git = IconData(0xeb51, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_heart = IconData(0xeb52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_heart = IconData(0xeb52, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_input] icon from the Lucide icon set.
 ///
@@ -7789,7 +7769,7 @@ static const IconData folder_heart = IconData(0xeb52, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_input = IconData(0xeb53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_input = IconData(0xeb53, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_kanban] icon from the Lucide icon set.
 ///
@@ -7802,7 +7782,7 @@ static const IconData folder_input = IconData(0xeb53, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_kanban = IconData(0xeb54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_kanban = IconData(0xeb54, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_key] icon from the Lucide icon set.
 ///
@@ -7815,7 +7795,7 @@ static const IconData folder_kanban = IconData(0xeb54, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_key = IconData(0xeb55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_key = IconData(0xeb55, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_lock] icon from the Lucide icon set.
 ///
@@ -7828,7 +7808,7 @@ static const IconData folder_key = IconData(0xeb55, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_lock = IconData(0xeb56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_lock = IconData(0xeb56, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_minus] icon from the Lucide icon set.
 ///
@@ -7841,7 +7821,7 @@ static const IconData folder_lock = IconData(0xeb56, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_minus = IconData(0xeb57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_minus = IconData(0xeb57, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_open_dot] icon from the Lucide icon set.
 ///
@@ -7854,7 +7834,7 @@ static const IconData folder_minus = IconData(0xeb57, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_open_dot = IconData(0xeb58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_open_dot = IconData(0xeb58, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_open] icon from the Lucide icon set.
 ///
@@ -7867,7 +7847,7 @@ static const IconData folder_open_dot = IconData(0xeb58, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_open = IconData(0xeb59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_open = IconData(0xeb59, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_output] icon from the Lucide icon set.
 ///
@@ -7880,7 +7860,7 @@ static const IconData folder_open = IconData(0xeb59, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_output = IconData(0xeb5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_output = IconData(0xeb5a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_pen] icon from the Lucide icon set.
 ///
@@ -7893,7 +7873,7 @@ static const IconData folder_output = IconData(0xeb5a, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_pen = IconData(0xeb5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_pen = IconData(0xeb5b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_plus] icon from the Lucide icon set.
 ///
@@ -7906,7 +7886,7 @@ static const IconData folder_pen = IconData(0xeb5b, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_plus = IconData(0xeb5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_plus = IconData(0xeb5c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_root] icon from the Lucide icon set.
 ///
@@ -7919,7 +7899,7 @@ static const IconData folder_plus = IconData(0xeb5c, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_root = IconData(0xeb5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_root = IconData(0xeb5d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_search_2] icon from the Lucide icon set.
 ///
@@ -7932,7 +7912,7 @@ static const IconData folder_root = IconData(0xeb5d, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_search_2 = IconData(0xeb5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_search_2 = IconData(0xeb5e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_search] icon from the Lucide icon set.
 ///
@@ -7945,7 +7925,7 @@ static const IconData folder_search_2 = IconData(0xeb5e, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_search = IconData(0xeb5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_search = IconData(0xeb5f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_symlink] icon from the Lucide icon set.
 ///
@@ -7958,7 +7938,7 @@ static const IconData folder_search = IconData(0xeb5f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_symlink = IconData(0xeb60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_symlink = IconData(0xeb60, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_sync] icon from the Lucide icon set.
 ///
@@ -7971,7 +7951,7 @@ static const IconData folder_symlink = IconData(0xeb60, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_sync = IconData(0xeb61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_sync = IconData(0xeb61, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_tree] icon from the Lucide icon set.
 ///
@@ -7984,7 +7964,7 @@ static const IconData folder_sync = IconData(0xeb61, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_tree = IconData(0xeb62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_tree = IconData(0xeb62, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_up] icon from the Lucide icon set.
 ///
@@ -7997,7 +7977,7 @@ static const IconData folder_tree = IconData(0xeb62, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_up = IconData(0xeb63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_up = IconData(0xeb63, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder_x] icon from the Lucide icon set.
 ///
@@ -8010,7 +7990,7 @@ static const IconData folder_up = IconData(0xeb63, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder_x = IconData(0xeb64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder_x = IconData(0xeb64, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folder] icon from the Lucide icon set.
 ///
@@ -8023,7 +8003,7 @@ static const IconData folder_x = IconData(0xeb64, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folder = IconData(0xeb65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folder = IconData(0xeb65, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [folders] icon from the Lucide icon set.
 ///
@@ -8036,7 +8016,7 @@ static const IconData folder = IconData(0xeb65, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData folders = IconData(0xeb66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData folders = IconData(0xeb66, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [footprints] icon from the Lucide icon set.
 ///
@@ -8049,7 +8029,7 @@ static const IconData folders = IconData(0xeb66, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData footprints = IconData(0xeb67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData footprints = IconData(0xeb67, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [forklift] icon from the Lucide icon set.
 ///
@@ -8062,7 +8042,7 @@ static const IconData footprints = IconData(0xeb67, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData forklift = IconData(0xeb68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData forklift = IconData(0xeb68, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [form_input] icon from the Lucide icon set.
 ///
@@ -8075,7 +8055,7 @@ static const IconData forklift = IconData(0xeb68, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData form_input = IconData(0xeb69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData form_input = IconData(0xeb69, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [forward] icon from the Lucide icon set.
 ///
@@ -8088,7 +8068,7 @@ static const IconData form_input = IconData(0xeb69, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData forward = IconData(0xeb6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData forward = IconData(0xeb6a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [frame] icon from the Lucide icon set.
 ///
@@ -8101,7 +8081,7 @@ static const IconData forward = IconData(0xeb6a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData frame = IconData(0xeb6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData frame = IconData(0xeb6b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [framer] icon from the Lucide icon set.
 ///
@@ -8115,7 +8095,7 @@ static const IconData frame = IconData(0xeb6b, fontFamily: _fontFamily, fontPack
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, design, tool, brands")
-static const IconData framer = IconData(0xeb6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData framer = IconData(0xeb6c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [frown] icon from the Lucide icon set.
 ///
@@ -8128,7 +8108,7 @@ static const IconData framer = IconData(0xeb6c, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData frown = IconData(0xeb6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData frown = IconData(0xeb6d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fuel] icon from the Lucide icon set.
 ///
@@ -8141,7 +8121,7 @@ static const IconData frown = IconData(0xeb6d, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fuel = IconData(0xeb6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fuel = IconData(0xeb6e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [fullscreen] icon from the Lucide icon set.
 ///
@@ -8154,7 +8134,7 @@ static const IconData fuel = IconData(0xeb6e, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData fullscreen = IconData(0xeb6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData fullscreen = IconData(0xeb6f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [function_square] icon from the Lucide icon set.
 ///
@@ -8167,7 +8147,7 @@ static const IconData fullscreen = IconData(0xeb6f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData function_square = IconData(0xeb70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData function_square = IconData(0xeb70, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gallery_horizontal_end] icon from the Lucide icon set.
 ///
@@ -8180,7 +8160,7 @@ static const IconData function_square = IconData(0xeb70, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gallery_horizontal_end = IconData(0xeb71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gallery_horizontal_end = IconData(0xeb71, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gallery_horizontal] icon from the Lucide icon set.
 ///
@@ -8193,7 +8173,7 @@ static const IconData gallery_horizontal_end = IconData(0xeb71, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gallery_horizontal = IconData(0xeb72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gallery_horizontal = IconData(0xeb72, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gallery_thumbnails] icon from the Lucide icon set.
 ///
@@ -8206,7 +8186,7 @@ static const IconData gallery_horizontal = IconData(0xeb72, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gallery_thumbnails = IconData(0xeb73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gallery_thumbnails = IconData(0xeb73, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gallery_vertical_end] icon from the Lucide icon set.
 ///
@@ -8219,7 +8199,7 @@ static const IconData gallery_thumbnails = IconData(0xeb73, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gallery_vertical_end = IconData(0xeb74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gallery_vertical_end = IconData(0xeb74, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gallery_vertical] icon from the Lucide icon set.
 ///
@@ -8232,7 +8212,7 @@ static const IconData gallery_vertical_end = IconData(0xeb74, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gallery_vertical = IconData(0xeb75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gallery_vertical = IconData(0xeb75, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gamepad_2] icon from the Lucide icon set.
 ///
@@ -8245,7 +8225,7 @@ static const IconData gallery_vertical = IconData(0xeb75, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gamepad_2 = IconData(0xeb76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gamepad_2 = IconData(0xeb76, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gamepad] icon from the Lucide icon set.
 ///
@@ -8258,7 +8238,7 @@ static const IconData gamepad_2 = IconData(0xeb76, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gamepad = IconData(0xeb77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gamepad = IconData(0xeb77, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gantt_chart_square] icon from the Lucide icon set.
 ///
@@ -8271,7 +8251,7 @@ static const IconData gamepad = IconData(0xeb77, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gantt_chart_square = IconData(0xeb78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gantt_chart_square = IconData(0xeb78, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gantt_chart] icon from the Lucide icon set.
 ///
@@ -8284,7 +8264,7 @@ static const IconData gantt_chart_square = IconData(0xeb78, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gantt_chart = IconData(0xeb79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gantt_chart = IconData(0xeb79, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gauge_circle] icon from the Lucide icon set.
 ///
@@ -8297,7 +8277,7 @@ static const IconData gantt_chart = IconData(0xeb79, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gauge_circle = IconData(0xeb7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gauge_circle = IconData(0xeb7a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gauge] icon from the Lucide icon set.
 ///
@@ -8310,7 +8290,7 @@ static const IconData gauge_circle = IconData(0xeb7a, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gauge = IconData(0xeb7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gauge = IconData(0xeb7b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gavel] icon from the Lucide icon set.
 ///
@@ -8323,7 +8303,7 @@ static const IconData gauge = IconData(0xeb7b, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gavel = IconData(0xeb7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gavel = IconData(0xeb7c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gem] icon from the Lucide icon set.
 ///
@@ -8336,7 +8316,7 @@ static const IconData gavel = IconData(0xeb7c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gem = IconData(0xeb7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gem = IconData(0xeb7d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ghost] icon from the Lucide icon set.
 ///
@@ -8349,7 +8329,7 @@ static const IconData gem = IconData(0xeb7d, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ghost = IconData(0xeb7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ghost = IconData(0xeb7e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gift] icon from the Lucide icon set.
 ///
@@ -8362,7 +8342,7 @@ static const IconData ghost = IconData(0xeb7e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData gift = IconData(0xeb7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gift = IconData(0xeb7f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_branch_plus] icon from the Lucide icon set.
 ///
@@ -8375,7 +8355,7 @@ static const IconData gift = IconData(0xeb7f, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_branch_plus = IconData(0xeb80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_branch_plus = IconData(0xeb80, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_branch] icon from the Lucide icon set.
 ///
@@ -8388,7 +8368,7 @@ static const IconData git_branch_plus = IconData(0xeb80, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_branch = IconData(0xeb81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_branch = IconData(0xeb81, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_commit_horizontal] icon from the Lucide icon set.
 ///
@@ -8401,7 +8381,7 @@ static const IconData git_branch = IconData(0xeb81, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_commit_horizontal = IconData(0xeb82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_commit_horizontal = IconData(0xeb82, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_commit_vertical] icon from the Lucide icon set.
 ///
@@ -8414,7 +8394,7 @@ static const IconData git_commit_horizontal = IconData(0xeb82, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_commit_vertical = IconData(0xeb83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_commit_vertical = IconData(0xeb83, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_compare_arrows] icon from the Lucide icon set.
 ///
@@ -8427,7 +8407,7 @@ static const IconData git_commit_vertical = IconData(0xeb83, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_compare_arrows = IconData(0xeb84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_compare_arrows = IconData(0xeb84, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_compare] icon from the Lucide icon set.
 ///
@@ -8440,7 +8420,7 @@ static const IconData git_compare_arrows = IconData(0xeb84, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_compare = IconData(0xeb85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_compare = IconData(0xeb85, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_fork] icon from the Lucide icon set.
 ///
@@ -8453,7 +8433,7 @@ static const IconData git_compare = IconData(0xeb85, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_fork = IconData(0xeb86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_fork = IconData(0xeb86, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_graph] icon from the Lucide icon set.
 ///
@@ -8466,7 +8446,7 @@ static const IconData git_fork = IconData(0xeb86, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_graph = IconData(0xeb87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_graph = IconData(0xeb87, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_merge] icon from the Lucide icon set.
 ///
@@ -8479,7 +8459,7 @@ static const IconData git_graph = IconData(0xeb87, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_merge = IconData(0xeb88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_merge = IconData(0xeb88, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request_arrow] icon from the Lucide icon set.
 ///
@@ -8492,7 +8472,7 @@ static const IconData git_merge = IconData(0xeb88, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request_arrow = IconData(0xeb89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request_arrow = IconData(0xeb89, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request_closed] icon from the Lucide icon set.
 ///
@@ -8505,7 +8485,7 @@ static const IconData git_pull_request_arrow = IconData(0xeb89, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request_closed = IconData(0xeb8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request_closed = IconData(0xeb8a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request_create_arrow] icon from the Lucide icon set.
 ///
@@ -8518,7 +8498,7 @@ static const IconData git_pull_request_closed = IconData(0xeb8a, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request_create_arrow = IconData(0xeb8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request_create_arrow = IconData(0xeb8b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request_create] icon from the Lucide icon set.
 ///
@@ -8531,7 +8511,7 @@ static const IconData git_pull_request_create_arrow = IconData(0xeb8b, fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request_create = IconData(0xeb8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request_create = IconData(0xeb8c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request_draft] icon from the Lucide icon set.
 ///
@@ -8544,7 +8524,7 @@ static const IconData git_pull_request_create = IconData(0xeb8c, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request_draft = IconData(0xeb8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request_draft = IconData(0xeb8d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [git_pull_request] icon from the Lucide icon set.
 ///
@@ -8557,7 +8537,7 @@ static const IconData git_pull_request_draft = IconData(0xeb8d, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData git_pull_request = IconData(0xeb8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData git_pull_request = IconData(0xeb8e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [github] icon from the Lucide icon set.
 ///
@@ -8571,7 +8551,7 @@ static const IconData git_pull_request = IconData(0xeb8e, fontFamily: _fontFamil
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, version control, brands, development")
-static const IconData github = IconData(0xeb8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData github = IconData(0xeb8f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [gitlab] icon from the Lucide icon set.
 ///
@@ -8585,7 +8565,7 @@ static const IconData github = IconData(0xeb8f, fontFamily: _fontFamily, fontPac
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, version control, brands, development")
-static const IconData gitlab = IconData(0xeb90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData gitlab = IconData(0xeb90, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [glass_water] icon from the Lucide icon set.
 ///
@@ -8598,7 +8578,7 @@ static const IconData gitlab = IconData(0xeb90, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData glass_water = IconData(0xeb91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData glass_water = IconData(0xeb91, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [glasses] icon from the Lucide icon set.
 ///
@@ -8611,7 +8591,7 @@ static const IconData glass_water = IconData(0xeb91, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData glasses = IconData(0xeb92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData glasses = IconData(0xeb92, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [globe_2] icon from the Lucide icon set.
 ///
@@ -8624,7 +8604,7 @@ static const IconData glasses = IconData(0xeb92, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData globe_2 = IconData(0xeb93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData globe_2 = IconData(0xeb93, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [globe] icon from the Lucide icon set.
 ///
@@ -8637,7 +8617,7 @@ static const IconData globe_2 = IconData(0xeb93, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData globe = IconData(0xeb94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData globe = IconData(0xeb94, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [goal] icon from the Lucide icon set.
 ///
@@ -8650,7 +8630,7 @@ static const IconData globe = IconData(0xeb94, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData goal = IconData(0xeb95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData goal = IconData(0xeb95, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grab] icon from the Lucide icon set.
 ///
@@ -8663,7 +8643,7 @@ static const IconData goal = IconData(0xeb95, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grab = IconData(0xeb96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grab = IconData(0xeb96, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [graduation_cap] icon from the Lucide icon set.
 ///
@@ -8676,7 +8656,7 @@ static const IconData grab = IconData(0xeb96, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData graduation_cap = IconData(0xeb97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData graduation_cap = IconData(0xeb97, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grape] icon from the Lucide icon set.
 ///
@@ -8689,7 +8669,7 @@ static const IconData graduation_cap = IconData(0xeb97, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grape = IconData(0xeb98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grape = IconData(0xeb98, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grid_2x2] icon from the Lucide icon set.
 ///
@@ -8702,7 +8682,7 @@ static const IconData grape = IconData(0xeb98, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grid_2x2 = IconData(0xeb99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grid_2x2 = IconData(0xeb99, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grid_3x3] icon from the Lucide icon set.
 ///
@@ -8715,7 +8695,7 @@ static const IconData grid_2x2 = IconData(0xeb99, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grid_3x3 = IconData(0xeb9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grid_3x3 = IconData(0xeb9a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grip_horizontal] icon from the Lucide icon set.
 ///
@@ -8728,7 +8708,7 @@ static const IconData grid_3x3 = IconData(0xeb9a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grip_horizontal = IconData(0xeb9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grip_horizontal = IconData(0xeb9b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grip_vertical] icon from the Lucide icon set.
 ///
@@ -8741,7 +8721,7 @@ static const IconData grip_horizontal = IconData(0xeb9b, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grip_vertical = IconData(0xeb9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grip_vertical = IconData(0xeb9c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [grip] icon from the Lucide icon set.
 ///
@@ -8754,7 +8734,7 @@ static const IconData grip_vertical = IconData(0xeb9c, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData grip = IconData(0xeb9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData grip = IconData(0xeb9d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [group] icon from the Lucide icon set.
 ///
@@ -8767,7 +8747,7 @@ static const IconData grip = IconData(0xeb9d, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData group = IconData(0xeb9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData group = IconData(0xeb9e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [guitar] icon from the Lucide icon set.
 ///
@@ -8780,7 +8760,7 @@ static const IconData group = IconData(0xeb9e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData guitar = IconData(0xeb9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData guitar = IconData(0xeb9f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hammer] icon from the Lucide icon set.
 ///
@@ -8793,7 +8773,7 @@ static const IconData guitar = IconData(0xeb9f, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hammer = IconData(0xeba0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hammer = IconData(0xeba0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hand_metal] icon from the Lucide icon set.
 ///
@@ -8806,7 +8786,7 @@ static const IconData hammer = IconData(0xeba0, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hand_metal = IconData(0xeba1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hand_metal = IconData(0xeba1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hand] icon from the Lucide icon set.
 ///
@@ -8819,7 +8799,7 @@ static const IconData hand_metal = IconData(0xeba1, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hand = IconData(0xeba2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hand = IconData(0xeba2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hard_drive_download] icon from the Lucide icon set.
 ///
@@ -8832,7 +8812,7 @@ static const IconData hand = IconData(0xeba2, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hard_drive_download = IconData(0xeba3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hard_drive_download = IconData(0xeba3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hard_drive_upload] icon from the Lucide icon set.
 ///
@@ -8845,7 +8825,7 @@ static const IconData hard_drive_download = IconData(0xeba3, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hard_drive_upload = IconData(0xeba4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hard_drive_upload = IconData(0xeba4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hard_drive] icon from the Lucide icon set.
 ///
@@ -8858,7 +8838,7 @@ static const IconData hard_drive_upload = IconData(0xeba4, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hard_drive = IconData(0xeba5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hard_drive = IconData(0xeba5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hard_hat] icon from the Lucide icon set.
 ///
@@ -8871,7 +8851,7 @@ static const IconData hard_drive = IconData(0xeba5, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hard_hat = IconData(0xeba6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hard_hat = IconData(0xeba6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hash] icon from the Lucide icon set.
 ///
@@ -8884,7 +8864,7 @@ static const IconData hard_hat = IconData(0xeba6, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hash = IconData(0xeba7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hash = IconData(0xeba7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [haze] icon from the Lucide icon set.
 ///
@@ -8897,7 +8877,7 @@ static const IconData hash = IconData(0xeba7, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData haze = IconData(0xeba8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData haze = IconData(0xeba8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hdmi_port] icon from the Lucide icon set.
 ///
@@ -8910,7 +8890,7 @@ static const IconData haze = IconData(0xeba8, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hdmi_port = IconData(0xeba9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hdmi_port = IconData(0xeba9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_1] icon from the Lucide icon set.
 ///
@@ -8923,7 +8903,7 @@ static const IconData hdmi_port = IconData(0xeba9, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_1 = IconData(0xebaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_1 = IconData(0xebaa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_2] icon from the Lucide icon set.
 ///
@@ -8936,7 +8916,7 @@ static const IconData heading_1 = IconData(0xebaa, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_2 = IconData(0xebab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_2 = IconData(0xebab, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_3] icon from the Lucide icon set.
 ///
@@ -8949,7 +8929,7 @@ static const IconData heading_2 = IconData(0xebab, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_3 = IconData(0xebac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_3 = IconData(0xebac, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_4] icon from the Lucide icon set.
 ///
@@ -8962,7 +8942,7 @@ static const IconData heading_3 = IconData(0xebac, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_4 = IconData(0xebad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_4 = IconData(0xebad, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_5] icon from the Lucide icon set.
 ///
@@ -8975,7 +8955,7 @@ static const IconData heading_4 = IconData(0xebad, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_5 = IconData(0xebae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_5 = IconData(0xebae, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading_6] icon from the Lucide icon set.
 ///
@@ -8988,7 +8968,7 @@ static const IconData heading_5 = IconData(0xebae, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading_6 = IconData(0xebaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading_6 = IconData(0xebaf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heading] icon from the Lucide icon set.
 ///
@@ -9001,7 +8981,7 @@ static const IconData heading_6 = IconData(0xebaf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heading = IconData(0xebb0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heading = IconData(0xebb0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [headphones] icon from the Lucide icon set.
 ///
@@ -9014,7 +8994,7 @@ static const IconData heading = IconData(0xebb0, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData headphones = IconData(0xebb1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData headphones = IconData(0xebb1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heart_crack] icon from the Lucide icon set.
 ///
@@ -9027,7 +9007,7 @@ static const IconData headphones = IconData(0xebb1, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heart_crack = IconData(0xebb2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heart_crack = IconData(0xebb2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heart_handshake] icon from the Lucide icon set.
 ///
@@ -9040,7 +9020,7 @@ static const IconData heart_crack = IconData(0xebb2, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heart_handshake = IconData(0xebb3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heart_handshake = IconData(0xebb3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heart_off] icon from the Lucide icon set.
 ///
@@ -9053,7 +9033,7 @@ static const IconData heart_handshake = IconData(0xebb3, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heart_off = IconData(0xebb4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heart_off = IconData(0xebb4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heart_pulse] icon from the Lucide icon set.
 ///
@@ -9066,7 +9046,7 @@ static const IconData heart_off = IconData(0xebb4, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heart_pulse = IconData(0xebb5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heart_pulse = IconData(0xebb5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heart] icon from the Lucide icon set.
 ///
@@ -9079,7 +9059,7 @@ static const IconData heart_pulse = IconData(0xebb5, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heart = IconData(0xebb6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heart = IconData(0xebb6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [heater] icon from the Lucide icon set.
 ///
@@ -9092,7 +9072,7 @@ static const IconData heart = IconData(0xebb6, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData heater = IconData(0xebb7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData heater = IconData(0xebb7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [help_circle] icon from the Lucide icon set.
 ///
@@ -9105,7 +9085,7 @@ static const IconData heater = IconData(0xebb7, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData help_circle = IconData(0xebb8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData help_circle = IconData(0xebb8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [helping_hand] icon from the Lucide icon set.
 ///
@@ -9118,7 +9098,7 @@ static const IconData help_circle = IconData(0xebb8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData helping_hand = IconData(0xebb9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData helping_hand = IconData(0xebb9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hexagon] icon from the Lucide icon set.
 ///
@@ -9131,7 +9111,7 @@ static const IconData helping_hand = IconData(0xebb9, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hexagon = IconData(0xebba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hexagon = IconData(0xebba, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [highlighter] icon from the Lucide icon set.
 ///
@@ -9144,7 +9124,7 @@ static const IconData hexagon = IconData(0xebba, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData highlighter = IconData(0xebbb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData highlighter = IconData(0xebbb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [history] icon from the Lucide icon set.
 ///
@@ -9157,7 +9137,7 @@ static const IconData highlighter = IconData(0xebbb, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData history = IconData(0xebbc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData history = IconData(0xebbc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [home] icon from the Lucide icon set.
 ///
@@ -9170,7 +9150,7 @@ static const IconData history = IconData(0xebbc, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData home = IconData(0xebbd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData home = IconData(0xebbd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hop_off] icon from the Lucide icon set.
 ///
@@ -9183,7 +9163,7 @@ static const IconData home = IconData(0xebbd, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hop_off = IconData(0xebbe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hop_off = IconData(0xebbe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hop] icon from the Lucide icon set.
 ///
@@ -9196,7 +9176,7 @@ static const IconData hop_off = IconData(0xebbe, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hop = IconData(0xebbf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hop = IconData(0xebbf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hotel] icon from the Lucide icon set.
 ///
@@ -9209,7 +9189,7 @@ static const IconData hop = IconData(0xebbf, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hotel = IconData(0xebc0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hotel = IconData(0xebc0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [hourglass] icon from the Lucide icon set.
 ///
@@ -9222,7 +9202,7 @@ static const IconData hotel = IconData(0xebc0, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData hourglass = IconData(0xebc1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData hourglass = IconData(0xebc1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ice_cream_2] icon from the Lucide icon set.
 ///
@@ -9235,7 +9215,7 @@ static const IconData hourglass = IconData(0xebc1, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ice_cream_2 = IconData(0xebc2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ice_cream_2 = IconData(0xebc2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ice_cream] icon from the Lucide icon set.
 ///
@@ -9248,7 +9228,7 @@ static const IconData ice_cream_2 = IconData(0xebc2, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ice_cream = IconData(0xebc3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ice_cream = IconData(0xebc3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [image_down] icon from the Lucide icon set.
 ///
@@ -9261,7 +9241,7 @@ static const IconData ice_cream = IconData(0xebc3, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData image_down = IconData(0xebc4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData image_down = IconData(0xebc4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [image_minus] icon from the Lucide icon set.
 ///
@@ -9274,7 +9254,7 @@ static const IconData image_down = IconData(0xebc4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData image_minus = IconData(0xebc5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData image_minus = IconData(0xebc5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [image_off] icon from the Lucide icon set.
 ///
@@ -9287,7 +9267,7 @@ static const IconData image_minus = IconData(0xebc5, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData image_off = IconData(0xebc6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData image_off = IconData(0xebc6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [image_plus] icon from the Lucide icon set.
 ///
@@ -9300,7 +9280,7 @@ static const IconData image_off = IconData(0xebc6, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData image_plus = IconData(0xebc7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData image_plus = IconData(0xebc7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [image] icon from the Lucide icon set.
 ///
@@ -9313,7 +9293,7 @@ static const IconData image_plus = IconData(0xebc7, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData image = IconData(0xebc8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData image = IconData(0xebc8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [import] icon from the Lucide icon set.
 ///
@@ -9326,7 +9306,7 @@ static const IconData image = IconData(0xebc8, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData import = IconData(0xebc9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData import = IconData(0xebc9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [inbox] icon from the Lucide icon set.
 ///
@@ -9339,7 +9319,7 @@ static const IconData import = IconData(0xebc9, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData inbox = IconData(0xebca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData inbox = IconData(0xebca, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [indent] icon from the Lucide icon set.
 ///
@@ -9352,7 +9332,7 @@ static const IconData inbox = IconData(0xebca, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData indent = IconData(0xebcb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData indent = IconData(0xebcb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [indian_rupee] icon from the Lucide icon set.
 ///
@@ -9365,7 +9345,7 @@ static const IconData indent = IconData(0xebcb, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData indian_rupee = IconData(0xebcc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData indian_rupee = IconData(0xebcc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [infinity] icon from the Lucide icon set.
 ///
@@ -9378,7 +9358,7 @@ static const IconData indian_rupee = IconData(0xebcc, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData infinity = IconData(0xebcd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData infinity = IconData(0xebcd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [info] icon from the Lucide icon set.
 ///
@@ -9391,7 +9371,7 @@ static const IconData infinity = IconData(0xebcd, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData info = IconData(0xebce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData info = IconData(0xebce, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [inspection_panel] icon from the Lucide icon set.
 ///
@@ -9404,7 +9384,7 @@ static const IconData info = IconData(0xebce, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData inspection_panel = IconData(0xebcf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData inspection_panel = IconData(0xebcf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [instagram] icon from the Lucide icon set.
 ///
@@ -9418,7 +9398,7 @@ static const IconData inspection_panel = IconData(0xebcf, fontFamily: _fontFamil
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, camera, social, brands, photography")
-static const IconData instagram = IconData(0xebd0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData instagram = IconData(0xebd0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [italic] icon from the Lucide icon set.
 ///
@@ -9431,7 +9411,7 @@ static const IconData instagram = IconData(0xebd0, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData italic = IconData(0xebd1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData italic = IconData(0xebd1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [iteration_ccw] icon from the Lucide icon set.
 ///
@@ -9444,7 +9424,7 @@ static const IconData italic = IconData(0xebd1, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData iteration_ccw = IconData(0xebd2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData iteration_ccw = IconData(0xebd2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [iteration_cw] icon from the Lucide icon set.
 ///
@@ -9457,7 +9437,7 @@ static const IconData iteration_ccw = IconData(0xebd2, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData iteration_cw = IconData(0xebd3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData iteration_cw = IconData(0xebd3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [japanese_yen] icon from the Lucide icon set.
 ///
@@ -9470,7 +9450,7 @@ static const IconData iteration_cw = IconData(0xebd3, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData japanese_yen = IconData(0xebd4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData japanese_yen = IconData(0xebd4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [joystick] icon from the Lucide icon set.
 ///
@@ -9483,7 +9463,7 @@ static const IconData japanese_yen = IconData(0xebd4, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData joystick = IconData(0xebd5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData joystick = IconData(0xebd5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [kanban_square_dashed] icon from the Lucide icon set.
 ///
@@ -9496,7 +9476,7 @@ static const IconData joystick = IconData(0xebd5, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData kanban_square_dashed = IconData(0xebd6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData kanban_square_dashed = IconData(0xebd6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [kanban_square] icon from the Lucide icon set.
 ///
@@ -9509,7 +9489,7 @@ static const IconData kanban_square_dashed = IconData(0xebd6, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData kanban_square = IconData(0xebd7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData kanban_square = IconData(0xebd7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [kanban] icon from the Lucide icon set.
 ///
@@ -9522,7 +9502,7 @@ static const IconData kanban_square = IconData(0xebd7, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData kanban = IconData(0xebd8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData kanban = IconData(0xebd8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [key_round] icon from the Lucide icon set.
 ///
@@ -9535,7 +9515,7 @@ static const IconData kanban = IconData(0xebd8, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData key_round = IconData(0xebd9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData key_round = IconData(0xebd9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [key_square] icon from the Lucide icon set.
 ///
@@ -9548,7 +9528,7 @@ static const IconData key_round = IconData(0xebd9, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData key_square = IconData(0xebda, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData key_square = IconData(0xebda, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [key] icon from the Lucide icon set.
 ///
@@ -9561,7 +9541,7 @@ static const IconData key_square = IconData(0xebda, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData key = IconData(0xebdb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData key = IconData(0xebdb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [keyboard_music] icon from the Lucide icon set.
 ///
@@ -9574,7 +9554,7 @@ static const IconData key = IconData(0xebdb, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData keyboard_music = IconData(0xebdc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData keyboard_music = IconData(0xebdc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [keyboard] icon from the Lucide icon set.
 ///
@@ -9587,7 +9567,7 @@ static const IconData keyboard_music = IconData(0xebdc, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData keyboard = IconData(0xebdd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData keyboard = IconData(0xebdd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp_ceiling] icon from the Lucide icon set.
 ///
@@ -9600,7 +9580,7 @@ static const IconData keyboard = IconData(0xebdd, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp_ceiling = IconData(0xebde, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp_ceiling = IconData(0xebde, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp_desk] icon from the Lucide icon set.
 ///
@@ -9613,7 +9593,7 @@ static const IconData lamp_ceiling = IconData(0xebde, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp_desk = IconData(0xebdf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp_desk = IconData(0xebdf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp_floor] icon from the Lucide icon set.
 ///
@@ -9626,7 +9606,7 @@ static const IconData lamp_desk = IconData(0xebdf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp_floor = IconData(0xebe0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp_floor = IconData(0xebe0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp_wall_down] icon from the Lucide icon set.
 ///
@@ -9639,7 +9619,7 @@ static const IconData lamp_floor = IconData(0xebe0, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp_wall_down = IconData(0xebe1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp_wall_down = IconData(0xebe1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp_wall_up] icon from the Lucide icon set.
 ///
@@ -9652,7 +9632,7 @@ static const IconData lamp_wall_down = IconData(0xebe1, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp_wall_up = IconData(0xebe2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp_wall_up = IconData(0xebe2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lamp] icon from the Lucide icon set.
 ///
@@ -9665,7 +9645,7 @@ static const IconData lamp_wall_up = IconData(0xebe2, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lamp = IconData(0xebe3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lamp = IconData(0xebe3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [land_plot] icon from the Lucide icon set.
 ///
@@ -9678,7 +9658,7 @@ static const IconData lamp = IconData(0xebe3, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData land_plot = IconData(0xebe4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData land_plot = IconData(0xebe4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [landmark] icon from the Lucide icon set.
 ///
@@ -9691,7 +9671,7 @@ static const IconData land_plot = IconData(0xebe4, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData landmark = IconData(0xebe5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData landmark = IconData(0xebe5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [languages] icon from the Lucide icon set.
 ///
@@ -9704,7 +9684,7 @@ static const IconData landmark = IconData(0xebe5, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData languages = IconData(0xebe6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData languages = IconData(0xebe6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [laptop_2] icon from the Lucide icon set.
 ///
@@ -9717,7 +9697,7 @@ static const IconData languages = IconData(0xebe6, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData laptop_2 = IconData(0xebe7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData laptop_2 = IconData(0xebe7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [laptop] icon from the Lucide icon set.
 ///
@@ -9730,7 +9710,7 @@ static const IconData laptop_2 = IconData(0xebe7, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData laptop = IconData(0xebe8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData laptop = IconData(0xebe8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lasso_select] icon from the Lucide icon set.
 ///
@@ -9743,7 +9723,7 @@ static const IconData laptop = IconData(0xebe8, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lasso_select = IconData(0xebe9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lasso_select = IconData(0xebe9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lasso] icon from the Lucide icon set.
 ///
@@ -9756,7 +9736,7 @@ static const IconData lasso_select = IconData(0xebe9, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lasso = IconData(0xebea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lasso = IconData(0xebea, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [laugh] icon from the Lucide icon set.
 ///
@@ -9769,7 +9749,7 @@ static const IconData lasso = IconData(0xebea, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData laugh = IconData(0xebeb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData laugh = IconData(0xebeb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layers_2] icon from the Lucide icon set.
 ///
@@ -9782,7 +9762,7 @@ static const IconData laugh = IconData(0xebeb, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layers_2 = IconData(0xebec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layers_2 = IconData(0xebec, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layers_3] icon from the Lucide icon set.
 ///
@@ -9795,7 +9775,7 @@ static const IconData layers_2 = IconData(0xebec, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layers_3 = IconData(0xebed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layers_3 = IconData(0xebed, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layers] icon from the Lucide icon set.
 ///
@@ -9808,7 +9788,7 @@ static const IconData layers_3 = IconData(0xebed, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layers = IconData(0xebee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layers = IconData(0xebee, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_dashboard] icon from the Lucide icon set.
 ///
@@ -9821,7 +9801,7 @@ static const IconData layers = IconData(0xebee, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_dashboard = IconData(0xebef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_dashboard = IconData(0xebef, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_grid] icon from the Lucide icon set.
 ///
@@ -9834,7 +9814,7 @@ static const IconData layout_dashboard = IconData(0xebef, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_grid = IconData(0xebf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_grid = IconData(0xebf0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_list] icon from the Lucide icon set.
 ///
@@ -9847,7 +9827,7 @@ static const IconData layout_grid = IconData(0xebf0, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_list = IconData(0xebf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_list = IconData(0xebf1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_panel_left] icon from the Lucide icon set.
 ///
@@ -9860,7 +9840,7 @@ static const IconData layout_list = IconData(0xebf1, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_panel_left = IconData(0xebf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_panel_left = IconData(0xebf2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_panel_top] icon from the Lucide icon set.
 ///
@@ -9873,7 +9853,7 @@ static const IconData layout_panel_left = IconData(0xebf2, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_panel_top = IconData(0xebf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_panel_top = IconData(0xebf3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [layout_template] icon from the Lucide icon set.
 ///
@@ -9886,7 +9866,7 @@ static const IconData layout_panel_top = IconData(0xebf3, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData layout_template = IconData(0xebf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData layout_template = IconData(0xebf4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [leaf] icon from the Lucide icon set.
 ///
@@ -9899,7 +9879,7 @@ static const IconData layout_template = IconData(0xebf4, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData leaf = IconData(0xebf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData leaf = IconData(0xebf5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [leafy_green] icon from the Lucide icon set.
 ///
@@ -9912,7 +9892,7 @@ static const IconData leaf = IconData(0xebf5, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData leafy_green = IconData(0xebf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData leafy_green = IconData(0xebf6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [library_big] icon from the Lucide icon set.
 ///
@@ -9925,7 +9905,7 @@ static const IconData leafy_green = IconData(0xebf6, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData library_big = IconData(0xebf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData library_big = IconData(0xebf7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [library_square] icon from the Lucide icon set.
 ///
@@ -9938,7 +9918,7 @@ static const IconData library_big = IconData(0xebf7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData library_square = IconData(0xebf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData library_square = IconData(0xebf8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [library] icon from the Lucide icon set.
 ///
@@ -9951,7 +9931,7 @@ static const IconData library_square = IconData(0xebf8, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData library = IconData(0xebf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData library = IconData(0xebf9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [life_buoy] icon from the Lucide icon set.
 ///
@@ -9964,7 +9944,7 @@ static const IconData library = IconData(0xebf9, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData life_buoy = IconData(0xebfa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData life_buoy = IconData(0xebfa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ligature] icon from the Lucide icon set.
 ///
@@ -9977,7 +9957,7 @@ static const IconData life_buoy = IconData(0xebfa, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ligature = IconData(0xebfb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ligature = IconData(0xebfb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lightbulb_off] icon from the Lucide icon set.
 ///
@@ -9990,7 +9970,7 @@ static const IconData ligature = IconData(0xebfb, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lightbulb_off = IconData(0xebfc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lightbulb_off = IconData(0xebfc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lightbulb] icon from the Lucide icon set.
 ///
@@ -10003,7 +9983,7 @@ static const IconData lightbulb_off = IconData(0xebfc, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lightbulb = IconData(0xebfd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lightbulb = IconData(0xebfd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [line_chart] icon from the Lucide icon set.
 ///
@@ -10016,7 +9996,7 @@ static const IconData lightbulb = IconData(0xebfd, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData line_chart = IconData(0xebfe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData line_chart = IconData(0xebfe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [link_2_off] icon from the Lucide icon set.
 ///
@@ -10029,7 +10009,7 @@ static const IconData line_chart = IconData(0xebfe, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData link_2_off = IconData(0xebff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData link_2_off = IconData(0xebff, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [link_2] icon from the Lucide icon set.
 ///
@@ -10042,7 +10022,7 @@ static const IconData link_2_off = IconData(0xebff, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData link_2 = IconData(0xec00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData link_2 = IconData(0xec00, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [link] icon from the Lucide icon set.
 ///
@@ -10055,7 +10035,7 @@ static const IconData link_2 = IconData(0xec00, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData link = IconData(0xec01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData link = IconData(0xec01, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [linkedin] icon from the Lucide icon set.
 ///
@@ -10068,7 +10048,7 @@ static const IconData link = IconData(0xec01, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData linkedin = IconData(0xec02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData linkedin = IconData(0xec02, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_checks] icon from the Lucide icon set.
 ///
@@ -10081,7 +10061,7 @@ static const IconData linkedin = IconData(0xec02, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_checks = IconData(0xec03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_checks = IconData(0xec03, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_collapse] icon from the Lucide icon set.
 ///
@@ -10094,7 +10074,7 @@ static const IconData list_checks = IconData(0xec03, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_collapse = IconData(0xec04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_collapse = IconData(0xec04, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_end] icon from the Lucide icon set.
 ///
@@ -10107,7 +10087,7 @@ static const IconData list_collapse = IconData(0xec04, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_end = IconData(0xec05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_end = IconData(0xec05, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_filter] icon from the Lucide icon set.
 ///
@@ -10120,7 +10100,7 @@ static const IconData list_end = IconData(0xec05, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_filter = IconData(0xec06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_filter = IconData(0xec06, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_minus] icon from the Lucide icon set.
 ///
@@ -10133,7 +10113,7 @@ static const IconData list_filter = IconData(0xec06, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_minus = IconData(0xec07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_minus = IconData(0xec07, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_music] icon from the Lucide icon set.
 ///
@@ -10146,7 +10126,7 @@ static const IconData list_minus = IconData(0xec07, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_music = IconData(0xec08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_music = IconData(0xec08, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_ordered] icon from the Lucide icon set.
 ///
@@ -10159,7 +10139,7 @@ static const IconData list_music = IconData(0xec08, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_ordered = IconData(0xec09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_ordered = IconData(0xec09, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_plus] icon from the Lucide icon set.
 ///
@@ -10172,7 +10152,7 @@ static const IconData list_ordered = IconData(0xec09, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_plus = IconData(0xec0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_plus = IconData(0xec0a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_restart] icon from the Lucide icon set.
 ///
@@ -10185,7 +10165,7 @@ static const IconData list_plus = IconData(0xec0a, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_restart = IconData(0xec0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_restart = IconData(0xec0b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_start] icon from the Lucide icon set.
 ///
@@ -10198,7 +10178,7 @@ static const IconData list_restart = IconData(0xec0b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_start = IconData(0xec0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_start = IconData(0xec0c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_todo] icon from the Lucide icon set.
 ///
@@ -10211,7 +10191,7 @@ static const IconData list_start = IconData(0xec0c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_todo = IconData(0xec0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_todo = IconData(0xec0d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_tree] icon from the Lucide icon set.
 ///
@@ -10224,7 +10204,7 @@ static const IconData list_todo = IconData(0xec0d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_tree = IconData(0xec0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_tree = IconData(0xec0e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_video] icon from the Lucide icon set.
 ///
@@ -10237,7 +10217,7 @@ static const IconData list_tree = IconData(0xec0e, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_video = IconData(0xec0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_video = IconData(0xec0f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list_x] icon from the Lucide icon set.
 ///
@@ -10250,7 +10230,7 @@ static const IconData list_video = IconData(0xec0f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list_x = IconData(0xec10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list_x = IconData(0xec10, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [list] icon from the Lucide icon set.
 ///
@@ -10263,7 +10243,7 @@ static const IconData list_x = IconData(0xec10, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData list = IconData(0xec11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData list = IconData(0xec11, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [loader_2] icon from the Lucide icon set.
 ///
@@ -10276,7 +10256,7 @@ static const IconData list = IconData(0xec11, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData loader_2 = IconData(0xec12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData loader_2 = IconData(0xec12, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [loader] icon from the Lucide icon set.
 ///
@@ -10289,7 +10269,7 @@ static const IconData loader_2 = IconData(0xec12, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData loader = IconData(0xec13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData loader = IconData(0xec13, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [locate_fixed] icon from the Lucide icon set.
 ///
@@ -10302,7 +10282,7 @@ static const IconData loader = IconData(0xec13, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData locate_fixed = IconData(0xec14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData locate_fixed = IconData(0xec14, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [locate_off] icon from the Lucide icon set.
 ///
@@ -10315,7 +10295,7 @@ static const IconData locate_fixed = IconData(0xec14, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData locate_off = IconData(0xec15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData locate_off = IconData(0xec15, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [locate] icon from the Lucide icon set.
 ///
@@ -10328,7 +10308,7 @@ static const IconData locate_off = IconData(0xec15, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData locate = IconData(0xec16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData locate = IconData(0xec16, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lock_keyhole] icon from the Lucide icon set.
 ///
@@ -10341,7 +10321,7 @@ static const IconData locate = IconData(0xec16, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lock_keyhole = IconData(0xec17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lock_keyhole = IconData(0xec17, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lock] icon from the Lucide icon set.
 ///
@@ -10354,7 +10334,7 @@ static const IconData lock_keyhole = IconData(0xec17, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lock = IconData(0xec18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lock = IconData(0xec18, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [log_in] icon from the Lucide icon set.
 ///
@@ -10367,7 +10347,7 @@ static const IconData lock = IconData(0xec18, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData log_in = IconData(0xec19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData log_in = IconData(0xec19, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [log_out] icon from the Lucide icon set.
 ///
@@ -10380,7 +10360,7 @@ static const IconData log_in = IconData(0xec19, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData log_out = IconData(0xec1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData log_out = IconData(0xec1a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [lollipop] icon from the Lucide icon set.
 ///
@@ -10393,7 +10373,7 @@ static const IconData log_out = IconData(0xec1a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData lollipop = IconData(0xec1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData lollipop = IconData(0xec1b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [luggage] icon from the Lucide icon set.
 ///
@@ -10406,7 +10386,7 @@ static const IconData lollipop = IconData(0xec1b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData luggage = IconData(0xec1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData luggage = IconData(0xec1c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [m_square] icon from the Lucide icon set.
 ///
@@ -10419,7 +10399,7 @@ static const IconData luggage = IconData(0xec1c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData m_square = IconData(0xec1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData m_square = IconData(0xec1d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [magnet] icon from the Lucide icon set.
 ///
@@ -10432,7 +10412,7 @@ static const IconData m_square = IconData(0xec1d, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData magnet = IconData(0xec1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData magnet = IconData(0xec1e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_check] icon from the Lucide icon set.
 ///
@@ -10445,7 +10425,7 @@ static const IconData magnet = IconData(0xec1e, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_check = IconData(0xec1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_check = IconData(0xec1f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_minus] icon from the Lucide icon set.
 ///
@@ -10458,7 +10438,7 @@ static const IconData mail_check = IconData(0xec1f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_minus = IconData(0xec20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_minus = IconData(0xec20, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_open] icon from the Lucide icon set.
 ///
@@ -10471,7 +10451,7 @@ static const IconData mail_minus = IconData(0xec20, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_open = IconData(0xec21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_open = IconData(0xec21, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_plus] icon from the Lucide icon set.
 ///
@@ -10484,7 +10464,7 @@ static const IconData mail_open = IconData(0xec21, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_plus = IconData(0xec22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_plus = IconData(0xec22, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_question] icon from the Lucide icon set.
 ///
@@ -10497,7 +10477,7 @@ static const IconData mail_plus = IconData(0xec22, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_question = IconData(0xec23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_question = IconData(0xec23, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_search] icon from the Lucide icon set.
 ///
@@ -10510,7 +10490,7 @@ static const IconData mail_question = IconData(0xec23, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_search = IconData(0xec24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_search = IconData(0xec24, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_warning] icon from the Lucide icon set.
 ///
@@ -10523,7 +10503,7 @@ static const IconData mail_search = IconData(0xec24, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_warning = IconData(0xec25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_warning = IconData(0xec25, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail_x] icon from the Lucide icon set.
 ///
@@ -10536,7 +10516,7 @@ static const IconData mail_warning = IconData(0xec25, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail_x = IconData(0xec26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail_x = IconData(0xec26, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mail] icon from the Lucide icon set.
 ///
@@ -10549,7 +10529,7 @@ static const IconData mail_x = IconData(0xec26, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mail = IconData(0xec27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mail = IconData(0xec27, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mailbox] icon from the Lucide icon set.
 ///
@@ -10562,7 +10542,7 @@ static const IconData mail = IconData(0xec27, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mailbox = IconData(0xec28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mailbox = IconData(0xec28, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mails] icon from the Lucide icon set.
 ///
@@ -10575,7 +10555,7 @@ static const IconData mailbox = IconData(0xec28, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mails = IconData(0xec29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mails = IconData(0xec29, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [map_pin_off] icon from the Lucide icon set.
 ///
@@ -10588,7 +10568,7 @@ static const IconData mails = IconData(0xec29, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData map_pin_off = IconData(0xec2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData map_pin_off = IconData(0xec2a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [map_pin] icon from the Lucide icon set.
 ///
@@ -10601,7 +10581,7 @@ static const IconData map_pin_off = IconData(0xec2a, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData map_pin = IconData(0xec2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData map_pin = IconData(0xec2b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [map_pinned] icon from the Lucide icon set.
 ///
@@ -10614,7 +10594,7 @@ static const IconData map_pin = IconData(0xec2b, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData map_pinned = IconData(0xec2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData map_pinned = IconData(0xec2c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [map] icon from the Lucide icon set.
 ///
@@ -10627,7 +10607,7 @@ static const IconData map_pinned = IconData(0xec2c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData map = IconData(0xec2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData map = IconData(0xec2d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [martini] icon from the Lucide icon set.
 ///
@@ -10640,7 +10620,7 @@ static const IconData map = IconData(0xec2d, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData martini = IconData(0xec2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData martini = IconData(0xec2e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [maximize_2] icon from the Lucide icon set.
 ///
@@ -10653,7 +10633,7 @@ static const IconData martini = IconData(0xec2e, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData maximize_2 = IconData(0xec2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData maximize_2 = IconData(0xec2f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [maximize] icon from the Lucide icon set.
 ///
@@ -10666,7 +10646,7 @@ static const IconData maximize_2 = IconData(0xec2f, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData maximize = IconData(0xec30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData maximize = IconData(0xec30, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [medal] icon from the Lucide icon set.
 ///
@@ -10679,7 +10659,7 @@ static const IconData maximize = IconData(0xec30, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData medal = IconData(0xec31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData medal = IconData(0xec31, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [megaphone_off] icon from the Lucide icon set.
 ///
@@ -10692,7 +10672,7 @@ static const IconData medal = IconData(0xec31, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData megaphone_off = IconData(0xec32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData megaphone_off = IconData(0xec32, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [megaphone] icon from the Lucide icon set.
 ///
@@ -10705,7 +10685,7 @@ static const IconData megaphone_off = IconData(0xec32, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData megaphone = IconData(0xec33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData megaphone = IconData(0xec33, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [meh] icon from the Lucide icon set.
 ///
@@ -10718,7 +10698,7 @@ static const IconData megaphone = IconData(0xec33, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData meh = IconData(0xec34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData meh = IconData(0xec34, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [memory_stick] icon from the Lucide icon set.
 ///
@@ -10731,7 +10711,7 @@ static const IconData meh = IconData(0xec34, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData memory_stick = IconData(0xec35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData memory_stick = IconData(0xec35, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [menu_square] icon from the Lucide icon set.
 ///
@@ -10744,7 +10724,7 @@ static const IconData memory_stick = IconData(0xec35, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData menu_square = IconData(0xec36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData menu_square = IconData(0xec36, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [menu] icon from the Lucide icon set.
 ///
@@ -10757,7 +10737,7 @@ static const IconData menu_square = IconData(0xec36, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData menu = IconData(0xec37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData menu = IconData(0xec37, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [merge] icon from the Lucide icon set.
 ///
@@ -10770,7 +10750,7 @@ static const IconData menu = IconData(0xec37, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData merge = IconData(0xec38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData merge = IconData(0xec38, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_code] icon from the Lucide icon set.
 ///
@@ -10783,7 +10763,7 @@ static const IconData merge = IconData(0xec38, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_code = IconData(0xec39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_code = IconData(0xec39, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_dashed] icon from the Lucide icon set.
 ///
@@ -10796,7 +10776,7 @@ static const IconData message_circle_code = IconData(0xec39, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_dashed = IconData(0xec3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_dashed = IconData(0xec3a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_heart] icon from the Lucide icon set.
 ///
@@ -10809,7 +10789,7 @@ static const IconData message_circle_dashed = IconData(0xec3a, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_heart = IconData(0xec3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_heart = IconData(0xec3b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_more] icon from the Lucide icon set.
 ///
@@ -10822,7 +10802,7 @@ static const IconData message_circle_heart = IconData(0xec3b, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_more = IconData(0xec3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_more = IconData(0xec3c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_off] icon from the Lucide icon set.
 ///
@@ -10835,7 +10815,7 @@ static const IconData message_circle_more = IconData(0xec3c, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_off = IconData(0xec3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_off = IconData(0xec3d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_plus] icon from the Lucide icon set.
 ///
@@ -10848,7 +10828,7 @@ static const IconData message_circle_off = IconData(0xec3d, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_plus = IconData(0xec3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_plus = IconData(0xec3e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_question] icon from the Lucide icon set.
 ///
@@ -10861,7 +10841,7 @@ static const IconData message_circle_plus = IconData(0xec3e, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_question = IconData(0xec3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_question = IconData(0xec3f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_reply] icon from the Lucide icon set.
 ///
@@ -10874,7 +10854,7 @@ static const IconData message_circle_question = IconData(0xec3f, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_reply = IconData(0xec40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_reply = IconData(0xec40, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_warning] icon from the Lucide icon set.
 ///
@@ -10887,7 +10867,7 @@ static const IconData message_circle_reply = IconData(0xec40, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_warning = IconData(0xec41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_warning = IconData(0xec41, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle_x] icon from the Lucide icon set.
 ///
@@ -10900,7 +10880,7 @@ static const IconData message_circle_warning = IconData(0xec41, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle_x = IconData(0xec42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle_x = IconData(0xec42, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_circle] icon from the Lucide icon set.
 ///
@@ -10913,7 +10893,7 @@ static const IconData message_circle_x = IconData(0xec42, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_circle = IconData(0xec43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_circle = IconData(0xec43, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_code] icon from the Lucide icon set.
 ///
@@ -10926,7 +10906,7 @@ static const IconData message_circle = IconData(0xec43, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_code = IconData(0xec44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_code = IconData(0xec44, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_dashed] icon from the Lucide icon set.
 ///
@@ -10939,7 +10919,7 @@ static const IconData message_square_code = IconData(0xec44, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_dashed = IconData(0xec45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_dashed = IconData(0xec45, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_diff] icon from the Lucide icon set.
 ///
@@ -10952,7 +10932,7 @@ static const IconData message_square_dashed = IconData(0xec45, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_diff = IconData(0xec46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_diff = IconData(0xec46, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_dot] icon from the Lucide icon set.
 ///
@@ -10965,7 +10945,7 @@ static const IconData message_square_diff = IconData(0xec46, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_dot = IconData(0xec47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_dot = IconData(0xec47, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_heart] icon from the Lucide icon set.
 ///
@@ -10978,7 +10958,7 @@ static const IconData message_square_dot = IconData(0xec47, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_heart = IconData(0xec48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_heart = IconData(0xec48, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_more] icon from the Lucide icon set.
 ///
@@ -10991,7 +10971,7 @@ static const IconData message_square_heart = IconData(0xec48, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_more = IconData(0xec49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_more = IconData(0xec49, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_off] icon from the Lucide icon set.
 ///
@@ -11004,7 +10984,7 @@ static const IconData message_square_more = IconData(0xec49, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_off = IconData(0xec4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_off = IconData(0xec4a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_plus] icon from the Lucide icon set.
 ///
@@ -11017,7 +10997,7 @@ static const IconData message_square_off = IconData(0xec4a, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_plus = IconData(0xec4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_plus = IconData(0xec4b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_quote] icon from the Lucide icon set.
 ///
@@ -11030,7 +11010,7 @@ static const IconData message_square_plus = IconData(0xec4b, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_quote = IconData(0xec4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_quote = IconData(0xec4c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_reply] icon from the Lucide icon set.
 ///
@@ -11043,7 +11023,7 @@ static const IconData message_square_quote = IconData(0xec4c, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_reply = IconData(0xec4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_reply = IconData(0xec4d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_share] icon from the Lucide icon set.
 ///
@@ -11056,7 +11036,7 @@ static const IconData message_square_reply = IconData(0xec4d, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_share = IconData(0xec4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_share = IconData(0xec4e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_text] icon from the Lucide icon set.
 ///
@@ -11069,7 +11049,7 @@ static const IconData message_square_share = IconData(0xec4e, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_text = IconData(0xec4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_text = IconData(0xec4f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_warning] icon from the Lucide icon set.
 ///
@@ -11082,7 +11062,7 @@ static const IconData message_square_text = IconData(0xec4f, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_warning = IconData(0xec50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_warning = IconData(0xec50, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square_x] icon from the Lucide icon set.
 ///
@@ -11095,7 +11075,7 @@ static const IconData message_square_warning = IconData(0xec50, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square_x = IconData(0xec51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square_x = IconData(0xec51, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [message_square] icon from the Lucide icon set.
 ///
@@ -11108,7 +11088,7 @@ static const IconData message_square_x = IconData(0xec51, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData message_square = IconData(0xec52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData message_square = IconData(0xec52, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [messages_square] icon from the Lucide icon set.
 ///
@@ -11121,7 +11101,7 @@ static const IconData message_square = IconData(0xec52, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData messages_square = IconData(0xec53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData messages_square = IconData(0xec53, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mic_2] icon from the Lucide icon set.
 ///
@@ -11134,7 +11114,7 @@ static const IconData messages_square = IconData(0xec53, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mic_2 = IconData(0xec54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mic_2 = IconData(0xec54, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mic_off] icon from the Lucide icon set.
 ///
@@ -11147,7 +11127,7 @@ static const IconData mic_2 = IconData(0xec54, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mic_off = IconData(0xec55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mic_off = IconData(0xec55, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mic] icon from the Lucide icon set.
 ///
@@ -11160,7 +11140,7 @@ static const IconData mic_off = IconData(0xec55, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mic = IconData(0xec56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mic = IconData(0xec56, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [microscope] icon from the Lucide icon set.
 ///
@@ -11173,7 +11153,7 @@ static const IconData mic = IconData(0xec56, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData microscope = IconData(0xec57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData microscope = IconData(0xec57, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [microwave] icon from the Lucide icon set.
 ///
@@ -11186,7 +11166,7 @@ static const IconData microscope = IconData(0xec57, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData microwave = IconData(0xec58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData microwave = IconData(0xec58, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [milestone] icon from the Lucide icon set.
 ///
@@ -11199,7 +11179,7 @@ static const IconData microwave = IconData(0xec58, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData milestone = IconData(0xec59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData milestone = IconData(0xec59, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [milk_off] icon from the Lucide icon set.
 ///
@@ -11212,7 +11192,7 @@ static const IconData milestone = IconData(0xec59, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData milk_off = IconData(0xec5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData milk_off = IconData(0xec5a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [milk] icon from the Lucide icon set.
 ///
@@ -11225,7 +11205,7 @@ static const IconData milk_off = IconData(0xec5a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData milk = IconData(0xec5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData milk = IconData(0xec5b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [minimize_2] icon from the Lucide icon set.
 ///
@@ -11238,7 +11218,7 @@ static const IconData milk = IconData(0xec5b, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData minimize_2 = IconData(0xec5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData minimize_2 = IconData(0xec5c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [minimize] icon from the Lucide icon set.
 ///
@@ -11251,7 +11231,7 @@ static const IconData minimize_2 = IconData(0xec5c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData minimize = IconData(0xec5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData minimize = IconData(0xec5d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [minus_circle] icon from the Lucide icon set.
 ///
@@ -11264,7 +11244,7 @@ static const IconData minimize = IconData(0xec5d, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData minus_circle = IconData(0xec5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData minus_circle = IconData(0xec5e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [minus_square] icon from the Lucide icon set.
 ///
@@ -11277,7 +11257,7 @@ static const IconData minus_circle = IconData(0xec5e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData minus_square = IconData(0xec5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData minus_square = IconData(0xec5f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [minus] icon from the Lucide icon set.
 ///
@@ -11290,7 +11270,7 @@ static const IconData minus_square = IconData(0xec5f, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData minus = IconData(0xec60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData minus = IconData(0xec60, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_check] icon from the Lucide icon set.
 ///
@@ -11303,7 +11283,7 @@ static const IconData minus = IconData(0xec60, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_check = IconData(0xec61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_check = IconData(0xec61, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_dot] icon from the Lucide icon set.
 ///
@@ -11316,7 +11296,7 @@ static const IconData monitor_check = IconData(0xec61, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_dot = IconData(0xec62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_dot = IconData(0xec62, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_down] icon from the Lucide icon set.
 ///
@@ -11329,7 +11309,7 @@ static const IconData monitor_dot = IconData(0xec62, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_down = IconData(0xec63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_down = IconData(0xec63, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_off] icon from the Lucide icon set.
 ///
@@ -11342,7 +11322,7 @@ static const IconData monitor_down = IconData(0xec63, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_off = IconData(0xec64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_off = IconData(0xec64, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_pause] icon from the Lucide icon set.
 ///
@@ -11355,7 +11335,7 @@ static const IconData monitor_off = IconData(0xec64, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_pause = IconData(0xec65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_pause = IconData(0xec65, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_play] icon from the Lucide icon set.
 ///
@@ -11368,7 +11348,7 @@ static const IconData monitor_pause = IconData(0xec65, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_play = IconData(0xec66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_play = IconData(0xec66, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_smartphone] icon from the Lucide icon set.
 ///
@@ -11381,7 +11361,7 @@ static const IconData monitor_play = IconData(0xec66, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_smartphone = IconData(0xec67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_smartphone = IconData(0xec67, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_speaker] icon from the Lucide icon set.
 ///
@@ -11394,7 +11374,7 @@ static const IconData monitor_smartphone = IconData(0xec67, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_speaker = IconData(0xec68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_speaker = IconData(0xec68, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_stop] icon from the Lucide icon set.
 ///
@@ -11407,7 +11387,7 @@ static const IconData monitor_speaker = IconData(0xec68, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_stop = IconData(0xec69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_stop = IconData(0xec69, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_up] icon from the Lucide icon set.
 ///
@@ -11420,7 +11400,7 @@ static const IconData monitor_stop = IconData(0xec69, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_up = IconData(0xec6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_up = IconData(0xec6a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor_x] icon from the Lucide icon set.
 ///
@@ -11433,7 +11413,7 @@ static const IconData monitor_up = IconData(0xec6a, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor_x = IconData(0xec6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor_x = IconData(0xec6b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [monitor] icon from the Lucide icon set.
 ///
@@ -11446,7 +11426,7 @@ static const IconData monitor_x = IconData(0xec6b, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData monitor = IconData(0xec6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData monitor = IconData(0xec6c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [moon_star] icon from the Lucide icon set.
 ///
@@ -11459,7 +11439,7 @@ static const IconData monitor = IconData(0xec6c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData moon_star = IconData(0xec6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData moon_star = IconData(0xec6d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [moon] icon from the Lucide icon set.
 ///
@@ -11472,7 +11452,7 @@ static const IconData moon_star = IconData(0xec6d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData moon = IconData(0xec6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData moon = IconData(0xec6e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [more_horizontal] icon from the Lucide icon set.
 ///
@@ -11485,7 +11465,7 @@ static const IconData moon = IconData(0xec6e, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData more_horizontal = IconData(0xec6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData more_horizontal = IconData(0xec6f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [more_vertical] icon from the Lucide icon set.
 ///
@@ -11498,7 +11478,7 @@ static const IconData more_horizontal = IconData(0xec6f, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData more_vertical = IconData(0xec70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData more_vertical = IconData(0xec70, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mountain_snow] icon from the Lucide icon set.
 ///
@@ -11511,7 +11491,7 @@ static const IconData more_vertical = IconData(0xec70, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mountain_snow = IconData(0xec71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mountain_snow = IconData(0xec71, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mountain] icon from the Lucide icon set.
 ///
@@ -11524,7 +11504,7 @@ static const IconData mountain_snow = IconData(0xec71, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mountain = IconData(0xec72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mountain = IconData(0xec72, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse_pointer_2] icon from the Lucide icon set.
 ///
@@ -11537,7 +11517,7 @@ static const IconData mountain = IconData(0xec72, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse_pointer_2 = IconData(0xec73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse_pointer_2 = IconData(0xec73, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse_pointer_click] icon from the Lucide icon set.
 ///
@@ -11550,7 +11530,7 @@ static const IconData mouse_pointer_2 = IconData(0xec73, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse_pointer_click = IconData(0xec74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse_pointer_click = IconData(0xec74, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse_pointer_square_dashed] icon from the Lucide icon set.
 ///
@@ -11563,7 +11543,7 @@ static const IconData mouse_pointer_click = IconData(0xec74, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse_pointer_square_dashed = IconData(0xec75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse_pointer_square_dashed = IconData(0xec75, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse_pointer_square] icon from the Lucide icon set.
 ///
@@ -11576,7 +11556,7 @@ static const IconData mouse_pointer_square_dashed = IconData(0xec75, fontFamily:
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse_pointer_square = IconData(0xec76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse_pointer_square = IconData(0xec76, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse_pointer] icon from the Lucide icon set.
 ///
@@ -11589,7 +11569,7 @@ static const IconData mouse_pointer_square = IconData(0xec76, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse_pointer = IconData(0xec77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse_pointer = IconData(0xec77, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [mouse] icon from the Lucide icon set.
 ///
@@ -11602,7 +11582,7 @@ static const IconData mouse_pointer = IconData(0xec77, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData mouse = IconData(0xec78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData mouse = IconData(0xec78, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_3d] icon from the Lucide icon set.
 ///
@@ -11615,7 +11595,7 @@ static const IconData mouse = IconData(0xec78, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_3d = IconData(0xec79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_3d = IconData(0xec79, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_diagonal_2] icon from the Lucide icon set.
 ///
@@ -11628,7 +11608,7 @@ static const IconData move_3d = IconData(0xec79, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_diagonal_2 = IconData(0xec7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_diagonal_2 = IconData(0xec7a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_diagonal] icon from the Lucide icon set.
 ///
@@ -11641,7 +11621,7 @@ static const IconData move_diagonal_2 = IconData(0xec7a, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_diagonal = IconData(0xec7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_diagonal = IconData(0xec7b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_down_left] icon from the Lucide icon set.
 ///
@@ -11654,7 +11634,7 @@ static const IconData move_diagonal = IconData(0xec7b, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_down_left = IconData(0xec7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_down_left = IconData(0xec7c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_down_right] icon from the Lucide icon set.
 ///
@@ -11667,7 +11647,7 @@ static const IconData move_down_left = IconData(0xec7c, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_down_right = IconData(0xec7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_down_right = IconData(0xec7d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_down] icon from the Lucide icon set.
 ///
@@ -11680,7 +11660,7 @@ static const IconData move_down_right = IconData(0xec7d, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_down = IconData(0xec7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_down = IconData(0xec7e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_horizontal] icon from the Lucide icon set.
 ///
@@ -11693,7 +11673,7 @@ static const IconData move_down = IconData(0xec7e, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_horizontal = IconData(0xec7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_horizontal = IconData(0xec7f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_left] icon from the Lucide icon set.
 ///
@@ -11706,7 +11686,7 @@ static const IconData move_horizontal = IconData(0xec7f, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_left = IconData(0xec80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_left = IconData(0xec80, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_right] icon from the Lucide icon set.
 ///
@@ -11719,7 +11699,7 @@ static const IconData move_left = IconData(0xec80, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_right = IconData(0xec81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_right = IconData(0xec81, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_up_left] icon from the Lucide icon set.
 ///
@@ -11732,7 +11712,7 @@ static const IconData move_right = IconData(0xec81, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_up_left = IconData(0xec82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_up_left = IconData(0xec82, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_up_right] icon from the Lucide icon set.
 ///
@@ -11745,7 +11725,7 @@ static const IconData move_up_left = IconData(0xec82, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_up_right = IconData(0xec83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_up_right = IconData(0xec83, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_up] icon from the Lucide icon set.
 ///
@@ -11758,7 +11738,7 @@ static const IconData move_up_right = IconData(0xec83, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_up = IconData(0xec84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_up = IconData(0xec84, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move_vertical] icon from the Lucide icon set.
 ///
@@ -11771,7 +11751,7 @@ static const IconData move_up = IconData(0xec84, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move_vertical = IconData(0xec85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move_vertical = IconData(0xec85, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [move] icon from the Lucide icon set.
 ///
@@ -11784,7 +11764,7 @@ static const IconData move_vertical = IconData(0xec85, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData move = IconData(0xec86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData move = IconData(0xec86, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [music_2] icon from the Lucide icon set.
 ///
@@ -11797,7 +11777,7 @@ static const IconData move = IconData(0xec86, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData music_2 = IconData(0xec87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData music_2 = IconData(0xec87, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [music_3] icon from the Lucide icon set.
 ///
@@ -11810,7 +11790,7 @@ static const IconData music_2 = IconData(0xec87, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData music_3 = IconData(0xec88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData music_3 = IconData(0xec88, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [music_4] icon from the Lucide icon set.
 ///
@@ -11823,7 +11803,7 @@ static const IconData music_3 = IconData(0xec88, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData music_4 = IconData(0xec89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData music_4 = IconData(0xec89, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [music] icon from the Lucide icon set.
 ///
@@ -11836,7 +11816,7 @@ static const IconData music_4 = IconData(0xec89, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData music = IconData(0xec8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData music = IconData(0xec8a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [navigation_2_off] icon from the Lucide icon set.
 ///
@@ -11849,7 +11829,7 @@ static const IconData music = IconData(0xec8a, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData navigation_2_off = IconData(0xec8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData navigation_2_off = IconData(0xec8b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [navigation_2] icon from the Lucide icon set.
 ///
@@ -11862,7 +11842,7 @@ static const IconData navigation_2_off = IconData(0xec8b, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData navigation_2 = IconData(0xec8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData navigation_2 = IconData(0xec8c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [navigation_off] icon from the Lucide icon set.
 ///
@@ -11875,7 +11855,7 @@ static const IconData navigation_2 = IconData(0xec8c, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData navigation_off = IconData(0xec8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData navigation_off = IconData(0xec8d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [navigation] icon from the Lucide icon set.
 ///
@@ -11888,7 +11868,7 @@ static const IconData navigation_off = IconData(0xec8d, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData navigation = IconData(0xec8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData navigation = IconData(0xec8e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [network] icon from the Lucide icon set.
 ///
@@ -11901,7 +11881,7 @@ static const IconData navigation = IconData(0xec8e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData network = IconData(0xec8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData network = IconData(0xec8f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [newspaper] icon from the Lucide icon set.
 ///
@@ -11914,7 +11894,7 @@ static const IconData network = IconData(0xec8f, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData newspaper = IconData(0xec90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData newspaper = IconData(0xec90, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [nfc] icon from the Lucide icon set.
 ///
@@ -11927,7 +11907,7 @@ static const IconData newspaper = IconData(0xec90, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData nfc = IconData(0xec91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData nfc = IconData(0xec91, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notebook_pen] icon from the Lucide icon set.
 ///
@@ -11940,7 +11920,7 @@ static const IconData nfc = IconData(0xec91, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notebook_pen = IconData(0xec92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notebook_pen = IconData(0xec92, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notebook_tabs] icon from the Lucide icon set.
 ///
@@ -11953,7 +11933,7 @@ static const IconData notebook_pen = IconData(0xec92, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notebook_tabs = IconData(0xec93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notebook_tabs = IconData(0xec93, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notebook_text] icon from the Lucide icon set.
 ///
@@ -11966,7 +11946,7 @@ static const IconData notebook_tabs = IconData(0xec93, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notebook_text = IconData(0xec94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notebook_text = IconData(0xec94, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notebook] icon from the Lucide icon set.
 ///
@@ -11979,7 +11959,7 @@ static const IconData notebook_text = IconData(0xec94, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notebook = IconData(0xec95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notebook = IconData(0xec95, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notepad_text_dashed] icon from the Lucide icon set.
 ///
@@ -11992,7 +11972,7 @@ static const IconData notebook = IconData(0xec95, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notepad_text_dashed = IconData(0xec96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notepad_text_dashed = IconData(0xec96, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [notepad_text] icon from the Lucide icon set.
 ///
@@ -12005,7 +11985,7 @@ static const IconData notepad_text_dashed = IconData(0xec96, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData notepad_text = IconData(0xec97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData notepad_text = IconData(0xec97, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [nut_off] icon from the Lucide icon set.
 ///
@@ -12018,7 +11998,7 @@ static const IconData notepad_text = IconData(0xec97, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData nut_off = IconData(0xec98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData nut_off = IconData(0xec98, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [nut] icon from the Lucide icon set.
 ///
@@ -12031,7 +12011,7 @@ static const IconData nut_off = IconData(0xec98, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData nut = IconData(0xec99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData nut = IconData(0xec99, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [octagon] icon from the Lucide icon set.
 ///
@@ -12044,7 +12024,7 @@ static const IconData nut = IconData(0xec99, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData octagon = IconData(0xec9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData octagon = IconData(0xec9a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [option] icon from the Lucide icon set.
 ///
@@ -12057,7 +12037,7 @@ static const IconData octagon = IconData(0xec9a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData option = IconData(0xec9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData option = IconData(0xec9b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [orbit] icon from the Lucide icon set.
 ///
@@ -12070,7 +12050,7 @@ static const IconData option = IconData(0xec9b, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData orbit = IconData(0xec9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData orbit = IconData(0xec9c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [outdent] icon from the Lucide icon set.
 ///
@@ -12083,7 +12063,7 @@ static const IconData orbit = IconData(0xec9c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData outdent = IconData(0xec9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData outdent = IconData(0xec9d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_2] icon from the Lucide icon set.
 ///
@@ -12096,7 +12076,7 @@ static const IconData outdent = IconData(0xec9d, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_2 = IconData(0xec9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_2 = IconData(0xec9e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_check] icon from the Lucide icon set.
 ///
@@ -12109,7 +12089,7 @@ static const IconData package_2 = IconData(0xec9e, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_check = IconData(0xec9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_check = IconData(0xec9f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_minus] icon from the Lucide icon set.
 ///
@@ -12122,7 +12102,7 @@ static const IconData package_check = IconData(0xec9f, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_minus = IconData(0xeca0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_minus = IconData(0xeca0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_open] icon from the Lucide icon set.
 ///
@@ -12135,7 +12115,7 @@ static const IconData package_minus = IconData(0xeca0, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_open = IconData(0xeca1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_open = IconData(0xeca1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_plus] icon from the Lucide icon set.
 ///
@@ -12148,7 +12128,7 @@ static const IconData package_open = IconData(0xeca1, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_plus = IconData(0xeca2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_plus = IconData(0xeca2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_search] icon from the Lucide icon set.
 ///
@@ -12161,7 +12141,7 @@ static const IconData package_plus = IconData(0xeca2, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_search = IconData(0xeca3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_search = IconData(0xeca3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package_x] icon from the Lucide icon set.
 ///
@@ -12174,7 +12154,7 @@ static const IconData package_search = IconData(0xeca3, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package_x = IconData(0xeca4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package_x = IconData(0xeca4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [package] icon from the Lucide icon set.
 ///
@@ -12187,7 +12167,7 @@ static const IconData package_x = IconData(0xeca4, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData package = IconData(0xeca5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData package = IconData(0xeca5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paint_bucket] icon from the Lucide icon set.
 ///
@@ -12200,7 +12180,7 @@ static const IconData package = IconData(0xeca5, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paint_bucket = IconData(0xeca6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paint_bucket = IconData(0xeca6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paint_roller] icon from the Lucide icon set.
 ///
@@ -12213,7 +12193,7 @@ static const IconData paint_bucket = IconData(0xeca6, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paint_roller = IconData(0xeca7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paint_roller = IconData(0xeca7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paintbrush_2] icon from the Lucide icon set.
 ///
@@ -12226,7 +12206,7 @@ static const IconData paint_roller = IconData(0xeca7, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paintbrush_2 = IconData(0xeca8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paintbrush_2 = IconData(0xeca8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paintbrush] icon from the Lucide icon set.
 ///
@@ -12239,7 +12219,7 @@ static const IconData paintbrush_2 = IconData(0xeca8, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paintbrush = IconData(0xeca9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paintbrush = IconData(0xeca9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [palette] icon from the Lucide icon set.
 ///
@@ -12252,7 +12232,7 @@ static const IconData paintbrush = IconData(0xeca9, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData palette = IconData(0xecaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData palette = IconData(0xecaa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [palmtree] icon from the Lucide icon set.
 ///
@@ -12265,7 +12245,7 @@ static const IconData palette = IconData(0xecaa, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData palmtree = IconData(0xecab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData palmtree = IconData(0xecab, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_bottom_close] icon from the Lucide icon set.
 ///
@@ -12278,7 +12258,7 @@ static const IconData palmtree = IconData(0xecab, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_bottom_close = IconData(0xecac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_bottom_close = IconData(0xecac, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_bottom_dashed] icon from the Lucide icon set.
 ///
@@ -12291,7 +12271,7 @@ static const IconData panel_bottom_close = IconData(0xecac, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_bottom_dashed = IconData(0xecad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_bottom_dashed = IconData(0xecad, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_bottom_open] icon from the Lucide icon set.
 ///
@@ -12304,7 +12284,7 @@ static const IconData panel_bottom_dashed = IconData(0xecad, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_bottom_open = IconData(0xecae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_bottom_open = IconData(0xecae, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_bottom] icon from the Lucide icon set.
 ///
@@ -12317,7 +12297,7 @@ static const IconData panel_bottom_open = IconData(0xecae, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_bottom = IconData(0xecaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_bottom = IconData(0xecaf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_left_close] icon from the Lucide icon set.
 ///
@@ -12330,7 +12310,7 @@ static const IconData panel_bottom = IconData(0xecaf, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_left_close = IconData(0xecb0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_left_close = IconData(0xecb0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_left_dashed] icon from the Lucide icon set.
 ///
@@ -12343,7 +12323,7 @@ static const IconData panel_left_close = IconData(0xecb0, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_left_dashed = IconData(0xecb1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_left_dashed = IconData(0xecb1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_left_open] icon from the Lucide icon set.
 ///
@@ -12356,7 +12336,7 @@ static const IconData panel_left_dashed = IconData(0xecb1, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_left_open = IconData(0xecb2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_left_open = IconData(0xecb2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_left] icon from the Lucide icon set.
 ///
@@ -12369,7 +12349,7 @@ static const IconData panel_left_open = IconData(0xecb2, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_left = IconData(0xecb3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_left = IconData(0xecb3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_right_close] icon from the Lucide icon set.
 ///
@@ -12382,7 +12362,7 @@ static const IconData panel_left = IconData(0xecb3, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_right_close = IconData(0xecb4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_right_close = IconData(0xecb4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_right_dashed] icon from the Lucide icon set.
 ///
@@ -12395,7 +12375,7 @@ static const IconData panel_right_close = IconData(0xecb4, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_right_dashed = IconData(0xecb5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_right_dashed = IconData(0xecb5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_right_open] icon from the Lucide icon set.
 ///
@@ -12408,7 +12388,7 @@ static const IconData panel_right_dashed = IconData(0xecb5, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_right_open = IconData(0xecb6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_right_open = IconData(0xecb6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_right] icon from the Lucide icon set.
 ///
@@ -12421,7 +12401,7 @@ static const IconData panel_right_open = IconData(0xecb6, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_right = IconData(0xecb7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_right = IconData(0xecb7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_top_close] icon from the Lucide icon set.
 ///
@@ -12434,7 +12414,7 @@ static const IconData panel_right = IconData(0xecb7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_top_close = IconData(0xecb8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_top_close = IconData(0xecb8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_top_dashed] icon from the Lucide icon set.
 ///
@@ -12447,7 +12427,7 @@ static const IconData panel_top_close = IconData(0xecb8, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_top_dashed = IconData(0xecb9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_top_dashed = IconData(0xecb9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_top_open] icon from the Lucide icon set.
 ///
@@ -12460,7 +12440,7 @@ static const IconData panel_top_dashed = IconData(0xecb9, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_top_open = IconData(0xecba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_top_open = IconData(0xecba, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panel_top] icon from the Lucide icon set.
 ///
@@ -12473,7 +12453,7 @@ static const IconData panel_top_open = IconData(0xecba, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panel_top = IconData(0xecbb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panel_top = IconData(0xecbb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panels_left_bottom] icon from the Lucide icon set.
 ///
@@ -12486,7 +12466,7 @@ static const IconData panel_top = IconData(0xecbb, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panels_left_bottom = IconData(0xecbc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panels_left_bottom = IconData(0xecbc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panels_right_bottom] icon from the Lucide icon set.
 ///
@@ -12499,7 +12479,7 @@ static const IconData panels_left_bottom = IconData(0xecbc, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panels_right_bottom = IconData(0xecbd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panels_right_bottom = IconData(0xecbd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [panels_top_left] icon from the Lucide icon set.
 ///
@@ -12512,7 +12492,7 @@ static const IconData panels_right_bottom = IconData(0xecbd, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData panels_top_left = IconData(0xecbe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData panels_top_left = IconData(0xecbe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paperclip] icon from the Lucide icon set.
 ///
@@ -12525,7 +12505,7 @@ static const IconData panels_top_left = IconData(0xecbe, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paperclip = IconData(0xecbf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paperclip = IconData(0xecbf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parentheses] icon from the Lucide icon set.
 ///
@@ -12538,7 +12518,7 @@ static const IconData paperclip = IconData(0xecbf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parentheses = IconData(0xecc0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parentheses = IconData(0xecc0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parking_circle_off] icon from the Lucide icon set.
 ///
@@ -12551,7 +12531,7 @@ static const IconData parentheses = IconData(0xecc0, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parking_circle_off = IconData(0xecc1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parking_circle_off = IconData(0xecc1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parking_circle] icon from the Lucide icon set.
 ///
@@ -12564,7 +12544,7 @@ static const IconData parking_circle_off = IconData(0xecc1, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parking_circle = IconData(0xecc2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parking_circle = IconData(0xecc2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parking_meter] icon from the Lucide icon set.
 ///
@@ -12577,7 +12557,7 @@ static const IconData parking_circle = IconData(0xecc2, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parking_meter = IconData(0xecc3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parking_meter = IconData(0xecc3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parking_square_off] icon from the Lucide icon set.
 ///
@@ -12590,7 +12570,7 @@ static const IconData parking_meter = IconData(0xecc3, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parking_square_off = IconData(0xecc4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parking_square_off = IconData(0xecc4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [parking_square] icon from the Lucide icon set.
 ///
@@ -12603,7 +12583,7 @@ static const IconData parking_square_off = IconData(0xecc4, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData parking_square = IconData(0xecc5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData parking_square = IconData(0xecc5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [party_popper] icon from the Lucide icon set.
 ///
@@ -12616,7 +12596,7 @@ static const IconData parking_square = IconData(0xecc5, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData party_popper = IconData(0xecc6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData party_popper = IconData(0xecc6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pause_circle] icon from the Lucide icon set.
 ///
@@ -12629,7 +12609,7 @@ static const IconData party_popper = IconData(0xecc6, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pause_circle = IconData(0xecc7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pause_circle = IconData(0xecc7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pause_octagon] icon from the Lucide icon set.
 ///
@@ -12642,7 +12622,7 @@ static const IconData pause_circle = IconData(0xecc7, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pause_octagon = IconData(0xecc8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pause_octagon = IconData(0xecc8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pause] icon from the Lucide icon set.
 ///
@@ -12655,7 +12635,7 @@ static const IconData pause_octagon = IconData(0xecc8, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pause = IconData(0xecc9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pause = IconData(0xecc9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [paw_print] icon from the Lucide icon set.
 ///
@@ -12668,7 +12648,7 @@ static const IconData pause = IconData(0xecc9, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData paw_print = IconData(0xecca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData paw_print = IconData(0xecca, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pc_case] icon from the Lucide icon set.
 ///
@@ -12681,7 +12661,7 @@ static const IconData paw_print = IconData(0xecca, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pc_case = IconData(0xeccb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pc_case = IconData(0xeccb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pen_line] icon from the Lucide icon set.
 ///
@@ -12694,7 +12674,7 @@ static const IconData pc_case = IconData(0xeccb, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pen_line = IconData(0xeccc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pen_line = IconData(0xeccc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pen_tool] icon from the Lucide icon set.
 ///
@@ -12707,7 +12687,7 @@ static const IconData pen_line = IconData(0xeccc, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pen_tool = IconData(0xeccd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pen_tool = IconData(0xeccd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pen] icon from the Lucide icon set.
 ///
@@ -12720,7 +12700,7 @@ static const IconData pen_tool = IconData(0xeccd, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pen = IconData(0xecce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pen = IconData(0xecce, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pencil_line] icon from the Lucide icon set.
 ///
@@ -12733,7 +12713,7 @@ static const IconData pen = IconData(0xecce, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pencil_line = IconData(0xeccf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pencil_line = IconData(0xeccf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pencil_ruler] icon from the Lucide icon set.
 ///
@@ -12746,7 +12726,7 @@ static const IconData pencil_line = IconData(0xeccf, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pencil_ruler = IconData(0xecd0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pencil_ruler = IconData(0xecd0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pencil] icon from the Lucide icon set.
 ///
@@ -12759,7 +12739,7 @@ static const IconData pencil_ruler = IconData(0xecd0, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pencil = IconData(0xecd1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pencil = IconData(0xecd1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pentagon] icon from the Lucide icon set.
 ///
@@ -12772,7 +12752,7 @@ static const IconData pencil = IconData(0xecd1, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pentagon = IconData(0xecd2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pentagon = IconData(0xecd2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [percent_circle] icon from the Lucide icon set.
 ///
@@ -12785,7 +12765,7 @@ static const IconData pentagon = IconData(0xecd2, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData percent_circle = IconData(0xecd3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData percent_circle = IconData(0xecd3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [percent_diamond] icon from the Lucide icon set.
 ///
@@ -12798,7 +12778,7 @@ static const IconData percent_circle = IconData(0xecd3, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData percent_diamond = IconData(0xecd4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData percent_diamond = IconData(0xecd4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [percent_square] icon from the Lucide icon set.
 ///
@@ -12811,7 +12791,7 @@ static const IconData percent_diamond = IconData(0xecd4, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData percent_square = IconData(0xecd5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData percent_square = IconData(0xecd5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [percent] icon from the Lucide icon set.
 ///
@@ -12824,7 +12804,7 @@ static const IconData percent_square = IconData(0xecd5, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData percent = IconData(0xecd6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData percent = IconData(0xecd6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [person_standing] icon from the Lucide icon set.
 ///
@@ -12837,7 +12817,7 @@ static const IconData percent = IconData(0xecd6, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData person_standing = IconData(0xecd7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData person_standing = IconData(0xecd7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_call] icon from the Lucide icon set.
 ///
@@ -12850,7 +12830,7 @@ static const IconData person_standing = IconData(0xecd7, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_call = IconData(0xecd8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_call = IconData(0xecd8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_forwarded] icon from the Lucide icon set.
 ///
@@ -12863,7 +12843,7 @@ static const IconData phone_call = IconData(0xecd8, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_forwarded = IconData(0xecd9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_forwarded = IconData(0xecd9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_incoming] icon from the Lucide icon set.
 ///
@@ -12876,7 +12856,7 @@ static const IconData phone_forwarded = IconData(0xecd9, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_incoming = IconData(0xecda, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_incoming = IconData(0xecda, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_missed] icon from the Lucide icon set.
 ///
@@ -12889,7 +12869,7 @@ static const IconData phone_incoming = IconData(0xecda, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_missed = IconData(0xecdb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_missed = IconData(0xecdb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_off] icon from the Lucide icon set.
 ///
@@ -12902,7 +12882,7 @@ static const IconData phone_missed = IconData(0xecdb, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_off = IconData(0xecdc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_off = IconData(0xecdc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone_outgoing] icon from the Lucide icon set.
 ///
@@ -12915,7 +12895,7 @@ static const IconData phone_off = IconData(0xecdc, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone_outgoing = IconData(0xecdd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone_outgoing = IconData(0xecdd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [phone] icon from the Lucide icon set.
 ///
@@ -12928,7 +12908,7 @@ static const IconData phone_outgoing = IconData(0xecdd, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData phone = IconData(0xecde, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData phone = IconData(0xecde, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pi_square] icon from the Lucide icon set.
 ///
@@ -12941,7 +12921,7 @@ static const IconData phone = IconData(0xecde, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pi_square = IconData(0xecdf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pi_square = IconData(0xecdf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pi] icon from the Lucide icon set.
 ///
@@ -12954,7 +12934,7 @@ static const IconData pi_square = IconData(0xecdf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pi = IconData(0xece0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pi = IconData(0xece0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [piano] icon from the Lucide icon set.
 ///
@@ -12967,7 +12947,7 @@ static const IconData pi = IconData(0xece0, fontFamily: _fontFamily, fontPackage
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData piano = IconData(0xece1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData piano = IconData(0xece1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [picture_in_picture_2] icon from the Lucide icon set.
 ///
@@ -12980,7 +12960,7 @@ static const IconData piano = IconData(0xece1, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData picture_in_picture_2 = IconData(0xece2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData picture_in_picture_2 = IconData(0xece2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [picture_in_picture] icon from the Lucide icon set.
 ///
@@ -12993,7 +12973,7 @@ static const IconData picture_in_picture_2 = IconData(0xece2, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData picture_in_picture = IconData(0xece3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData picture_in_picture = IconData(0xece3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pie_chart] icon from the Lucide icon set.
 ///
@@ -13006,7 +12986,7 @@ static const IconData picture_in_picture = IconData(0xece3, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pie_chart = IconData(0xece4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pie_chart = IconData(0xece4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [piggy_bank] icon from the Lucide icon set.
 ///
@@ -13019,7 +12999,7 @@ static const IconData pie_chart = IconData(0xece4, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData piggy_bank = IconData(0xece5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData piggy_bank = IconData(0xece5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pilcrow_square] icon from the Lucide icon set.
 ///
@@ -13032,7 +13012,7 @@ static const IconData piggy_bank = IconData(0xece5, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pilcrow_square = IconData(0xece6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pilcrow_square = IconData(0xece6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pilcrow] icon from the Lucide icon set.
 ///
@@ -13045,7 +13025,7 @@ static const IconData pilcrow_square = IconData(0xece6, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pilcrow = IconData(0xece7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pilcrow = IconData(0xece7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pill] icon from the Lucide icon set.
 ///
@@ -13058,7 +13038,7 @@ static const IconData pilcrow = IconData(0xece7, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pill = IconData(0xece8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pill = IconData(0xece8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pin_off] icon from the Lucide icon set.
 ///
@@ -13071,7 +13051,7 @@ static const IconData pill = IconData(0xece8, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pin_off = IconData(0xece9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pin_off = IconData(0xece9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pin] icon from the Lucide icon set.
 ///
@@ -13084,7 +13064,7 @@ static const IconData pin_off = IconData(0xece9, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pin = IconData(0xecea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pin = IconData(0xecea, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pipette] icon from the Lucide icon set.
 ///
@@ -13097,7 +13077,7 @@ static const IconData pin = IconData(0xecea, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pipette = IconData(0xeceb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pipette = IconData(0xeceb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pizza] icon from the Lucide icon set.
 ///
@@ -13110,7 +13090,7 @@ static const IconData pipette = IconData(0xeceb, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pizza = IconData(0xecec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pizza = IconData(0xecec, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plane_landing] icon from the Lucide icon set.
 ///
@@ -13123,7 +13103,7 @@ static const IconData pizza = IconData(0xecec, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plane_landing = IconData(0xeced, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plane_landing = IconData(0xeced, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plane_takeoff] icon from the Lucide icon set.
 ///
@@ -13136,7 +13116,7 @@ static const IconData plane_landing = IconData(0xeced, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plane_takeoff = IconData(0xecee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plane_takeoff = IconData(0xecee, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plane] icon from the Lucide icon set.
 ///
@@ -13149,7 +13129,7 @@ static const IconData plane_takeoff = IconData(0xecee, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plane = IconData(0xecef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plane = IconData(0xecef, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [play_circle] icon from the Lucide icon set.
 ///
@@ -13162,7 +13142,7 @@ static const IconData plane = IconData(0xecef, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData play_circle = IconData(0xecf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData play_circle = IconData(0xecf0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [play_square] icon from the Lucide icon set.
 ///
@@ -13175,7 +13155,7 @@ static const IconData play_circle = IconData(0xecf0, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData play_square = IconData(0xecf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData play_square = IconData(0xecf1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [play] icon from the Lucide icon set.
 ///
@@ -13188,7 +13168,7 @@ static const IconData play_square = IconData(0xecf1, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData play = IconData(0xecf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData play = IconData(0xecf2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plug_2] icon from the Lucide icon set.
 ///
@@ -13201,7 +13181,7 @@ static const IconData play = IconData(0xecf2, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plug_2 = IconData(0xecf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plug_2 = IconData(0xecf3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plug_zap_2] icon from the Lucide icon set.
 ///
@@ -13214,7 +13194,7 @@ static const IconData plug_2 = IconData(0xecf3, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plug_zap_2 = IconData(0xecf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plug_zap_2 = IconData(0xecf4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plug_zap] icon from the Lucide icon set.
 ///
@@ -13227,7 +13207,7 @@ static const IconData plug_zap_2 = IconData(0xecf4, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plug_zap = IconData(0xecf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plug_zap = IconData(0xecf5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plug] icon from the Lucide icon set.
 ///
@@ -13240,7 +13220,7 @@ static const IconData plug_zap = IconData(0xecf5, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plug = IconData(0xecf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plug = IconData(0xecf6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plus_circle] icon from the Lucide icon set.
 ///
@@ -13253,7 +13233,7 @@ static const IconData plug = IconData(0xecf6, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plus_circle = IconData(0xecf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plus_circle = IconData(0xecf7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plus_square] icon from the Lucide icon set.
 ///
@@ -13266,7 +13246,7 @@ static const IconData plus_circle = IconData(0xecf7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plus_square = IconData(0xecf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plus_square = IconData(0xecf8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [plus] icon from the Lucide icon set.
 ///
@@ -13279,7 +13259,7 @@ static const IconData plus_square = IconData(0xecf8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData plus = IconData(0xecf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData plus = IconData(0xecf9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pocket_knife] icon from the Lucide icon set.
 ///
@@ -13292,7 +13272,7 @@ static const IconData plus = IconData(0xecf9, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pocket_knife = IconData(0xecfa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pocket_knife = IconData(0xecfa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pocket] icon from the Lucide icon set.
 ///
@@ -13306,7 +13286,7 @@ static const IconData pocket_knife = IconData(0xecfa, fontFamily: _fontFamily, f
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, save, brands, development")
-static const IconData pocket = IconData(0xecfb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pocket = IconData(0xecfb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [podcast] icon from the Lucide icon set.
 ///
@@ -13319,7 +13299,7 @@ static const IconData pocket = IconData(0xecfb, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData podcast = IconData(0xecfc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData podcast = IconData(0xecfc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pointer_off] icon from the Lucide icon set.
 ///
@@ -13332,7 +13312,7 @@ static const IconData podcast = IconData(0xecfc, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pointer_off = IconData(0xecfd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pointer_off = IconData(0xecfd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pointer] icon from the Lucide icon set.
 ///
@@ -13345,7 +13325,7 @@ static const IconData pointer_off = IconData(0xecfd, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pointer = IconData(0xecfe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pointer = IconData(0xecfe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [popcorn] icon from the Lucide icon set.
 ///
@@ -13358,7 +13338,7 @@ static const IconData pointer = IconData(0xecfe, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData popcorn = IconData(0xecff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData popcorn = IconData(0xecff, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [popsicle] icon from the Lucide icon set.
 ///
@@ -13371,7 +13351,7 @@ static const IconData popcorn = IconData(0xecff, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData popsicle = IconData(0xed00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData popsicle = IconData(0xed00, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pound_sterling] icon from the Lucide icon set.
 ///
@@ -13384,7 +13364,7 @@ static const IconData popsicle = IconData(0xed00, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pound_sterling = IconData(0xed01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pound_sterling = IconData(0xed01, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [power_circle] icon from the Lucide icon set.
 ///
@@ -13397,7 +13377,7 @@ static const IconData pound_sterling = IconData(0xed01, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData power_circle = IconData(0xed02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData power_circle = IconData(0xed02, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [power_off] icon from the Lucide icon set.
 ///
@@ -13410,7 +13390,7 @@ static const IconData power_circle = IconData(0xed02, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData power_off = IconData(0xed03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData power_off = IconData(0xed03, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [power_square] icon from the Lucide icon set.
 ///
@@ -13423,7 +13403,7 @@ static const IconData power_off = IconData(0xed03, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData power_square = IconData(0xed04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData power_square = IconData(0xed04, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [power] icon from the Lucide icon set.
 ///
@@ -13436,7 +13416,7 @@ static const IconData power_square = IconData(0xed04, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData power = IconData(0xed05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData power = IconData(0xed05, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [presentation] icon from the Lucide icon set.
 ///
@@ -13449,7 +13429,7 @@ static const IconData power = IconData(0xed05, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData presentation = IconData(0xed06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData presentation = IconData(0xed06, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [printer] icon from the Lucide icon set.
 ///
@@ -13462,7 +13442,7 @@ static const IconData presentation = IconData(0xed06, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData printer = IconData(0xed07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData printer = IconData(0xed07, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [projector] icon from the Lucide icon set.
 ///
@@ -13475,7 +13455,7 @@ static const IconData printer = IconData(0xed07, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData projector = IconData(0xed08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData projector = IconData(0xed08, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [puzzle] icon from the Lucide icon set.
 ///
@@ -13488,7 +13468,7 @@ static const IconData projector = IconData(0xed08, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData puzzle = IconData(0xed09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData puzzle = IconData(0xed09, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [pyramid] icon from the Lucide icon set.
 ///
@@ -13501,7 +13481,7 @@ static const IconData puzzle = IconData(0xed09, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData pyramid = IconData(0xed0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData pyramid = IconData(0xed0a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [qr_code] icon from the Lucide icon set.
 ///
@@ -13514,7 +13494,7 @@ static const IconData pyramid = IconData(0xed0a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData qr_code = IconData(0xed0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData qr_code = IconData(0xed0b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [quote] icon from the Lucide icon set.
 ///
@@ -13527,7 +13507,7 @@ static const IconData qr_code = IconData(0xed0b, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData quote = IconData(0xed0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData quote = IconData(0xed0c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rabbit] icon from the Lucide icon set.
 ///
@@ -13540,7 +13520,7 @@ static const IconData quote = IconData(0xed0c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rabbit = IconData(0xed0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rabbit = IconData(0xed0d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radar] icon from the Lucide icon set.
 ///
@@ -13553,7 +13533,7 @@ static const IconData rabbit = IconData(0xed0d, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radar = IconData(0xed0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radar = IconData(0xed0e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radiation] icon from the Lucide icon set.
 ///
@@ -13566,7 +13546,7 @@ static const IconData radar = IconData(0xed0e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radiation = IconData(0xed0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radiation = IconData(0xed0f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radio_receiver] icon from the Lucide icon set.
 ///
@@ -13579,7 +13559,7 @@ static const IconData radiation = IconData(0xed0f, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radio_receiver = IconData(0xed10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radio_receiver = IconData(0xed10, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radio_tower] icon from the Lucide icon set.
 ///
@@ -13592,7 +13572,7 @@ static const IconData radio_receiver = IconData(0xed10, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radio_tower = IconData(0xed11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radio_tower = IconData(0xed11, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radio] icon from the Lucide icon set.
 ///
@@ -13605,7 +13585,7 @@ static const IconData radio_tower = IconData(0xed11, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radio = IconData(0xed12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radio = IconData(0xed12, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [radius] icon from the Lucide icon set.
 ///
@@ -13618,7 +13598,7 @@ static const IconData radio = IconData(0xed12, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData radius = IconData(0xed13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData radius = IconData(0xed13, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rail_symbol] icon from the Lucide icon set.
 ///
@@ -13631,7 +13611,7 @@ static const IconData radius = IconData(0xed13, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rail_symbol = IconData(0xed14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rail_symbol = IconData(0xed14, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rainbow] icon from the Lucide icon set.
 ///
@@ -13644,7 +13624,7 @@ static const IconData rail_symbol = IconData(0xed14, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rainbow = IconData(0xed15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rainbow = IconData(0xed15, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rat] icon from the Lucide icon set.
 ///
@@ -13657,7 +13637,7 @@ static const IconData rainbow = IconData(0xed15, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rat = IconData(0xed16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rat = IconData(0xed16, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ratio] icon from the Lucide icon set.
 ///
@@ -13670,7 +13650,7 @@ static const IconData rat = IconData(0xed16, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ratio = IconData(0xed17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ratio = IconData(0xed17, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_cent] icon from the Lucide icon set.
 ///
@@ -13683,7 +13663,7 @@ static const IconData ratio = IconData(0xed17, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_cent = IconData(0xed18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_cent = IconData(0xed18, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_euro] icon from the Lucide icon set.
 ///
@@ -13696,7 +13676,7 @@ static const IconData receipt_cent = IconData(0xed18, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_euro = IconData(0xed19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_euro = IconData(0xed19, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_indian_rupee] icon from the Lucide icon set.
 ///
@@ -13709,7 +13689,7 @@ static const IconData receipt_euro = IconData(0xed19, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_indian_rupee = IconData(0xed1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_indian_rupee = IconData(0xed1a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_japanese_yen] icon from the Lucide icon set.
 ///
@@ -13722,7 +13702,7 @@ static const IconData receipt_indian_rupee = IconData(0xed1a, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_japanese_yen = IconData(0xed1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_japanese_yen = IconData(0xed1b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_pound_sterling] icon from the Lucide icon set.
 ///
@@ -13735,7 +13715,7 @@ static const IconData receipt_japanese_yen = IconData(0xed1b, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_pound_sterling = IconData(0xed1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_pound_sterling = IconData(0xed1c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_russian_ruble] icon from the Lucide icon set.
 ///
@@ -13748,7 +13728,7 @@ static const IconData receipt_pound_sterling = IconData(0xed1c, fontFamily: _fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_russian_ruble = IconData(0xed1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_russian_ruble = IconData(0xed1d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_swiss_franc] icon from the Lucide icon set.
 ///
@@ -13761,7 +13741,7 @@ static const IconData receipt_russian_ruble = IconData(0xed1d, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_swiss_franc = IconData(0xed1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_swiss_franc = IconData(0xed1e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt_text] icon from the Lucide icon set.
 ///
@@ -13774,7 +13754,7 @@ static const IconData receipt_swiss_franc = IconData(0xed1e, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt_text = IconData(0xed1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt_text = IconData(0xed1f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [receipt] icon from the Lucide icon set.
 ///
@@ -13787,7 +13767,7 @@ static const IconData receipt_text = IconData(0xed1f, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData receipt = IconData(0xed20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData receipt = IconData(0xed20, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rectangle_horizontal] icon from the Lucide icon set.
 ///
@@ -13800,7 +13780,7 @@ static const IconData receipt = IconData(0xed20, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rectangle_horizontal = IconData(0xed21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rectangle_horizontal = IconData(0xed21, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rectangle_vertical] icon from the Lucide icon set.
 ///
@@ -13813,7 +13793,7 @@ static const IconData rectangle_horizontal = IconData(0xed21, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rectangle_vertical = IconData(0xed22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rectangle_vertical = IconData(0xed22, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [recycle] icon from the Lucide icon set.
 ///
@@ -13826,7 +13806,7 @@ static const IconData rectangle_vertical = IconData(0xed22, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData recycle = IconData(0xed23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData recycle = IconData(0xed23, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [redo_2] icon from the Lucide icon set.
 ///
@@ -13839,7 +13819,7 @@ static const IconData recycle = IconData(0xed23, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData redo_2 = IconData(0xed24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData redo_2 = IconData(0xed24, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [redo_dot] icon from the Lucide icon set.
 ///
@@ -13852,7 +13832,7 @@ static const IconData redo_2 = IconData(0xed24, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData redo_dot = IconData(0xed25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData redo_dot = IconData(0xed25, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [redo] icon from the Lucide icon set.
 ///
@@ -13865,7 +13845,7 @@ static const IconData redo_dot = IconData(0xed25, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData redo = IconData(0xed26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData redo = IconData(0xed26, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [refresh_ccw_dot] icon from the Lucide icon set.
 ///
@@ -13878,7 +13858,7 @@ static const IconData redo = IconData(0xed26, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData refresh_ccw_dot = IconData(0xed27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData refresh_ccw_dot = IconData(0xed27, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [refresh_ccw] icon from the Lucide icon set.
 ///
@@ -13891,7 +13871,7 @@ static const IconData refresh_ccw_dot = IconData(0xed27, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData refresh_ccw = IconData(0xed28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData refresh_ccw = IconData(0xed28, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [refresh_cw_off] icon from the Lucide icon set.
 ///
@@ -13904,7 +13884,7 @@ static const IconData refresh_ccw = IconData(0xed28, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData refresh_cw_off = IconData(0xed29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData refresh_cw_off = IconData(0xed29, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [refresh_cw] icon from the Lucide icon set.
 ///
@@ -13917,7 +13897,7 @@ static const IconData refresh_cw_off = IconData(0xed29, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData refresh_cw = IconData(0xed2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData refresh_cw = IconData(0xed2a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [refrigerator] icon from the Lucide icon set.
 ///
@@ -13930,7 +13910,7 @@ static const IconData refresh_cw = IconData(0xed2a, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData refrigerator = IconData(0xed2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData refrigerator = IconData(0xed2b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [regex] icon from the Lucide icon set.
 ///
@@ -13943,7 +13923,7 @@ static const IconData refrigerator = IconData(0xed2b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData regex = IconData(0xed2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData regex = IconData(0xed2c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [remove_formatting] icon from the Lucide icon set.
 ///
@@ -13956,7 +13936,7 @@ static const IconData regex = IconData(0xed2c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData remove_formatting = IconData(0xed2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData remove_formatting = IconData(0xed2d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [repeat_1] icon from the Lucide icon set.
 ///
@@ -13969,7 +13949,7 @@ static const IconData remove_formatting = IconData(0xed2d, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData repeat_1 = IconData(0xed2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData repeat_1 = IconData(0xed2e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [repeat_2] icon from the Lucide icon set.
 ///
@@ -13982,7 +13962,7 @@ static const IconData repeat_1 = IconData(0xed2e, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData repeat_2 = IconData(0xed2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData repeat_2 = IconData(0xed2f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [repeat] icon from the Lucide icon set.
 ///
@@ -13995,7 +13975,7 @@ static const IconData repeat_2 = IconData(0xed2f, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData repeat = IconData(0xed30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData repeat = IconData(0xed30, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [replace_all] icon from the Lucide icon set.
 ///
@@ -14008,7 +13988,7 @@ static const IconData repeat = IconData(0xed30, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData replace_all = IconData(0xed31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData replace_all = IconData(0xed31, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [replace] icon from the Lucide icon set.
 ///
@@ -14021,7 +14001,7 @@ static const IconData replace_all = IconData(0xed31, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData replace = IconData(0xed32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData replace = IconData(0xed32, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [reply_all] icon from the Lucide icon set.
 ///
@@ -14034,7 +14014,7 @@ static const IconData replace = IconData(0xed32, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData reply_all = IconData(0xed33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData reply_all = IconData(0xed33, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [reply] icon from the Lucide icon set.
 ///
@@ -14047,7 +14027,7 @@ static const IconData reply_all = IconData(0xed33, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData reply = IconData(0xed34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData reply = IconData(0xed34, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rewind] icon from the Lucide icon set.
 ///
@@ -14060,7 +14040,7 @@ static const IconData reply = IconData(0xed34, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rewind = IconData(0xed35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rewind = IconData(0xed35, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ribbon] icon from the Lucide icon set.
 ///
@@ -14073,7 +14053,7 @@ static const IconData rewind = IconData(0xed35, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ribbon = IconData(0xed36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ribbon = IconData(0xed36, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rocket] icon from the Lucide icon set.
 ///
@@ -14086,7 +14066,7 @@ static const IconData ribbon = IconData(0xed36, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rocket = IconData(0xed37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rocket = IconData(0xed37, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rocking_chair] icon from the Lucide icon set.
 ///
@@ -14099,7 +14079,7 @@ static const IconData rocket = IconData(0xed37, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rocking_chair = IconData(0xed38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rocking_chair = IconData(0xed38, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [roller_coaster] icon from the Lucide icon set.
 ///
@@ -14112,7 +14092,7 @@ static const IconData rocking_chair = IconData(0xed38, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData roller_coaster = IconData(0xed39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData roller_coaster = IconData(0xed39, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rotate_3d] icon from the Lucide icon set.
 ///
@@ -14125,7 +14105,7 @@ static const IconData roller_coaster = IconData(0xed39, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rotate_3d = IconData(0xed3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rotate_3d = IconData(0xed3a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rotate_ccw] icon from the Lucide icon set.
 ///
@@ -14138,7 +14118,7 @@ static const IconData rotate_3d = IconData(0xed3a, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rotate_ccw = IconData(0xed3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rotate_ccw = IconData(0xed3b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rotate_cw] icon from the Lucide icon set.
 ///
@@ -14151,7 +14131,7 @@ static const IconData rotate_ccw = IconData(0xed3b, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rotate_cw = IconData(0xed3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rotate_cw = IconData(0xed3c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [route_off] icon from the Lucide icon set.
 ///
@@ -14164,7 +14144,7 @@ static const IconData rotate_cw = IconData(0xed3c, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData route_off = IconData(0xed3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData route_off = IconData(0xed3d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [route] icon from the Lucide icon set.
 ///
@@ -14177,7 +14157,7 @@ static const IconData route_off = IconData(0xed3d, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData route = IconData(0xed3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData route = IconData(0xed3e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [router] icon from the Lucide icon set.
 ///
@@ -14190,7 +14170,7 @@ static const IconData route = IconData(0xed3e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData router = IconData(0xed3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData router = IconData(0xed3f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rows_2] icon from the Lucide icon set.
 ///
@@ -14203,7 +14183,7 @@ static const IconData router = IconData(0xed3f, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rows_2 = IconData(0xed40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rows_2 = IconData(0xed40, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rows_3] icon from the Lucide icon set.
 ///
@@ -14216,7 +14196,7 @@ static const IconData rows_2 = IconData(0xed40, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rows_3 = IconData(0xed41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rows_3 = IconData(0xed41, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rows_4] icon from the Lucide icon set.
 ///
@@ -14229,7 +14209,7 @@ static const IconData rows_3 = IconData(0xed41, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rows_4 = IconData(0xed42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rows_4 = IconData(0xed42, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [rss] icon from the Lucide icon set.
 ///
@@ -14242,7 +14222,7 @@ static const IconData rows_4 = IconData(0xed42, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData rss = IconData(0xed43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData rss = IconData(0xed43, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ruler] icon from the Lucide icon set.
 ///
@@ -14255,7 +14235,7 @@ static const IconData rss = IconData(0xed43, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ruler = IconData(0xed44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ruler = IconData(0xed44, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [russian_ruble] icon from the Lucide icon set.
 ///
@@ -14268,7 +14248,7 @@ static const IconData ruler = IconData(0xed44, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData russian_ruble = IconData(0xed45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData russian_ruble = IconData(0xed45, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sailboat] icon from the Lucide icon set.
 ///
@@ -14281,7 +14261,7 @@ static const IconData russian_ruble = IconData(0xed45, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sailboat = IconData(0xed46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sailboat = IconData(0xed46, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [salad] icon from the Lucide icon set.
 ///
@@ -14294,7 +14274,7 @@ static const IconData sailboat = IconData(0xed46, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData salad = IconData(0xed47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData salad = IconData(0xed47, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sandwich] icon from the Lucide icon set.
 ///
@@ -14307,7 +14287,7 @@ static const IconData salad = IconData(0xed47, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sandwich = IconData(0xed48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sandwich = IconData(0xed48, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [satellite_dish] icon from the Lucide icon set.
 ///
@@ -14320,7 +14300,7 @@ static const IconData sandwich = IconData(0xed48, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData satellite_dish = IconData(0xed49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData satellite_dish = IconData(0xed49, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [satellite] icon from the Lucide icon set.
 ///
@@ -14333,7 +14313,7 @@ static const IconData satellite_dish = IconData(0xed49, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData satellite = IconData(0xed4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData satellite = IconData(0xed4a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [save_all] icon from the Lucide icon set.
 ///
@@ -14346,7 +14326,7 @@ static const IconData satellite = IconData(0xed4a, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData save_all = IconData(0xed4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData save_all = IconData(0xed4b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [save] icon from the Lucide icon set.
 ///
@@ -14359,7 +14339,7 @@ static const IconData save_all = IconData(0xed4b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData save = IconData(0xed4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData save = IconData(0xed4c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scale_3d] icon from the Lucide icon set.
 ///
@@ -14372,7 +14352,7 @@ static const IconData save = IconData(0xed4c, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scale_3d = IconData(0xed4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scale_3d = IconData(0xed4d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scale] icon from the Lucide icon set.
 ///
@@ -14385,7 +14365,7 @@ static const IconData scale_3d = IconData(0xed4d, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scale = IconData(0xed4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scale = IconData(0xed4e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scaling] icon from the Lucide icon set.
 ///
@@ -14398,7 +14378,7 @@ static const IconData scale = IconData(0xed4e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scaling = IconData(0xed4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scaling = IconData(0xed4f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_barcode] icon from the Lucide icon set.
 ///
@@ -14411,7 +14391,7 @@ static const IconData scaling = IconData(0xed4f, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_barcode = IconData(0xed50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_barcode = IconData(0xed50, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_eye] icon from the Lucide icon set.
 ///
@@ -14424,7 +14404,7 @@ static const IconData scan_barcode = IconData(0xed50, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_eye = IconData(0xed51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_eye = IconData(0xed51, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_face] icon from the Lucide icon set.
 ///
@@ -14437,7 +14417,7 @@ static const IconData scan_eye = IconData(0xed51, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_face = IconData(0xed52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_face = IconData(0xed52, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_line] icon from the Lucide icon set.
 ///
@@ -14450,7 +14430,7 @@ static const IconData scan_face = IconData(0xed52, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_line = IconData(0xed53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_line = IconData(0xed53, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_search] icon from the Lucide icon set.
 ///
@@ -14463,7 +14443,7 @@ static const IconData scan_line = IconData(0xed53, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_search = IconData(0xed54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_search = IconData(0xed54, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan_text] icon from the Lucide icon set.
 ///
@@ -14476,7 +14456,7 @@ static const IconData scan_search = IconData(0xed54, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan_text = IconData(0xed55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan_text = IconData(0xed55, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scan] icon from the Lucide icon set.
 ///
@@ -14489,7 +14469,7 @@ static const IconData scan_text = IconData(0xed55, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scan = IconData(0xed56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scan = IconData(0xed56, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scatter_chart] icon from the Lucide icon set.
 ///
@@ -14502,7 +14482,7 @@ static const IconData scan = IconData(0xed56, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scatter_chart = IconData(0xed57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scatter_chart = IconData(0xed57, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [school_2] icon from the Lucide icon set.
 ///
@@ -14515,7 +14495,7 @@ static const IconData scatter_chart = IconData(0xed57, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData school_2 = IconData(0xed58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData school_2 = IconData(0xed58, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [school] icon from the Lucide icon set.
 ///
@@ -14528,7 +14508,7 @@ static const IconData school_2 = IconData(0xed58, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData school = IconData(0xed59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData school = IconData(0xed59, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scissors_line_dashed] icon from the Lucide icon set.
 ///
@@ -14541,7 +14521,7 @@ static const IconData school = IconData(0xed59, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scissors_line_dashed = IconData(0xed5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scissors_line_dashed = IconData(0xed5a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scissors_square_dashed_bottom] icon from the Lucide icon set.
 ///
@@ -14554,7 +14534,7 @@ static const IconData scissors_line_dashed = IconData(0xed5a, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scissors_square_dashed_bottom = IconData(0xed5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scissors_square_dashed_bottom = IconData(0xed5b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scissors_square] icon from the Lucide icon set.
 ///
@@ -14567,7 +14547,7 @@ static const IconData scissors_square_dashed_bottom = IconData(0xed5b, fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scissors_square = IconData(0xed5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scissors_square = IconData(0xed5c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scissors] icon from the Lucide icon set.
 ///
@@ -14580,7 +14560,7 @@ static const IconData scissors_square = IconData(0xed5c, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scissors = IconData(0xed5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scissors = IconData(0xed5d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [screen_share_off] icon from the Lucide icon set.
 ///
@@ -14593,7 +14573,7 @@ static const IconData scissors = IconData(0xed5d, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData screen_share_off = IconData(0xed5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData screen_share_off = IconData(0xed5e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [screen_share] icon from the Lucide icon set.
 ///
@@ -14606,7 +14586,7 @@ static const IconData screen_share_off = IconData(0xed5e, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData screen_share = IconData(0xed5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData screen_share = IconData(0xed5f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scroll_text] icon from the Lucide icon set.
 ///
@@ -14619,7 +14599,7 @@ static const IconData screen_share = IconData(0xed5f, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scroll_text = IconData(0xed60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scroll_text = IconData(0xed60, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [scroll] icon from the Lucide icon set.
 ///
@@ -14632,7 +14612,7 @@ static const IconData scroll_text = IconData(0xed60, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData scroll = IconData(0xed61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData scroll = IconData(0xed61, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [search_check] icon from the Lucide icon set.
 ///
@@ -14645,7 +14625,7 @@ static const IconData scroll = IconData(0xed61, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData search_check = IconData(0xed62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData search_check = IconData(0xed62, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [search_code] icon from the Lucide icon set.
 ///
@@ -14658,7 +14638,7 @@ static const IconData search_check = IconData(0xed62, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData search_code = IconData(0xed63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData search_code = IconData(0xed63, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [search_slash] icon from the Lucide icon set.
 ///
@@ -14671,7 +14651,7 @@ static const IconData search_code = IconData(0xed63, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData search_slash = IconData(0xed64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData search_slash = IconData(0xed64, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [search_x] icon from the Lucide icon set.
 ///
@@ -14684,7 +14664,7 @@ static const IconData search_slash = IconData(0xed64, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData search_x = IconData(0xed65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData search_x = IconData(0xed65, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [search] icon from the Lucide icon set.
 ///
@@ -14697,7 +14677,7 @@ static const IconData search_x = IconData(0xed65, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData search = IconData(0xed66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData search = IconData(0xed66, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [send_horizontal] icon from the Lucide icon set.
 ///
@@ -14710,7 +14690,7 @@ static const IconData search = IconData(0xed66, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData send_horizontal = IconData(0xed67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData send_horizontal = IconData(0xed67, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [send_to_back] icon from the Lucide icon set.
 ///
@@ -14723,7 +14703,7 @@ static const IconData send_horizontal = IconData(0xed67, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData send_to_back = IconData(0xed68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData send_to_back = IconData(0xed68, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [send] icon from the Lucide icon set.
 ///
@@ -14736,7 +14716,7 @@ static const IconData send_to_back = IconData(0xed68, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData send = IconData(0xed69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData send = IconData(0xed69, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [separator_horizontal] icon from the Lucide icon set.
 ///
@@ -14749,7 +14729,7 @@ static const IconData send = IconData(0xed69, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData separator_horizontal = IconData(0xed6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData separator_horizontal = IconData(0xed6a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [separator_vertical] icon from the Lucide icon set.
 ///
@@ -14762,7 +14742,7 @@ static const IconData separator_horizontal = IconData(0xed6a, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData separator_vertical = IconData(0xed6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData separator_vertical = IconData(0xed6b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [server_cog] icon from the Lucide icon set.
 ///
@@ -14775,7 +14755,7 @@ static const IconData separator_vertical = IconData(0xed6b, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData server_cog = IconData(0xed6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData server_cog = IconData(0xed6c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [server_crash] icon from the Lucide icon set.
 ///
@@ -14788,7 +14768,7 @@ static const IconData server_cog = IconData(0xed6c, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData server_crash = IconData(0xed6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData server_crash = IconData(0xed6d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [server_off] icon from the Lucide icon set.
 ///
@@ -14801,7 +14781,7 @@ static const IconData server_crash = IconData(0xed6d, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData server_off = IconData(0xed6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData server_off = IconData(0xed6e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [server] icon from the Lucide icon set.
 ///
@@ -14814,7 +14794,7 @@ static const IconData server_off = IconData(0xed6e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData server = IconData(0xed6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData server = IconData(0xed6f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [settings_2] icon from the Lucide icon set.
 ///
@@ -14827,7 +14807,7 @@ static const IconData server = IconData(0xed6f, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData settings_2 = IconData(0xed70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData settings_2 = IconData(0xed70, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [settings] icon from the Lucide icon set.
 ///
@@ -14840,7 +14820,7 @@ static const IconData settings_2 = IconData(0xed70, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData settings = IconData(0xed71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData settings = IconData(0xed71, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shapes] icon from the Lucide icon set.
 ///
@@ -14853,7 +14833,7 @@ static const IconData settings = IconData(0xed71, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shapes = IconData(0xed72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shapes = IconData(0xed72, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [share_2] icon from the Lucide icon set.
 ///
@@ -14866,7 +14846,7 @@ static const IconData shapes = IconData(0xed72, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData share_2 = IconData(0xed73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData share_2 = IconData(0xed73, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [share] icon from the Lucide icon set.
 ///
@@ -14879,7 +14859,7 @@ static const IconData share_2 = IconData(0xed73, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData share = IconData(0xed74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData share = IconData(0xed74, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sheet] icon from the Lucide icon set.
 ///
@@ -14892,7 +14872,7 @@ static const IconData share = IconData(0xed74, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sheet = IconData(0xed75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sheet = IconData(0xed75, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shell] icon from the Lucide icon set.
 ///
@@ -14905,7 +14885,7 @@ static const IconData sheet = IconData(0xed75, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shell = IconData(0xed76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shell = IconData(0xed76, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_alert] icon from the Lucide icon set.
 ///
@@ -14918,7 +14898,7 @@ static const IconData shell = IconData(0xed76, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_alert = IconData(0xed77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_alert = IconData(0xed77, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_ban] icon from the Lucide icon set.
 ///
@@ -14931,7 +14911,7 @@ static const IconData shield_alert = IconData(0xed77, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_ban = IconData(0xed78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_ban = IconData(0xed78, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_check] icon from the Lucide icon set.
 ///
@@ -14944,7 +14924,7 @@ static const IconData shield_ban = IconData(0xed78, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_check = IconData(0xed79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_check = IconData(0xed79, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_ellipsis] icon from the Lucide icon set.
 ///
@@ -14957,7 +14937,7 @@ static const IconData shield_check = IconData(0xed79, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_ellipsis = IconData(0xed7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_ellipsis = IconData(0xed7a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_half] icon from the Lucide icon set.
 ///
@@ -14970,7 +14950,7 @@ static const IconData shield_ellipsis = IconData(0xed7a, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_half = IconData(0xed7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_half = IconData(0xed7b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_minus] icon from the Lucide icon set.
 ///
@@ -14983,7 +14963,7 @@ static const IconData shield_half = IconData(0xed7b, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_minus = IconData(0xed7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_minus = IconData(0xed7c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_off] icon from the Lucide icon set.
 ///
@@ -14996,7 +14976,7 @@ static const IconData shield_minus = IconData(0xed7c, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_off = IconData(0xed7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_off = IconData(0xed7d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_plus] icon from the Lucide icon set.
 ///
@@ -15009,7 +14989,7 @@ static const IconData shield_off = IconData(0xed7d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_plus = IconData(0xed7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_plus = IconData(0xed7e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_question] icon from the Lucide icon set.
 ///
@@ -15022,7 +15002,7 @@ static const IconData shield_plus = IconData(0xed7e, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_question = IconData(0xed7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_question = IconData(0xed7f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield_x] icon from the Lucide icon set.
 ///
@@ -15035,7 +15015,7 @@ static const IconData shield_question = IconData(0xed7f, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield_x = IconData(0xed80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield_x = IconData(0xed80, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shield] icon from the Lucide icon set.
 ///
@@ -15048,7 +15028,7 @@ static const IconData shield_x = IconData(0xed80, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shield = IconData(0xed81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shield = IconData(0xed81, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ship_wheel] icon from the Lucide icon set.
 ///
@@ -15061,7 +15041,7 @@ static const IconData shield = IconData(0xed81, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ship_wheel = IconData(0xed82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ship_wheel = IconData(0xed82, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ship] icon from the Lucide icon set.
 ///
@@ -15074,7 +15054,7 @@ static const IconData ship_wheel = IconData(0xed82, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ship = IconData(0xed83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ship = IconData(0xed83, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shirt] icon from the Lucide icon set.
 ///
@@ -15087,7 +15067,7 @@ static const IconData ship = IconData(0xed83, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shirt = IconData(0xed84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shirt = IconData(0xed84, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shopping_bag] icon from the Lucide icon set.
 ///
@@ -15100,7 +15080,7 @@ static const IconData shirt = IconData(0xed84, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shopping_bag = IconData(0xed85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shopping_bag = IconData(0xed85, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shopping_basket] icon from the Lucide icon set.
 ///
@@ -15113,7 +15093,7 @@ static const IconData shopping_bag = IconData(0xed85, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shopping_basket = IconData(0xed86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shopping_basket = IconData(0xed86, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shopping_cart] icon from the Lucide icon set.
 ///
@@ -15126,7 +15106,7 @@ static const IconData shopping_basket = IconData(0xed86, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shopping_cart = IconData(0xed87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shopping_cart = IconData(0xed87, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shovel] icon from the Lucide icon set.
 ///
@@ -15139,7 +15119,7 @@ static const IconData shopping_cart = IconData(0xed87, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shovel = IconData(0xed88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shovel = IconData(0xed88, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shower_head] icon from the Lucide icon set.
 ///
@@ -15152,7 +15132,7 @@ static const IconData shovel = IconData(0xed88, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shower_head = IconData(0xed89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shower_head = IconData(0xed89, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shrink] icon from the Lucide icon set.
 ///
@@ -15165,7 +15145,7 @@ static const IconData shower_head = IconData(0xed89, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shrink = IconData(0xed8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shrink = IconData(0xed8a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shrub] icon from the Lucide icon set.
 ///
@@ -15178,7 +15158,7 @@ static const IconData shrink = IconData(0xed8a, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shrub = IconData(0xed8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shrub = IconData(0xed8b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [shuffle] icon from the Lucide icon set.
 ///
@@ -15191,7 +15171,7 @@ static const IconData shrub = IconData(0xed8b, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData shuffle = IconData(0xed8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData shuffle = IconData(0xed8c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sigma_square] icon from the Lucide icon set.
 ///
@@ -15204,7 +15184,7 @@ static const IconData shuffle = IconData(0xed8c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sigma_square = IconData(0xed8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sigma_square = IconData(0xed8d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sigma] icon from the Lucide icon set.
 ///
@@ -15217,7 +15197,7 @@ static const IconData sigma_square = IconData(0xed8d, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sigma = IconData(0xed8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sigma = IconData(0xed8e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signal_high] icon from the Lucide icon set.
 ///
@@ -15230,7 +15210,7 @@ static const IconData sigma = IconData(0xed8e, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signal_high = IconData(0xed8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signal_high = IconData(0xed8f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signal_low] icon from the Lucide icon set.
 ///
@@ -15243,7 +15223,7 @@ static const IconData signal_high = IconData(0xed8f, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signal_low = IconData(0xed90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signal_low = IconData(0xed90, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signal_medium] icon from the Lucide icon set.
 ///
@@ -15256,7 +15236,7 @@ static const IconData signal_low = IconData(0xed90, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signal_medium = IconData(0xed91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signal_medium = IconData(0xed91, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signal_zero] icon from the Lucide icon set.
 ///
@@ -15269,7 +15249,7 @@ static const IconData signal_medium = IconData(0xed91, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signal_zero = IconData(0xed92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signal_zero = IconData(0xed92, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signal] icon from the Lucide icon set.
 ///
@@ -15282,7 +15262,7 @@ static const IconData signal_zero = IconData(0xed92, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signal = IconData(0xed93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signal = IconData(0xed93, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signpost_big] icon from the Lucide icon set.
 ///
@@ -15295,7 +15275,7 @@ static const IconData signal = IconData(0xed93, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signpost_big = IconData(0xed94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signpost_big = IconData(0xed94, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [signpost] icon from the Lucide icon set.
 ///
@@ -15308,7 +15288,7 @@ static const IconData signpost_big = IconData(0xed94, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData signpost = IconData(0xed95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData signpost = IconData(0xed95, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [siren] icon from the Lucide icon set.
 ///
@@ -15321,7 +15301,7 @@ static const IconData signpost = IconData(0xed95, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData siren = IconData(0xed96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData siren = IconData(0xed96, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [skip_back] icon from the Lucide icon set.
 ///
@@ -15334,7 +15314,7 @@ static const IconData siren = IconData(0xed96, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData skip_back = IconData(0xed97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData skip_back = IconData(0xed97, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [skip_forward] icon from the Lucide icon set.
 ///
@@ -15347,7 +15327,7 @@ static const IconData skip_back = IconData(0xed97, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData skip_forward = IconData(0xed98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData skip_forward = IconData(0xed98, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [skull] icon from the Lucide icon set.
 ///
@@ -15360,7 +15340,7 @@ static const IconData skip_forward = IconData(0xed98, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData skull = IconData(0xed99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData skull = IconData(0xed99, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [slack] icon from the Lucide icon set.
 ///
@@ -15374,7 +15354,7 @@ static const IconData skull = IconData(0xed99, fontFamily: _fontFamily, fontPack
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, account, social, communication, brands, development")
-static const IconData slack = IconData(0xed9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData slack = IconData(0xed9a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [slash_square] icon from the Lucide icon set.
 ///
@@ -15387,7 +15367,7 @@ static const IconData slack = IconData(0xed9a, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData slash_square = IconData(0xed9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData slash_square = IconData(0xed9b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [slash] icon from the Lucide icon set.
 ///
@@ -15400,7 +15380,7 @@ static const IconData slash_square = IconData(0xed9b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData slash = IconData(0xed9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData slash = IconData(0xed9c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [slice] icon from the Lucide icon set.
 ///
@@ -15413,7 +15393,7 @@ static const IconData slash = IconData(0xed9c, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData slice = IconData(0xed9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData slice = IconData(0xed9d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sliders_horizontal] icon from the Lucide icon set.
 ///
@@ -15426,7 +15406,7 @@ static const IconData slice = IconData(0xed9d, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sliders_horizontal = IconData(0xed9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sliders_horizontal = IconData(0xed9e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sliders] icon from the Lucide icon set.
 ///
@@ -15439,7 +15419,7 @@ static const IconData sliders_horizontal = IconData(0xed9e, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sliders = IconData(0xed9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sliders = IconData(0xed9f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [smartphone_charging] icon from the Lucide icon set.
 ///
@@ -15452,7 +15432,7 @@ static const IconData sliders = IconData(0xed9f, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData smartphone_charging = IconData(0xeda0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData smartphone_charging = IconData(0xeda0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [smartphone_nfc] icon from the Lucide icon set.
 ///
@@ -15465,7 +15445,7 @@ static const IconData smartphone_charging = IconData(0xeda0, fontFamily: _fontFa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData smartphone_nfc = IconData(0xeda1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData smartphone_nfc = IconData(0xeda1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [smartphone] icon from the Lucide icon set.
 ///
@@ -15478,7 +15458,7 @@ static const IconData smartphone_nfc = IconData(0xeda1, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData smartphone = IconData(0xeda2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData smartphone = IconData(0xeda2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [smile_plus] icon from the Lucide icon set.
 ///
@@ -15491,7 +15471,7 @@ static const IconData smartphone = IconData(0xeda2, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData smile_plus = IconData(0xeda3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData smile_plus = IconData(0xeda3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [smile] icon from the Lucide icon set.
 ///
@@ -15504,7 +15484,7 @@ static const IconData smile_plus = IconData(0xeda3, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData smile = IconData(0xeda4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData smile = IconData(0xeda4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [snail] icon from the Lucide icon set.
 ///
@@ -15517,7 +15497,7 @@ static const IconData smile = IconData(0xeda4, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData snail = IconData(0xeda5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData snail = IconData(0xeda5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [snowflake] icon from the Lucide icon set.
 ///
@@ -15530,7 +15510,7 @@ static const IconData snail = IconData(0xeda5, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData snowflake = IconData(0xeda6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData snowflake = IconData(0xeda6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sofa] icon from the Lucide icon set.
 ///
@@ -15543,7 +15523,7 @@ static const IconData snowflake = IconData(0xeda6, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sofa = IconData(0xeda7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sofa = IconData(0xeda7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [soup] icon from the Lucide icon set.
 ///
@@ -15556,7 +15536,7 @@ static const IconData sofa = IconData(0xeda7, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData soup = IconData(0xeda8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData soup = IconData(0xeda8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [space] icon from the Lucide icon set.
 ///
@@ -15569,7 +15549,7 @@ static const IconData soup = IconData(0xeda8, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData space = IconData(0xeda9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData space = IconData(0xeda9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [spade] icon from the Lucide icon set.
 ///
@@ -15582,7 +15562,7 @@ static const IconData space = IconData(0xeda9, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData spade = IconData(0xedaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData spade = IconData(0xedaa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sparkle] icon from the Lucide icon set.
 ///
@@ -15595,7 +15575,7 @@ static const IconData spade = IconData(0xedaa, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sparkle = IconData(0xedab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sparkle = IconData(0xedab, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sparkles] icon from the Lucide icon set.
 ///
@@ -15608,7 +15588,7 @@ static const IconData sparkle = IconData(0xedab, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sparkles = IconData(0xedac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sparkles = IconData(0xedac, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [speaker] icon from the Lucide icon set.
 ///
@@ -15621,7 +15601,7 @@ static const IconData sparkles = IconData(0xedac, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData speaker = IconData(0xedad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData speaker = IconData(0xedad, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [speech] icon from the Lucide icon set.
 ///
@@ -15634,7 +15614,7 @@ static const IconData speaker = IconData(0xedad, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData speech = IconData(0xedae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData speech = IconData(0xedae, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [spell_check_2] icon from the Lucide icon set.
 ///
@@ -15647,7 +15627,7 @@ static const IconData speech = IconData(0xedae, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData spell_check_2 = IconData(0xedaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData spell_check_2 = IconData(0xedaf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [spell_check] icon from the Lucide icon set.
 ///
@@ -15660,7 +15640,7 @@ static const IconData spell_check_2 = IconData(0xedaf, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData spell_check = IconData(0xedb0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData spell_check = IconData(0xedb0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [spline] icon from the Lucide icon set.
 ///
@@ -15673,7 +15653,7 @@ static const IconData spell_check = IconData(0xedb0, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData spline = IconData(0xedb1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData spline = IconData(0xedb1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [split_square_horizontal] icon from the Lucide icon set.
 ///
@@ -15686,7 +15666,7 @@ static const IconData spline = IconData(0xedb1, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData split_square_horizontal = IconData(0xedb2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData split_square_horizontal = IconData(0xedb2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [split_square_vertical] icon from the Lucide icon set.
 ///
@@ -15699,7 +15679,7 @@ static const IconData split_square_horizontal = IconData(0xedb2, fontFamily: _fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData split_square_vertical = IconData(0xedb3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData split_square_vertical = IconData(0xedb3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [split] icon from the Lucide icon set.
 ///
@@ -15712,7 +15692,7 @@ static const IconData split_square_vertical = IconData(0xedb3, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData split = IconData(0xedb4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData split = IconData(0xedb4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [spray_can] icon from the Lucide icon set.
 ///
@@ -15725,7 +15705,7 @@ static const IconData split = IconData(0xedb4, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData spray_can = IconData(0xedb5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData spray_can = IconData(0xedb5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sprout] icon from the Lucide icon set.
 ///
@@ -15738,7 +15718,7 @@ static const IconData spray_can = IconData(0xedb5, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sprout = IconData(0xedb6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sprout = IconData(0xedb6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_dashed_bottom_code] icon from the Lucide icon set.
 ///
@@ -15751,7 +15731,7 @@ static const IconData sprout = IconData(0xedb6, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_dashed_bottom_code = IconData(0xedb7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_dashed_bottom_code = IconData(0xedb7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_dashed_bottom] icon from the Lucide icon set.
 ///
@@ -15764,7 +15744,7 @@ static const IconData square_dashed_bottom_code = IconData(0xedb7, fontFamily: _
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_dashed_bottom = IconData(0xedb8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_dashed_bottom = IconData(0xedb8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_pen] icon from the Lucide icon set.
 ///
@@ -15777,7 +15757,7 @@ static const IconData square_dashed_bottom = IconData(0xedb8, fontFamily: _fontF
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_pen = IconData(0xedb9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_pen = IconData(0xedb9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_stack] icon from the Lucide icon set.
 ///
@@ -15790,7 +15770,7 @@ static const IconData square_pen = IconData(0xedb9, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_stack = IconData(0xedba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_stack = IconData(0xedba, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_user_round] icon from the Lucide icon set.
 ///
@@ -15803,7 +15783,7 @@ static const IconData square_stack = IconData(0xedba, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_user_round = IconData(0xedbb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_user_round = IconData(0xedbb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square_user] icon from the Lucide icon set.
 ///
@@ -15816,7 +15796,7 @@ static const IconData square_user_round = IconData(0xedbb, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square_user = IconData(0xedbc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square_user = IconData(0xedbc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [square] icon from the Lucide icon set.
 ///
@@ -15829,7 +15809,7 @@ static const IconData square_user = IconData(0xedbc, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData square = IconData(0xedbd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData square = IconData(0xedbd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [squircle] icon from the Lucide icon set.
 ///
@@ -15842,7 +15822,7 @@ static const IconData square = IconData(0xedbd, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData squircle = IconData(0xedbe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData squircle = IconData(0xedbe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [squirrel] icon from the Lucide icon set.
 ///
@@ -15855,7 +15835,7 @@ static const IconData squircle = IconData(0xedbe, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData squirrel = IconData(0xedbf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData squirrel = IconData(0xedbf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [stamp] icon from the Lucide icon set.
 ///
@@ -15868,7 +15848,7 @@ static const IconData squirrel = IconData(0xedbf, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData stamp = IconData(0xedc0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData stamp = IconData(0xedc0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [star_half] icon from the Lucide icon set.
 ///
@@ -15881,7 +15861,7 @@ static const IconData stamp = IconData(0xedc0, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData star_half = IconData(0xedc1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData star_half = IconData(0xedc1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [star_off] icon from the Lucide icon set.
 ///
@@ -15894,7 +15874,7 @@ static const IconData star_half = IconData(0xedc1, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData star_off = IconData(0xedc2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData star_off = IconData(0xedc2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [star] icon from the Lucide icon set.
 ///
@@ -15907,7 +15887,7 @@ static const IconData star_off = IconData(0xedc2, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData star = IconData(0xedc3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData star = IconData(0xedc3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [step_back] icon from the Lucide icon set.
 ///
@@ -15920,7 +15900,7 @@ static const IconData star = IconData(0xedc3, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData step_back = IconData(0xedc4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData step_back = IconData(0xedc4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [step_forward] icon from the Lucide icon set.
 ///
@@ -15933,7 +15913,7 @@ static const IconData step_back = IconData(0xedc4, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData step_forward = IconData(0xedc5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData step_forward = IconData(0xedc5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [stethoscope] icon from the Lucide icon set.
 ///
@@ -15946,7 +15926,7 @@ static const IconData step_forward = IconData(0xedc5, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData stethoscope = IconData(0xedc6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData stethoscope = IconData(0xedc6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sticker] icon from the Lucide icon set.
 ///
@@ -15959,7 +15939,7 @@ static const IconData stethoscope = IconData(0xedc6, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sticker = IconData(0xedc7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sticker = IconData(0xedc7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sticky_note] icon from the Lucide icon set.
 ///
@@ -15972,7 +15952,7 @@ static const IconData sticker = IconData(0xedc7, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sticky_note = IconData(0xedc8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sticky_note = IconData(0xedc8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [stop_circle] icon from the Lucide icon set.
 ///
@@ -15985,7 +15965,7 @@ static const IconData sticky_note = IconData(0xedc8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData stop_circle = IconData(0xedc9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData stop_circle = IconData(0xedc9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [store] icon from the Lucide icon set.
 ///
@@ -15998,7 +15978,7 @@ static const IconData stop_circle = IconData(0xedc9, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData store = IconData(0xedca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData store = IconData(0xedca, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [stretch_horizontal] icon from the Lucide icon set.
 ///
@@ -16011,7 +15991,7 @@ static const IconData store = IconData(0xedca, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData stretch_horizontal = IconData(0xedcb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData stretch_horizontal = IconData(0xedcb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [stretch_vertical] icon from the Lucide icon set.
 ///
@@ -16024,7 +16004,7 @@ static const IconData stretch_horizontal = IconData(0xedcb, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData stretch_vertical = IconData(0xedcc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData stretch_vertical = IconData(0xedcc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [strikethrough] icon from the Lucide icon set.
 ///
@@ -16037,7 +16017,7 @@ static const IconData stretch_vertical = IconData(0xedcc, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData strikethrough = IconData(0xedcd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData strikethrough = IconData(0xedcd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [subscript] icon from the Lucide icon set.
 ///
@@ -16050,7 +16030,7 @@ static const IconData strikethrough = IconData(0xedcd, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData subscript = IconData(0xedce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData subscript = IconData(0xedce, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [subtitles] icon from the Lucide icon set.
 ///
@@ -16063,7 +16043,7 @@ static const IconData subscript = IconData(0xedce, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData subtitles = IconData(0xedcf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData subtitles = IconData(0xedcf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sun_dim] icon from the Lucide icon set.
 ///
@@ -16076,7 +16056,7 @@ static const IconData subtitles = IconData(0xedcf, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sun_dim = IconData(0xedd0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sun_dim = IconData(0xedd0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sun_medium] icon from the Lucide icon set.
 ///
@@ -16089,7 +16069,7 @@ static const IconData sun_dim = IconData(0xedd0, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sun_medium = IconData(0xedd1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sun_medium = IconData(0xedd1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sun_moon] icon from the Lucide icon set.
 ///
@@ -16102,7 +16082,7 @@ static const IconData sun_medium = IconData(0xedd1, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sun_moon = IconData(0xedd2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sun_moon = IconData(0xedd2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sun_snow] icon from the Lucide icon set.
 ///
@@ -16115,7 +16095,7 @@ static const IconData sun_moon = IconData(0xedd2, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sun_snow = IconData(0xedd3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sun_snow = IconData(0xedd3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sun] icon from the Lucide icon set.
 ///
@@ -16128,7 +16108,7 @@ static const IconData sun_snow = IconData(0xedd3, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sun = IconData(0xedd4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sun = IconData(0xedd4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sunrise] icon from the Lucide icon set.
 ///
@@ -16141,7 +16121,7 @@ static const IconData sun = IconData(0xedd4, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sunrise = IconData(0xedd5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sunrise = IconData(0xedd5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sunset] icon from the Lucide icon set.
 ///
@@ -16154,7 +16134,7 @@ static const IconData sunrise = IconData(0xedd5, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sunset = IconData(0xedd6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sunset = IconData(0xedd6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [superscript] icon from the Lucide icon set.
 ///
@@ -16167,7 +16147,7 @@ static const IconData sunset = IconData(0xedd6, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData superscript = IconData(0xedd7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData superscript = IconData(0xedd7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [swatch_book] icon from the Lucide icon set.
 ///
@@ -16180,7 +16160,7 @@ static const IconData superscript = IconData(0xedd7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData swatch_book = IconData(0xedd8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData swatch_book = IconData(0xedd8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [swiss_franc] icon from the Lucide icon set.
 ///
@@ -16193,7 +16173,7 @@ static const IconData swatch_book = IconData(0xedd8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData swiss_franc = IconData(0xedd9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData swiss_franc = IconData(0xedd9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [switch_camera] icon from the Lucide icon set.
 ///
@@ -16206,7 +16186,7 @@ static const IconData swiss_franc = IconData(0xedd9, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData switch_camera = IconData(0xedda, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData switch_camera = IconData(0xedda, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [sword] icon from the Lucide icon set.
 ///
@@ -16219,7 +16199,7 @@ static const IconData switch_camera = IconData(0xedda, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData sword = IconData(0xeddb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData sword = IconData(0xeddb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [swords] icon from the Lucide icon set.
 ///
@@ -16232,7 +16212,7 @@ static const IconData sword = IconData(0xeddb, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData swords = IconData(0xeddc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData swords = IconData(0xeddc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [syringe] icon from the Lucide icon set.
 ///
@@ -16245,7 +16225,7 @@ static const IconData swords = IconData(0xeddc, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData syringe = IconData(0xeddd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData syringe = IconData(0xeddd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [table_2] icon from the Lucide icon set.
 ///
@@ -16258,7 +16238,7 @@ static const IconData syringe = IconData(0xeddd, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData table_2 = IconData(0xedde, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData table_2 = IconData(0xedde, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [table_properties] icon from the Lucide icon set.
 ///
@@ -16271,7 +16251,7 @@ static const IconData table_2 = IconData(0xedde, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData table_properties = IconData(0xeddf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData table_properties = IconData(0xeddf, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [table] icon from the Lucide icon set.
 ///
@@ -16284,7 +16264,7 @@ static const IconData table_properties = IconData(0xeddf, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData table = IconData(0xede0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData table = IconData(0xede0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tablet_smartphone] icon from the Lucide icon set.
 ///
@@ -16297,7 +16277,7 @@ static const IconData table = IconData(0xede0, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tablet_smartphone = IconData(0xede1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tablet_smartphone = IconData(0xede1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tablet] icon from the Lucide icon set.
 ///
@@ -16310,7 +16290,7 @@ static const IconData tablet_smartphone = IconData(0xede1, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tablet = IconData(0xede2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tablet = IconData(0xede2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tablets] icon from the Lucide icon set.
 ///
@@ -16323,7 +16303,7 @@ static const IconData tablet = IconData(0xede2, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tablets = IconData(0xede3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tablets = IconData(0xede3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tag] icon from the Lucide icon set.
 ///
@@ -16336,7 +16316,7 @@ static const IconData tablets = IconData(0xede3, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tag = IconData(0xede4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tag = IconData(0xede4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tags] icon from the Lucide icon set.
 ///
@@ -16349,7 +16329,7 @@ static const IconData tag = IconData(0xede4, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tags = IconData(0xede5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tags = IconData(0xede5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tally_1] icon from the Lucide icon set.
 ///
@@ -16362,7 +16342,7 @@ static const IconData tags = IconData(0xede5, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tally_1 = IconData(0xede6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tally_1 = IconData(0xede6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tally_2] icon from the Lucide icon set.
 ///
@@ -16375,7 +16355,7 @@ static const IconData tally_1 = IconData(0xede6, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tally_2 = IconData(0xede7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tally_2 = IconData(0xede7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tally_3] icon from the Lucide icon set.
 ///
@@ -16388,7 +16368,7 @@ static const IconData tally_2 = IconData(0xede7, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tally_3 = IconData(0xede8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tally_3 = IconData(0xede8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tally_4] icon from the Lucide icon set.
 ///
@@ -16401,7 +16381,7 @@ static const IconData tally_3 = IconData(0xede8, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tally_4 = IconData(0xede9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tally_4 = IconData(0xede9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tally_5] icon from the Lucide icon set.
 ///
@@ -16414,7 +16394,7 @@ static const IconData tally_4 = IconData(0xede9, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tally_5 = IconData(0xedea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tally_5 = IconData(0xedea, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tangent] icon from the Lucide icon set.
 ///
@@ -16427,7 +16407,7 @@ static const IconData tally_5 = IconData(0xedea, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tangent = IconData(0xedeb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tangent = IconData(0xedeb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [target] icon from the Lucide icon set.
 ///
@@ -16440,7 +16420,7 @@ static const IconData tangent = IconData(0xedeb, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData target = IconData(0xedec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData target = IconData(0xedec, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tent_tree] icon from the Lucide icon set.
 ///
@@ -16453,7 +16433,7 @@ static const IconData target = IconData(0xedec, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tent_tree = IconData(0xeded, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tent_tree = IconData(0xeded, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tent] icon from the Lucide icon set.
 ///
@@ -16466,7 +16446,7 @@ static const IconData tent_tree = IconData(0xeded, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tent = IconData(0xedee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tent = IconData(0xedee, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [terminal_square] icon from the Lucide icon set.
 ///
@@ -16479,7 +16459,7 @@ static const IconData tent = IconData(0xedee, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData terminal_square = IconData(0xedef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData terminal_square = IconData(0xedef, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [terminal] icon from the Lucide icon set.
 ///
@@ -16492,7 +16472,7 @@ static const IconData terminal_square = IconData(0xedef, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData terminal = IconData(0xedf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData terminal = IconData(0xedf0, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [test_tube_2] icon from the Lucide icon set.
 ///
@@ -16505,7 +16485,7 @@ static const IconData terminal = IconData(0xedf0, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData test_tube_2 = IconData(0xedf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData test_tube_2 = IconData(0xedf1, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [test_tube] icon from the Lucide icon set.
 ///
@@ -16518,7 +16498,7 @@ static const IconData test_tube_2 = IconData(0xedf1, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData test_tube = IconData(0xedf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData test_tube = IconData(0xedf2, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [test_tubes] icon from the Lucide icon set.
 ///
@@ -16531,7 +16511,7 @@ static const IconData test_tube = IconData(0xedf2, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData test_tubes = IconData(0xedf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData test_tubes = IconData(0xedf3, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text_cursor_input] icon from the Lucide icon set.
 ///
@@ -16544,7 +16524,7 @@ static const IconData test_tubes = IconData(0xedf3, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text_cursor_input = IconData(0xedf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text_cursor_input = IconData(0xedf4, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text_cursor] icon from the Lucide icon set.
 ///
@@ -16557,7 +16537,7 @@ static const IconData text_cursor_input = IconData(0xedf4, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text_cursor = IconData(0xedf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text_cursor = IconData(0xedf5, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text_quote] icon from the Lucide icon set.
 ///
@@ -16570,7 +16550,7 @@ static const IconData text_cursor = IconData(0xedf5, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text_quote = IconData(0xedf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text_quote = IconData(0xedf6, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text_search] icon from the Lucide icon set.
 ///
@@ -16583,7 +16563,7 @@ static const IconData text_quote = IconData(0xedf6, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text_search = IconData(0xedf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text_search = IconData(0xedf7, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text_select] icon from the Lucide icon set.
 ///
@@ -16596,7 +16576,7 @@ static const IconData text_search = IconData(0xedf7, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text_select = IconData(0xedf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text_select = IconData(0xedf8, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [text] icon from the Lucide icon set.
 ///
@@ -16609,7 +16589,7 @@ static const IconData text_select = IconData(0xedf8, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData text = IconData(0xedf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData text = IconData(0xedf9, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [theater] icon from the Lucide icon set.
 ///
@@ -16622,7 +16602,7 @@ static const IconData text = IconData(0xedf9, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData theater = IconData(0xedfa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData theater = IconData(0xedfa, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [thermometer_snowflake] icon from the Lucide icon set.
 ///
@@ -16635,7 +16615,7 @@ static const IconData theater = IconData(0xedfa, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData thermometer_snowflake = IconData(0xedfb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData thermometer_snowflake = IconData(0xedfb, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [thermometer_sun] icon from the Lucide icon set.
 ///
@@ -16648,7 +16628,7 @@ static const IconData thermometer_snowflake = IconData(0xedfb, fontFamily: _font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData thermometer_sun = IconData(0xedfc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData thermometer_sun = IconData(0xedfc, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [thermometer] icon from the Lucide icon set.
 ///
@@ -16661,7 +16641,7 @@ static const IconData thermometer_sun = IconData(0xedfc, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData thermometer = IconData(0xedfd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData thermometer = IconData(0xedfd, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [thumbs_down] icon from the Lucide icon set.
 ///
@@ -16674,7 +16654,7 @@ static const IconData thermometer = IconData(0xedfd, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData thumbs_down = IconData(0xedfe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData thumbs_down = IconData(0xedfe, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [thumbs_up] icon from the Lucide icon set.
 ///
@@ -16687,7 +16667,7 @@ static const IconData thumbs_down = IconData(0xedfe, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData thumbs_up = IconData(0xedff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData thumbs_up = IconData(0xedff, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_check] icon from the Lucide icon set.
 ///
@@ -16700,7 +16680,7 @@ static const IconData thumbs_up = IconData(0xedff, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_check = IconData(0xee00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_check = IconData(0xee00, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_minus] icon from the Lucide icon set.
 ///
@@ -16713,7 +16693,7 @@ static const IconData ticket_check = IconData(0xee00, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_minus = IconData(0xee01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_minus = IconData(0xee01, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_percent] icon from the Lucide icon set.
 ///
@@ -16726,7 +16706,7 @@ static const IconData ticket_minus = IconData(0xee01, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_percent = IconData(0xee02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_percent = IconData(0xee02, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_plus] icon from the Lucide icon set.
 ///
@@ -16739,7 +16719,7 @@ static const IconData ticket_percent = IconData(0xee02, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_plus = IconData(0xee03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_plus = IconData(0xee03, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_slash] icon from the Lucide icon set.
 ///
@@ -16752,7 +16732,7 @@ static const IconData ticket_plus = IconData(0xee03, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_slash = IconData(0xee04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_slash = IconData(0xee04, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket_x] icon from the Lucide icon set.
 ///
@@ -16765,7 +16745,7 @@ static const IconData ticket_slash = IconData(0xee04, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket_x = IconData(0xee05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket_x = IconData(0xee05, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ticket] icon from the Lucide icon set.
 ///
@@ -16778,7 +16758,7 @@ static const IconData ticket_x = IconData(0xee05, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ticket = IconData(0xee06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ticket = IconData(0xee06, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [timer_off] icon from the Lucide icon set.
 ///
@@ -16791,7 +16771,7 @@ static const IconData ticket = IconData(0xee06, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData timer_off = IconData(0xee07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData timer_off = IconData(0xee07, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [timer_reset] icon from the Lucide icon set.
 ///
@@ -16804,7 +16784,7 @@ static const IconData timer_off = IconData(0xee07, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData timer_reset = IconData(0xee08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData timer_reset = IconData(0xee08, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [timer] icon from the Lucide icon set.
 ///
@@ -16817,7 +16797,7 @@ static const IconData timer_reset = IconData(0xee08, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData timer = IconData(0xee09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData timer = IconData(0xee09, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [toggle_left] icon from the Lucide icon set.
 ///
@@ -16830,7 +16810,7 @@ static const IconData timer = IconData(0xee09, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData toggle_left = IconData(0xee0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData toggle_left = IconData(0xee0a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [toggle_right] icon from the Lucide icon set.
 ///
@@ -16843,7 +16823,7 @@ static const IconData toggle_left = IconData(0xee0a, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData toggle_right = IconData(0xee0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData toggle_right = IconData(0xee0b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tornado] icon from the Lucide icon set.
 ///
@@ -16856,7 +16836,7 @@ static const IconData toggle_right = IconData(0xee0b, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tornado = IconData(0xee0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tornado = IconData(0xee0c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [torus] icon from the Lucide icon set.
 ///
@@ -16869,7 +16849,7 @@ static const IconData tornado = IconData(0xee0c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData torus = IconData(0xee0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData torus = IconData(0xee0d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [touchpad_off] icon from the Lucide icon set.
 ///
@@ -16882,7 +16862,7 @@ static const IconData torus = IconData(0xee0d, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData touchpad_off = IconData(0xee0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData touchpad_off = IconData(0xee0e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [touchpad] icon from the Lucide icon set.
 ///
@@ -16895,7 +16875,7 @@ static const IconData touchpad_off = IconData(0xee0e, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData touchpad = IconData(0xee0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData touchpad = IconData(0xee0f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tower_control] icon from the Lucide icon set.
 ///
@@ -16908,7 +16888,7 @@ static const IconData touchpad = IconData(0xee0f, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tower_control = IconData(0xee10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tower_control = IconData(0xee10, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [toy_brick] icon from the Lucide icon set.
 ///
@@ -16921,7 +16901,7 @@ static const IconData tower_control = IconData(0xee10, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData toy_brick = IconData(0xee11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData toy_brick = IconData(0xee11, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tractor] icon from the Lucide icon set.
 ///
@@ -16934,7 +16914,7 @@ static const IconData toy_brick = IconData(0xee11, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tractor = IconData(0xee12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tractor = IconData(0xee12, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [traffic_cone] icon from the Lucide icon set.
 ///
@@ -16947,7 +16927,7 @@ static const IconData tractor = IconData(0xee12, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData traffic_cone = IconData(0xee13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData traffic_cone = IconData(0xee13, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [train_front_tunnel] icon from the Lucide icon set.
 ///
@@ -16960,7 +16940,7 @@ static const IconData traffic_cone = IconData(0xee13, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData train_front_tunnel = IconData(0xee14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData train_front_tunnel = IconData(0xee14, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [train_front] icon from the Lucide icon set.
 ///
@@ -16973,7 +16953,7 @@ static const IconData train_front_tunnel = IconData(0xee14, fontFamily: _fontFam
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData train_front = IconData(0xee15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData train_front = IconData(0xee15, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [train_track] icon from the Lucide icon set.
 ///
@@ -16986,7 +16966,7 @@ static const IconData train_front = IconData(0xee15, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData train_track = IconData(0xee16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData train_track = IconData(0xee16, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tram_front] icon from the Lucide icon set.
 ///
@@ -16999,7 +16979,7 @@ static const IconData train_track = IconData(0xee16, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tram_front = IconData(0xee17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tram_front = IconData(0xee17, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trash_2] icon from the Lucide icon set.
 ///
@@ -17012,7 +16992,7 @@ static const IconData tram_front = IconData(0xee17, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trash_2 = IconData(0xee18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trash_2 = IconData(0xee18, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trash] icon from the Lucide icon set.
 ///
@@ -17025,7 +17005,7 @@ static const IconData trash_2 = IconData(0xee18, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trash = IconData(0xee19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trash = IconData(0xee19, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tree_deciduous] icon from the Lucide icon set.
 ///
@@ -17038,7 +17018,7 @@ static const IconData trash = IconData(0xee19, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tree_deciduous = IconData(0xee1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tree_deciduous = IconData(0xee1a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tree_pine] icon from the Lucide icon set.
 ///
@@ -17051,7 +17031,7 @@ static const IconData tree_deciduous = IconData(0xee1a, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tree_pine = IconData(0xee1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tree_pine = IconData(0xee1b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trees] icon from the Lucide icon set.
 ///
@@ -17064,7 +17044,7 @@ static const IconData tree_pine = IconData(0xee1b, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trees = IconData(0xee1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trees = IconData(0xee1c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trello] icon from the Lucide icon set.
 ///
@@ -17078,7 +17058,7 @@ static const IconData trees = IconData(0xee1c, fontFamily: _fontFamily, fontPack
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, brand, account, brands, development")
-static const IconData trello = IconData(0xee1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trello = IconData(0xee1d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trending_down] icon from the Lucide icon set.
 ///
@@ -17091,7 +17071,7 @@ static const IconData trello = IconData(0xee1d, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trending_down = IconData(0xee1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trending_down = IconData(0xee1e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trending_up] icon from the Lucide icon set.
 ///
@@ -17104,7 +17084,7 @@ static const IconData trending_down = IconData(0xee1e, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trending_up = IconData(0xee1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trending_up = IconData(0xee1f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [triangle_right] icon from the Lucide icon set.
 ///
@@ -17117,7 +17097,7 @@ static const IconData trending_up = IconData(0xee1f, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData triangle_right = IconData(0xee20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData triangle_right = IconData(0xee20, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [triangle] icon from the Lucide icon set.
 ///
@@ -17130,7 +17110,7 @@ static const IconData triangle_right = IconData(0xee20, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData triangle = IconData(0xee21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData triangle = IconData(0xee21, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [trophy] icon from the Lucide icon set.
 ///
@@ -17143,7 +17123,7 @@ static const IconData triangle = IconData(0xee21, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData trophy = IconData(0xee22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData trophy = IconData(0xee22, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [truck] icon from the Lucide icon set.
 ///
@@ -17156,7 +17136,7 @@ static const IconData trophy = IconData(0xee22, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData truck = IconData(0xee23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData truck = IconData(0xee23, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [turtle] icon from the Lucide icon set.
 ///
@@ -17169,7 +17149,7 @@ static const IconData truck = IconData(0xee23, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData turtle = IconData(0xee24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData turtle = IconData(0xee24, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tv_2] icon from the Lucide icon set.
 ///
@@ -17182,7 +17162,7 @@ static const IconData turtle = IconData(0xee24, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tv_2 = IconData(0xee25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tv_2 = IconData(0xee25, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [tv] icon from the Lucide icon set.
 ///
@@ -17195,7 +17175,7 @@ static const IconData tv_2 = IconData(0xee25, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData tv = IconData(0xee26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData tv = IconData(0xee26, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [twitch] icon from the Lucide icon set.
 ///
@@ -17209,7 +17189,7 @@ static const IconData tv = IconData(0xee26, fontFamily: _fontFamily, fontPackage
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, social, brands, account, gaming")
-static const IconData twitch = IconData(0xee27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData twitch = IconData(0xee27, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [twitter] icon from the Lucide icon set.
 ///
@@ -17223,7 +17203,7 @@ static const IconData twitch = IconData(0xee27, fontFamily: _fontFamily, fontPac
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, social, brands, account")
-static const IconData twitter = IconData(0xee28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData twitter = IconData(0xee28, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [type] icon from the Lucide icon set.
 ///
@@ -17236,7 +17216,7 @@ static const IconData twitter = IconData(0xee28, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData type = IconData(0xee29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData type = IconData(0xee29, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [umbrella_off] icon from the Lucide icon set.
 ///
@@ -17249,7 +17229,7 @@ static const IconData type = IconData(0xee29, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData umbrella_off = IconData(0xee2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData umbrella_off = IconData(0xee2a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [umbrella] icon from the Lucide icon set.
 ///
@@ -17262,7 +17242,7 @@ static const IconData umbrella_off = IconData(0xee2a, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData umbrella = IconData(0xee2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData umbrella = IconData(0xee2b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [underline] icon from the Lucide icon set.
 ///
@@ -17275,7 +17255,7 @@ static const IconData umbrella = IconData(0xee2b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData underline = IconData(0xee2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData underline = IconData(0xee2c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [undo_2] icon from the Lucide icon set.
 ///
@@ -17288,7 +17268,7 @@ static const IconData underline = IconData(0xee2c, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData undo_2 = IconData(0xee2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData undo_2 = IconData(0xee2d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [undo_dot] icon from the Lucide icon set.
 ///
@@ -17301,7 +17281,7 @@ static const IconData undo_2 = IconData(0xee2d, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData undo_dot = IconData(0xee2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData undo_dot = IconData(0xee2e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [undo] icon from the Lucide icon set.
 ///
@@ -17314,7 +17294,7 @@ static const IconData undo_dot = IconData(0xee2e, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData undo = IconData(0xee2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData undo = IconData(0xee2f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unfold_horizontal] icon from the Lucide icon set.
 ///
@@ -17327,7 +17307,7 @@ static const IconData undo = IconData(0xee2f, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unfold_horizontal = IconData(0xee30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unfold_horizontal = IconData(0xee30, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unfold_vertical] icon from the Lucide icon set.
 ///
@@ -17340,7 +17320,7 @@ static const IconData unfold_horizontal = IconData(0xee30, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unfold_vertical = IconData(0xee31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unfold_vertical = IconData(0xee31, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [ungroup] icon from the Lucide icon set.
 ///
@@ -17353,7 +17333,7 @@ static const IconData unfold_vertical = IconData(0xee31, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData ungroup = IconData(0xee32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData ungroup = IconData(0xee32, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unlink_2] icon from the Lucide icon set.
 ///
@@ -17366,7 +17346,7 @@ static const IconData ungroup = IconData(0xee32, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unlink_2 = IconData(0xee33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unlink_2 = IconData(0xee33, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unlink] icon from the Lucide icon set.
 ///
@@ -17379,7 +17359,7 @@ static const IconData unlink_2 = IconData(0xee33, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unlink = IconData(0xee34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unlink = IconData(0xee34, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unlock_keyhole] icon from the Lucide icon set.
 ///
@@ -17392,7 +17372,7 @@ static const IconData unlink = IconData(0xee34, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unlock_keyhole = IconData(0xee35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unlock_keyhole = IconData(0xee35, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unlock] icon from the Lucide icon set.
 ///
@@ -17405,7 +17385,7 @@ static const IconData unlock_keyhole = IconData(0xee35, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unlock = IconData(0xee36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unlock = IconData(0xee36, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [unplug] icon from the Lucide icon set.
 ///
@@ -17418,7 +17398,7 @@ static const IconData unlock = IconData(0xee36, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData unplug = IconData(0xee37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData unplug = IconData(0xee37, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [upload_cloud] icon from the Lucide icon set.
 ///
@@ -17431,7 +17411,7 @@ static const IconData unplug = IconData(0xee37, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData upload_cloud = IconData(0xee38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData upload_cloud = IconData(0xee38, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [upload] icon from the Lucide icon set.
 ///
@@ -17444,7 +17424,7 @@ static const IconData upload_cloud = IconData(0xee38, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData upload = IconData(0xee39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData upload = IconData(0xee39, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [usb] icon from the Lucide icon set.
 ///
@@ -17457,7 +17437,7 @@ static const IconData upload = IconData(0xee39, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData usb = IconData(0xee3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData usb = IconData(0xee3a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_check] icon from the Lucide icon set.
 ///
@@ -17470,7 +17450,7 @@ static const IconData usb = IconData(0xee3a, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_check = IconData(0xee3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_check = IconData(0xee3b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_cog] icon from the Lucide icon set.
 ///
@@ -17483,7 +17463,7 @@ static const IconData user_check = IconData(0xee3b, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_cog = IconData(0xee3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_cog = IconData(0xee3c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_minus] icon from the Lucide icon set.
 ///
@@ -17496,7 +17476,7 @@ static const IconData user_cog = IconData(0xee3c, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_minus = IconData(0xee3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_minus = IconData(0xee3d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_plus] icon from the Lucide icon set.
 ///
@@ -17509,7 +17489,7 @@ static const IconData user_minus = IconData(0xee3d, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_plus = IconData(0xee3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_plus = IconData(0xee3e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_check] icon from the Lucide icon set.
 ///
@@ -17522,7 +17502,7 @@ static const IconData user_plus = IconData(0xee3e, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_check = IconData(0xee3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_check = IconData(0xee3f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_cog] icon from the Lucide icon set.
 ///
@@ -17535,7 +17515,7 @@ static const IconData user_round_check = IconData(0xee3f, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_cog = IconData(0xee40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_cog = IconData(0xee40, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_minus] icon from the Lucide icon set.
 ///
@@ -17548,7 +17528,7 @@ static const IconData user_round_cog = IconData(0xee40, fontFamily: _fontFamily,
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_minus = IconData(0xee41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_minus = IconData(0xee41, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_plus] icon from the Lucide icon set.
 ///
@@ -17561,7 +17541,7 @@ static const IconData user_round_minus = IconData(0xee41, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_plus = IconData(0xee42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_plus = IconData(0xee42, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_search] icon from the Lucide icon set.
 ///
@@ -17574,7 +17554,7 @@ static const IconData user_round_plus = IconData(0xee42, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_search = IconData(0xee43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_search = IconData(0xee43, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round_x] icon from the Lucide icon set.
 ///
@@ -17587,7 +17567,7 @@ static const IconData user_round_search = IconData(0xee43, fontFamily: _fontFami
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round_x = IconData(0xee44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round_x = IconData(0xee44, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_round] icon from the Lucide icon set.
 ///
@@ -17600,7 +17580,7 @@ static const IconData user_round_x = IconData(0xee44, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_round = IconData(0xee45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_round = IconData(0xee45, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_search] icon from the Lucide icon set.
 ///
@@ -17613,7 +17593,7 @@ static const IconData user_round = IconData(0xee45, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_search = IconData(0xee46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_search = IconData(0xee46, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user_x] icon from the Lucide icon set.
 ///
@@ -17626,7 +17606,7 @@ static const IconData user_search = IconData(0xee46, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user_x = IconData(0xee47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user_x = IconData(0xee47, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [user] icon from the Lucide icon set.
 ///
@@ -17639,7 +17619,7 @@ static const IconData user_x = IconData(0xee47, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData user = IconData(0xee48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData user = IconData(0xee48, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [users_round] icon from the Lucide icon set.
 ///
@@ -17652,7 +17632,7 @@ static const IconData user = IconData(0xee48, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData users_round = IconData(0xee49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData users_round = IconData(0xee49, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [users] icon from the Lucide icon set.
 ///
@@ -17665,7 +17645,7 @@ static const IconData users_round = IconData(0xee49, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData users = IconData(0xee4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData users = IconData(0xee4a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [utensils_crossed] icon from the Lucide icon set.
 ///
@@ -17678,7 +17658,7 @@ static const IconData users = IconData(0xee4a, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData utensils_crossed = IconData(0xee4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData utensils_crossed = IconData(0xee4b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [utensils] icon from the Lucide icon set.
 ///
@@ -17691,7 +17671,7 @@ static const IconData utensils_crossed = IconData(0xee4b, fontFamily: _fontFamil
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData utensils = IconData(0xee4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData utensils = IconData(0xee4c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [utility_pole] icon from the Lucide icon set.
 ///
@@ -17704,7 +17684,7 @@ static const IconData utensils = IconData(0xee4c, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData utility_pole = IconData(0xee4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData utility_pole = IconData(0xee4d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [variable] icon from the Lucide icon set.
 ///
@@ -17717,7 +17697,7 @@ static const IconData utility_pole = IconData(0xee4d, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData variable = IconData(0xee4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData variable = IconData(0xee4e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [vault] icon from the Lucide icon set.
 ///
@@ -17730,7 +17710,7 @@ static const IconData variable = IconData(0xee4e, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData vault = IconData(0xee4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData vault = IconData(0xee4f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [vegan] icon from the Lucide icon set.
 ///
@@ -17743,7 +17723,7 @@ static const IconData vault = IconData(0xee4f, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData vegan = IconData(0xee50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData vegan = IconData(0xee50, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [venetian_mask] icon from the Lucide icon set.
 ///
@@ -17756,7 +17736,7 @@ static const IconData vegan = IconData(0xee50, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData venetian_mask = IconData(0xee51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData venetian_mask = IconData(0xee51, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [vibrate_off] icon from the Lucide icon set.
 ///
@@ -17769,7 +17749,7 @@ static const IconData venetian_mask = IconData(0xee51, fontFamily: _fontFamily, 
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData vibrate_off = IconData(0xee52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData vibrate_off = IconData(0xee52, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [vibrate] icon from the Lucide icon set.
 ///
@@ -17782,7 +17762,7 @@ static const IconData vibrate_off = IconData(0xee52, fontFamily: _fontFamily, fo
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData vibrate = IconData(0xee53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData vibrate = IconData(0xee53, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [video_off] icon from the Lucide icon set.
 ///
@@ -17795,7 +17775,7 @@ static const IconData vibrate = IconData(0xee53, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData video_off = IconData(0xee54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData video_off = IconData(0xee54, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [video] icon from the Lucide icon set.
 ///
@@ -17808,7 +17788,7 @@ static const IconData video_off = IconData(0xee54, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData video = IconData(0xee55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData video = IconData(0xee55, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [videotape] icon from the Lucide icon set.
 ///
@@ -17821,7 +17801,7 @@ static const IconData video = IconData(0xee55, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData videotape = IconData(0xee56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData videotape = IconData(0xee56, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [view] icon from the Lucide icon set.
 ///
@@ -17834,7 +17814,7 @@ static const IconData videotape = IconData(0xee56, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData view = IconData(0xee57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData view = IconData(0xee57, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [voicemail] icon from the Lucide icon set.
 ///
@@ -17847,7 +17827,7 @@ static const IconData view = IconData(0xee57, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData voicemail = IconData(0xee58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData voicemail = IconData(0xee58, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [volume_1] icon from the Lucide icon set.
 ///
@@ -17860,7 +17840,7 @@ static const IconData voicemail = IconData(0xee58, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData volume_1 = IconData(0xee59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData volume_1 = IconData(0xee59, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [volume_2] icon from the Lucide icon set.
 ///
@@ -17873,7 +17853,7 @@ static const IconData volume_1 = IconData(0xee59, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData volume_2 = IconData(0xee5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData volume_2 = IconData(0xee5a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [volume_x] icon from the Lucide icon set.
 ///
@@ -17886,7 +17866,7 @@ static const IconData volume_2 = IconData(0xee5a, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData volume_x = IconData(0xee5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData volume_x = IconData(0xee5b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [volume] icon from the Lucide icon set.
 ///
@@ -17899,7 +17879,7 @@ static const IconData volume_x = IconData(0xee5b, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData volume = IconData(0xee5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData volume = IconData(0xee5c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [vote] icon from the Lucide icon set.
 ///
@@ -17912,7 +17892,7 @@ static const IconData volume = IconData(0xee5c, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData vote = IconData(0xee5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData vote = IconData(0xee5d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wallet_2] icon from the Lucide icon set.
 ///
@@ -17925,7 +17905,7 @@ static const IconData vote = IconData(0xee5d, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wallet_2 = IconData(0xee5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wallet_2 = IconData(0xee5e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wallet_cards] icon from the Lucide icon set.
 ///
@@ -17938,7 +17918,7 @@ static const IconData wallet_2 = IconData(0xee5e, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wallet_cards = IconData(0xee5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wallet_cards = IconData(0xee5f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wallet] icon from the Lucide icon set.
 ///
@@ -17951,7 +17931,7 @@ static const IconData wallet_cards = IconData(0xee5f, fontFamily: _fontFamily, f
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wallet = IconData(0xee60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wallet = IconData(0xee60, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wallpaper] icon from the Lucide icon set.
 ///
@@ -17964,7 +17944,7 @@ static const IconData wallet = IconData(0xee60, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wallpaper = IconData(0xee61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wallpaper = IconData(0xee61, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wand_2] icon from the Lucide icon set.
 ///
@@ -17977,7 +17957,7 @@ static const IconData wallpaper = IconData(0xee61, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wand_2 = IconData(0xee62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wand_2 = IconData(0xee62, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wand] icon from the Lucide icon set.
 ///
@@ -17990,7 +17970,7 @@ static const IconData wand_2 = IconData(0xee62, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wand = IconData(0xee63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wand = IconData(0xee63, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [warehouse] icon from the Lucide icon set.
 ///
@@ -18003,7 +17983,7 @@ static const IconData wand = IconData(0xee63, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData warehouse = IconData(0xee64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData warehouse = IconData(0xee64, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [washing_machine] icon from the Lucide icon set.
 ///
@@ -18016,7 +17996,7 @@ static const IconData warehouse = IconData(0xee64, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData washing_machine = IconData(0xee65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData washing_machine = IconData(0xee65, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [watch] icon from the Lucide icon set.
 ///
@@ -18029,7 +18009,7 @@ static const IconData washing_machine = IconData(0xee65, fontFamily: _fontFamily
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData watch = IconData(0xee66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData watch = IconData(0xee66, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [waves] icon from the Lucide icon set.
 ///
@@ -18042,7 +18022,7 @@ static const IconData watch = IconData(0xee66, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData waves = IconData(0xee67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData waves = IconData(0xee67, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [waypoints] icon from the Lucide icon set.
 ///
@@ -18055,7 +18035,7 @@ static const IconData waves = IconData(0xee67, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData waypoints = IconData(0xee68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData waypoints = IconData(0xee68, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [webcam] icon from the Lucide icon set.
 ///
@@ -18068,7 +18048,7 @@ static const IconData waypoints = IconData(0xee68, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData webcam = IconData(0xee69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData webcam = IconData(0xee69, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [webhook] icon from the Lucide icon set.
 ///
@@ -18081,7 +18061,7 @@ static const IconData webcam = IconData(0xee69, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData webhook = IconData(0xee6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData webhook = IconData(0xee6a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [weight] icon from the Lucide icon set.
 ///
@@ -18094,7 +18074,7 @@ static const IconData webhook = IconData(0xee6a, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData weight = IconData(0xee6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData weight = IconData(0xee6b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wheat_off] icon from the Lucide icon set.
 ///
@@ -18107,7 +18087,7 @@ static const IconData weight = IconData(0xee6b, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wheat_off = IconData(0xee6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wheat_off = IconData(0xee6c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wheat] icon from the Lucide icon set.
 ///
@@ -18120,7 +18100,7 @@ static const IconData wheat_off = IconData(0xee6c, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wheat = IconData(0xee6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wheat = IconData(0xee6d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [whole_word] icon from the Lucide icon set.
 ///
@@ -18133,7 +18113,7 @@ static const IconData wheat = IconData(0xee6d, fontFamily: _fontFamily, fontPack
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData whole_word = IconData(0xee6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData whole_word = IconData(0xee6e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wifi_off] icon from the Lucide icon set.
 ///
@@ -18146,7 +18126,7 @@ static const IconData whole_word = IconData(0xee6e, fontFamily: _fontFamily, fon
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wifi_off = IconData(0xee6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wifi_off = IconData(0xee6f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wifi] icon from the Lucide icon set.
 ///
@@ -18159,7 +18139,7 @@ static const IconData wifi_off = IconData(0xee6f, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wifi = IconData(0xee70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wifi = IconData(0xee70, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wind] icon from the Lucide icon set.
 ///
@@ -18172,7 +18152,7 @@ static const IconData wifi = IconData(0xee70, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wind = IconData(0xee71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wind = IconData(0xee71, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wine_off] icon from the Lucide icon set.
 ///
@@ -18185,7 +18165,7 @@ static const IconData wind = IconData(0xee71, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wine_off = IconData(0xee72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wine_off = IconData(0xee72, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wine] icon from the Lucide icon set.
 ///
@@ -18198,7 +18178,7 @@ static const IconData wine_off = IconData(0xee72, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wine = IconData(0xee73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wine = IconData(0xee73, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [workflow] icon from the Lucide icon set.
 ///
@@ -18211,7 +18191,7 @@ static const IconData wine = IconData(0xee73, fontFamily: _fontFamily, fontPacka
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData workflow = IconData(0xee74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData workflow = IconData(0xee74, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wrap_text] icon from the Lucide icon set.
 ///
@@ -18224,7 +18204,7 @@ static const IconData workflow = IconData(0xee74, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wrap_text = IconData(0xee75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wrap_text = IconData(0xee75, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [wrench] icon from the Lucide icon set.
 ///
@@ -18237,7 +18217,7 @@ static const IconData wrap_text = IconData(0xee75, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData wrench = IconData(0xee76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData wrench = IconData(0xee76, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [x_circle] icon from the Lucide icon set.
 ///
@@ -18250,7 +18230,7 @@ static const IconData wrench = IconData(0xee76, fontFamily: _fontFamily, fontPac
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData x_circle = IconData(0xee77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData x_circle = IconData(0xee77, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [x_octagon] icon from the Lucide icon set.
 ///
@@ -18263,7 +18243,7 @@ static const IconData x_circle = IconData(0xee77, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData x_octagon = IconData(0xee78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData x_octagon = IconData(0xee78, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [x_square] icon from the Lucide icon set.
 ///
@@ -18276,7 +18256,7 @@ static const IconData x_octagon = IconData(0xee78, fontFamily: _fontFamily, font
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData x_square = IconData(0xee79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData x_square = IconData(0xee79, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [x] icon from the Lucide icon set.
 ///
@@ -18289,7 +18269,7 @@ static const IconData x_square = IconData(0xee79, fontFamily: _fontFamily, fontP
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData x = IconData(0xee7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData x = IconData(0xee7a, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [youtube] icon from the Lucide icon set.
 ///
@@ -18303,7 +18283,7 @@ static const IconData x = IconData(0xee7a, fontFamily: _fontFamily, fontPackage:
 ///
 @Deprecated(
 "You can use other icons instead. you can find similar icons at [https://lucide.dev/](https://lucide.dev/), tags : logo, social, video, play, account, multimedia, text, brands")
-static const IconData youtube = IconData(0xee7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData youtube = IconData(0xee7b, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [zap_off] icon from the Lucide icon set.
 ///
@@ -18316,7 +18296,7 @@ static const IconData youtube = IconData(0xee7b, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData zap_off = IconData(0xee7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData zap_off = IconData(0xee7c, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [zap] icon from the Lucide icon set.
 ///
@@ -18329,7 +18309,7 @@ static const IconData zap_off = IconData(0xee7c, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData zap = IconData(0xee7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData zap = IconData(0xee7d, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [zoom_in] icon from the Lucide icon set.
 ///
@@ -18342,7 +18322,7 @@ static const IconData zap = IconData(0xee7d, fontFamily: _fontFamily, fontPackag
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData zoom_in = IconData(0xee7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData zoom_in = IconData(0xee7e, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 
 /// Represents the [zoom_out] icon from the Lucide icon set.
 ///
@@ -18355,5 +18335,5 @@ static const IconData zoom_in = IconData(0xee7e, fontFamily: _fontFamily, fontPa
 /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
 ///
 
-static const IconData zoom_out = IconData(0xee7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+static const IconData zoom_out = IconData(0xee7f, fontFamily: \_fontFamily, fontPackage: \_fontPackage);
 }
