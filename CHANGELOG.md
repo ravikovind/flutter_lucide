@@ -1,9 +1,13 @@
+# 1.4.0
+- 0.424.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+
 # 1.3.0
 
 - Fixed major issue of [Issue #3](https://github.com/ravikovind/flutter_lucide/issues/3) `cannot tree shake icons fonts. It has non-constant instances of IconData` by removing unnecessary function.
 - 0.408.0 version of Lucide Icons is added.
 - Updated `README.md` with the latest information.
-- Formatted code with dart format . & improved code readability.
+- Formatted code with `dart format .` & improved code readability.
 
 # 1.2.0
 
