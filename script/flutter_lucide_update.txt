@@ -1731,6 +1731,19 @@ abstract final class LucideIcons {
   /// 
   static const IconData banana = IconData(0xe353, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
+  /// Represents the [bandage] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [bandage] icon is a graphical symbol that conveys a specific idea or functionality related to plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety.
+  /// - It belongs to the medical categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData bandage = IconData(0xe622, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
   /// Represents the [banknote] icon from the Lucide icon set.
   /// 
   /// Description:
@@ -2159,6 +2172,19 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
   static const IconData binary = IconData(0xe1f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
+  /// Represents the [binoculars] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [binoculars] icon is a graphical symbol that conveys a specific idea or functionality related to field glasses, lorgnette, pince-nez, observation, sightseeing, nature, wildlife, birdwatching, scouting, surveillance, search, discovery, monitoring, lookout, viewpoint, travel, tourism, research.
+  /// - It belongs to the maps, nature, photography, science, travel, development categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData binoculars = IconData(0xe626, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
   /// Represents the [biohazard] icon from the Lucide icon set.
   /// 
@@ -4097,6 +4123,19 @@ abstract final class LucideIcons {
   /// 
   static const IconData chevrons_left_right = IconData(0xe293, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
+  /// Represents the [chevrons_left_right_ellipsis] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [chevrons_left_right_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to internet, network, connection, cable, lan, port, router, switch, hub, modem, web, online, networking, communication, socket, plug, slot, controller, connector, interface, console, signal, data, input, output.
+  /// - It belongs to the communication, devices, multimedia, gaming categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData chevrons_left_right_ellipsis = IconData(0xe624, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
   /// Represents the [chevrons_right] icon from the Lucide icon set.
   /// 
   /// Description:
@@ -4182,7 +4221,7 @@ abstract final class LucideIcons {
   /// - It belongs to the travel, transportation, medical categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
@@ -4195,7 +4234,7 @@ abstract final class LucideIcons {
   /// - It belongs to the travel, transportation, medical categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
@@ -4477,7 +4516,7 @@ abstract final class LucideIcons {
   /// Represents the [circle_ellipsis] icon from the Lucide icon set.
   /// 
   /// Description:
-  /// - The [circle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, …, ....
+  /// - The [circle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ....
   /// - It belongs to the layout, development, shapes categories.
   /// 
   /// Acknowledgements:
@@ -6713,7 +6752,7 @@ abstract final class LucideIcons {
   /// Represents the [ellipsis] icon from the Lucide icon set.
   /// 
   /// Description:
-  /// - The [ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, …, ....
+  /// - The [ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ....
   /// - It belongs to the layout, development categories.
   /// 
   /// Acknowledgements:
@@ -6726,7 +6765,7 @@ abstract final class LucideIcons {
   /// Represents the [ellipsis_vertical] icon from the Lucide icon set.
   /// 
   /// Description:
-  /// - The [ellipsis_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to menu, options, ....
+  /// - The [ellipsis_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to menu, options, spread, more, further, extra, overflow, dots, …, ....
   /// - It belongs to the layout categories.
   /// 
   /// Acknowledgements:
@@ -6774,6 +6813,19 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
   static const IconData eraser = IconData(0xe28f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
+  /// Represents the [ethernet_port] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [ethernet_port] icon is a graphical symbol that conveys a specific idea or functionality related to internet, network, connection, cable, lan, port, router, switch, hub, modem, web, online, networking, communication, socket, plug, slot, controller, connector, interface, console, signal, data, input, output.
+  /// - It belongs to the communication, devices, multimedia, gaming categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData ethernet_port = IconData(0xe625, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
   /// Represents the [euro] icon from the Lucide icon set.
   /// 
@@ -8381,7 +8433,7 @@ abstract final class LucideIcons {
   /// - It belongs to the files categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
@@ -14396,7 +14448,7 @@ abstract final class LucideIcons {
   /// Represents the [rectangle_ellipsis] icon from the Lucide icon set.
   /// 
   /// Description:
-  /// - The [rectangle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, …, ....
+  /// - The [rectangle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ....
   /// - It belongs to the text, development, shapes categories.
   /// 
   /// Acknowledgements:
@@ -17552,6 +17604,19 @@ abstract final class LucideIcons {
   /// 
   static const IconData table_columns_split = IconData(0xe5ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
+  /// Represents the [table_of_contents] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [table_of_contents] icon is a graphical symbol that conveys a specific idea or functionality related to toc, outline, navigation, document structure, index, overview, sections, chapters, content, documentation, manual, knowledge base, faq.
+  /// - It belongs to the text categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData table_of_contents = IconData(0xe623, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
   /// Represents the [table_properties] icon from the Lucide icon set.
   /// 
   /// Description:
@@ -18071,6 +18136,32 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
   static const IconData ticket_x = IconData(0xe5b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
+  /// Represents the [tickets] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [tickets] icon is a graphical symbol that conveys a specific idea or functionality related to trip, travel, pass, entry, voucher, event, concert, show, perforated, dashed.
+  /// - It belongs to the travel, account, transportation categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData tickets = IconData(0xe627, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
+  /// Represents the [tickets_plane] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [tickets_plane] icon is a graphical symbol that conveys a specific idea or functionality related to plane, trip, airplane, flight, travel, fly, takeoff, vacation, passenger, pass, check-in, airport.
+  /// - It belongs to the transportation, travel categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData tickets_plane = IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
   /// Represents the [timer] icon from the Lucide icon set.
   /// 

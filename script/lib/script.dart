@@ -139,5 +139,5 @@ abstract final class LucideIcons {
 
   final script = io.File(path.join(current, 'flutter_lucide_update.txt'));
   await script.writeAsString(newContent);
-  return print('script.dart file updated successfully');
+  return print('Script completed successfully! 🎉 🎉');
 }
