@@ -1,4 +1,10 @@
+# 1.5.0
+
+- 0.460.0 version of Lucide Icons is added.
+- Added new refreshing icons & updated the existing ones. Updated `README.md` with the latest information.
+
 # 1.4.0
+
 - 0.424.0 version of Lucide Icons is added.
 - Updated `README.md` with the latest information.
 
