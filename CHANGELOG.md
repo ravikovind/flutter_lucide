@@ -1,3 +1,20 @@
+# 1.6.0
+
+## Improvements 🚀
+- 0.462.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+
+## New icons 🎨
+- calendar-sync (#2590) by @[chessurisme](https://github.com/chessurisme)
+- image-upscale (#2462) by @[jguddas](https://github.com/jguddas)
+
+## Modified Icons 🔨
+- grid-2x2 (#2628) by @[jguddas](https://github.com/jguddas)
+- ship (#2548) by @[jguddas](https://github.com/jguddas)
+- shuffle (#2478) by @[jguddas](https://github.com/jguddas)
+- venetian-mask (#1950) by @[jguddas](https://github.com/jguddas)
+- scale-3d (#2627) by @[jguddas](https://github.com/jguddas)
+
 # 1.5.0
 
 - 0.460.0 version of Lucide Icons is added.

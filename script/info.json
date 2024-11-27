@@ -1529,6 +1529,12 @@
     "className": "icon-calendar-search",
     "unicode": "&#58118;"
   },
+  "calendar-sync": {
+    "encodedCode": "\\e63b",
+    "prefix": "icon",
+    "className": "icon-calendar-sync",
+    "unicode": "&#58939;"
+  },
   "calendar-x-2": {
     "encodedCode": "\\e2bf",
     "prefix": "icon",
@@ -4600,6 +4606,12 @@
     "prefix": "icon",
     "className": "icon-image-up",
     "unicode": "&#58832;"
+  },
+  "image-upscale": {
+    "encodedCode": "\\e63c",
+    "prefix": "icon",
+    "className": "icon-image-upscale",
+    "unicode": "&#58940;"
   },
   "image": {
     "encodedCode": "\\e0f9",

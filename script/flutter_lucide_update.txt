@@ -3369,6 +3369,19 @@ abstract final class LucideIcons {
   /// 
   static const IconData calendar_search = IconData(0xe306, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
+  /// Represents the [calendar_sync] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [calendar_sync] icon is a graphical symbol that conveys a specific idea or functionality related to repeat, refresh, reconnect, transfer, backup, date, month, year, event, subscribe, recurring, schedule, reminder, automatic, auto.
+  /// - It belongs to the arrows, time categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData calendar_sync = IconData(0xe63b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
   /// Represents the [calendar_x] icon from the Lucide icon set.
   /// 
   /// Description:
@@ -9209,7 +9222,7 @@ abstract final class LucideIcons {
   /// Represents the [grid_2x2] icon from the Lucide icon set.
   /// 
   /// Description:
-  /// - The [grid_2x2] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre.
+  /// - The [grid_2x2] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight.
   /// - It belongs to the text, layout, design, shapes, maths categories.
   /// 
   /// Acknowledgements:
@@ -10024,6 +10037,19 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
   static const IconData image_up = IconData(0xe5d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
+  /// Represents the [image_upscale] icon from the Lucide icon set.
+  /// 
+  /// Description:
+  /// - The [image_upscale] icon is a graphical symbol that conveys a specific idea or functionality related to resize, picture, sharpen, increase.
+  /// - It belongs to the photography, multimedia categories.
+  /// 
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
+  /// 
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// 
+  static const IconData image_upscale = IconData(0xe63c, fontFamily: _fontFamily, fontPackage: _fontPackage);
   
   /// Represents the [images] icon from the Lucide icon set.
   /// 
@@ -15895,7 +15921,7 @@ abstract final class LucideIcons {
   /// - It belongs to the transportation, travel, maps categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
@@ -16025,7 +16051,7 @@ abstract final class LucideIcons {
   /// - It belongs to the multimedia, arrows categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
@@ -19379,7 +19405,7 @@ abstract final class LucideIcons {
   /// - It belongs to the account, gaming categories.
   /// 
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   /// 
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   /// 
