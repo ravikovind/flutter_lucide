@@ -1,3 +1,9 @@
+# 1.6.1
+
+## Improvements 🚀
+- 0.468.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+
 # 1.6.0
 
 ## Improvements 🚀

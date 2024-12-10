@@ -53,7 +53,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData a_arrow_down =
-      IconData(0xe58a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe589, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [a_arrow_up] icon from the Lucide icon set.
   ///
@@ -67,7 +67,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData a_arrow_up =
-      IconData(0xe58b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [a_large_small] icon from the Lucide icon set.
   ///
@@ -81,7 +81,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData a_large_small =
-      IconData(0xe58c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [accessibility] icon from the Lucide icon set.
   ///
@@ -95,7 +95,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData accessibility =
-      IconData(0xe297, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe296, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [activity] icon from the Lucide icon set.
   ///
@@ -123,7 +123,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData air_vent =
-      IconData(0xe351, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe350, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [airplay] icon from the Lucide icon set.
   ///
@@ -165,7 +165,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData alarm_clock_check =
-      IconData(0xe1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_minus] icon from the Lucide icon set.
   ///
@@ -179,7 +179,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData alarm_clock_minus =
-      IconData(0xe1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_off] icon from the Lucide icon set.
   ///
@@ -193,7 +193,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData alarm_clock_off =
-      IconData(0xe23b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_plus] icon from the Lucide icon set.
   ///
@@ -207,7 +207,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData alarm_clock_plus =
-      IconData(0xe1ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_smoke] icon from the Lucide icon set.
   ///
@@ -221,7 +221,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData alarm_smoke =
-      IconData(0xe580, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [album] icon from the Lucide icon set.
   ///
@@ -263,7 +263,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_center_horizontal =
-      IconData(0xe26c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_center_vertical] icon from the Lucide icon set.
   ///
@@ -277,7 +277,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_center_vertical =
-      IconData(0xe26d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_end_horizontal] icon from the Lucide icon set.
   ///
@@ -291,7 +291,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_end_horizontal =
-      IconData(0xe26e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_end_vertical] icon from the Lucide icon set.
   ///
@@ -305,7 +305,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_end_vertical =
-      IconData(0xe26f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_distribute_center] icon from the Lucide icon set.
   ///
@@ -361,7 +361,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_horizontal_justify_center =
-      IconData(0xe272, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe271, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_justify_end] icon from the Lucide icon set.
   ///
@@ -375,7 +375,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_horizontal_justify_end =
-      IconData(0xe273, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe272, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_justify_start] icon from the Lucide icon set.
   ///
@@ -389,7 +389,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_horizontal_justify_start =
-      IconData(0xe274, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe273, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_space_around] icon from the Lucide icon set.
   ///
@@ -403,7 +403,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_horizontal_space_around =
-      IconData(0xe275, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe274, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_space_between] icon from the Lucide icon set.
   ///
@@ -417,7 +417,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_horizontal_space_between =
-      IconData(0xe276, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe275, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_justify] icon from the Lucide icon set.
   ///
@@ -473,7 +473,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_start_horizontal =
-      IconData(0xe270, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_start_vertical] icon from the Lucide icon set.
   ///
@@ -487,7 +487,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_start_vertical =
-      IconData(0xe271, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe270, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_center] icon from the Lucide icon set.
   ///
@@ -501,7 +501,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_distribute_center =
-      IconData(0xe27e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_end] icon from the Lucide icon set.
   ///
@@ -515,7 +515,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_distribute_end =
-      IconData(0xe27f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_start] icon from the Lucide icon set.
   ///
@@ -529,7 +529,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_distribute_start =
-      IconData(0xe280, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_center] icon from the Lucide icon set.
   ///
@@ -543,7 +543,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_justify_center =
-      IconData(0xe277, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe276, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_end] icon from the Lucide icon set.
   ///
@@ -557,7 +557,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_justify_end =
-      IconData(0xe278, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe277, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_start] icon from the Lucide icon set.
   ///
@@ -571,7 +571,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_justify_start =
-      IconData(0xe279, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe278, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_space_around] icon from the Lucide icon set.
   ///
@@ -585,7 +585,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_space_around =
-      IconData(0xe27a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe279, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_space_between] icon from the Lucide icon set.
   ///
@@ -599,7 +599,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData align_vertical_space_between =
-      IconData(0xe27b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ambulance] icon from the Lucide icon set.
   ///
@@ -613,7 +613,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ambulance =
-      IconData(0xe5c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ampersand] icon from the Lucide icon set.
   ///
@@ -627,7 +627,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ampersand =
-      IconData(0xe4a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ampersands] icon from the Lucide icon set.
   ///
@@ -641,7 +641,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ampersands =
-      IconData(0xe4a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [amphora] icon from the Lucide icon set.
   ///
@@ -655,13 +655,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData amphora =
-      IconData(0xe620, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [anchor] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [anchor] icon is a graphical symbol that conveys a specific idea or functionality related to ship.
-  /// - It belongs to the transportation, text, maps categories.
+  /// - It belongs to the transportation, text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -683,7 +683,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData angry =
-      IconData(0xe2fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [annoyed] icon from the Lucide icon set.
   ///
@@ -697,7 +697,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData annoyed =
-      IconData(0xe2fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [antenna] icon from the Lucide icon set.
   ///
@@ -711,7 +711,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData antenna =
-      IconData(0xe4e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [anvil] icon from the Lucide icon set.
   ///
@@ -725,7 +725,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData anvil =
-      IconData(0xe585, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe584, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [aperture] icon from the Lucide icon set.
   ///
@@ -753,7 +753,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData app_window =
-      IconData(0xe42b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [app_window_mac] icon from the Lucide icon set.
   ///
@@ -767,7 +767,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData app_window_mac =
-      IconData(0xe5d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [apple] icon from the Lucide icon set.
   ///
@@ -781,7 +781,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData apple =
-      IconData(0xe352, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe351, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [archive] icon from the Lucide icon set.
   ///
@@ -809,7 +809,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData archive_restore =
-      IconData(0xe2cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [archive_x] icon from the Lucide icon set.
   ///
@@ -823,13 +823,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData archive_x =
-      IconData(0xe511, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe510, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [armchair] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [armchair] icon is a graphical symbol that conveys a specific idea or functionality related to sofa, furniture, leisure, lounge, loveseat, couch.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -837,7 +837,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData armchair =
-      IconData(0xe2c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_down] icon from the Lucide icon set.
   ///
@@ -851,7 +851,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_down =
-      IconData(0xe1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_down_dash] icon from the Lucide icon set.
   ///
@@ -865,7 +865,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_down_dash =
-      IconData(0xe422, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe421, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_left] icon from the Lucide icon set.
   ///
@@ -879,7 +879,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_left =
-      IconData(0xe1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_left_dash] icon from the Lucide icon set.
   ///
@@ -893,7 +893,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_left_dash =
-      IconData(0xe423, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe422, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_right] icon from the Lucide icon set.
   ///
@@ -907,7 +907,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_right =
-      IconData(0xe1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_right_dash] icon from the Lucide icon set.
   ///
@@ -921,7 +921,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_right_dash =
-      IconData(0xe424, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe423, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_up] icon from the Lucide icon set.
   ///
@@ -935,7 +935,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_up =
-      IconData(0xe1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_up_dash] icon from the Lucide icon set.
   ///
@@ -949,7 +949,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_big_up_dash =
-      IconData(0xe425, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe424, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down] icon from the Lucide icon set.
   ///
@@ -977,7 +977,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_0_1 =
-      IconData(0xe418, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe417, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_1_0] icon from the Lucide icon set.
   ///
@@ -991,7 +991,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_1_0 =
-      IconData(0xe419, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe418, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_a_z] icon from the Lucide icon set.
   ///
@@ -1005,7 +1005,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_a_z =
-      IconData(0xe41a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe419, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_from_line] icon from the Lucide icon set.
   ///
@@ -1019,7 +1019,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_from_line =
-      IconData(0xe459, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe458, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_left] icon from the Lucide icon set.
   ///
@@ -1067,7 +1067,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_down_to_dot] icon is a graphical symbol that conveys a specific idea or functionality related to direction, south, waypoint, location, step, into.
-  /// - It belongs to the arrows, navigation, maps categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1075,7 +1075,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_to_dot =
-      IconData(0xe452, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe451, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_to_line] icon from the Lucide icon set.
   ///
@@ -1089,7 +1089,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_to_line =
-      IconData(0xe45a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe459, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_up] icon from the Lucide icon set.
   ///
@@ -1131,7 +1131,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_down_z_a =
-      IconData(0xe41b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left] icon from the Lucide icon set.
   ///
@@ -1159,7 +1159,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_left_from_line =
-      IconData(0xe45b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left_right] icon from the Lucide icon set.
   ///
@@ -1173,7 +1173,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_left_right =
-      IconData(0xe24a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe249, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left_to_line] icon from the Lucide icon set.
   ///
@@ -1187,7 +1187,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_left_to_line =
-      IconData(0xe45c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right] icon from the Lucide icon set.
   ///
@@ -1215,7 +1215,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_right_from_line =
-      IconData(0xe45d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right_left] icon from the Lucide icon set.
   ///
@@ -1229,7 +1229,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_right_left =
-      IconData(0xe41c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right_to_line] icon from the Lucide icon set.
   ///
@@ -1243,7 +1243,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_right_to_line =
-      IconData(0xe45e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up] icon from the Lucide icon set.
   ///
@@ -1271,7 +1271,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_0_1 =
-      IconData(0xe41d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_1_0] icon from the Lucide icon set.
   ///
@@ -1285,7 +1285,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_1_0 =
-      IconData(0xe41e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_a_z] icon from the Lucide icon set.
   ///
@@ -1299,7 +1299,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_a_z =
-      IconData(0xe41f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_down] icon from the Lucide icon set.
   ///
@@ -1313,13 +1313,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_down =
-      IconData(0xe381, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe380, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_from_dot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [arrow_up_from_dot] icon is a graphical symbol that conveys a specific idea or functionality related to direction, north, step, out.
-  /// - It belongs to the arrows, navigation, maps categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1327,7 +1327,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_from_dot =
-      IconData(0xe453, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe452, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_from_line] icon from the Lucide icon set.
   ///
@@ -1341,7 +1341,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_from_line =
-      IconData(0xe45f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_left] icon from the Lucide icon set.
   ///
@@ -1397,7 +1397,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_to_line =
-      IconData(0xe460, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe45f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_wide_narrow] icon from the Lucide icon set.
   ///
@@ -1411,7 +1411,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_wide_narrow =
-      IconData(0xe420, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe41f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_z_a] icon from the Lucide icon set.
   ///
@@ -1425,7 +1425,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrow_up_z_a =
-      IconData(0xe421, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe420, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrows_up_from_line] icon from the Lucide icon set.
   ///
@@ -1439,13 +1439,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData arrows_up_from_line =
-      IconData(0xe4d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [asterisk] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
-  /// - It belongs to the text, maths, development categories.
+  /// - It belongs to the text, math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -1453,7 +1453,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData asterisk =
-      IconData(0xe1ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [at_sign] icon from the Lucide icon set.
   ///
@@ -1481,7 +1481,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData atom =
-      IconData(0xe3db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [audio_lines] icon from the Lucide icon set.
   ///
@@ -1495,7 +1495,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData audio_lines =
-      IconData(0xe55f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [audio_waveform] icon from the Lucide icon set.
   ///
@@ -1509,7 +1509,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData audio_waveform =
-      IconData(0xe560, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [award] icon from the Lucide icon set.
   ///
@@ -1551,7 +1551,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData axis_3d =
-      IconData(0xe2fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baby] icon from the Lucide icon set.
   ///
@@ -1565,7 +1565,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData baby =
-      IconData(0xe2ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [backpack] icon from the Lucide icon set.
   ///
@@ -1579,7 +1579,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData backpack =
-      IconData(0xe2c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge] icon from the Lucide icon set.
   ///
@@ -1593,13 +1593,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge =
-      IconData(0xe479, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe478, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_alert] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_alert] icon is a graphical symbol that conveys a specific idea or functionality related to check, verified, unverified, security, safety, issue.
-  /// - It belongs to the account, social, shapes categories.
+  /// - It belongs to the account, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1607,13 +1607,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_alert =
-      IconData(0xe47a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe479, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_cent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_cent] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, cents, dollar, usd, $, ¢.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1621,13 +1621,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_cent =
-      IconData(0xe514, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe513, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_check] icon is a graphical symbol that conveys a specific idea or functionality related to verified, check.
-  /// - It belongs to the account, social, shapes categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1635,13 +1635,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_check =
-      IconData(0xe241, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe240, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_dollar_sign] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_dollar_sign] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, usd, $.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1649,13 +1649,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_dollar_sign =
-      IconData(0xe47b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_euro] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_euro] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, €.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1663,13 +1663,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_euro =
-      IconData(0xe515, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe514, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_help] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_help] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, help.
-  /// - It belongs to the account, accessibility, social, shapes categories.
+  /// - It belongs to the accessibility, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1677,13 +1677,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_help =
-      IconData(0xe47c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_indian_rupee] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, inr, ₹.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1691,13 +1691,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_indian_rupee =
-      IconData(0xe516, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe515, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_info] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_info] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, help.
-  /// - It belongs to the account, accessibility, social, shapes categories.
+  /// - It belongs to the account, accessibility, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1705,13 +1705,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_info =
-      IconData(0xe47d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_japanese_yen] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, jpy, ¥.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1719,13 +1719,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_japanese_yen =
-      IconData(0xe517, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe516, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_minus] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, delete, remove, erase.
-  /// - It belongs to the account, social, shapes categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1733,13 +1733,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_minus =
-      IconData(0xe47e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_percent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_percent] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, sale, discount, offer, marketing, sticker, price tag.
-  /// - It belongs to the account, social, money, shopping, maths, shapes categories.
+  /// - It belongs to the social, finance, shopping, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1747,13 +1747,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_percent =
-      IconData(0xe47f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_plus] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, add, create, new.
-  /// - It belongs to the account, social, shapes categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1761,13 +1761,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_plus =
-      IconData(0xe480, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe47f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_pound_sterling] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, british, gbp, £.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1775,13 +1775,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_pound_sterling =
-      IconData(0xe518, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe517, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_russian_ruble] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, rub, ₽.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1789,13 +1789,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_russian_ruble =
-      IconData(0xe519, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe518, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_swiss_franc] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, chf, ₣.
-  /// - It belongs to the shopping, money, currency, account, shapes categories.
+  /// - It belongs to the shopping, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -1803,13 +1803,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_swiss_franc =
-      IconData(0xe51a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe519, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [badge_x] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, lost, delete, remove.
-  /// - It belongs to the account, social, shapes categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -1817,7 +1817,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData badge_x =
-      IconData(0xe481, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe480, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baggage_claim] icon from the Lucide icon set.
   ///
@@ -1831,7 +1831,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData baggage_claim =
-      IconData(0xe2c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ban] icon from the Lucide icon set.
   ///
@@ -1859,7 +1859,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData banana =
-      IconData(0xe353, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe352, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bandage] icon from the Lucide icon set.
   ///
@@ -1873,13 +1873,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bandage =
-      IconData(0xe622, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe621, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banknote] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [banknote] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -1901,7 +1901,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData barcode =
-      IconData(0xe538, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe537, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baseline] icon from the Lucide icon set.
   ///
@@ -1915,7 +1915,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData baseline =
-      IconData(0xe285, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe284, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bath] icon from the Lucide icon set.
   ///
@@ -1929,7 +1929,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bath =
-      IconData(0xe2ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery] icon from the Lucide icon set.
   ///
@@ -2013,7 +2013,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData battery_warning =
-      IconData(0xe3b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beaker] icon from the Lucide icon set.
   ///
@@ -2041,7 +2041,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bean =
-      IconData(0xe393, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe392, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bean_off] icon from the Lucide icon set.
   ///
@@ -2055,13 +2055,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bean_off =
-      IconData(0xe394, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe393, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [bed] icon is a graphical symbol that conveys a specific idea or functionality related to sleep, hotel, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -2069,13 +2069,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bed =
-      IconData(0xe2c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed_double] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [bed_double] icon is a graphical symbol that conveys a specific idea or functionality related to sleep, hotel, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -2083,13 +2083,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bed_double =
-      IconData(0xe2c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed_single] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [bed_single] icon is a graphical symbol that conveys a specific idea or functionality related to sleep, hotel, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -2097,7 +2097,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bed_single =
-      IconData(0xe2c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beef] icon from the Lucide icon set.
   ///
@@ -2111,7 +2111,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData beef =
-      IconData(0xe3a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beer] icon from the Lucide icon set.
   ///
@@ -2125,7 +2125,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData beer =
-      IconData(0xe2cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beer_off] icon from the Lucide icon set.
   ///
@@ -2139,7 +2139,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData beer_off =
-      IconData(0xe5de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell] icon from the Lucide icon set.
   ///
@@ -2167,7 +2167,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bell_dot =
-      IconData(0xe430, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_electric] icon from the Lucide icon set.
   ///
@@ -2181,7 +2181,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bell_electric =
-      IconData(0xe581, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe580, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_minus] icon from the Lucide icon set.
   ///
@@ -2195,7 +2195,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bell_minus =
-      IconData(0xe1f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_off] icon from the Lucide icon set.
   ///
@@ -2223,7 +2223,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bell_plus =
-      IconData(0xe1f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_ring] icon from the Lucide icon set.
   ///
@@ -2237,13 +2237,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bell_ring =
-      IconData(0xe224, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe223, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_horizontal_end] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [between_horizontal_end] icon is a graphical symbol that conveys a specific idea or functionality related to insert, add, left, slot, squeeze, space, vertical, grid, table, rows, cells, excel, spreadsheet, accountancy, data, enter, entry, entries, blocks, rectangles, chevron.
-  /// - It belongs to the layout, design, tools, account categories.
+  /// - It belongs to the layout, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2251,13 +2251,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData between_horizontal_end =
-      IconData(0xe596, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe595, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_horizontal_start] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [between_horizontal_start] icon is a graphical symbol that conveys a specific idea or functionality related to insert, add, right, slot, squeeze, space, vertical, grid, table, rows, cells, excel, spreadsheet, accountancy, data, enter, entry, entries, blocks, rectangles, chevron.
-  /// - It belongs to the layout, design, tools, account categories.
+  /// - It belongs to the layout, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2265,7 +2265,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData between_horizontal_start =
-      IconData(0xe597, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe596, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_vertical_end] icon from the Lucide icon set.
   ///
@@ -2279,7 +2279,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData between_vertical_end =
-      IconData(0xe598, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe597, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_vertical_start] icon from the Lucide icon set.
   ///
@@ -2293,7 +2293,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData between_vertical_start =
-      IconData(0xe599, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe598, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [biceps_flexed] icon from the Lucide icon set.
   ///
@@ -2307,7 +2307,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData biceps_flexed =
-      IconData(0xe5f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bike] icon from the Lucide icon set.
   ///
@@ -2321,7 +2321,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bike =
-      IconData(0xe1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [binary] icon from the Lucide icon set.
   ///
@@ -2335,13 +2335,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData binary =
-      IconData(0xe1f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [binoculars] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [binoculars] icon is a graphical symbol that conveys a specific idea or functionality related to field glasses, lorgnette, pince-nez, observation, sightseeing, nature, wildlife, birdwatching, scouting, surveillance, search, discovery, monitoring, lookout, viewpoint, travel, tourism, research.
-  /// - It belongs to the maps, nature, photography, science, travel, development categories.
+  /// - It belongs to the navigation, nature, photography, science, travel, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -2349,7 +2349,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData binoculars =
-      IconData(0xe626, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe625, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [biohazard] icon from the Lucide icon set.
   ///
@@ -2363,7 +2363,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData biohazard =
-      IconData(0xe446, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe445, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bird] icon from the Lucide icon set.
   ///
@@ -2377,13 +2377,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bird =
-      IconData(0xe3c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bitcoin] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [bitcoin] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the brands, currency, development, money categories.
+  /// - It belongs to the brands, development, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -2405,7 +2405,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData blend =
-      IconData(0xe5a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [blinds] icon from the Lucide icon set.
   ///
@@ -2419,7 +2419,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData blinds =
-      IconData(0xe3c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [blocks] icon from the Lucide icon set.
   ///
@@ -2433,7 +2433,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData blocks =
-      IconData(0xe4ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth] icon from the Lucide icon set.
   ///
@@ -2461,7 +2461,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bluetooth_connected =
-      IconData(0xe1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth_off] icon from the Lucide icon set.
   ///
@@ -2475,7 +2475,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bluetooth_off =
-      IconData(0xe1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth_searching] icon from the Lucide icon set.
   ///
@@ -2489,7 +2489,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bluetooth_searching =
-      IconData(0xe1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bold] icon from the Lucide icon set.
   ///
@@ -2509,7 +2509,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [bolt] icon is a graphical symbol that conveys a specific idea or functionality related to nut, screw, settings, preferences, configuration, controls, edit, diy, fixed, build, contruction, parts.
-  /// - It belongs to the account, tools, home categories.
+  /// - It belongs to the tools, home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2517,7 +2517,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bolt =
-      IconData(0xe591, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe590, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bomb] icon from the Lucide icon set.
   ///
@@ -2531,7 +2531,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bomb =
-      IconData(0xe2ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bone] icon from the Lucide icon set.
   ///
@@ -2545,7 +2545,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bone =
-      IconData(0xe35c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book] icon from the Lucide icon set.
   ///
@@ -2565,7 +2565,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [book_a] icon is a graphical symbol that conveys a specific idea or functionality related to dictionary, define, definition, thesaurus, encyclopedia, encyclopaedia, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, alphabetical, a-z, ordered.
-  /// - It belongs to the text, maps, gaming categories.
+  /// - It belongs to the text, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2573,7 +2573,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_a =
-      IconData(0xe549, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe548, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_audio] icon from the Lucide icon set.
   ///
@@ -2587,7 +2587,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_audio =
-      IconData(0xe54a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe549, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_check] icon from the Lucide icon set.
   ///
@@ -2601,7 +2601,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_check =
-      IconData(0xe54b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_copy] icon from the Lucide icon set.
   ///
@@ -2615,7 +2615,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_copy =
-      IconData(0xe3f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_dashed] icon from the Lucide icon set.
   ///
@@ -2629,7 +2629,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_dashed =
-      IconData(0xe3f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_down] icon from the Lucide icon set.
   ///
@@ -2643,7 +2643,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_down =
-      IconData(0xe3f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_headphones] icon from the Lucide icon set.
   ///
@@ -2657,13 +2657,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_headphones =
-      IconData(0xe54c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_heart] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [book_heart] icon is a graphical symbol that conveys a specific idea or functionality related to diary, romance, novel, journal, entry, entries, personal, private, secret, crush, like, love, emotion, feminine, girls, teens, teenager, therapy, theraputic, therapist, planner, organizer, organiser, notes, notepad, stationery, sketchbook, writing, written, reading, favorite, favourite, high school.
-  /// - It belongs to the social, text, communication, gaming categories.
+  /// - It belongs to the social, text, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2671,7 +2671,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_heart =
-      IconData(0xe54d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_image] icon from the Lucide icon set.
   ///
@@ -2685,7 +2685,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_image =
-      IconData(0xe54e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_key] icon from the Lucide icon set.
   ///
@@ -2699,7 +2699,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_key =
-      IconData(0xe3f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_lock] icon from the Lucide icon set.
   ///
@@ -2713,7 +2713,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_lock =
-      IconData(0xe3f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_marked] icon from the Lucide icon set.
   ///
@@ -2727,7 +2727,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_marked =
-      IconData(0xe3f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_minus] icon from the Lucide icon set.
   ///
@@ -2741,7 +2741,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_minus =
-      IconData(0xe3f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_open] icon from the Lucide icon set.
   ///
@@ -2769,7 +2769,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_open_check =
-      IconData(0xe385, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe384, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_open_text] icon from the Lucide icon set.
   ///
@@ -2783,7 +2783,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_open_text =
-      IconData(0xe54f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_plus] icon from the Lucide icon set.
   ///
@@ -2797,13 +2797,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_plus =
-      IconData(0xe3f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_text] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [book_text] icon is a graphical symbol that conveys a specific idea or functionality related to reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation.
-  /// - It belongs to the text, development, gaming categories.
+  /// - It belongs to the text, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2811,7 +2811,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_text =
-      IconData(0xe550, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe54f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_type] icon from the Lucide icon set.
   ///
@@ -2825,7 +2825,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_type =
-      IconData(0xe551, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe550, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_up] icon from the Lucide icon set.
   ///
@@ -2839,7 +2839,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_up =
-      IconData(0xe3f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_up_2] icon from the Lucide icon set.
   ///
@@ -2853,7 +2853,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_up_2 =
-      IconData(0xe4ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_user] icon from the Lucide icon set.
   ///
@@ -2867,13 +2867,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_user =
-      IconData(0xe552, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe551, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [book_x] icon is a graphical symbol that conveys a specific idea or functionality related to code, coding, version control, git, repository, remove, delete, reading, misinformation, disinformation, misinformed, charlatan, sophistry, false, lies, untruth, propaganda, censored, cancelled, forbidden, prohibited, banned, uneducated, re-education, unlearn.
-  /// - It belongs to the development, text, gaming categories.
+  /// - It belongs to the text, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -2881,7 +2881,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData book_x =
-      IconData(0xe3fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark] icon from the Lucide icon set.
   ///
@@ -2909,7 +2909,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bookmark_check =
-      IconData(0xe524, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe523, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_minus] icon from the Lucide icon set.
   ///
@@ -2923,7 +2923,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bookmark_minus =
-      IconData(0xe23c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_plus] icon from the Lucide icon set.
   ///
@@ -2937,7 +2937,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bookmark_plus =
-      IconData(0xe23d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_x] icon from the Lucide icon set.
   ///
@@ -2951,7 +2951,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bookmark_x =
-      IconData(0xe525, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe524, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [boom_box] icon from the Lucide icon set.
   ///
@@ -2965,7 +2965,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData boom_box =
-      IconData(0xe4f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot] icon from the Lucide icon set.
   ///
@@ -2979,7 +2979,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bot =
-      IconData(0xe1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot_message_square] icon from the Lucide icon set.
   ///
@@ -2993,7 +2993,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bot_message_square =
-      IconData(0xe5d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot_off] icon from the Lucide icon set.
   ///
@@ -3007,13 +3007,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bot_off =
-      IconData(0xe5e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [box] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [box] icon is a graphical symbol that conveys a specific idea or functionality related to cube, package, container, storage, geometry, 3d, isometric.
-  /// - It belongs to the shapes, gaming, development, maths categories.
+  /// - It belongs to the shapes, gaming, development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -3035,7 +3035,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData boxes =
-      IconData(0xe2d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [braces] icon from the Lucide icon set.
   ///
@@ -3049,7 +3049,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData braces =
-      IconData(0xe36e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brackets] icon from the Lucide icon set.
   ///
@@ -3063,7 +3063,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brackets =
-      IconData(0xe448, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe447, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain] icon from the Lucide icon set.
   ///
@@ -3077,7 +3077,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brain =
-      IconData(0xe3ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain_circuit] icon from the Lucide icon set.
   ///
@@ -3091,7 +3091,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brain_circuit =
-      IconData(0xe3cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain_cog] icon from the Lucide icon set.
   ///
@@ -3105,7 +3105,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brain_cog =
-      IconData(0xe3cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brick_wall] icon from the Lucide icon set.
   ///
@@ -3119,7 +3119,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brick_wall =
-      IconData(0xe586, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe585, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase] icon from the Lucide icon set.
   ///
@@ -3147,7 +3147,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData briefcase_business =
-      IconData(0xe5da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase_conveyor_belt] icon from the Lucide icon set.
   ///
@@ -3161,7 +3161,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData briefcase_conveyor_belt =
-      IconData(0xe630, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase_medical] icon from the Lucide icon set.
   ///
@@ -3175,7 +3175,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData briefcase_medical =
-      IconData(0xe5db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bring_to_front] icon from the Lucide icon set.
   ///
@@ -3189,7 +3189,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bring_to_front =
-      IconData(0xe4f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brush] icon from the Lucide icon set.
   ///
@@ -3203,7 +3203,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData brush =
-      IconData(0xe1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug] icon from the Lucide icon set.
   ///
@@ -3217,7 +3217,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bug =
-      IconData(0xe20c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug_off] icon from the Lucide icon set.
   ///
@@ -3231,7 +3231,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bug_off =
-      IconData(0xe512, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe511, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug_play] icon from the Lucide icon set.
   ///
@@ -3245,7 +3245,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bug_play =
-      IconData(0xe513, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe512, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [building] icon from the Lucide icon set.
   ///
@@ -3259,7 +3259,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData building =
-      IconData(0xe1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [building_2] icon from the Lucide icon set.
   ///
@@ -3273,7 +3273,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData building_2 =
-      IconData(0xe290, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bus] icon from the Lucide icon set.
   ///
@@ -3287,7 +3287,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bus =
-      IconData(0xe1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bus_front] icon from the Lucide icon set.
   ///
@@ -3301,7 +3301,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData bus_front =
-      IconData(0xe500, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cable] icon from the Lucide icon set.
   ///
@@ -3315,7 +3315,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cable =
-      IconData(0xe4e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cable_car] icon from the Lucide icon set.
   ///
@@ -3329,7 +3329,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cable_car =
-      IconData(0xe501, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe500, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cake] icon from the Lucide icon set.
   ///
@@ -3343,7 +3343,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cake =
-      IconData(0xe348, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe347, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cake_slice] icon from the Lucide icon set.
   ///
@@ -3357,13 +3357,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cake_slice =
-      IconData(0xe4be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calculator] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [calculator] icon is a graphical symbol that conveys a specific idea or functionality related to count, calculating machine.
-  /// - It belongs to the maths, devices categories.
+  /// - It belongs to the math, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman) have been instrumental in the development of this icon.
@@ -3371,7 +3371,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calculator =
-      IconData(0xe1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar] icon from the Lucide icon set.
   ///
@@ -3399,7 +3399,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_1 =
-      IconData(0xe635, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe634, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_arrow_down] icon from the Lucide icon set.
   ///
@@ -3413,7 +3413,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_arrow_down =
-      IconData(0xe603, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe602, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_arrow_up] icon from the Lucide icon set.
   ///
@@ -3427,7 +3427,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_arrow_up =
-      IconData(0xe604, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe603, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_check] icon from the Lucide icon set.
   ///
@@ -3441,7 +3441,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_check =
-      IconData(0xe2b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_check_2] icon from the Lucide icon set.
   ///
@@ -3455,7 +3455,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_check_2 =
-      IconData(0xe2b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_clock] icon from the Lucide icon set.
   ///
@@ -3469,7 +3469,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_clock =
-      IconData(0xe304, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe303, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_cog] icon from the Lucide icon set.
   ///
@@ -3483,7 +3483,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_cog =
-      IconData(0xe5f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_days] icon from the Lucide icon set.
   ///
@@ -3497,7 +3497,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_days =
-      IconData(0xe2b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_fold] icon from the Lucide icon set.
   ///
@@ -3511,7 +3511,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_fold =
-      IconData(0xe5b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_heart] icon from the Lucide icon set.
   ///
@@ -3525,7 +3525,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_heart =
-      IconData(0xe305, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe304, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_minus] icon from the Lucide icon set.
   ///
@@ -3539,7 +3539,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_minus =
-      IconData(0xe2ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_minus_2] icon from the Lucide icon set.
   ///
@@ -3553,7 +3553,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_minus_2 =
-      IconData(0xe5ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_off] icon from the Lucide icon set.
   ///
@@ -3567,7 +3567,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_off =
-      IconData(0xe2bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_plus] icon from the Lucide icon set.
   ///
@@ -3581,7 +3581,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_plus =
-      IconData(0xe2bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_plus_2] icon from the Lucide icon set.
   ///
@@ -3595,7 +3595,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_plus_2 =
-      IconData(0xe5bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_range] icon from the Lucide icon set.
   ///
@@ -3609,7 +3609,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_range =
-      IconData(0xe2bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_search] icon from the Lucide icon set.
   ///
@@ -3623,7 +3623,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_search =
-      IconData(0xe306, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe305, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_sync] icon from the Lucide icon set.
   ///
@@ -3637,7 +3637,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_sync =
-      IconData(0xe63b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe63a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_x] icon from the Lucide icon set.
   ///
@@ -3651,7 +3651,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_x =
-      IconData(0xe2be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_x_2] icon from the Lucide icon set.
   ///
@@ -3665,7 +3665,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData calendar_x_2 =
-      IconData(0xe2bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [camera] icon from the Lucide icon set.
   ///
@@ -3707,7 +3707,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData candy =
-      IconData(0xe395, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe394, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [candy_cane] icon from the Lucide icon set.
   ///
@@ -3721,7 +3721,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData candy_cane =
-      IconData(0xe4bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [candy_off] icon from the Lucide icon set.
   ///
@@ -3735,7 +3735,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData candy_off =
-      IconData(0xe396, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe395, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cannabis] icon from the Lucide icon set.
   ///
@@ -3749,7 +3749,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cannabis =
-      IconData(0xe5d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [captions] icon from the Lucide icon set.
   ///
@@ -3763,7 +3763,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData captions =
-      IconData(0xe3a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [captions_off] icon from the Lucide icon set.
   ///
@@ -3777,7 +3777,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData captions_off =
-      IconData(0xe5c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car] icon from the Lucide icon set.
   ///
@@ -3791,7 +3791,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData car =
-      IconData(0xe1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car_front] icon from the Lucide icon set.
   ///
@@ -3805,7 +3805,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData car_front =
-      IconData(0xe502, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe501, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car_taxi_front] icon from the Lucide icon set.
   ///
@@ -3819,7 +3819,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData car_taxi_front =
-      IconData(0xe503, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe502, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [caravan] icon from the Lucide icon set.
   ///
@@ -3833,7 +3833,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData caravan =
-      IconData(0xe53e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [carrot] icon from the Lucide icon set.
   ///
@@ -3847,7 +3847,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData carrot =
-      IconData(0xe25a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe259, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_lower] icon from the Lucide icon set.
   ///
@@ -3861,7 +3861,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData case_lower =
-      IconData(0xe3dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_sensitive] icon from the Lucide icon set.
   ///
@@ -3875,7 +3875,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData case_sensitive =
-      IconData(0xe3dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_upper] icon from the Lucide icon set.
   ///
@@ -3889,7 +3889,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData case_upper =
-      IconData(0xe3de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cassette_tape] icon from the Lucide icon set.
   ///
@@ -3903,7 +3903,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cassette_tape =
-      IconData(0xe4cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cast] icon from the Lucide icon set.
   ///
@@ -3923,7 +3923,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [castle] icon is a graphical symbol that conveys a specific idea or functionality related to fortress, stronghold, palace, chateau, building.
-  /// - It belongs to the buildings, gaming, maps categories.
+  /// - It belongs to the buildings, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -3931,7 +3931,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData castle =
-      IconData(0xe3e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cat] icon from the Lucide icon set.
   ///
@@ -3945,7 +3945,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cat =
-      IconData(0xe390, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cctv] icon from the Lucide icon set.
   ///
@@ -3959,7 +3959,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cctv =
-      IconData(0xe582, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe581, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_area] icon from the Lucide icon set.
   ///
@@ -3973,7 +3973,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_area =
-      IconData(0xe4d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar] icon from the Lucide icon set.
   ///
@@ -3987,7 +3987,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_bar =
-      IconData(0xe2a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_big] icon from the Lucide icon set.
   ///
@@ -4001,7 +4001,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_bar_big =
-      IconData(0xe4ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_decreasing] icon from the Lucide icon set.
   ///
@@ -4015,7 +4015,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_bar_decreasing =
-      IconData(0xe60c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_increasing] icon from the Lucide icon set.
   ///
@@ -4029,7 +4029,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_bar_increasing =
-      IconData(0xe60d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_stacked] icon from the Lucide icon set.
   ///
@@ -4043,13 +4043,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_bar_stacked =
-      IconData(0xe60e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_candlestick] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [chart_candlestick] icon is a graphical symbol that conveys a specific idea or functionality related to trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, exchange, hedge fund, statistics, analytics, diagram, graph.
-  /// - It belongs to the charts, money categories.
+  /// - The [chart_candlestick] icon is a graphical symbol that conveys a specific idea or functionality related to trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, stocks, exchange, hedge fund, statistics, analytics, diagram, graph.
+  /// - It belongs to the charts, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4057,7 +4057,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_candlestick =
-      IconData(0xe4ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column] icon from the Lucide icon set.
   ///
@@ -4071,7 +4071,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_column =
-      IconData(0xe2a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_big] icon from the Lucide icon set.
   ///
@@ -4085,7 +4085,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_column_big =
-      IconData(0xe4ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_decreasing] icon from the Lucide icon set.
   ///
@@ -4113,7 +4113,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_column_increasing =
-      IconData(0xe2a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_stacked] icon from the Lucide icon set.
   ///
@@ -4127,7 +4127,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_column_stacked =
-      IconData(0xe60f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_gantt] icon from the Lucide icon set.
   ///
@@ -4141,7 +4141,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_gantt =
-      IconData(0xe629, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_line] icon from the Lucide icon set.
   ///
@@ -4155,7 +4155,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_line =
-      IconData(0xe2a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_network] icon from the Lucide icon set.
   ///
@@ -4169,7 +4169,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_network =
-      IconData(0xe610, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_column] icon from the Lucide icon set.
   ///
@@ -4225,7 +4225,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_no_axes_combined =
-      IconData(0xe611, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe610, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_gantt] icon from the Lucide icon set.
   ///
@@ -4239,7 +4239,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_no_axes_gantt =
-      IconData(0xe4c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_pie] icon from the Lucide icon set.
   ///
@@ -4267,7 +4267,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_scatter =
-      IconData(0xe48f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_spline] icon from the Lucide icon set.
   ///
@@ -4281,7 +4281,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chart_spline =
-      IconData(0xe612, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe611, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [check] icon from the Lucide icon set.
   ///
@@ -4309,7 +4309,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData check_check =
-      IconData(0xe392, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe391, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chef_hat] icon from the Lucide icon set.
   ///
@@ -4323,7 +4323,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chef_hat =
-      IconData(0xe2ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cherry] icon from the Lucide icon set.
   ///
@@ -4337,7 +4337,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cherry =
-      IconData(0xe354, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe353, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_down] icon from the Lucide icon set.
   ///
@@ -4365,7 +4365,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevron_first =
-      IconData(0xe243, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe242, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_last] icon from the Lucide icon set.
   ///
@@ -4379,7 +4379,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevron_last =
-      IconData(0xe244, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe243, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_left] icon from the Lucide icon set.
   ///
@@ -4399,7 +4399,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [chevron_right] icon is a graphical symbol that conveys a specific idea or functionality related to forward, next, more than, greater, menu, code, coding, command line, terminal, prompt, shell, >.
-  /// - It belongs to the arrows, navigation, maths, development categories.
+  /// - It belongs to the arrows, navigation, math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -4413,7 +4413,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [chevron_up] icon is a graphical symbol that conveys a specific idea or functionality related to caret, keyboard, mac, control, ctrl, superscript, exponential, power, ahead, fast, ^, dropdown.
-  /// - It belongs to the arrows, navigation, maths, gaming categories.
+  /// - It belongs to the arrows, navigation, math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -4449,7 +4449,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevrons_down_up =
-      IconData(0xe228, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe227, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_left] icon from the Lucide icon set.
   ///
@@ -4477,7 +4477,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevrons_left_right =
-      IconData(0xe293, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe292, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_left_right_ellipsis] icon from the Lucide icon set.
   ///
@@ -4491,7 +4491,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevrons_left_right_ellipsis =
-      IconData(0xe624, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe623, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_right] icon from the Lucide icon set.
   ///
@@ -4519,7 +4519,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevrons_right_left =
-      IconData(0xe294, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe293, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_up] icon from the Lucide icon set.
   ///
@@ -4547,7 +4547,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData chevrons_up_down =
-      IconData(0xe211, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe210, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chrome] icon from the Lucide icon set.
   ///
@@ -4567,7 +4567,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [church] icon is a graphical symbol that conveys a specific idea or functionality related to temple, building.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -4575,7 +4575,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData church =
-      IconData(0xe3e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cigarette] icon from the Lucide icon set.
   ///
@@ -4589,7 +4589,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cigarette =
-      IconData(0xe2c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cigarette_off] icon from the Lucide icon set.
   ///
@@ -4603,7 +4603,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cigarette_off =
-      IconData(0xe2c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle] icon from the Lucide icon set.
   ///
@@ -4623,7 +4623,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_alert] icon is a graphical symbol that conveys a specific idea or functionality related to warning, alert, danger, exclamation mark.
-  /// - It belongs to the notifications, shapes categories.
+  /// - It belongs to the notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4637,7 +4637,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to backwards, reverse, direction, south, sign, button.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4651,7 +4651,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_arrow_left] icon is a graphical symbol that conveys a specific idea or functionality related to previous, back, direction, west, sign, turn, button, <-.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4665,7 +4665,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_arrow_out_down_left] icon is a graphical symbol that conveys a specific idea or functionality related to outwards, direction, south-west, diagonal.
-  /// - It belongs to the arrows, navigation, maps categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4673,13 +4673,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_arrow_out_down_left =
-      IconData(0xe3fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_down_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_arrow_out_down_right] icon is a graphical symbol that conveys a specific idea or functionality related to outwards, direction, south-east, diagonal.
-  /// - It belongs to the arrows, navigation, maps categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4687,13 +4687,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_arrow_out_down_right =
-      IconData(0xe3fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_up_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_arrow_out_up_left] icon is a graphical symbol that conveys a specific idea or functionality related to outwards, direction, north-west, diagonal, keyboard, button, escape.
-  /// - It belongs to the arrows, navigation, maps, development categories.
+  /// - It belongs to the arrows, navigation, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4701,13 +4701,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_arrow_out_up_left =
-      IconData(0xe3fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_up_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_arrow_out_up_right] icon is a graphical symbol that conveys a specific idea or functionality related to outwards, direction, north-east, diagonal.
-  /// - It belongs to the arrows, navigation, maps categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4715,13 +4715,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_arrow_out_up_right =
-      IconData(0xe3ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to next, forward, direction, east, sign, turn, button, ->.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4735,7 +4735,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to forward, direction, north, sign, button.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4749,7 +4749,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_check] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
-  /// - It belongs to the notifications, shapes categories.
+  /// - It belongs to the notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4757,13 +4757,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_check =
-      IconData(0xe226, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe225, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_check_big] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_check_big] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
-  /// - It belongs to the notifications, shapes categories.
+  /// - It belongs to the notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -4777,7 +4777,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_chevron_down] icon is a graphical symbol that conveys a specific idea or functionality related to back, menu.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4785,13 +4785,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_chevron_down =
-      IconData(0xe4e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_chevron_left] icon is a graphical symbol that conveys a specific idea or functionality related to back, previous, less than, fewer, menu, <.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4799,13 +4799,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_chevron_left =
-      IconData(0xe4e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_chevron_right] icon is a graphical symbol that conveys a specific idea or functionality related to back, more than, greater, menu, >.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4813,13 +4813,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_chevron_right =
-      IconData(0xe4e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_up] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_chevron_up] icon is a graphical symbol that conveys a specific idea or functionality related to caret, ahead, menu, ^.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4827,7 +4827,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_chevron_up =
-      IconData(0xe4e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dashed] icon from the Lucide icon set.
   ///
@@ -4841,13 +4841,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_dashed =
-      IconData(0xe4b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_divide] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [circle_divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, maths, ÷, /.
-  /// - It belongs to the maths, shapes categories.
+  /// - The [circle_divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, math, ÷, /.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4861,7 +4861,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_dollar_sign] icon is a graphical symbol that conveys a specific idea or functionality related to monetization, marketing, currency, money, payment.
-  /// - It belongs to the shapes, money, currency categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -4869,7 +4869,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_dollar_sign =
-      IconData(0xe482, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe481, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dot] icon from the Lucide icon set.
   ///
@@ -4883,7 +4883,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_dot =
-      IconData(0xe349, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe348, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dot_dashed] icon from the Lucide icon set.
   ///
@@ -4897,13 +4897,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_dot_dashed =
-      IconData(0xe4b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_ellipsis] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ....
-  /// - It belongs to the layout, development, shapes categories.
+  /// - It belongs to the layout, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -4911,13 +4911,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_ellipsis =
-      IconData(0xe34a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe349, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_equal] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_equal] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, shape, =.
-  /// - It belongs to the maths, shapes categories.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4925,7 +4925,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_equal =
-      IconData(0xe405, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe404, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_fading_arrow_up] icon from the Lucide icon set.
   ///
@@ -4939,13 +4939,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_fading_arrow_up =
-      IconData(0xe61d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_fading_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_fading_plus] icon is a graphical symbol that conveys a specific idea or functionality related to stories, social media, instagram, facebook, meta, snapchat, sharing, content.
-  /// - It belongs to the communication, social, shapes categories.
+  /// - It belongs to the communication, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -4953,13 +4953,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_fading_plus =
-      IconData(0xe5c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_gauge] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_gauge] icon is a graphical symbol that conveys a specific idea or functionality related to dashboard, dial, meter, speed, pressure, measure, level.
-  /// - It belongs to the account, transportation, sports, science categories.
+  /// - It belongs to the transportation, sports, science categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4967,13 +4967,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_gauge =
-      IconData(0xe4e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_help] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_help] icon is a graphical symbol that conveys a specific idea or functionality related to question mark.
-  /// - It belongs to the accessibility, text, shapes, notifications categories.
+  /// - It belongs to the accessibility, text, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danbovey](https://github.com/danbovey), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -4987,7 +4987,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_minus] icon is a graphical symbol that conveys a specific idea or functionality related to subtract, remove, decrease, reduce, calculate, line, operator, code, coding, minimum, downgrade, -.
-  /// - It belongs to the maths, shapes categories.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5009,13 +5009,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_off =
-      IconData(0xe406, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe405, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_parking] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_parking] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -5023,13 +5023,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_parking =
-      IconData(0xe3cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_parking_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_parking_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5037,13 +5037,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_parking_off =
-      IconData(0xe3ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_pause] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_pause] icon is a graphical symbol that conveys a specific idea or functionality related to music, audio, stop.
-  /// - It belongs to the multimedia, shapes categories.
+  /// - It belongs to the multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5057,7 +5057,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_percent] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, sale, discount, offer, marketing, sticker, price tag.
-  /// - It belongs to the account, social, money, shopping, maths, shapes categories.
+  /// - It belongs to the social, finance, shopping, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -5065,13 +5065,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_percent =
-      IconData(0xe51f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_play] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_play] icon is a graphical symbol that conveys a specific idea or functionality related to music, start, run.
-  /// - It belongs to the shapes, multimedia categories.
+  /// - It belongs to the multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -5085,7 +5085,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_plus] icon is a graphical symbol that conveys a specific idea or functionality related to add, new, increase, increment, positive, calculate, crosshair, aim, target, scope, sight, reticule, maximum, upgrade, extra, operator, join, concatenate, code, coding, +.
-  /// - It belongs to the maths, development, shapes, cursors, gaming categories.
+  /// - It belongs to the math, development, cursors, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5107,13 +5107,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_power =
-      IconData(0xe555, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe554, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_slash] icon is a graphical symbol that conveys a specific idea or functionality related to diameter, zero, Ø, nothing, null, void, cancel, ban, no, stop, forbidden, prohibited, error, incorrect, mistake, wrong, failure, divide, division, or, /.
-  /// - It belongs to the shapes, development, maths categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -5121,13 +5121,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_slash =
-      IconData(0xe407, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe406, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_slash_2] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [circle_slash_2] icon is a graphical symbol that conveys a specific idea or functionality related to diameter, zero, Ø, nothing, null, void, ban, maths, divide, division, half, split, /.
-  /// - It belongs to the shapes, maths, development categories.
+  /// - The [circle_slash_2] icon is a graphical symbol that conveys a specific idea or functionality related to diameter, zero, Ø, nothing, null, void, ban, math, divide, division, half, split, /.
+  /// - It belongs to the shapes, math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -5135,13 +5135,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_slash_2 =
-      IconData(0xe213, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe212, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_stop] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_stop] icon is a graphical symbol that conveys a specific idea or functionality related to media, music.
-  /// - It belongs to the multimedia, shapes categories.
+  /// - It belongs to the multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5155,7 +5155,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [circle_user] icon is a graphical symbol that conveys a specific idea or functionality related to person, account, contact.
-  /// - It belongs to the account, shapes categories.
+  /// - It belongs to the account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -5163,13 +5163,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_user =
-      IconData(0xe466, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe465, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_user_round] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_user_round] icon is a graphical symbol that conveys a specific idea or functionality related to person, account, contact.
-  /// - It belongs to the account, shapes categories.
+  /// - It belongs to the account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -5177,13 +5177,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circle_user_round =
-      IconData(0xe467, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe466, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [circle_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, error, incorrect, wrong, mistake, failure, linter, multiply, multiplication.
-  /// - It belongs to the maths, shapes, development categories.
+  /// - It belongs to the math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5205,7 +5205,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData circuit_board =
-      IconData(0xe408, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe407, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [citrus] icon from the Lucide icon set.
   ///
@@ -5219,7 +5219,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData citrus =
-      IconData(0xe379, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe378, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clapperboard] icon from the Lucide icon set.
   ///
@@ -5233,7 +5233,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clapperboard =
-      IconData(0xe29b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard] icon from the Lucide icon set.
   ///
@@ -5261,7 +5261,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_check =
-      IconData(0xe219, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe218, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_copy] icon from the Lucide icon set.
   ///
@@ -5275,7 +5275,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_copy =
-      IconData(0xe225, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe224, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_list] icon from the Lucide icon set.
   ///
@@ -5303,7 +5303,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_minus =
-      IconData(0xe5c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_paste] icon from the Lucide icon set.
   ///
@@ -5317,7 +5317,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_paste =
-      IconData(0xe3ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_pen] icon from the Lucide icon set.
   ///
@@ -5331,13 +5331,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_pen =
-      IconData(0xe307, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe306, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_pen_line] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [clipboard_pen_line] icon is a graphical symbol that conveys a specific idea or functionality related to paste.
-  /// - It belongs to the text, account categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -5345,7 +5345,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_pen_line =
-      IconData(0xe308, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe307, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_plus] icon from the Lucide icon set.
   ///
@@ -5359,7 +5359,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_plus =
-      IconData(0xe5c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_type] icon from the Lucide icon set.
   ///
@@ -5373,7 +5373,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_type =
-      IconData(0xe309, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe308, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_x] icon from the Lucide icon set.
   ///
@@ -5387,7 +5387,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clipboard_x =
-      IconData(0xe222, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe221, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock] icon from the Lucide icon set.
   ///
@@ -5415,7 +5415,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_1 =
-      IconData(0xe24b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_10] icon from the Lucide icon set.
   ///
@@ -5429,7 +5429,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_10 =
-      IconData(0xe24c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_11] icon from the Lucide icon set.
   ///
@@ -5443,7 +5443,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_11 =
-      IconData(0xe24d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_12] icon from the Lucide icon set.
   ///
@@ -5457,7 +5457,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_12 =
-      IconData(0xe24e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_2] icon from the Lucide icon set.
   ///
@@ -5471,7 +5471,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_2 =
-      IconData(0xe24f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_3] icon from the Lucide icon set.
   ///
@@ -5485,7 +5485,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_3 =
-      IconData(0xe250, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe24f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_4] icon from the Lucide icon set.
   ///
@@ -5499,7 +5499,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_4 =
-      IconData(0xe251, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe250, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_5] icon from the Lucide icon set.
   ///
@@ -5513,7 +5513,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_5 =
-      IconData(0xe252, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe251, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_6] icon from the Lucide icon set.
   ///
@@ -5527,7 +5527,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_6 =
-      IconData(0xe253, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe252, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_7] icon from the Lucide icon set.
   ///
@@ -5541,7 +5541,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_7 =
-      IconData(0xe254, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe253, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_8] icon from the Lucide icon set.
   ///
@@ -5555,7 +5555,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_8 =
-      IconData(0xe255, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe254, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_9] icon from the Lucide icon set.
   ///
@@ -5569,7 +5569,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_9 =
-      IconData(0xe256, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe255, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_alert] icon from the Lucide icon set.
   ///
@@ -5583,7 +5583,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_alert =
-      IconData(0xe62f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_arrow_down] icon from the Lucide icon set.
   ///
@@ -5597,7 +5597,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_arrow_down =
-      IconData(0xe605, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe604, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_arrow_up] icon from the Lucide icon set.
   ///
@@ -5611,7 +5611,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData clock_arrow_up =
-      IconData(0xe606, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe605, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud] icon from the Lucide icon set.
   ///
@@ -5639,7 +5639,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_alert =
-      IconData(0xe638, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe637, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_cog] icon from the Lucide icon set.
   ///
@@ -5653,7 +5653,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_cog =
-      IconData(0xe30a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe309, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_download] icon from the Lucide icon set.
   ///
@@ -5695,7 +5695,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_fog =
-      IconData(0xe214, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe213, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_hail] icon from the Lucide icon set.
   ///
@@ -5737,7 +5737,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_moon =
-      IconData(0xe215, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe214, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_moon_rain] icon from the Lucide icon set.
   ///
@@ -5751,7 +5751,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_moon_rain =
-      IconData(0xe2fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_off] icon from the Lucide icon set.
   ///
@@ -5821,7 +5821,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_sun =
-      IconData(0xe216, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe215, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_sun_rain] icon from the Lucide icon set.
   ///
@@ -5835,7 +5835,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloud_sun_rain =
-      IconData(0xe2fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_upload] icon from the Lucide icon set.
   ///
@@ -5863,7 +5863,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cloudy =
-      IconData(0xe217, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe216, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clover] icon from the Lucide icon set.
   ///
@@ -5891,7 +5891,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData club =
-      IconData(0xe49b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [code] icon from the Lucide icon set.
   ///
@@ -5919,7 +5919,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData code_xml =
-      IconData(0xe206, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe205, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [codepen] icon from the Lucide icon set.
   ///
@@ -5975,13 +5975,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cog =
-      IconData(0xe30b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [coins] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [coins] icon is a graphical symbol that conveys a specific idea or functionality related to money, cash, finance, gamble.
-  /// - It belongs to the money, gaming categories.
+  /// - It belongs to the gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -6031,13 +6031,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData columns_4 =
-      IconData(0xe58e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [combine] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [combine] icon is a graphical symbol that conveys a specific idea or functionality related to cubes, packages, parts, units, collection, cluster, combine, gather, merge.
-  /// - It belongs to the shapes, development, files categories.
+  /// - It belongs to the development, files categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6045,7 +6045,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData combine =
-      IconData(0xe451, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe450, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [command] icon from the Lucide icon set.
   ///
@@ -6065,7 +6065,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [compass] icon is a graphical symbol that conveys a specific idea or functionality related to direction, north, east, south, west, safari, browser.
-  /// - It belongs to the navigation, maps, travel categories.
+  /// - It belongs to the navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6087,7 +6087,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData component =
-      IconData(0xe2ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [computer] icon from the Lucide icon set.
   ///
@@ -6101,7 +6101,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData computer =
-      IconData(0xe4e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [concierge_bell] icon from the Lucide icon set.
   ///
@@ -6115,13 +6115,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData concierge_bell =
-      IconData(0xe37c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cone] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [cone] icon is a graphical symbol that conveys a specific idea or functionality related to conical, triangle, triangular, geometry, filter, funnel, hopper, spotlight, searchlight.
-  /// - It belongs to the shapes, maths categories.
+  /// - It belongs to the shapes, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -6129,7 +6129,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cone =
-      IconData(0xe528, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe527, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [construction] icon from the Lucide icon set.
   ///
@@ -6143,7 +6143,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData construction =
-      IconData(0xe3b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [contact] icon from the Lucide icon set.
   ///
@@ -6171,7 +6171,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData contact_round =
-      IconData(0xe468, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe467, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [container] icon from the Lucide icon set.
   ///
@@ -6185,7 +6185,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData container =
-      IconData(0xe4da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [contrast] icon from the Lucide icon set.
   ///
@@ -6213,7 +6213,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cookie =
-      IconData(0xe26b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe26a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cooking_pot] icon from the Lucide icon set.
   ///
@@ -6227,7 +6227,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cooking_pot =
-      IconData(0xe589, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe588, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy] icon from the Lucide icon set.
   ///
@@ -6255,13 +6255,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData copy_check =
-      IconData(0xe400, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [copy_minus] icon is a graphical symbol that conveys a specific idea or functionality related to clone, duplicate, remove, delete, collapse, subtract, multiple, -.
-  /// - It belongs to the text, maths categories.
+  /// - It belongs to the text, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6269,13 +6269,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData copy_minus =
-      IconData(0xe401, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe400, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [copy_plus] icon is a graphical symbol that conveys a specific idea or functionality related to clone, duplicate, add, multiple, expand, +.
-  /// - It belongs to the text, maths categories.
+  /// - It belongs to the text, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6283,13 +6283,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData copy_plus =
-      IconData(0xe402, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe401, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [copy_slash] icon is a graphical symbol that conveys a specific idea or functionality related to clone, duplicate, cancel, ban, no, stop, forbidden, prohibited, error, multiple, divide, division, split, or, /.
-  /// - It belongs to the text, development, maths categories.
+  /// - It belongs to the text, development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6297,13 +6297,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData copy_slash =
-      IconData(0xe403, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe402, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [copy_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, clear, multiple, multiply, multiplication, times.
-  /// - It belongs to the notifications, maths categories.
+  /// - It belongs to the notifications, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -6311,7 +6311,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData copy_x =
-      IconData(0xe404, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe403, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copyleft] icon from the Lucide icon set.
   ///
@@ -6479,13 +6479,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData creative_commons =
-      IconData(0xe3b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [credit_card] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [credit_card] icon is a graphical symbol that conveys a specific idea or functionality related to bank, purchase, payment, cc.
-  /// - It belongs to the account, money categories.
+  /// - It belongs to the account, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -6507,7 +6507,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData croissant =
-      IconData(0xe2ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [crop] icon from the Lucide icon set.
   ///
@@ -6535,7 +6535,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cross =
-      IconData(0xe1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [crosshair] icon from the Lucide icon set.
   ///
@@ -6563,13 +6563,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData crown =
-      IconData(0xe1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cuboid] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [cuboid] icon is a graphical symbol that conveys a specific idea or functionality related to brick, block, container, storage, geometry, rectangular, hexahedron.
-  /// - It belongs to the shapes, maths, buildings categories.
+  /// - It belongs to the shapes, math, buildings categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -6577,7 +6577,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cuboid =
-      IconData(0xe529, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe528, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cup_soda] icon from the Lucide icon set.
   ///
@@ -6591,13 +6591,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cup_soda =
-      IconData(0xe2d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [currency] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [currency] icon is a graphical symbol that conveys a specific idea or functionality related to finance, money.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -6605,13 +6605,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData currency =
-      IconData(0xe230, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cylinder] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [cylinder] icon is a graphical symbol that conveys a specific idea or functionality related to shape, elliptical, geometry, container, storage, tin, pot.
-  /// - It belongs to the shapes, design, maths categories.
+  /// - It belongs to the shapes, design, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -6619,7 +6619,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData cylinder =
-      IconData(0xe52a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe529, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dam] icon from the Lucide icon set.
   ///
@@ -6633,7 +6633,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dam =
-      IconData(0xe60b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe60a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database] icon from the Lucide icon set.
   ///
@@ -6661,7 +6661,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData database_backup =
-      IconData(0xe3af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database_zap] icon from the Lucide icon set.
   ///
@@ -6675,7 +6675,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData database_zap =
-      IconData(0xe510, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [delete] icon from the Lucide icon set.
   ///
@@ -6703,13 +6703,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dessert =
-      IconData(0xe4c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diameter] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [diameter] icon is a graphical symbol that conveys a specific idea or functionality related to shape, circle, geometry, trigonometry, width, height, size, calculate, measure.
-  /// - It belongs to the shapes, maths, design, tools categories.
+  /// - It belongs to the shapes, math, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -6717,7 +6717,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diameter =
-      IconData(0xe52b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe52a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond] icon from the Lucide icon set.
   ///
@@ -6731,13 +6731,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diamond =
-      IconData(0xe2d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [diamond_minus] icon is a graphical symbol that conveys a specific idea or functionality related to keyframe, subtract, remove, decrease, reduce, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade.
-  /// - It belongs to the multimedia, shapes, photography, tools, devices categories.
+  /// - It belongs to the multimedia, photography, tools, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/chessurisme](https://github.com/chessurisme) have been instrumental in the development of this icon.
@@ -6745,13 +6745,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diamond_minus =
-      IconData(0xe5e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_percent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [diamond_percent] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, sale, discount, offer, marketing, sticker, price tag.
-  /// - It belongs to the account, social, money, shopping, maths, shapes categories.
+  /// - It belongs to the social, finance, shopping, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -6759,13 +6759,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diamond_percent =
-      IconData(0xe520, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [diamond_plus] icon is a graphical symbol that conveys a specific idea or functionality related to keyframe, add, new, increase, increment, positive, calculate, toolbar, crosshair, aim, target, scope, sight, reticule, maximum, upgrade, extra, +.
-  /// - It belongs to the multimedia, shapes, photography, tools, devices categories.
+  /// - It belongs to the multimedia, photography, tools, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/chessurisme](https://github.com/chessurisme) have been instrumental in the development of this icon.
@@ -6773,7 +6773,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diamond_plus =
-      IconData(0xe5e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_1] icon from the Lucide icon set.
   ///
@@ -6787,7 +6787,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_1 =
-      IconData(0xe287, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe286, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_2] icon from the Lucide icon set.
   ///
@@ -6801,7 +6801,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_2 =
-      IconData(0xe288, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe287, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_3] icon from the Lucide icon set.
   ///
@@ -6815,7 +6815,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_3 =
-      IconData(0xe289, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe288, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_4] icon from the Lucide icon set.
   ///
@@ -6829,7 +6829,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_4 =
-      IconData(0xe28a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe289, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_5] icon from the Lucide icon set.
   ///
@@ -6843,7 +6843,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_5 =
-      IconData(0xe28b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_6] icon from the Lucide icon set.
   ///
@@ -6857,7 +6857,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dice_6 =
-      IconData(0xe28c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dices] icon from the Lucide icon set.
   ///
@@ -6871,12 +6871,12 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dices =
-      IconData(0xe2c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diff] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [diff] icon is a graphical symbol that conveys a specific idea or functionality related to patch, difference, compare, plus, minus, plus-minus, maths.
+  /// - The [diff] icon is a graphical symbol that conveys a specific idea or functionality related to patch, difference, compare, plus, minus, plus-minus, math.
   /// - It belongs to the development, files categories.
   ///
   /// Acknowledgements:
@@ -6885,7 +6885,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData diff =
-      IconData(0xe30c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc] icon from the Lucide icon set.
   ///
@@ -6913,7 +6913,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData disc_2 =
-      IconData(0xe3fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc_3] icon from the Lucide icon set.
   ///
@@ -6927,7 +6927,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData disc_3 =
-      IconData(0xe499, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe498, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc_album] icon from the Lucide icon set.
   ///
@@ -6941,13 +6941,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData disc_album =
-      IconData(0xe561, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe560, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [divide] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, maths, division, operator, code, ÷, /.
-  /// - It belongs to the maths, development categories.
+  /// - The [divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, math, division, operator, code, ÷, /.
+  /// - It belongs to the math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -6969,7 +6969,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dna =
-      IconData(0xe397, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe396, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dna_off] icon from the Lucide icon set.
   ///
@@ -6983,7 +6983,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dna_off =
-      IconData(0xe398, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe397, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dock] icon from the Lucide icon set.
   ///
@@ -6997,7 +6997,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dock =
-      IconData(0xe5d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dog] icon from the Lucide icon set.
   ///
@@ -7011,13 +7011,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dog =
-      IconData(0xe391, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe390, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dollar_sign] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [dollar_sign] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -7039,13 +7039,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData donut =
-      IconData(0xe4c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [door_closed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [door_closed] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
-  /// - It belongs to the home, travel, furniture, security categories.
+  /// - It belongs to the home, travel, security categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -7053,13 +7053,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData door_closed =
-      IconData(0xe3d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [door_open] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [door_open] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
-  /// - It belongs to the home, travel, furniture, security categories.
+  /// - It belongs to the home, travel, security categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -7067,7 +7067,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData door_open =
-      IconData(0xe3da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dot] icon from the Lucide icon set.
   ///
@@ -7081,7 +7081,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dot =
-      IconData(0xe454, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe453, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [download] icon from the Lucide icon set.
   ///
@@ -7101,7 +7101,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [drafting_compass] icon is a graphical symbol that conveys a specific idea or functionality related to geometry, trigonometry, radius, diameter, circumference, calculate, measure, arc, curve, draw, sketch.
-  /// - It belongs to the shapes, maths, design, tools categories.
+  /// - It belongs to the math, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -7109,7 +7109,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData drafting_compass =
-      IconData(0xe52c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe52b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drama] icon from the Lucide icon set.
   ///
@@ -7123,7 +7123,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData drama =
-      IconData(0xe526, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe525, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dribbble] icon from the Lucide icon set.
   ///
@@ -7151,7 +7151,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData drill =
-      IconData(0xe592, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe591, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [droplet] icon from the Lucide icon set.
   ///
@@ -7166,6 +7166,20 @@ abstract final class LucideIcons {
   ///
   static const IconData droplet =
       IconData(0xe0b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [droplet_off] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [droplet_off] icon is a graphical symbol that conveys a specific idea or functionality related to water, weather, liquid, fluid, wet, moisture, damp, bead, globule.
+  /// - It belongs to the weather, gaming categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Footagesus](https://github.com/Footagesus) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData droplet_off =
+      IconData(0xe63c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [droplets] icon from the Lucide icon set.
   ///
@@ -7193,7 +7207,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData drum =
-      IconData(0xe562, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe561, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drumstick] icon from the Lucide icon set.
   ///
@@ -7207,13 +7221,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData drumstick =
-      IconData(0xe25b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dumbbell] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [dumbbell] icon is a graphical symbol that conveys a specific idea or functionality related to barbell, weight, workout, gym.
-  /// - It belongs to the maps, sports categories.
+  /// - It belongs to the navigation, sports categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -7221,7 +7235,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData dumbbell =
-      IconData(0xe3a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ear] icon from the Lucide icon set.
   ///
@@ -7235,7 +7249,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ear =
-      IconData(0xe386, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe385, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ear_off] icon from the Lucide icon set.
   ///
@@ -7249,13 +7263,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ear_off =
-      IconData(0xe387, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe386, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [earth] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [earth] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, globe.
-  /// - It belongs to the maps, navigation categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -7263,7 +7277,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData earth =
-      IconData(0xe1f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [earth_lock] icon from the Lucide icon set.
   ///
@@ -7277,7 +7291,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData earth_lock =
-      IconData(0xe5d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eclipse] icon from the Lucide icon set.
   ///
@@ -7291,7 +7305,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData eclipse =
-      IconData(0xe5a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg] icon from the Lucide icon set.
   ///
@@ -7305,7 +7319,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData egg =
-      IconData(0xe25d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg_fried] icon from the Lucide icon set.
   ///
@@ -7319,7 +7333,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData egg_fried =
-      IconData(0xe355, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe354, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg_off] icon from the Lucide icon set.
   ///
@@ -7333,7 +7347,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData egg_off =
-      IconData(0xe399, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe398, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ellipsis] icon from the Lucide icon set.
   ///
@@ -7366,8 +7380,8 @@ abstract final class LucideIcons {
   /// Represents the [equal] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [equal] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, maths, operator, assignment, code, =.
-  /// - It belongs to the maths, development categories.
+  /// - The [equal] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, math, operator, assignment, code, =.
+  /// - It belongs to the math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -7375,13 +7389,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData equal =
-      IconData(0xe1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [equal_approximately] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [equal_approximately] icon is a graphical symbol that conveys a specific idea or functionality related to about, calculate, maths, operater.
-  /// - It belongs to the maths categories.
+  /// - The [equal_approximately] icon is a graphical symbol that conveys a specific idea or functionality related to about, calculate, math, operater.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ksk3110](https://github.com/ksk3110) have been instrumental in the development of this icon.
@@ -7389,13 +7403,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData equal_approximately =
-      IconData(0xe639, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe638, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [equal_not] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [equal_not] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, off, maths, operator, code, ≠.
-  /// - It belongs to the maths, development categories.
+  /// - The [equal_not] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, off, math, operator, code, ≠.
+  /// - It belongs to the math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -7403,7 +7417,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData equal_not =
-      IconData(0xe1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eraser] icon from the Lucide icon set.
   ///
@@ -7417,7 +7431,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData eraser =
-      IconData(0xe28f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ethernet_port] icon from the Lucide icon set.
   ///
@@ -7431,13 +7445,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ethernet_port =
-      IconData(0xe625, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe624, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [euro] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [euro] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -7459,7 +7473,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData expand =
-      IconData(0xe21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe219, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [external_link] icon from the Lucide icon set.
   ///
@@ -7501,7 +7515,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData eye_closed =
-      IconData(0xe633, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe632, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eye_off] icon from the Lucide icon set.
   ///
@@ -7521,7 +7535,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [facebook] icon is a graphical symbol that conveys a specific idea or functionality related to logo, social.
-  /// - It belongs to the account, social, brands categories.
+  /// - It belongs to the social, brands categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -7543,7 +7557,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData factory =
-      IconData(0xe29f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fan] icon from the Lucide icon set.
   ///
@@ -7557,7 +7571,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fan =
-      IconData(0xe37d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fast_forward] icon from the Lucide icon set.
   ///
@@ -7599,13 +7613,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fence =
-      IconData(0xe587, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe586, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ferris_wheel] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ferris_wheel] icon is a graphical symbol that conveys a specific idea or functionality related to big wheel, daisy wheel, observation, attraction, entertainment, amusement park, theme park, funfair.
-  /// - It belongs to the maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -7613,7 +7627,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ferris_wheel =
-      IconData(0xe484, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe483, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [figma] icon from the Lucide icon set.
   ///
@@ -7655,7 +7669,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_archive =
-      IconData(0xe30d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_audio] icon from the Lucide icon set.
   ///
@@ -7669,7 +7683,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_audio =
-      IconData(0xe30e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_audio_2] icon from the Lucide icon set.
   ///
@@ -7683,7 +7697,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_audio_2 =
-      IconData(0xe30f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_axis_3d] icon from the Lucide icon set.
   ///
@@ -7697,7 +7711,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_axis_3d =
-      IconData(0xe310, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe30f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_badge] icon from the Lucide icon set.
   ///
@@ -7711,7 +7725,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_badge =
-      IconData(0xe311, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe310, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_badge_2] icon from the Lucide icon set.
   ///
@@ -7725,7 +7739,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_badge_2 =
-      IconData(0xe312, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe311, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_box] icon from the Lucide icon set.
   ///
@@ -7739,7 +7753,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_box =
-      IconData(0xe313, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe312, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_column] icon from the Lucide icon set.
   ///
@@ -7753,7 +7767,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_chart_column =
-      IconData(0xe314, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe313, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_column_increasing] icon from the Lucide icon set.
   ///
@@ -7767,7 +7781,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_chart_column_increasing =
-      IconData(0xe315, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe314, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_line] icon from the Lucide icon set.
   ///
@@ -7781,7 +7795,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_chart_line =
-      IconData(0xe316, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe315, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_pie] icon from the Lucide icon set.
   ///
@@ -7795,7 +7809,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_chart_pie =
-      IconData(0xe317, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe316, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_check] icon from the Lucide icon set.
   ///
@@ -7837,7 +7851,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_clock =
-      IconData(0xe318, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe317, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_code] icon from the Lucide icon set.
   ///
@@ -7865,7 +7879,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_code_2 =
-      IconData(0xe463, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe462, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_cog] icon from the Lucide icon set.
   ///
@@ -7879,7 +7893,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_cog =
-      IconData(0xe319, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe318, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_diff] icon from the Lucide icon set.
   ///
@@ -7893,7 +7907,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_diff =
-      IconData(0xe31a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe319, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_digit] icon from the Lucide icon set.
   ///
@@ -7921,7 +7935,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_down =
-      IconData(0xe31b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_heart] icon from the Lucide icon set.
   ///
@@ -7935,7 +7949,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_heart =
-      IconData(0xe31c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_image] icon from the Lucide icon set.
   ///
@@ -7949,7 +7963,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_image =
-      IconData(0xe31d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_input] icon from the Lucide icon set.
   ///
@@ -7977,7 +7991,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_json =
-      IconData(0xe36f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_json_2] icon from the Lucide icon set.
   ///
@@ -7991,7 +8005,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_json_2 =
-      IconData(0xe370, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_key] icon from the Lucide icon set.
   ///
@@ -8005,7 +8019,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_key =
-      IconData(0xe31e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_key_2] icon from the Lucide icon set.
   ///
@@ -8019,7 +8033,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_key_2 =
-      IconData(0xe31f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_lock] icon from the Lucide icon set.
   ///
@@ -8033,7 +8047,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_lock =
-      IconData(0xe320, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe31f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_lock_2] icon from the Lucide icon set.
   ///
@@ -8047,7 +8061,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_lock_2 =
-      IconData(0xe321, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe320, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_minus] icon from the Lucide icon set.
   ///
@@ -8089,7 +8103,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_music =
-      IconData(0xe563, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe562, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_output] icon from the Lucide icon set.
   ///
@@ -8117,7 +8131,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_pen =
-      IconData(0xe322, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe321, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_pen_line] icon from the Lucide icon set.
   ///
@@ -8131,7 +8145,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_pen_line =
-      IconData(0xe323, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe322, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_plus] icon from the Lucide icon set.
   ///
@@ -8173,7 +8187,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_question =
-      IconData(0xe324, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe323, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_scan] icon from the Lucide icon set.
   ///
@@ -8187,7 +8201,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_scan =
-      IconData(0xe325, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe324, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_search] icon from the Lucide icon set.
   ///
@@ -8215,7 +8229,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_search_2 =
-      IconData(0xe326, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe325, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_sliders] icon from the Lucide icon set.
   ///
@@ -8229,7 +8243,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_sliders =
-      IconData(0xe5a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_spreadsheet] icon from the Lucide icon set.
   ///
@@ -8243,7 +8257,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_spreadsheet =
-      IconData(0xe327, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe326, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_stack] icon from the Lucide icon set.
   ///
@@ -8257,7 +8271,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_stack =
-      IconData(0xe4a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_symlink] icon from the Lucide icon set.
   ///
@@ -8271,7 +8285,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_symlink =
-      IconData(0xe328, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe327, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_terminal] icon from the Lucide icon set.
   ///
@@ -8285,7 +8299,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_terminal =
-      IconData(0xe329, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe328, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_text] icon from the Lucide icon set.
   ///
@@ -8313,7 +8327,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_type =
-      IconData(0xe32a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe329, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_type_2] icon from the Lucide icon set.
   ///
@@ -8327,7 +8341,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_type_2 =
-      IconData(0xe371, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe370, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_up] icon from the Lucide icon set.
   ///
@@ -8341,13 +8355,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_up =
-      IconData(0xe32b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_user] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [file_user] icon is a graphical symbol that conveys a specific idea or functionality related to person, personal information, people, listing, networking, document, contact, cover letter, resume, cv, curriculum vitae, application form.
-  /// - It belongs to the account, communication, files categories.
+  /// - It belongs to the account, files categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -8355,7 +8369,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_user =
-      IconData(0xe632, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe631, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_video] icon from the Lucide icon set.
   ///
@@ -8369,7 +8383,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_video =
-      IconData(0xe32c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_video_2] icon from the Lucide icon set.
   ///
@@ -8383,7 +8397,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_video_2 =
-      IconData(0xe32d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_volume] icon from the Lucide icon set.
   ///
@@ -8397,7 +8411,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_volume =
-      IconData(0xe32e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_volume_2] icon from the Lucide icon set.
   ///
@@ -8411,7 +8425,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_volume_2 =
-      IconData(0xe32f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_warning] icon from the Lucide icon set.
   ///
@@ -8425,7 +8439,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData file_warning =
-      IconData(0xe330, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe32f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_x] icon from the Lucide icon set.
   ///
@@ -8509,7 +8523,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData filter_x =
-      IconData(0xe3b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fingerprint] icon from the Lucide icon set.
   ///
@@ -8523,7 +8537,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fingerprint =
-      IconData(0xe2cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fire_extinguisher] icon from the Lucide icon set.
   ///
@@ -8537,7 +8551,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fire_extinguisher =
-      IconData(0xe583, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe582, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish] icon from the Lucide icon set.
   ///
@@ -8551,7 +8565,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fish =
-      IconData(0xe3aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish_off] icon from the Lucide icon set.
   ///
@@ -8565,7 +8579,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fish_off =
-      IconData(0xe3b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish_symbol] icon from the Lucide icon set.
   ///
@@ -8579,7 +8593,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fish_symbol =
-      IconData(0xe4f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag] icon from the Lucide icon set.
   ///
@@ -8607,7 +8621,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flag_off =
-      IconData(0xe292, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe291, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag_triangle_left] icon from the Lucide icon set.
   ///
@@ -8621,7 +8635,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flag_triangle_left =
-      IconData(0xe237, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe236, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag_triangle_right] icon from the Lucide icon set.
   ///
@@ -8635,7 +8649,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flag_triangle_right =
-      IconData(0xe238, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe237, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flame] icon from the Lucide icon set.
   ///
@@ -8663,7 +8677,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flame_kindling =
-      IconData(0xe53f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flashlight] icon from the Lucide icon set.
   ///
@@ -8700,7 +8714,7 @@ abstract final class LucideIcons {
   /// - It belongs to the science, gaming categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
@@ -8714,12 +8728,12 @@ abstract final class LucideIcons {
   /// - It belongs to the science, gaming categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flask_conical_off =
-      IconData(0xe39a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe399, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flask_round] icon from the Lucide icon set.
   ///
@@ -8728,7 +8742,7 @@ abstract final class LucideIcons {
   /// - It belongs to the science, gaming categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
@@ -8747,7 +8761,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flip_horizontal =
-      IconData(0xe361, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe360, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flip_horizontal_2] icon from the Lucide icon set.
   ///
@@ -8761,7 +8775,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flip_horizontal_2 =
-      IconData(0xe362, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe361, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flip_vertical] icon from the Lucide icon set.
   ///
@@ -8775,7 +8789,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flip_vertical =
-      IconData(0xe363, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe362, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flip_vertical_2] icon from the Lucide icon set.
   ///
@@ -8789,7 +8803,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flip_vertical_2 =
-      IconData(0xe364, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe363, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flower] icon from the Lucide icon set.
   ///
@@ -8803,7 +8817,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flower =
-      IconData(0xe2d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flower_2] icon from the Lucide icon set.
   ///
@@ -8817,7 +8831,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData flower_2 =
-      IconData(0xe2d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [focus] icon from the Lucide icon set.
   ///
@@ -8831,7 +8845,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData focus =
-      IconData(0xe29e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fold_horizontal] icon from the Lucide icon set.
   ///
@@ -8845,7 +8859,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fold_horizontal =
-      IconData(0xe440, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fold_vertical] icon from the Lucide icon set.
   ///
@@ -8859,7 +8873,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fold_vertical =
-      IconData(0xe441, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe440, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder] icon from the Lucide icon set.
   ///
@@ -8887,7 +8901,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_archive =
-      IconData(0xe331, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe330, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_check] icon from the Lucide icon set.
   ///
@@ -8901,7 +8915,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_check =
-      IconData(0xe332, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe331, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_clock] icon from the Lucide icon set.
   ///
@@ -8915,7 +8929,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_clock =
-      IconData(0xe333, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe332, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_closed] icon from the Lucide icon set.
   ///
@@ -8929,7 +8943,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_closed =
-      IconData(0xe334, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe333, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_code] icon from the Lucide icon set.
   ///
@@ -8943,7 +8957,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_code =
-      IconData(0xe600, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_cog] icon from the Lucide icon set.
   ///
@@ -8957,7 +8971,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_cog =
-      IconData(0xe335, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe334, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_dot] icon from the Lucide icon set.
   ///
@@ -8971,7 +8985,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_dot =
-      IconData(0xe4ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_down] icon from the Lucide icon set.
   ///
@@ -8985,7 +8999,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_down =
-      IconData(0xe336, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe335, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_git] icon from the Lucide icon set.
   ///
@@ -8999,7 +9013,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_git =
-      IconData(0xe40e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_git_2] icon from the Lucide icon set.
   ///
@@ -9013,7 +9027,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_git_2 =
-      IconData(0xe40f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_heart] icon from the Lucide icon set.
   ///
@@ -9027,7 +9041,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_heart =
-      IconData(0xe337, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe336, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_input] icon from the Lucide icon set.
   ///
@@ -9041,7 +9055,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_input =
-      IconData(0xe338, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe337, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_kanban] icon from the Lucide icon set.
   ///
@@ -9055,7 +9069,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_kanban =
-      IconData(0xe4cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_key] icon from the Lucide icon set.
   ///
@@ -9069,7 +9083,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_key =
-      IconData(0xe339, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe338, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_lock] icon from the Lucide icon set.
   ///
@@ -9083,7 +9097,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_lock =
-      IconData(0xe33a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe339, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_minus] icon from the Lucide icon set.
   ///
@@ -9111,7 +9125,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_open =
-      IconData(0xe247, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe246, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_open_dot] icon from the Lucide icon set.
   ///
@@ -9125,7 +9139,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_open_dot =
-      IconData(0xe4cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_output] icon from the Lucide icon set.
   ///
@@ -9139,7 +9153,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_output =
-      IconData(0xe33b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_pen] icon from the Lucide icon set.
   ///
@@ -9153,7 +9167,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_pen =
-      IconData(0xe33c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_plus] icon from the Lucide icon set.
   ///
@@ -9181,7 +9195,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_root =
-      IconData(0xe4cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_search] icon from the Lucide icon set.
   ///
@@ -9195,7 +9209,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_search =
-      IconData(0xe33d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_search_2] icon from the Lucide icon set.
   ///
@@ -9209,7 +9223,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_search_2 =
-      IconData(0xe33e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_symlink] icon from the Lucide icon set.
   ///
@@ -9223,7 +9237,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_symlink =
-      IconData(0xe33f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_sync] icon from the Lucide icon set.
   ///
@@ -9237,7 +9251,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_sync =
-      IconData(0xe4ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_tree] icon from the Lucide icon set.
   ///
@@ -9251,7 +9265,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_tree =
-      IconData(0xe340, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe33f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_up] icon from the Lucide icon set.
   ///
@@ -9265,7 +9279,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_up =
-      IconData(0xe341, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe340, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_x] icon from the Lucide icon set.
   ///
@@ -9279,7 +9293,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folder_x =
-      IconData(0xe342, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe341, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folders] icon from the Lucide icon set.
   ///
@@ -9293,13 +9307,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData folders =
-      IconData(0xe343, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe342, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [footprints] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [footprints] icon is a graphical symbol that conveys a specific idea or functionality related to steps, walking, foot, feet, trail, shoe.
-  /// - It belongs to the maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -9307,7 +9321,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData footprints =
-      IconData(0xe3bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [forklift] icon from the Lucide icon set.
   ///
@@ -9321,7 +9335,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData forklift =
-      IconData(0xe3c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [forward] icon from the Lucide icon set.
   ///
@@ -9335,7 +9349,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData forward =
-      IconData(0xe229, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe228, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [frame] icon from the Lucide icon set.
   ///
@@ -9349,7 +9363,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData frame =
-      IconData(0xe291, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe290, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [framer] icon from the Lucide icon set.
   ///
@@ -9383,7 +9397,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [fuel] icon is a graphical symbol that conveys a specific idea or functionality related to filling-station, gas, petrol, tank.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -9391,7 +9405,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fuel =
-      IconData(0xe2af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fullscreen] icon from the Lucide icon set.
   ///
@@ -9405,7 +9419,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData fullscreen =
-      IconData(0xe539, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe538, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_horizontal] icon from the Lucide icon set.
   ///
@@ -9419,7 +9433,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gallery_horizontal =
-      IconData(0xe4d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_horizontal_end] icon from the Lucide icon set.
   ///
@@ -9433,7 +9447,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gallery_horizontal_end =
-      IconData(0xe4d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_thumbnails] icon from the Lucide icon set.
   ///
@@ -9447,7 +9461,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gallery_thumbnails =
-      IconData(0xe4d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_vertical] icon from the Lucide icon set.
   ///
@@ -9461,7 +9475,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gallery_vertical =
-      IconData(0xe4d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_vertical_end] icon from the Lucide icon set.
   ///
@@ -9475,7 +9489,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gallery_vertical_end =
-      IconData(0xe4d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gamepad] icon from the Lucide icon set.
   ///
@@ -9509,7 +9523,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [gauge] icon is a graphical symbol that conveys a specific idea or functionality related to dashboard, dial, meter, speed, pressure, measure, level.
-  /// - It belongs to the account, transportation, sports, science categories.
+  /// - It belongs to the transportation, sports, science categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -9517,13 +9531,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gauge =
-      IconData(0xe1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gavel] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [gavel] icon is a graphical symbol that conveys a specific idea or functionality related to hammer, mallet.
-  /// - It belongs to the maps, tools categories.
+  /// - It belongs to the navigation, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -9537,7 +9551,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [gem] icon is a graphical symbol that conveys a specific idea or functionality related to diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems.
-  /// - It belongs to the gaming, money, development categories.
+  /// - It belongs to the gaming, development, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -9545,7 +9559,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData gem =
-      IconData(0xe242, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe241, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ghost] icon from the Lucide icon set.
   ///
@@ -9559,7 +9573,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ghost =
-      IconData(0xe20e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gift] icon from the Lucide icon set.
   ///
@@ -9601,13 +9615,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_branch_plus =
-      IconData(0xe1f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_commit_horizontal] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [git_commit_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, waypoint, stop, station.
-  /// - It belongs to the development, maps, navigation categories.
+  /// - It belongs to the development, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey) have been instrumental in the development of this icon.
@@ -9621,7 +9635,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [git_commit_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, waypoint, stop, station.
-  /// - It belongs to the development, maps, navigation categories.
+  /// - It belongs to the development, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -9629,13 +9643,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_commit_vertical =
-      IconData(0xe557, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe556, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_compare] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [git_compare] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, diff.
-  /// - It belongs to the development, arrows categories.
+  /// - It belongs to the development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -9643,7 +9657,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_compare =
-      IconData(0xe35d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_compare_arrows] icon from the Lucide icon set.
   ///
@@ -9657,7 +9671,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_compare_arrows =
-      IconData(0xe558, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe557, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_fork] icon from the Lucide icon set.
   ///
@@ -9671,7 +9685,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_fork =
-      IconData(0xe28d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_graph] icon from the Lucide icon set.
   ///
@@ -9685,7 +9699,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_graph =
-      IconData(0xe559, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe558, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_merge] icon from the Lucide icon set.
   ///
@@ -9705,7 +9719,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [git_pull_request] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, open.
-  /// - It belongs to the development, arrows categories.
+  /// - It belongs to the development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -9727,7 +9741,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_pull_request_arrow =
-      IconData(0xe55a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe559, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_closed] icon from the Lucide icon set.
   ///
@@ -9741,13 +9755,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_pull_request_closed =
-      IconData(0xe35e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_create] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [git_pull_request_create] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, open, plus, add, +.
-  /// - It belongs to the development, arrows categories.
+  /// - It belongs to the development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -9755,7 +9769,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_pull_request_create =
-      IconData(0xe55b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_create_arrow] icon from the Lucide icon set.
   ///
@@ -9769,7 +9783,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_pull_request_create_arrow =
-      IconData(0xe55c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_draft] icon from the Lucide icon set.
   ///
@@ -9783,7 +9797,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData git_pull_request_draft =
-      IconData(0xe35f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [github] icon from the Lucide icon set.
   ///
@@ -9825,7 +9839,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData glass_water =
-      IconData(0xe2d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [glasses] icon from the Lucide icon set.
   ///
@@ -9839,13 +9853,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData glasses =
-      IconData(0xe20d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [globe] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [globe] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate.
-  /// - It belongs to the maps, navigation categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -9867,7 +9881,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData globe_lock =
-      IconData(0xe5d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [goal] icon from the Lucide icon set.
   ///
@@ -9881,7 +9895,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData goal =
-      IconData(0xe4aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grab] icon from the Lucide icon set.
   ///
@@ -9895,13 +9909,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grab =
-      IconData(0xe1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [graduation_cap] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [graduation_cap] icon is a graphical symbol that conveys a specific idea or functionality related to school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachlor's, master's, doctorate.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/Tummerhore](https://github.com/Tummerhore), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -9909,7 +9923,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData graduation_cap =
-      IconData(0xe234, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe233, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grape] icon from the Lucide icon set.
   ///
@@ -9923,13 +9937,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grape =
-      IconData(0xe356, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe355, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [grid_2x2] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight.
-  /// - It belongs to the text, layout, design, shapes, maths categories.
+  /// - It belongs to the text, layout, design, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -9937,13 +9951,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grid_2x2 =
-      IconData(0xe504, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe503, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [grid_2x2_check] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre.
-  /// - It belongs to the text, layout, design, shapes, maths categories.
+  /// - It belongs to the text, layout, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme) have been instrumental in the development of this icon.
@@ -9951,13 +9965,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grid_2x2_check =
-      IconData(0xe5e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [grid_2x2_plus] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre.
-  /// - It belongs to the text, layout, design, shapes, maths categories.
+  /// - It belongs to the text, layout, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -9965,13 +9979,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grid_2x2_plus =
-      IconData(0xe62d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [grid_2x2_x] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, data, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre.
-  /// - It belongs to the text, layout, design, shapes, maths categories.
+  /// - It belongs to the text, layout, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme) have been instrumental in the development of this icon.
@@ -9979,7 +9993,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grid_2x2_x =
-      IconData(0xe5ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_3x3] icon from the Lucide icon set.
   ///
@@ -10007,7 +10021,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData grip =
-      IconData(0xe3b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grip_horizontal] icon from the Lucide icon set.
   ///
@@ -10041,7 +10055,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [group] icon is a graphical symbol that conveys a specific idea or functionality related to cubes, packages, parts, units, collection, cluster, gather, dashed.
-  /// - It belongs to the shapes, files categories.
+  /// - It belongs to the files categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -10049,7 +10063,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData group =
-      IconData(0xe469, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe468, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [guitar] icon from the Lucide icon set.
   ///
@@ -10063,7 +10077,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData guitar =
-      IconData(0xe564, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe563, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ham] icon from the Lucide icon set.
   ///
@@ -10077,7 +10091,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ham =
-      IconData(0xe5dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hammer] icon from the Lucide icon set.
   ///
@@ -10105,13 +10119,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand =
-      IconData(0xe1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_coins] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [hand_coins] icon is a graphical symbol that conveys a specific idea or functionality related to savings, banking, money, finance, offers, mortgage, payment, received, wage, payroll, allowance, pocket money, handout, pennies.
-  /// - It belongs to the money, account categories.
+  /// - It belongs to the finance, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/kayleyhill](https://github.com/kayleyhill) have been instrumental in the development of this icon.
@@ -10119,7 +10133,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand_coins =
-      IconData(0xe5bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_heart] icon from the Lucide icon set.
   ///
@@ -10133,7 +10147,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand_heart =
-      IconData(0xe5be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_helping] icon from the Lucide icon set.
   ///
@@ -10147,7 +10161,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand_helping =
-      IconData(0xe3bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_metal] icon from the Lucide icon set.
   ///
@@ -10161,7 +10175,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand_metal =
-      IconData(0xe22c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_platter] icon from the Lucide icon set.
   ///
@@ -10175,13 +10189,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hand_platter =
-      IconData(0xe5bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [handshake] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [handshake] icon is a graphical symbol that conveys a specific idea or functionality related to agreement, partnership, deal, business, assistance, cooperation, friendship, union, terms.
-  /// - It belongs to the account, social, communication, money, security categories.
+  /// - It belongs to the account, social, communication, finance, security categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -10189,7 +10203,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData handshake =
-      IconData(0xe5c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_drive] icon from the Lucide icon set.
   ///
@@ -10217,7 +10231,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hard_drive_download =
-      IconData(0xe4ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_drive_upload] icon from the Lucide icon set.
   ///
@@ -10231,7 +10245,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hard_drive_upload =
-      IconData(0xe4eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_hat] icon from the Lucide icon set.
   ///
@@ -10287,13 +10301,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hdmi_port =
-      IconData(0xe4ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -10301,13 +10315,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading =
-      IconData(0xe388, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe387, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_1] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_1] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -10315,13 +10329,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_1 =
-      IconData(0xe389, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe388, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_2] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_2] icon is a graphical symbol that conveys a specific idea or functionality related to h2, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -10329,13 +10343,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_2 =
-      IconData(0xe38a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe389, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_3] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_3] icon is a graphical symbol that conveys a specific idea or functionality related to h3, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -10343,13 +10357,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_3 =
-      IconData(0xe38b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_4] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_4] icon is a graphical symbol that conveys a specific idea or functionality related to h4, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -10357,13 +10371,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_4 =
-      IconData(0xe38c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_5] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_5] icon is a graphical symbol that conveys a specific idea or functionality related to h5, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -10371,13 +10385,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_5 =
-      IconData(0xe38d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_6] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [heading_6] icon is a graphical symbol that conveys a specific idea or functionality related to h6, html, markup, markdown.
-  /// - It belongs to the text, development categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -10385,7 +10399,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heading_6 =
-      IconData(0xe38e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [headphone_off] icon from the Lucide icon set.
   ///
@@ -10399,7 +10413,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData headphone_off =
-      IconData(0xe62e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [headphones] icon from the Lucide icon set.
   ///
@@ -10427,7 +10441,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData headset =
-      IconData(0xe5c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart] icon from the Lucide icon set.
   ///
@@ -10455,7 +10469,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heart_crack =
-      IconData(0xe2d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_handshake] icon from the Lucide icon set.
   ///
@@ -10469,7 +10483,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heart_handshake =
-      IconData(0xe2d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_off] icon from the Lucide icon set.
   ///
@@ -10483,7 +10497,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heart_off =
-      IconData(0xe295, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe294, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_pulse] icon from the Lucide icon set.
   ///
@@ -10497,7 +10511,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heart_pulse =
-      IconData(0xe372, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe371, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heater] icon from the Lucide icon set.
   ///
@@ -10511,7 +10525,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData heater =
-      IconData(0xe593, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe592, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hexagon] icon from the Lucide icon set.
   ///
@@ -10553,7 +10567,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData history =
-      IconData(0xe1f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hop] icon from the Lucide icon set.
   ///
@@ -10567,7 +10581,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hop =
-      IconData(0xe39b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hop_off] icon from the Lucide icon set.
   ///
@@ -10581,13 +10595,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hop_off =
-      IconData(0xe39c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hospital] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [hospital] icon is a graphical symbol that conveys a specific idea or functionality related to infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet.
-  /// - It belongs to the medical, buildings, maps, travel categories.
+  /// - It belongs to the medical, buildings, navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -10595,13 +10609,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hospital =
-      IconData(0xe5dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hotel] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [hotel] icon is a graphical symbol that conveys a specific idea or functionality related to building, hostel, motel, inn.
-  /// - It belongs to the buildings, maps, travel categories.
+  /// - It belongs to the buildings, navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -10609,7 +10623,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hotel =
-      IconData(0xe3e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hourglass] icon from the Lucide icon set.
   ///
@@ -10623,13 +10637,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData hourglass =
-      IconData(0xe296, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe295, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [house] icon is a graphical symbol that conveys a specific idea or functionality related to home, living, building, residence, architecture.
-  /// - It belongs to the account, buildings, home categories.
+  /// - It belongs to the buildings, home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -10651,13 +10665,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData house_plug =
-      IconData(0xe5f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [house_plus] icon is a graphical symbol that conveys a specific idea or functionality related to home, living, medical, new, addition, building, residence, architecture.
-  /// - It belongs to the buildings, account, medical categories.
+  /// - It belongs to the buildings, medical categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -10665,7 +10679,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData house_plus =
-      IconData(0xe5f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ice_cream_bowl] icon from the Lucide icon set.
   ///
@@ -10679,7 +10693,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ice_cream_bowl =
-      IconData(0xe3ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ice_cream_cone] icon from the Lucide icon set.
   ///
@@ -10693,7 +10707,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ice_cream_cone =
-      IconData(0xe357, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe356, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [id_card] icon from the Lucide icon set.
   ///
@@ -10707,7 +10721,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData id_card =
-      IconData(0xe61c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image] icon from the Lucide icon set.
   ///
@@ -10735,7 +10749,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_down =
-      IconData(0xe541, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe540, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_minus] icon from the Lucide icon set.
   ///
@@ -10749,7 +10763,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_minus =
-      IconData(0xe1f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_off] icon from the Lucide icon set.
   ///
@@ -10763,7 +10777,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_off =
-      IconData(0xe1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_play] icon from the Lucide icon set.
   ///
@@ -10777,7 +10791,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_play =
-      IconData(0xe5e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_plus] icon from the Lucide icon set.
   ///
@@ -10791,7 +10805,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_plus =
-      IconData(0xe1f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_up] icon from the Lucide icon set.
   ///
@@ -10805,7 +10819,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_up =
-      IconData(0xe5d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_upscale] icon from the Lucide icon set.
   ///
@@ -10819,7 +10833,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData image_upscale =
-      IconData(0xe63c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe63b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [images] icon from the Lucide icon set.
   ///
@@ -10833,7 +10847,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData images =
-      IconData(0xe5c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [import] icon from the Lucide icon set.
   ///
@@ -10847,7 +10861,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData import =
-      IconData(0xe22f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [inbox] icon from the Lucide icon set.
   ///
@@ -10895,7 +10909,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -10908,7 +10922,7 @@ abstract final class LucideIcons {
   /// Represents the [infinity] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [infinity] icon is a graphical symbol that conveys a specific idea or functionality related to unlimited, forever, loop, maths.
+  /// - The [infinity] icon is a graphical symbol that conveys a specific idea or functionality related to unlimited, forever, loop, math.
   /// - It belongs to the multimedia categories.
   ///
   /// Acknowledgements:
@@ -10917,7 +10931,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData infinity =
-      IconData(0xe1e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [info] icon from the Lucide icon set.
   ///
@@ -10945,7 +10959,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData inspection_panel =
-      IconData(0xe588, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe587, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [instagram] icon from the Lucide icon set.
   ///
@@ -10987,7 +11001,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData iteration_ccw =
-      IconData(0xe428, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe427, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [iteration_cw] icon from the Lucide icon set.
   ///
@@ -11001,13 +11015,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData iteration_cw =
-      IconData(0xe429, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe428, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [japanese_yen] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11029,7 +11043,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData joystick =
-      IconData(0xe359, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe358, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [kanban] icon from the Lucide icon set.
   ///
@@ -11043,7 +11057,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData kanban =
-      IconData(0xe4e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [key] icon from the Lucide icon set.
   ///
@@ -11071,7 +11085,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData key_round =
-      IconData(0xe4a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [key_square] icon from the Lucide icon set.
   ///
@@ -11085,7 +11099,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData key_square =
-      IconData(0xe4a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard] icon from the Lucide icon set.
   ///
@@ -11099,7 +11113,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData keyboard =
-      IconData(0xe284, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe283, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard_music] icon from the Lucide icon set.
   ///
@@ -11113,7 +11127,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData keyboard_music =
-      IconData(0xe565, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe564, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard_off] icon from the Lucide icon set.
   ///
@@ -11127,13 +11141,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData keyboard_off =
-      IconData(0xe5e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11141,13 +11155,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp =
-      IconData(0xe2d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_ceiling] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp_ceiling] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -11155,13 +11169,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp_ceiling =
-      IconData(0xe2d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_desk] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp_desk] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, office, desk, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -11169,13 +11183,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp_desk =
-      IconData(0xe2da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_floor] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp_floor] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, floor, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -11183,13 +11197,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp_floor =
-      IconData(0xe2db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_wall_down] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp_wall_down] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, wall, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11197,13 +11211,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp_wall_down =
-      IconData(0xe2dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_wall_up] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [lamp_wall_up] icon is a graphical symbol that conveys a specific idea or functionality related to lighting, household, wall, home, furniture.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11211,13 +11225,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lamp_wall_up =
-      IconData(0xe2dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [land_plot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [land_plot] icon is a graphical symbol that conveys a specific idea or functionality related to area, surface, square metres, allotment, parcel, property, plane, acres, measure, distance, isometric, flag, golf course, hole.
-  /// - It belongs to the shapes, design, tools, maths, sports, gaming categories.
+  /// - It belongs to the design, tools, math, sports, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -11225,13 +11239,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData land_plot =
-      IconData(0xe52d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe52c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [landmark] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [landmark] icon is a graphical symbol that conveys a specific idea or functionality related to bank, building, capitol, finance, money.
-  /// - It belongs to the money, maps, buildings categories.
+  /// - The [landmark] icon is a graphical symbol that conveys a specific idea or functionality related to bank, building, capitol, finance, money, government, institution.
+  /// - It belongs to the finance, navigation, buildings categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11239,7 +11253,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData landmark =
-      IconData(0xe23a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe239, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [languages] icon from the Lucide icon set.
   ///
@@ -11267,7 +11281,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData laptop =
-      IconData(0xe1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laptop_minimal] icon from the Lucide icon set.
   ///
@@ -11281,7 +11295,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData laptop_minimal =
-      IconData(0xe1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laptop_minimal_check] icon from the Lucide icon set.
   ///
@@ -11295,7 +11309,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData laptop_minimal_check =
-      IconData(0xe637, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe636, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lasso] icon from the Lucide icon set.
   ///
@@ -11309,7 +11323,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lasso =
-      IconData(0xe1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lasso_select] icon from the Lucide icon set.
   ///
@@ -11323,7 +11337,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lasso_select =
-      IconData(0xe1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laugh] icon from the Lucide icon set.
   ///
@@ -11337,7 +11351,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData laugh =
-      IconData(0xe300, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layers] icon from the Lucide icon set.
   ///
@@ -11346,12 +11360,12 @@ abstract final class LucideIcons {
   /// - It belongs to the design, layout categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layers =
-      IconData(0xe104, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe52d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layers_2] icon from the Lucide icon set.
   ///
@@ -11367,20 +11381,6 @@ abstract final class LucideIcons {
   static const IconData layers_2 =
       IconData(0xe52e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Represents the [layers_3] icon from the Lucide icon set.
-  ///
-  /// Description:
-  /// - The [layers_3] icon is a graphical symbol that conveys a specific idea or functionality related to stack, pile, pages, sheets, paperwork, copies, copy, duplicate, triple.
-  /// - It belongs to the design, layout categories.
-  ///
-  /// Acknowledgements:
-  /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
-  ///
-  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
-  ///
-  static const IconData layers_3 =
-      IconData(0xe52f, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
   /// Represents the [layout_dashboard] icon from the Lucide icon set.
   ///
   /// Description:
@@ -11393,7 +11393,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_dashboard =
-      IconData(0xe1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_grid] icon from the Lucide icon set.
   ///
@@ -11407,7 +11407,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_grid =
-      IconData(0xe105, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe104, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_list] icon from the Lucide icon set.
   ///
@@ -11421,7 +11421,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_list =
-      IconData(0xe1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_panel_left] icon from the Lucide icon set.
   ///
@@ -11435,7 +11435,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_panel_left =
-      IconData(0xe475, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe474, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_panel_top] icon from the Lucide icon set.
   ///
@@ -11449,7 +11449,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_panel_top =
-      IconData(0xe476, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe475, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_template] icon from the Lucide icon set.
   ///
@@ -11463,7 +11463,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData layout_template =
-      IconData(0xe207, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe206, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [leaf] icon from the Lucide icon set.
   ///
@@ -11477,7 +11477,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData leaf =
-      IconData(0xe2de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [leafy_green] icon from the Lucide icon set.
   ///
@@ -11491,7 +11491,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData leafy_green =
-      IconData(0xe474, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe473, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lectern] icon from the Lucide icon set.
   ///
@@ -11505,7 +11505,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lectern =
-      IconData(0xe5ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [letter_text] icon from the Lucide icon set.
   ///
@@ -11519,13 +11519,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData letter_text =
-      IconData(0xe60a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe609, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [library] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [library] icon is a graphical symbol that conveys a specific idea or functionality related to books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package.
-  /// - It belongs to the text, photography, multimedia, maps, development categories.
+  /// - It belongs to the text, photography, multimedia, navigation, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11533,13 +11533,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData library =
-      IconData(0xe106, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe105, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [library_big] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [library_big] icon is a graphical symbol that conveys a specific idea or functionality related to books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package.
-  /// - It belongs to the text, photography, multimedia, maps, development categories.
+  /// - It belongs to the text, photography, multimedia, navigation, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -11547,7 +11547,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData library_big =
-      IconData(0xe553, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe552, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [life_buoy] icon from the Lucide icon set.
   ///
@@ -11561,7 +11561,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData life_buoy =
-      IconData(0xe107, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe106, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ligature] icon from the Lucide icon set.
   ///
@@ -11575,7 +11575,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ligature =
-      IconData(0xe43f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lightbulb] icon from the Lucide icon set.
   ///
@@ -11589,7 +11589,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lightbulb =
-      IconData(0xe1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lightbulb_off] icon from the Lucide icon set.
   ///
@@ -11603,7 +11603,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lightbulb_off =
-      IconData(0xe208, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe207, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link] icon from the Lucide icon set.
   ///
@@ -11617,7 +11617,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData link =
-      IconData(0xe108, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe107, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link_2] icon from the Lucide icon set.
   ///
@@ -11631,7 +11631,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData link_2 =
-      IconData(0xe109, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe108, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link_2_off] icon from the Lucide icon set.
   ///
@@ -11645,13 +11645,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData link_2_off =
-      IconData(0xe10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe109, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [linkedin] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [linkedin] icon is a graphical symbol that conveys a specific idea or functionality related to logo, social media, social.
-  /// - It belongs to the account, social, brands categories.
+  /// - It belongs to the social, brands categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/okcoker](https://github.com/okcoker), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11659,7 +11659,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData linkedin =
-      IconData(0xe10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list] icon from the Lucide icon set.
   ///
@@ -11673,7 +11673,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list =
-      IconData(0xe10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_check] icon from the Lucide icon set.
   ///
@@ -11687,7 +11687,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_check =
-      IconData(0xe5ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_checks] icon from the Lucide icon set.
   ///
@@ -11701,7 +11701,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_checks =
-      IconData(0xe1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_collapse] icon from the Lucide icon set.
   ///
@@ -11715,7 +11715,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_collapse =
-      IconData(0xe5a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_end] icon from the Lucide icon set.
   ///
@@ -11729,7 +11729,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_end =
-      IconData(0xe2df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_filter] icon from the Lucide icon set.
   ///
@@ -11743,7 +11743,21 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_filter =
-      IconData(0xe465, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe464, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [list_filter_plus] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [list_filter_plus] icon is a graphical symbol that conveys a specific idea or functionality related to filter, plus, options, add.
+  /// - It belongs to the text, layout categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/abdeniz](https://github.com/abdeniz) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData list_filter_plus =
+      IconData(0xe63d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_minus] icon from the Lucide icon set.
   ///
@@ -11757,7 +11771,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_minus =
-      IconData(0xe23e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_music] icon from the Lucide icon set.
   ///
@@ -11771,7 +11785,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_music =
-      IconData(0xe2e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_ordered] icon from the Lucide icon set.
   ///
@@ -11785,7 +11799,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_ordered =
-      IconData(0xe1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_plus] icon from the Lucide icon set.
   ///
@@ -11799,7 +11813,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_plus =
-      IconData(0xe23f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_restart] icon from the Lucide icon set.
   ///
@@ -11813,7 +11827,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_restart =
-      IconData(0xe457, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe456, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_start] icon from the Lucide icon set.
   ///
@@ -11827,7 +11841,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_start =
-      IconData(0xe2e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_todo] icon from the Lucide icon set.
   ///
@@ -11841,7 +11855,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_todo =
-      IconData(0xe4c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_tree] icon from the Lucide icon set.
   ///
@@ -11855,7 +11869,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_tree =
-      IconData(0xe40d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_video] icon from the Lucide icon set.
   ///
@@ -11869,7 +11883,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_video =
-      IconData(0xe2e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_x] icon from the Lucide icon set.
   ///
@@ -11883,7 +11897,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData list_x =
-      IconData(0xe240, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe23f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader] icon from the Lucide icon set.
   ///
@@ -11897,7 +11911,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData loader =
-      IconData(0xe10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader_circle] icon from the Lucide icon set.
   ///
@@ -11911,7 +11925,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData loader_circle =
-      IconData(0xe10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader_pinwheel] icon from the Lucide icon set.
   ///
@@ -11925,13 +11939,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData loader_pinwheel =
-      IconData(0xe5eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [locate] icon is a graphical symbol that conveys a specific idea or functionality related to map, gps, location, cross.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -11939,13 +11953,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData locate =
-      IconData(0xe1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate_fixed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [locate_fixed] icon is a graphical symbol that conveys a specific idea or functionality related to map, gps, location, cross.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/csandman](https://github.com/csandman), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -11953,13 +11967,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData locate_fixed =
-      IconData(0xe1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [locate_off] icon is a graphical symbol that conveys a specific idea or functionality related to map, gps, location, cross.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/fdev](https://github.com/fdev) have been instrumental in the development of this icon.
@@ -11967,7 +11981,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData locate_off =
-      IconData(0xe282, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe281, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock] icon from the Lucide icon set.
   ///
@@ -11981,7 +11995,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lock =
-      IconData(0xe10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_keyhole] icon from the Lucide icon set.
   ///
@@ -11995,7 +12009,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lock_keyhole =
-      IconData(0xe536, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe535, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_keyhole_open] icon from the Lucide icon set.
   ///
@@ -12009,7 +12023,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lock_keyhole_open =
-      IconData(0xe537, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe536, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_open] icon from the Lucide icon set.
   ///
@@ -12023,7 +12037,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lock_open =
-      IconData(0xe110, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [log_in] icon from the Lucide icon set.
   ///
@@ -12037,7 +12051,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData log_in =
-      IconData(0xe111, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe110, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [log_out] icon from the Lucide icon set.
   ///
@@ -12051,7 +12065,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData log_out =
-      IconData(0xe112, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe111, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [logs] icon from the Lucide icon set.
   ///
@@ -12065,7 +12079,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData logs =
-      IconData(0xe5f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lollipop] icon from the Lucide icon set.
   ///
@@ -12079,7 +12093,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData lollipop =
-      IconData(0xe4c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [luggage] icon from the Lucide icon set.
   ///
@@ -12093,7 +12107,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData luggage =
-      IconData(0xe2ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [magnet] icon from the Lucide icon set.
   ///
@@ -12107,7 +12121,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData magnet =
-      IconData(0xe2b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail] icon from the Lucide icon set.
   ///
@@ -12121,7 +12135,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail =
-      IconData(0xe113, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe112, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_check] icon from the Lucide icon set.
   ///
@@ -12135,7 +12149,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_check =
-      IconData(0xe365, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe364, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_minus] icon from the Lucide icon set.
   ///
@@ -12149,7 +12163,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_minus =
-      IconData(0xe366, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe365, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_open] icon from the Lucide icon set.
   ///
@@ -12163,7 +12177,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_open =
-      IconData(0xe367, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe366, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_plus] icon from the Lucide icon set.
   ///
@@ -12177,7 +12191,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_plus =
-      IconData(0xe368, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe367, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_question] icon from the Lucide icon set.
   ///
@@ -12191,7 +12205,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_question =
-      IconData(0xe369, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe368, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_search] icon from the Lucide icon set.
   ///
@@ -12205,7 +12219,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_search =
-      IconData(0xe36a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe369, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_warning] icon from the Lucide icon set.
   ///
@@ -12219,7 +12233,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_warning =
-      IconData(0xe36b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_x] icon from the Lucide icon set.
   ///
@@ -12233,7 +12247,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mail_x =
-      IconData(0xe36c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mailbox] icon from the Lucide icon set.
   ///
@@ -12247,7 +12261,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mailbox =
-      IconData(0xe3d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mails] icon from the Lucide icon set.
   ///
@@ -12261,13 +12275,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mails =
-      IconData(0xe36d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe36c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map] icon is a graphical symbol that conveys a specific idea or functionality related to location, navigation, travel.
-  /// - It belongs to the text, maps categories.
+  /// - It belongs to the text, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12275,13 +12289,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map =
-      IconData(0xe114, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe113, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -12289,13 +12303,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin =
-      IconData(0xe115, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe114, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_check] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, done, tick, complete, task, added.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12303,13 +12317,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_check =
-      IconData(0xe614, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe613, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_check_inside] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_check_inside] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, done, tick, complete, task, added.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12317,13 +12331,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_check_inside =
-      IconData(0xe615, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe614, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_house] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_house] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, home, living, building, residence, architecture, address, poi, real estate, property, navigation, destination, geolocation, place, landmark.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12331,13 +12345,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_house =
-      IconData(0xe621, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe620, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_minus] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, delete, remove, erase.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12345,13 +12359,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_minus =
-      IconData(0xe616, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe615, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_minus_inside] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_minus_inside] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, delete, remove, erase.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12359,13 +12373,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_minus_inside =
-      IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe616, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_off] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, remove.
-  /// - It belongs to the maps, navigation, travel categories.
+  /// - It belongs to the navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12373,13 +12387,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_off =
-      IconData(0xe2a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_plus] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, add, create, new.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12387,13 +12401,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_plus =
-      IconData(0xe618, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_plus_inside] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_plus_inside] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, add, create, new.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12401,13 +12415,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_plus_inside =
-      IconData(0xe619, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe618, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_x] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, delete, remove, erase.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12415,13 +12429,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_x =
-      IconData(0xe61a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe619, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_x_inside] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pin_x_inside] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop, delete, remove, erase.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12429,13 +12443,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pin_x_inside =
-      IconData(0xe61b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pinned] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [map_pinned] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop.
-  /// - It belongs to the maps, navigation, travel, account categories.
+  /// - It belongs to the navigation, travel, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -12443,7 +12457,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData map_pinned =
-      IconData(0xe542, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe541, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [martini] icon from the Lucide icon set.
   ///
@@ -12457,7 +12471,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData martini =
-      IconData(0xe2e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [maximize] icon from the Lucide icon set.
   ///
@@ -12471,7 +12485,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData maximize =
-      IconData(0xe116, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe115, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [maximize_2] icon from the Lucide icon set.
   ///
@@ -12485,7 +12499,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData maximize_2 =
-      IconData(0xe117, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe116, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [medal] icon from the Lucide icon set.
   ///
@@ -12499,7 +12513,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData medal =
-      IconData(0xe373, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe372, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [megaphone] icon from the Lucide icon set.
   ///
@@ -12513,7 +12527,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData megaphone =
-      IconData(0xe235, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe234, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [megaphone_off] icon from the Lucide icon set.
   ///
@@ -12527,7 +12541,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData megaphone_off =
-      IconData(0xe374, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe373, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [meh] icon from the Lucide icon set.
   ///
@@ -12541,13 +12555,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData meh =
-      IconData(0xe118, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe117, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [memory_stick] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [memory_stick] icon is a graphical symbol that conveys a specific idea or functionality related to ram, random access, technology, computer, chip, circuit, specs, capacity, gigabytes, gb.
-  /// - It belongs to the devices, development, gaming categories.
+  /// - It belongs to the devices, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12555,7 +12569,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData memory_stick =
-      IconData(0xe44a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe449, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [menu] icon from the Lucide icon set.
   ///
@@ -12569,7 +12583,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData menu =
-      IconData(0xe119, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe118, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [merge] icon from the Lucide icon set.
   ///
@@ -12583,13 +12597,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData merge =
-      IconData(0xe444, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe443, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -12597,13 +12611,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle =
-      IconData(0xe11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe119, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_code] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_code] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, code review, coding.
-  /// - It belongs to the development, account, social categories.
+  /// - It belongs to the development, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12611,13 +12625,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_code =
-      IconData(0xe567, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe566, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_dashed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, draft.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12625,7 +12639,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_dashed =
-      IconData(0xe568, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe567, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_heart] icon from the Lucide icon set.
   ///
@@ -12639,13 +12653,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_heart =
-      IconData(0xe569, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe568, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_more] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_more] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, typing, writing, responding, ellipsis, etc, et cetera, ..., ….
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12653,13 +12667,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_more =
-      IconData(0xe56a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe569, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_off] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12667,13 +12681,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_off =
-      IconData(0xe56b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_plus] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, add.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12681,13 +12695,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_plus =
-      IconData(0xe56c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_question] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_question] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, help.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12695,13 +12709,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_question =
-      IconData(0xe56d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_reply] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_reply] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, reply, response.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12709,13 +12723,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_reply =
-      IconData(0xe56e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_warning] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_circle_warning] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, report, abuse, offense, alert, danger, caution, protected, exclamation mark.
-  /// - It belongs to the account, social, notifications categories.
+  /// - It belongs to the social, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12723,7 +12737,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_warning =
-      IconData(0xe56f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_x] icon from the Lucide icon set.
   ///
@@ -12737,13 +12751,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_circle_x =
-      IconData(0xe570, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe56f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -12751,13 +12765,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square =
-      IconData(0xe11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_code] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_code] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, code review, coding.
-  /// - It belongs to the development, account, social categories.
+  /// - It belongs to the development, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12765,13 +12779,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_code =
-      IconData(0xe571, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe570, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_dashed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, draft.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -12779,13 +12793,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_dashed =
-      IconData(0xe410, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_diff] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [message_square_diff] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, add, patch, difference, plus, minus, plus-minus, maths, code review, coding, version control, git.
-  /// - It belongs to the development, files, account, social categories.
+  /// - The [message_square_diff] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, add, patch, difference, plus, minus, plus-minus, math, code review, coding, version control, git.
+  /// - It belongs to the development, files, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12793,13 +12807,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_diff =
-      IconData(0xe572, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe571, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_dot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_dot] icon is a graphical symbol that conveys a specific idea or functionality related to unread, unresolved, comment, chat, conversation, dialog, feedback, speech bubble.
-  /// - It belongs to the account, social, notifications categories.
+  /// - It belongs to the social, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12807,7 +12821,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_dot =
-      IconData(0xe573, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe572, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_heart] icon from the Lucide icon set.
   ///
@@ -12821,13 +12835,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_heart =
-      IconData(0xe574, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe573, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_lock] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_lock] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, secure, encrypted.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -12835,13 +12849,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_lock =
-      IconData(0xe631, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe630, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_more] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_more] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, typing, writing, responding, ellipsis, etc, et cetera, ..., ….
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12849,13 +12863,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_more =
-      IconData(0xe575, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe574, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_off] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12863,13 +12877,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_off =
-      IconData(0xe576, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe575, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_plus] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, add.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12877,13 +12891,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_plus =
-      IconData(0xe411, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe410, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_quote] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_quote] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, blockquote, quotation, indent, reply, response.
-  /// - It belongs to the account, social, text categories.
+  /// - It belongs to the social, text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12891,13 +12905,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_quote =
-      IconData(0xe577, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe576, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_reply] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_reply] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, reply, response.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12905,13 +12919,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_reply =
-      IconData(0xe578, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe577, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_share] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_share] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, network, forward.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12919,13 +12933,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_share =
-      IconData(0xe579, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe578, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_text] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_text] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12933,13 +12947,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_text =
-      IconData(0xe57a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe579, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_warning] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_warning] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, report, abuse, offense, alert, danger, caution, protected, exclamation mark.
-  /// - It belongs to the account, social, notifications categories.
+  /// - It belongs to the social, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12947,13 +12961,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_warning =
-      IconData(0xe57b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [message_square_x] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12961,13 +12975,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData message_square_x =
-      IconData(0xe57c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [messages_square] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [messages_square] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple.
-  /// - It belongs to the account, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -12975,7 +12989,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData messages_square =
-      IconData(0xe412, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe411, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic] icon from the Lucide icon set.
   ///
@@ -12989,7 +13003,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mic =
-      IconData(0xe11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic_off] icon from the Lucide icon set.
   ///
@@ -13003,7 +13017,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mic_off =
-      IconData(0xe11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic_vocal] icon from the Lucide icon set.
   ///
@@ -13017,7 +13031,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mic_vocal =
-      IconData(0xe34d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microchip] icon from the Lucide icon set.
   ///
@@ -13031,7 +13045,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData microchip =
-      IconData(0xe61f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microscope] icon from the Lucide icon set.
   ///
@@ -13045,7 +13059,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData microscope =
-      IconData(0xe2e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microwave] icon from the Lucide icon set.
   ///
@@ -13059,7 +13073,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData microwave =
-      IconData(0xe37e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milestone] icon from the Lucide icon set.
   ///
@@ -13073,7 +13087,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData milestone =
-      IconData(0xe298, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe297, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milk] icon from the Lucide icon set.
   ///
@@ -13087,7 +13101,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData milk =
-      IconData(0xe39d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milk_off] icon from the Lucide icon set.
   ///
@@ -13101,7 +13115,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData milk_off =
-      IconData(0xe39e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minimize] icon from the Lucide icon set.
   ///
@@ -13115,7 +13129,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData minimize =
-      IconData(0xe11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minimize_2] icon from the Lucide icon set.
   ///
@@ -13129,13 +13143,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData minimize_2 =
-      IconData(0xe11f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [minus] icon is a graphical symbol that conveys a specific idea or functionality related to subtract, remove, decrease, decrement, reduce, negative, calculate, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade.
-  /// - It belongs to the maths, development, text, tools, shapes categories.
+  /// - It belongs to the math, development, text, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -13143,13 +13157,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData minus =
-      IconData(0xe120, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe11f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, development categories.
+  /// - It belongs to the connectivity, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13157,13 +13171,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor =
-      IconData(0xe121, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe120, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_check] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, running, active, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, development categories.
+  /// - It belongs to the connectivity, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13171,13 +13185,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_check =
-      IconData(0xe487, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe486, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_cog] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_cog] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, virtual machine, vm, executable, settings, cog, edit, gear, configuration, preferences, system, control panel, network, computing.
-  /// - It belongs to the connectivity, devices, development categories.
+  /// - It belongs to the connectivity, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -13185,13 +13199,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_cog =
-      IconData(0xe608, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe607, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_dot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_dot] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, running, active, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, development categories.
+  /// - It belongs to the connectivity, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13199,7 +13213,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_dot =
-      IconData(0xe488, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe487, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_down] icon from the Lucide icon set.
   ///
@@ -13213,7 +13227,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_down =
-      IconData(0xe426, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe425, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_off] icon from the Lucide icon set.
   ///
@@ -13227,13 +13241,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_off =
-      IconData(0xe1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_pause] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_pause] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, suspend, hibernate, boot, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, multimedia, development categories.
+  /// - It belongs to the connectivity, devices, multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13241,13 +13255,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_pause =
-      IconData(0xe489, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe488, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_play] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_play] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, running, start, boot, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, multimedia, development categories.
+  /// - It belongs to the connectivity, devices, multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13255,7 +13269,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_play =
-      IconData(0xe48a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe489, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_smartphone] icon from the Lucide icon set.
   ///
@@ -13269,7 +13283,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_smartphone =
-      IconData(0xe3a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_speaker] icon from the Lucide icon set.
   ///
@@ -13283,13 +13297,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_speaker =
-      IconData(0xe210, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_stop] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_stop] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, stop, shutdown, virtual machine, vm.
-  /// - It belongs to the connectivity, devices, multimedia, development categories.
+  /// - It belongs to the connectivity, devices, multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13297,7 +13311,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_stop =
-      IconData(0xe48b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_up] icon from the Lucide icon set.
   ///
@@ -13311,13 +13325,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_up =
-      IconData(0xe427, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe426, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [monitor_x] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, virtual machine, vm, close, stop, suspend, remove, delete.
-  /// - It belongs to the connectivity, devices, development categories.
+  /// - It belongs to the connectivity, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -13325,7 +13339,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData monitor_x =
-      IconData(0xe48c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [moon] icon from the Lucide icon set.
   ///
@@ -13339,7 +13353,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData moon =
-      IconData(0xe122, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe121, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [moon_star] icon from the Lucide icon set.
   ///
@@ -13353,7 +13367,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData moon_star =
-      IconData(0xe415, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe414, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mountain] icon from the Lucide icon set.
   ///
@@ -13367,7 +13381,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mountain =
-      IconData(0xe231, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe230, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mountain_snow] icon from the Lucide icon set.
   ///
@@ -13381,7 +13395,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mountain_snow =
-      IconData(0xe232, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe231, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse] icon from the Lucide icon set.
   ///
@@ -13395,7 +13409,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse =
-      IconData(0xe28e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe28d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_off] icon from the Lucide icon set.
   ///
@@ -13409,7 +13423,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse_off =
-      IconData(0xe5e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer] icon from the Lucide icon set.
   ///
@@ -13423,7 +13437,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse_pointer =
-      IconData(0xe123, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe122, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_2] icon from the Lucide icon set.
   ///
@@ -13437,7 +13451,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse_pointer_2 =
-      IconData(0xe1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_ban] icon from the Lucide icon set.
   ///
@@ -13451,7 +13465,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse_pointer_ban =
-      IconData(0xe5ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_click] icon from the Lucide icon set.
   ///
@@ -13465,7 +13479,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData mouse_pointer_click =
-      IconData(0xe124, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe123, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move] icon from the Lucide icon set.
   ///
@@ -13479,7 +13493,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move =
-      IconData(0xe125, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe124, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_3d] icon from the Lucide icon set.
   ///
@@ -13493,7 +13507,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_3d =
-      IconData(0xe2e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_diagonal] icon from the Lucide icon set.
   ///
@@ -13507,7 +13521,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_diagonal =
-      IconData(0xe1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_diagonal_2] icon from the Lucide icon set.
   ///
@@ -13521,7 +13535,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_diagonal_2 =
-      IconData(0xe1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down] icon from the Lucide icon set.
   ///
@@ -13535,7 +13549,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_down =
-      IconData(0xe491, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe490, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down_left] icon from the Lucide icon set.
   ///
@@ -13549,7 +13563,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_down_left =
-      IconData(0xe492, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe491, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down_right] icon from the Lucide icon set.
   ///
@@ -13563,7 +13577,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_down_right =
-      IconData(0xe493, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe492, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_horizontal] icon from the Lucide icon set.
   ///
@@ -13577,7 +13591,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_horizontal =
-      IconData(0xe1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_left] icon from the Lucide icon set.
   ///
@@ -13591,7 +13605,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_left =
-      IconData(0xe494, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe493, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_right] icon from the Lucide icon set.
   ///
@@ -13605,7 +13619,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_right =
-      IconData(0xe495, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe494, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up] icon from the Lucide icon set.
   ///
@@ -13619,7 +13633,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_up =
-      IconData(0xe496, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe495, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up_left] icon from the Lucide icon set.
   ///
@@ -13633,7 +13647,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_up_left =
-      IconData(0xe497, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe496, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up_right] icon from the Lucide icon set.
   ///
@@ -13647,7 +13661,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_up_right =
-      IconData(0xe498, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe497, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_vertical] icon from the Lucide icon set.
   ///
@@ -13661,7 +13675,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData move_vertical =
-      IconData(0xe1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music] icon from the Lucide icon set.
   ///
@@ -13675,7 +13689,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData music =
-      IconData(0xe126, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe125, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_2] icon from the Lucide icon set.
   ///
@@ -13689,7 +13703,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData music_2 =
-      IconData(0xe34e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_3] icon from the Lucide icon set.
   ///
@@ -13703,7 +13717,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData music_3 =
-      IconData(0xe34f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_4] icon from the Lucide icon set.
   ///
@@ -13717,13 +13731,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData music_4 =
-      IconData(0xe350, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [navigation] icon is a graphical symbol that conveys a specific idea or functionality related to location, travel.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -13731,13 +13745,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData navigation =
-      IconData(0xe127, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe126, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_2] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [navigation_2] icon is a graphical symbol that conveys a specific idea or functionality related to location, travel.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis) have been instrumental in the development of this icon.
@@ -13745,13 +13759,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData navigation_2 =
-      IconData(0xe128, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe127, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_2_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [navigation_2_off] icon is a graphical symbol that conveys a specific idea or functionality related to location, travel.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -13759,13 +13773,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData navigation_2_off =
-      IconData(0xe2a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [navigation_off] icon is a graphical symbol that conveys a specific idea or functionality related to location, travel.
-  /// - It belongs to the navigation, maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -13773,7 +13787,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData navigation_off =
-      IconData(0xe2a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [network] icon from the Lucide icon set.
   ///
@@ -13787,7 +13801,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData network =
-      IconData(0xe129, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe128, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [newspaper] icon from the Lucide icon set.
   ///
@@ -13801,13 +13815,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData newspaper =
-      IconData(0xe34c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nfc] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [nfc] icon is a graphical symbol that conveys a specific idea or functionality related to contactless, payment, near-field communication.
-  /// - It belongs to the communication, money, devices categories.
+  /// - It belongs to the communication, finance, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -13815,7 +13829,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData nfc =
-      IconData(0xe3c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook] icon from the Lucide icon set.
   ///
@@ -13829,7 +13843,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notebook =
-      IconData(0xe59a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe599, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_pen] icon from the Lucide icon set.
   ///
@@ -13843,13 +13857,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notebook_pen =
-      IconData(0xe59b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_tabs] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [notebook_tabs] icon is a graphical symbol that conveys a specific idea or functionality related to notepad, notes, people, family, friends, acquaintances, contacts, details, addresses, phone numbers, directory, listing, networking, alphabetical, a-z, organizer, organiser, planner, diary, stationery.
-  /// - It belongs to the account, connectivity, communication, social categories.
+  /// - It belongs to the account, communication, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -13857,7 +13871,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notebook_tabs =
-      IconData(0xe59c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_text] icon from the Lucide icon set.
   ///
@@ -13871,7 +13885,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notebook_text =
-      IconData(0xe59d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notepad_text] icon from the Lucide icon set.
   ///
@@ -13885,7 +13899,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notepad_text =
-      IconData(0xe59e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notepad_text_dashed] icon from the Lucide icon set.
   ///
@@ -13899,7 +13913,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData notepad_text_dashed =
-      IconData(0xe59f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe59e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nut] icon from the Lucide icon set.
   ///
@@ -13913,7 +13927,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData nut =
-      IconData(0xe39f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nut_off] icon from the Lucide icon set.
   ///
@@ -13927,7 +13941,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData nut_off =
-      IconData(0xe3a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe39f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon] icon from the Lucide icon set.
   ///
@@ -13941,7 +13955,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData octagon =
-      IconData(0xe12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe129, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_alert] icon from the Lucide icon set.
   ///
@@ -13955,7 +13969,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData octagon_alert =
-      IconData(0xe12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_minus] icon from the Lucide icon set.
   ///
@@ -13969,7 +13983,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData octagon_minus =
-      IconData(0xe62c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_pause] icon from the Lucide icon set.
   ///
@@ -13983,13 +13997,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData octagon_pause =
-      IconData(0xe21b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_x] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [octagon_x] icon is a graphical symbol that conveys a specific idea or functionality related to delete, stop, alert, warning, times, clear, maths.
-  /// - It belongs to the maths, shapes, notifications categories.
+  /// - The [octagon_x] icon is a graphical symbol that conveys a specific idea or functionality related to delete, stop, alert, warning, times, clear, math.
+  /// - It belongs to the math, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -13997,13 +14011,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData octagon_x =
-      IconData(0xe12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [omega] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [omega] icon is a graphical symbol that conveys a specific idea or functionality related to greek, symbol, mathematics, education, physics, engineering, ohms, electrical resistance, angular frequency, dynamical systems, astronomy, constellations, philosophy.
-  /// - It belongs to the maths, development, text, science categories.
+  /// - It belongs to the math, development, text, science categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -14011,7 +14025,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData omega =
-      IconData(0xe61e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe61d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [option] icon from the Lucide icon set.
   ///
@@ -14025,7 +14039,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData option =
-      IconData(0xe1f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [orbit] icon from the Lucide icon set.
   ///
@@ -14039,13 +14053,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData orbit =
-      IconData(0xe3eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [origami] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [origami] icon is a graphical symbol that conveys a specific idea or functionality related to paper, bird.
-  /// - It belongs to the animals, design, shapes categories.
+  /// - It belongs to the animals, design categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/gurtt](https://github.com/gurtt) have been instrumental in the development of this icon.
@@ -14053,7 +14067,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData origami =
-      IconData(0xe5e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package] icon from the Lucide icon set.
   ///
@@ -14067,7 +14081,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package =
-      IconData(0xe12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_2] icon from the Lucide icon set.
   ///
@@ -14081,7 +14095,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_2 =
-      IconData(0xe344, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe343, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_check] icon from the Lucide icon set.
   ///
@@ -14095,7 +14109,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_check =
-      IconData(0xe266, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe265, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_minus] icon from the Lucide icon set.
   ///
@@ -14109,7 +14123,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_minus =
-      IconData(0xe267, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe266, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_open] icon from the Lucide icon set.
   ///
@@ -14123,7 +14137,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_open =
-      IconData(0xe2cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_plus] icon from the Lucide icon set.
   ///
@@ -14137,7 +14151,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_plus =
-      IconData(0xe268, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe267, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_search] icon from the Lucide icon set.
   ///
@@ -14151,7 +14165,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_search =
-      IconData(0xe269, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe268, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_x] icon from the Lucide icon set.
   ///
@@ -14165,7 +14179,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData package_x =
-      IconData(0xe26a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe269, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paint_bucket] icon from the Lucide icon set.
   ///
@@ -14179,7 +14193,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paint_bucket =
-      IconData(0xe2e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paint_roller] icon from the Lucide icon set.
   ///
@@ -14193,7 +14207,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paint_roller =
-      IconData(0xe5a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paintbrush] icon from the Lucide icon set.
   ///
@@ -14207,7 +14221,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paintbrush =
-      IconData(0xe2e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paintbrush_vertical] icon from the Lucide icon set.
   ///
@@ -14221,7 +14235,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paintbrush_vertical =
-      IconData(0xe2e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [palette] icon from the Lucide icon set.
   ///
@@ -14235,7 +14249,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData palette =
-      IconData(0xe1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom] icon from the Lucide icon set.
   ///
@@ -14249,7 +14263,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_bottom =
-      IconData(0xe431, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe430, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_close] icon from the Lucide icon set.
   ///
@@ -14263,7 +14277,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_bottom_close =
-      IconData(0xe432, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe431, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_dashed] icon from the Lucide icon set.
   ///
@@ -14277,7 +14291,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_bottom_dashed =
-      IconData(0xe433, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe432, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_open] icon from the Lucide icon set.
   ///
@@ -14291,7 +14305,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_bottom_open =
-      IconData(0xe434, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe433, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left] icon from the Lucide icon set.
   ///
@@ -14305,7 +14319,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_left =
-      IconData(0xe12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_close] icon from the Lucide icon set.
   ///
@@ -14319,7 +14333,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_left_close =
-      IconData(0xe21c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_dashed] icon from the Lucide icon set.
   ///
@@ -14333,7 +14347,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_left_dashed =
-      IconData(0xe435, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe434, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_open] icon from the Lucide icon set.
   ///
@@ -14347,7 +14361,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_left_open =
-      IconData(0xe21d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right] icon from the Lucide icon set.
   ///
@@ -14361,7 +14375,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_right =
-      IconData(0xe436, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe435, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_close] icon from the Lucide icon set.
   ///
@@ -14375,7 +14389,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_right_close =
-      IconData(0xe437, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe436, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_dashed] icon from the Lucide icon set.
   ///
@@ -14389,7 +14403,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_right_dashed =
-      IconData(0xe438, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe437, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_open] icon from the Lucide icon set.
   ///
@@ -14403,7 +14417,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_right_open =
-      IconData(0xe439, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe438, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top] icon from the Lucide icon set.
   ///
@@ -14417,7 +14431,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_top =
-      IconData(0xe43a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe439, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_close] icon from the Lucide icon set.
   ///
@@ -14431,7 +14445,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_top_close =
-      IconData(0xe43b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_dashed] icon from the Lucide icon set.
   ///
@@ -14445,7 +14459,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_top_dashed =
-      IconData(0xe43c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_open] icon from the Lucide icon set.
   ///
@@ -14459,7 +14473,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panel_top_open =
-      IconData(0xe43d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_left_bottom] icon from the Lucide icon set.
   ///
@@ -14473,7 +14487,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panels_left_bottom =
-      IconData(0xe12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_right_bottom] icon from the Lucide icon set.
   ///
@@ -14487,13 +14501,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panels_right_bottom =
-      IconData(0xe58d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_top_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [panels_top_left] icon is a graphical symbol that conveys a specific idea or functionality related to menu bar, sidebar, primary, drawers, window, webpage, projects, overview.
-  /// - It belongs to the layout, design, development, charts categories.
+  /// - It belongs to the layout, design, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -14501,7 +14515,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData panels_top_left =
-      IconData(0xe130, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paperclip] icon from the Lucide icon set.
   ///
@@ -14510,18 +14524,18 @@ abstract final class LucideIcons {
   /// - It belongs to the text, design, files, mail categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paperclip =
-      IconData(0xe131, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe130, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [parentheses] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [parentheses] icon is a graphical symbol that conveys a specific idea or functionality related to code, token, parenthesis, parens, brackets, parameters, arguments, args, input, call, maths, formula, function, (, ).
-  /// - It belongs to the development, files, maths categories.
+  /// - The [parentheses] icon is a graphical symbol that conveys a specific idea or functionality related to code, token, parenthesis, parens, brackets, parameters, arguments, args, input, call, math, formula, function, (, ).
+  /// - It belongs to the development, files, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -14529,13 +14543,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData parentheses =
-      IconData(0xe449, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe448, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [parking_meter] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [parking_meter] icon is a graphical symbol that conveys a specific idea or functionality related to driving, car park, pay, sidewalk, pavement.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -14543,7 +14557,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData parking_meter =
-      IconData(0xe505, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe504, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [party_popper] icon from the Lucide icon set.
   ///
@@ -14557,7 +14571,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData party_popper =
-      IconData(0xe347, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe346, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pause] icon from the Lucide icon set.
   ///
@@ -14571,7 +14585,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pause =
-      IconData(0xe132, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe131, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paw_print] icon from the Lucide icon set.
   ///
@@ -14585,7 +14599,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData paw_print =
-      IconData(0xe4fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pc_case] icon from the Lucide icon set.
   ///
@@ -14599,7 +14613,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pc_case =
-      IconData(0xe44b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen] icon from the Lucide icon set.
   ///
@@ -14613,7 +14627,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pen =
-      IconData(0xe133, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe132, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_line] icon from the Lucide icon set.
   ///
@@ -14627,7 +14641,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pen_line =
-      IconData(0xe134, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe133, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_off] icon from the Lucide icon set.
   ///
@@ -14641,7 +14655,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pen_off =
-      IconData(0xe5f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_tool] icon from the Lucide icon set.
   ///
@@ -14655,7 +14669,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pen_tool =
-      IconData(0xe135, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe134, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil] icon from the Lucide icon set.
   ///
@@ -14669,7 +14683,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pencil =
-      IconData(0xe1f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_line] icon from the Lucide icon set.
   ///
@@ -14683,7 +14697,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pencil_line =
-      IconData(0xe4f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_off] icon from the Lucide icon set.
   ///
@@ -14697,7 +14711,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pencil_off =
-      IconData(0xe5f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_ruler] icon from the Lucide icon set.
   ///
@@ -14711,7 +14725,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pencil_ruler =
-      IconData(0xe4f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pentagon] icon from the Lucide icon set.
   ///
@@ -14725,13 +14739,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pentagon =
-      IconData(0xe530, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe52f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [percent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [percent] icon is a graphical symbol that conveys a specific idea or functionality related to percentage, modulo, modulus, remainder, %, sale, discount, offer, marketing.
-  /// - It belongs to the maths, development, money, shopping categories.
+  /// - It belongs to the math, development, finance, shopping categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -14739,7 +14753,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData percent =
-      IconData(0xe136, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe135, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [person_standing] icon from the Lucide icon set.
   ///
@@ -14753,13 +14767,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData person_standing =
-      IconData(0xe21e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [philippine_peso] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [philippine_peso] icon is a graphical symbol that conveys a specific idea or functionality related to currency, peso, money, php.
-  /// - It belongs to the currency categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/kasutu](https://github.com/kasutu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -14767,7 +14781,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData philippine_peso =
-      IconData(0xe609, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe608, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone] icon from the Lucide icon set.
   ///
@@ -14781,7 +14795,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone =
-      IconData(0xe137, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe136, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_call] icon from the Lucide icon set.
   ///
@@ -14795,7 +14809,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_call =
-      IconData(0xe138, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe137, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_forwarded] icon from the Lucide icon set.
   ///
@@ -14809,7 +14823,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_forwarded =
-      IconData(0xe139, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe138, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_incoming] icon from the Lucide icon set.
   ///
@@ -14823,7 +14837,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_incoming =
-      IconData(0xe13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe139, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_missed] icon from the Lucide icon set.
   ///
@@ -14837,7 +14851,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_missed =
-      IconData(0xe13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_off] icon from the Lucide icon set.
   ///
@@ -14851,7 +14865,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_off =
-      IconData(0xe13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_outgoing] icon from the Lucide icon set.
   ///
@@ -14865,13 +14879,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData phone_outgoing =
-      IconData(0xe13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pi] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pi] icon is a graphical symbol that conveys a specific idea or functionality related to constant, code, coding, programming, symbol, trigonometry, geometry, formula.
-  /// - It belongs to the development, maths, shapes categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -14879,7 +14893,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pi =
-      IconData(0xe477, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe476, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [piano] icon from the Lucide icon set.
   ///
@@ -14893,13 +14907,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData piano =
-      IconData(0xe566, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe565, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pickaxe] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pickaxe] icon is a graphical symbol that conveys a specific idea or functionality related to mining, mine, land worker, extraction, labor, construction, progress, advancement, crafting, building, creation.
-  /// - It belongs to the tools, maps, gaming categories.
+  /// - It belongs to the tools, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -14907,7 +14921,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pickaxe =
-      IconData(0xe5cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [picture_in_picture] icon from the Lucide icon set.
   ///
@@ -14916,12 +14930,12 @@ abstract final class LucideIcons {
   /// - It belongs to the multimedia categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData picture_in_picture =
-      IconData(0xe3b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [picture_in_picture_2] icon from the Lucide icon set.
   ///
@@ -14935,13 +14949,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData picture_in_picture_2 =
-      IconData(0xe3b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [piggy_bank] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [piggy_bank] icon is a graphical symbol that conveys a specific idea or functionality related to money, savings.
-  /// - It belongs to the money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -14949,7 +14963,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData piggy_bank =
-      IconData(0xe13e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow] icon from the Lucide icon set.
   ///
@@ -14963,7 +14977,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pilcrow =
-      IconData(0xe3a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow_left] icon from the Lucide icon set.
   ///
@@ -14977,7 +14991,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pilcrow_left =
-      IconData(0xe5e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow_right] icon from the Lucide icon set.
   ///
@@ -14991,7 +15005,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pilcrow_right =
-      IconData(0xe5e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pill] icon from the Lucide icon set.
   ///
@@ -15005,7 +15019,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pill =
-      IconData(0xe3c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pill_bottle] icon from the Lucide icon set.
   ///
@@ -15019,13 +15033,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pill_bottle =
-      IconData(0xe5ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pin] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pin] icon is a graphical symbol that conveys a specific idea or functionality related to save, map, lock, fix.
-  /// - It belongs to the maps, account categories.
+  /// - It belongs to the navigation, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -15033,13 +15047,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pin =
-      IconData(0xe259, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe258, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pin_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pin_off] icon is a graphical symbol that conveys a specific idea or functionality related to unpin, map, unlock, unfix, unsave, remove.
-  /// - It belongs to the maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15047,7 +15061,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pin_off =
-      IconData(0xe2b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pipette] icon from the Lucide icon set.
   ///
@@ -15061,7 +15075,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pipette =
-      IconData(0xe13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pizza] icon from the Lucide icon set.
   ///
@@ -15075,7 +15089,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pizza =
-      IconData(0xe358, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe357, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane] icon from the Lucide icon set.
   ///
@@ -15089,7 +15103,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plane =
-      IconData(0xe1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane_landing] icon from the Lucide icon set.
   ///
@@ -15103,7 +15117,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plane_landing =
-      IconData(0xe3d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane_takeoff] icon from the Lucide icon set.
   ///
@@ -15117,7 +15131,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plane_takeoff =
-      IconData(0xe3d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [play] icon from the Lucide icon set.
   ///
@@ -15131,7 +15145,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData play =
-      IconData(0xe140, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug] icon from the Lucide icon set.
   ///
@@ -15145,7 +15159,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plug =
-      IconData(0xe383, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe382, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug_2] icon from the Lucide icon set.
   ///
@@ -15159,7 +15173,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plug_2 =
-      IconData(0xe384, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe383, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug_zap] icon from the Lucide icon set.
   ///
@@ -15173,13 +15187,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plug_zap =
-      IconData(0xe461, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe460, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [plus] icon is a graphical symbol that conveys a specific idea or functionality related to add, new, increase, increment, positive, calculate, toolbar, crosshair, aim, target, scope, sight, reticule, maximum, upgrade, extra, +.
-  /// - It belongs to the maths, tools, development, text, cursors, gaming categories.
+  /// - It belongs to the math, tools, development, text, cursors, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15187,13 +15201,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData plus =
-      IconData(0xe141, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe140, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pocket] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pocket] icon is a graphical symbol that conveys a specific idea or functionality related to logo, save.
-  /// - It belongs to the brands, development categories.
+  /// - It belongs to the brands categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15201,7 +15215,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pocket =
-      IconData(0xe142, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe141, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pocket_knife] icon from the Lucide icon set.
   ///
@@ -15215,7 +15229,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pocket_knife =
-      IconData(0xe4a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [podcast] icon from the Lucide icon set.
   ///
@@ -15229,7 +15243,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData podcast =
-      IconData(0xe1fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pointer] icon from the Lucide icon set.
   ///
@@ -15243,7 +15257,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pointer =
-      IconData(0xe1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pointer_off] icon from the Lucide icon set.
   ///
@@ -15257,7 +15271,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pointer_off =
-      IconData(0xe584, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe583, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [popcorn] icon from the Lucide icon set.
   ///
@@ -15271,7 +15285,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData popcorn =
-      IconData(0xe4c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [popsicle] icon from the Lucide icon set.
   ///
@@ -15285,13 +15299,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData popsicle =
-      IconData(0xe4c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pound_sterling] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -15299,7 +15313,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pound_sterling =
-      IconData(0xe143, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe142, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [power] icon from the Lucide icon set.
   ///
@@ -15313,7 +15327,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData power =
-      IconData(0xe144, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe143, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [power_off] icon from the Lucide icon set.
   ///
@@ -15327,7 +15341,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData power_off =
-      IconData(0xe209, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe208, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [presentation] icon from the Lucide icon set.
   ///
@@ -15341,13 +15355,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData presentation =
-      IconData(0xe4b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [printer] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [printer] icon is a graphical symbol that conveys a specific idea or functionality related to fax, office, device.
-  /// - It belongs to the devices, account categories.
+  /// - It belongs to the devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15355,13 +15369,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData printer =
-      IconData(0xe145, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe144, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [printer_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [printer_check] icon is a graphical symbol that conveys a specific idea or functionality related to fax, office, device, success, printed.
-  /// - It belongs to the devices, account categories.
+  /// - It belongs to the devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -15369,7 +15383,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData printer_check =
-      IconData(0xe5fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [projector] icon from the Lucide icon set.
   ///
@@ -15383,7 +15397,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData projector =
-      IconData(0xe4b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [proportions] icon from the Lucide icon set.
   ///
@@ -15397,7 +15411,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData proportions =
-      IconData(0xe5d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [puzzle] icon from the Lucide icon set.
   ///
@@ -15411,13 +15425,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData puzzle =
-      IconData(0xe29c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pyramid] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [pyramid] icon is a graphical symbol that conveys a specific idea or functionality related to prism, triangle, triangular, hierarchy, structure, geometry, ancient, egyptian, landmark, tourism.
-  /// - It belongs to the shapes, maths, travel categories.
+  /// - It belongs to the shapes, math, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -15425,7 +15439,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData pyramid =
-      IconData(0xe531, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe530, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [qr_code] icon from the Lucide icon set.
   ///
@@ -15439,7 +15453,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData qr_code =
-      IconData(0xe1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [quote] icon from the Lucide icon set.
   ///
@@ -15453,7 +15467,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData quote =
-      IconData(0xe239, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe238, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rabbit] icon from the Lucide icon set.
   ///
@@ -15467,13 +15481,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rabbit =
-      IconData(0xe4fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radar] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [radar] icon is a graphical symbol that conveys a specific idea or functionality related to scan, sonar, detect, find, locate.
-  /// - It belongs to the navigation, maps, security, communication categories.
+  /// - It belongs to the navigation, security, communication categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -15481,7 +15495,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radar =
-      IconData(0xe49c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radiation] icon from the Lucide icon set.
   ///
@@ -15495,13 +15509,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radiation =
-      IconData(0xe447, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe446, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radical] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [radical] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, formula, maths, operator, root, square, symbol.
-  /// - It belongs to the development, maths categories.
+  /// - The [radical] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, formula, math, operator, root, square, symbol.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/smnandre](https://github.com/smnandre), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -15509,7 +15523,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radical =
-      IconData(0xe5c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio] icon from the Lucide icon set.
   ///
@@ -15523,7 +15537,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radio =
-      IconData(0xe146, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe145, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio_receiver] icon from the Lucide icon set.
   ///
@@ -15537,7 +15551,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radio_receiver =
-      IconData(0xe1fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio_tower] icon from the Lucide icon set.
   ///
@@ -15551,13 +15565,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radio_tower =
-      IconData(0xe409, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe408, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radius] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [radius] icon is a graphical symbol that conveys a specific idea or functionality related to shape, circle, geometry, trigonometry, radii, calculate, measure, size.
-  /// - It belongs to the shapes, maths, design, tools categories.
+  /// - It belongs to the shapes, math, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -15565,13 +15579,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData radius =
-      IconData(0xe532, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe531, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rail_symbol] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [rail_symbol] icon is a graphical symbol that conveys a specific idea or functionality related to railway, train, track, line.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15579,7 +15593,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rail_symbol =
-      IconData(0xe506, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe505, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rainbow] icon from the Lucide icon set.
   ///
@@ -15593,7 +15607,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rainbow =
-      IconData(0xe4c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rat] icon from the Lucide icon set.
   ///
@@ -15607,13 +15621,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rat =
-      IconData(0xe3f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ratio] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ratio] icon is a graphical symbol that conveys a specific idea or functionality related to screens, sizes, rotate, rotation, adjust, aspect ratio, proportions, 16:9, widescreen, 4:3, resolution, responsive, mobile, desktop, dimensions, monitor, orientation, portrait, landscape.
-  /// - It belongs to the layout, design, photography, devices, connectivity categories.
+  /// - It belongs to the layout, design, photography categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15621,13 +15635,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ratio =
-      IconData(0xe4ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [receipt] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, dollar, usd, $.
-  /// - It belongs to the money, currency, travel categories.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15635,13 +15649,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt =
-      IconData(0xe3d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_cent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [receipt_cent] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, cents, dollar, usd, $, ¢.
-  /// - It belongs to the money, currency, travel categories.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15649,13 +15663,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_cent =
-      IconData(0xe5aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_euro] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [receipt_euro] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, €.
-  /// - It belongs to the money, currency, travel categories.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15663,13 +15677,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_euro =
-      IconData(0xe5ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_indian_rupee] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [receipt_indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, inr, ₹.
-  /// - It belongs to the money, currency, travel categories.
+  /// - The [receipt_indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, inr, ₹.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15677,13 +15691,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_indian_rupee =
-      IconData(0xe5ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_japanese_yen] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [receipt_japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, jpy, ¥.
-  /// - It belongs to the money, currency, travel categories.
+  /// - The [receipt_japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, jpy, ¥.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15691,13 +15705,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_japanese_yen =
-      IconData(0xe5ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_pound_sterling] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [receipt_pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, british, gbp, £.
-  /// - It belongs to the money, currency, travel categories.
+  /// - The [receipt_pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, british, currency, gbp, £.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15705,13 +15719,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_pound_sterling =
-      IconData(0xe5ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_russian_ruble] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [receipt_russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, rub, ₽.
-  /// - It belongs to the money, currency, travel categories.
+  /// - The [receipt_russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, rub, ₽.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15719,13 +15733,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_russian_ruble =
-      IconData(0xe5af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_swiss_franc] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [receipt_swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, chf, ₣.
-  /// - It belongs to the money, currency, travel categories.
+  /// - The [receipt_swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, chf, ₣.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15733,13 +15747,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_swiss_franc =
-      IconData(0xe5b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_text] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [receipt_text] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, details, small print, terms, conditions, contract.
-  /// - It belongs to the money, travel categories.
+  /// - It belongs to the finance, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15747,13 +15761,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData receipt_text =
-      IconData(0xe5b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_ellipsis] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [rectangle_ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ....
-  /// - It belongs to the text, development, shapes categories.
+  /// - It belongs to the text, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -15761,7 +15775,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rectangle_ellipsis =
-      IconData(0xe21f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_horizontal] icon from the Lucide icon set.
   ///
@@ -15775,7 +15789,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rectangle_horizontal =
-      IconData(0xe37a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe379, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_vertical] icon from the Lucide icon set.
   ///
@@ -15789,7 +15803,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rectangle_vertical =
-      IconData(0xe37b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [recycle] icon from the Lucide icon set.
   ///
@@ -15803,7 +15817,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData recycle =
-      IconData(0xe2e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo] icon from the Lucide icon set.
   ///
@@ -15817,7 +15831,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData redo =
-      IconData(0xe147, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe146, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo_2] icon from the Lucide icon set.
   ///
@@ -15831,7 +15845,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData redo_2 =
-      IconData(0xe2a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo_dot] icon from the Lucide icon set.
   ///
@@ -15845,7 +15859,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData redo_dot =
-      IconData(0xe455, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe454, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_ccw] icon from the Lucide icon set.
   ///
@@ -15859,13 +15873,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData refresh_ccw =
-      IconData(0xe148, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe147, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_ccw_dot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [refresh_ccw_dot] icon is a graphical symbol that conveys a specific idea or functionality related to arrows, rotate, reload, synchronise, synchronize, circular, cycle, issue, code, coding, version control.
-  /// - It belongs to the arrows, development, shapes categories.
+  /// - It belongs to the arrows, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -15873,7 +15887,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData refresh_ccw_dot =
-      IconData(0xe4b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_cw] icon from the Lucide icon set.
   ///
@@ -15887,7 +15901,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData refresh_cw =
-      IconData(0xe149, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe148, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_cw_off] icon from the Lucide icon set.
   ///
@@ -15901,7 +15915,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData refresh_cw_off =
-      IconData(0xe49d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refrigerator] icon from the Lucide icon set.
   ///
@@ -15915,7 +15929,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData refrigerator =
-      IconData(0xe37f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [regex] icon from the Lucide icon set.
   ///
@@ -15929,7 +15943,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData regex =
-      IconData(0xe1fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [remove_formatting] icon from the Lucide icon set.
   ///
@@ -15943,7 +15957,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData remove_formatting =
-      IconData(0xe3b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat] icon from the Lucide icon set.
   ///
@@ -15957,7 +15971,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData repeat =
-      IconData(0xe14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe149, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat_1] icon from the Lucide icon set.
   ///
@@ -15971,7 +15985,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData repeat_1 =
-      IconData(0xe1fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat_2] icon from the Lucide icon set.
   ///
@@ -15985,7 +15999,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData repeat_2 =
-      IconData(0xe416, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe415, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [replace] icon from the Lucide icon set.
   ///
@@ -15999,7 +16013,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData replace =
-      IconData(0xe3df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [replace_all] icon from the Lucide icon set.
   ///
@@ -16013,7 +16027,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData replace_all =
-      IconData(0xe3e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [reply] icon from the Lucide icon set.
   ///
@@ -16027,7 +16041,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData reply =
-      IconData(0xe22a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe229, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [reply_all] icon from the Lucide icon set.
   ///
@@ -16041,7 +16055,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData reply_all =
-      IconData(0xe22b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rewind] icon from the Lucide icon set.
   ///
@@ -16055,7 +16069,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rewind =
-      IconData(0xe14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ribbon] icon from the Lucide icon set.
   ///
@@ -16069,7 +16083,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ribbon =
-      IconData(0xe55d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rocket] icon from the Lucide icon set.
   ///
@@ -16083,13 +16097,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rocket =
-      IconData(0xe286, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe285, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rocking_chair] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [rocking_chair] icon is a graphical symbol that conveys a specific idea or functionality related to chair, furniture, seat.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -16097,13 +16111,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rocking_chair =
-      IconData(0xe233, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe232, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [roller_coaster] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [roller_coaster] icon is a graphical symbol that conveys a specific idea or functionality related to attraction, entertainment, amusement park, theme park, funfair.
-  /// - It belongs to the maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -16111,7 +16125,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData roller_coaster =
-      IconData(0xe485, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe484, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_3d] icon from the Lucide icon set.
   ///
@@ -16125,7 +16139,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rotate_3d =
-      IconData(0xe2ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_ccw] icon from the Lucide icon set.
   ///
@@ -16139,13 +16153,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rotate_ccw =
-      IconData(0xe14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_ccw_square] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [rotate_ccw_square] icon is a graphical symbol that conveys a specific idea or functionality related to left, counter-clockwise, rotate, image, 90, 45, degrees, °.
-  /// - It belongs to the layout, design, photography, tools, shapes, arrows categories.
+  /// - It belongs to the layout, design, photography, tools, arrows categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16153,7 +16167,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rotate_ccw_square =
-      IconData(0xe5d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_cw] icon from the Lucide icon set.
   ///
@@ -16167,13 +16181,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rotate_cw =
-      IconData(0xe14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_cw_square] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [rotate_cw_square] icon is a graphical symbol that conveys a specific idea or functionality related to right, clockwise, rotate, image, 90, 45, degrees, °.
-  /// - It belongs to the layout, design, photography, tools, shapes, arrows categories.
+  /// - It belongs to the layout, design, photography, tools, arrows categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16181,13 +16195,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rotate_cw_square =
-      IconData(0xe5d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [route] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [route] icon is a graphical symbol that conveys a specific idea or functionality related to path, journey, planner, points, stops, stations.
-  /// - It belongs to the maps, navigation categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16195,13 +16209,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData route =
-      IconData(0xe543, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe542, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [route_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [route_off] icon is a graphical symbol that conveys a specific idea or functionality related to path, journey, planner, points, stops, stations, reset, clear, cancelled, closed, blocked.
-  /// - It belongs to the maps, navigation categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16209,7 +16223,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData route_off =
-      IconData(0xe544, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe543, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [router] icon from the Lucide icon set.
   ///
@@ -16223,7 +16237,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData router =
-      IconData(0xe3c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_2] icon from the Lucide icon set.
   ///
@@ -16237,7 +16251,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rows_2 =
-      IconData(0xe43e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe43d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_3] icon from the Lucide icon set.
   ///
@@ -16251,7 +16265,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rows_3 =
-      IconData(0xe58f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_4] icon from the Lucide icon set.
   ///
@@ -16265,7 +16279,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rows_4 =
-      IconData(0xe590, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe58f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rss] icon from the Lucide icon set.
   ///
@@ -16279,7 +16293,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData rss =
-      IconData(0xe14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ruler] icon from the Lucide icon set.
   ///
@@ -16293,13 +16307,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ruler =
-      IconData(0xe14f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [russian_ruble] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -16307,7 +16321,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData russian_ruble =
-      IconData(0xe150, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe14f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sailboat] icon from the Lucide icon set.
   ///
@@ -16321,7 +16335,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sailboat =
-      IconData(0xe382, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe381, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [salad] icon from the Lucide icon set.
   ///
@@ -16335,7 +16349,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData salad =
-      IconData(0xe3ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sandwich] icon from the Lucide icon set.
   ///
@@ -16349,7 +16363,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sandwich =
-      IconData(0xe3ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [satellite] icon from the Lucide icon set.
   ///
@@ -16363,7 +16377,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData satellite =
-      IconData(0xe44c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [satellite_dish] icon from the Lucide icon set.
   ///
@@ -16377,7 +16391,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData satellite_dish =
-      IconData(0xe44d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save] icon from the Lucide icon set.
   ///
@@ -16391,7 +16405,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData save =
-      IconData(0xe151, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe150, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save_all] icon from the Lucide icon set.
   ///
@@ -16405,7 +16419,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData save_all =
-      IconData(0xe414, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe413, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save_off] icon from the Lucide icon set.
   ///
@@ -16419,13 +16433,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData save_off =
-      IconData(0xe5f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scale] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [scale] icon is a graphical symbol that conveys a specific idea or functionality related to balance, legal, license, right, rule, law.
-  /// - It belongs to the maps categories.
+  /// - It belongs to the navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -16433,7 +16447,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scale =
-      IconData(0xe212, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe211, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scale_3d] icon from the Lucide icon set.
   ///
@@ -16447,7 +16461,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scale_3d =
-      IconData(0xe2eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scaling] icon from the Lucide icon set.
   ///
@@ -16461,7 +16475,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scaling =
-      IconData(0xe2ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan] icon from the Lucide icon set.
   ///
@@ -16475,7 +16489,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan =
-      IconData(0xe257, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe256, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_barcode] icon from the Lucide icon set.
   ///
@@ -16489,13 +16503,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_barcode =
-      IconData(0xe53a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe539, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_eye] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [scan_eye] icon is a graphical symbol that conveys a specific idea or functionality related to preview, zoom, expand, fullscreen, gallery, image, camera, watch, surveillance, retina, focus, lens, biometric, identification, authentication, access, login.
-  /// - It belongs to the photography, multimedia, layout, accessibility, security, devices, account categories.
+  /// - It belongs to the photography, multimedia, accessibility, security, devices, account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16503,7 +16517,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_eye =
-      IconData(0xe53b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_face] icon from the Lucide icon set.
   ///
@@ -16517,7 +16531,21 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_face =
-      IconData(0xe375, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe374, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [scan_heart] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [scan_heart] icon is a graphical symbol that conveys a specific idea or functionality related to health, heart rate, pulse, monitoring, healthiness, screening, dashed.
+  /// - It belongs to the medical categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData scan_heart =
+      IconData(0xe63e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_line] icon from the Lucide icon set.
   ///
@@ -16531,7 +16559,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_line =
-      IconData(0xe258, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe257, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_qr_code] icon from the Lucide icon set.
   ///
@@ -16545,13 +16573,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_qr_code =
-      IconData(0xe5fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_search] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [scan_search] icon is a graphical symbol that conveys a specific idea or functionality related to preview, zoom, expand, fullscreen, gallery, image, focus, lens.
-  /// - It belongs to the photography, multimedia, layout, accessibility categories.
+  /// - It belongs to the photography, multimedia, accessibility categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16559,7 +16587,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_search =
-      IconData(0xe53c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_text] icon from the Lucide icon set.
   ///
@@ -16573,13 +16601,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scan_text =
-      IconData(0xe53d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [school] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [school] icon is a graphical symbol that conveys a specific idea or functionality related to building, education, childhood, university, learning, campus, scholar, student, lecture, degree, course, academia, study, knowledge, classroom, research, diploma, graduation, professor, tutorial, homework, assignment, exam.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -16587,7 +16615,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData school =
-      IconData(0xe3e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scissors] icon from the Lucide icon set.
   ///
@@ -16601,7 +16629,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scissors =
-      IconData(0xe152, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe151, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scissors_line_dashed] icon from the Lucide icon set.
   ///
@@ -16615,7 +16643,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scissors_line_dashed =
-      IconData(0xe4ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [screen_share] icon from the Lucide icon set.
   ///
@@ -16629,7 +16657,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData screen_share =
-      IconData(0xe153, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe152, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [screen_share_off] icon from the Lucide icon set.
   ///
@@ -16643,7 +16671,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData screen_share_off =
-      IconData(0xe154, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe153, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scroll] icon from the Lucide icon set.
   ///
@@ -16657,7 +16685,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scroll =
-      IconData(0xe2ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scroll_text] icon from the Lucide icon set.
   ///
@@ -16671,13 +16699,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData scroll_text =
-      IconData(0xe464, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe463, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [search] icon is a graphical symbol that conveys a specific idea or functionality related to find, scan, magnifier, magnifying glass.
-  /// - It belongs to the text, account, social categories.
+  /// - It belongs to the text, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -16685,13 +16713,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData search =
-      IconData(0xe155, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe154, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [search_check] icon is a graphical symbol that conveys a specific idea or functionality related to find, scan, magnifier, magnifying glass, found, correct, complete, tick.
-  /// - It belongs to the text, account, social categories.
+  /// - It belongs to the text, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16699,13 +16727,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData search_check =
-      IconData(0xe4af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_code] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [search_code] icon is a graphical symbol that conveys a specific idea or functionality related to find, scan, magnifier, magnifying glass, grep, chevrons, <>.
-  /// - It belongs to the text, account, social, development categories.
+  /// - It belongs to the text, social, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -16713,13 +16741,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData search_code =
-      IconData(0xe4b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [search_slash] icon is a graphical symbol that conveys a specific idea or functionality related to find, scan, magnifier, magnifying glass, stop, clear, cancel, abort, /.
-  /// - It belongs to the text, account, social categories.
+  /// - It belongs to the text, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16727,13 +16755,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData search_slash =
-      IconData(0xe4b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [search_x] icon is a graphical symbol that conveys a specific idea or functionality related to find, scan, magnifier, magnifying glass, stop, clear, cancel, abort.
-  /// - It belongs to the text, account, social categories.
+  /// - It belongs to the text, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -16741,7 +16769,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData search_x =
-      IconData(0xe4b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [section] icon from the Lucide icon set.
   ///
@@ -16755,7 +16783,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData section =
-      IconData(0xe5ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send] icon from the Lucide icon set.
   ///
@@ -16769,7 +16797,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData send =
-      IconData(0xe156, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe155, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send_horizontal] icon from the Lucide icon set.
   ///
@@ -16783,7 +16811,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData send_horizontal =
-      IconData(0xe4f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send_to_back] icon from the Lucide icon set.
   ///
@@ -16797,7 +16825,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData send_to_back =
-      IconData(0xe4f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [separator_horizontal] icon from the Lucide icon set.
   ///
@@ -16811,7 +16839,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData separator_horizontal =
-      IconData(0xe1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [separator_vertical] icon from the Lucide icon set.
   ///
@@ -16825,7 +16853,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData separator_vertical =
-      IconData(0xe1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server] icon from the Lucide icon set.
   ///
@@ -16839,7 +16867,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData server =
-      IconData(0xe157, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe156, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_cog] icon from the Lucide icon set.
   ///
@@ -16853,7 +16881,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData server_cog =
-      IconData(0xe345, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe344, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_crash] icon from the Lucide icon set.
   ///
@@ -16867,7 +16895,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData server_crash =
-      IconData(0xe1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_off] icon from the Lucide icon set.
   ///
@@ -16881,7 +16909,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData server_off =
-      IconData(0xe1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [settings] icon from the Lucide icon set.
   ///
@@ -16895,7 +16923,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData settings =
-      IconData(0xe158, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe157, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [settings_2] icon from the Lucide icon set.
   ///
@@ -16909,7 +16937,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData settings_2 =
-      IconData(0xe245, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe244, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shapes] icon from the Lucide icon set.
   ///
@@ -16923,7 +16951,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shapes =
-      IconData(0xe4b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [share] icon from the Lucide icon set.
   ///
@@ -16937,7 +16965,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData share =
-      IconData(0xe159, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe158, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [share_2] icon from the Lucide icon set.
   ///
@@ -16951,7 +16979,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData share_2 =
-      IconData(0xe15a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe159, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sheet] icon from the Lucide icon set.
   ///
@@ -16965,7 +16993,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sheet =
-      IconData(0xe15b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shell] icon from the Lucide icon set.
   ///
@@ -16979,7 +17007,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shell =
-      IconData(0xe4fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield] icon from the Lucide icon set.
   ///
@@ -16993,7 +17021,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield =
-      IconData(0xe15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_alert] icon from the Lucide icon set.
   ///
@@ -17007,7 +17035,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_alert =
-      IconData(0xe1fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_ban] icon from the Lucide icon set.
   ///
@@ -17021,7 +17049,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_ban =
-      IconData(0xe15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_check] icon from the Lucide icon set.
   ///
@@ -17035,7 +17063,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_check =
-      IconData(0xe1ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_ellipsis] icon from the Lucide icon set.
   ///
@@ -17049,7 +17077,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_ellipsis =
-      IconData(0xe51b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_half] icon from the Lucide icon set.
   ///
@@ -17063,7 +17091,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_half =
-      IconData(0xe51c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_minus] icon from the Lucide icon set.
   ///
@@ -17077,7 +17105,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_minus =
-      IconData(0xe51d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_off] icon from the Lucide icon set.
   ///
@@ -17091,7 +17119,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_off =
-      IconData(0xe15e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_plus] icon from the Lucide icon set.
   ///
@@ -17105,7 +17133,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_plus =
-      IconData(0xe51e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe51d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_question] icon from the Lucide icon set.
   ///
@@ -17119,7 +17147,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_question =
-      IconData(0xe413, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe412, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_x] icon from the Lucide icon set.
   ///
@@ -17133,13 +17161,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shield_x =
-      IconData(0xe200, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ship] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ship] icon is a graphical symbol that conveys a specific idea or functionality related to boat, knots, nautical mile, maritime, sailing, yacht, cruise, ocean liner, tanker, vessel, navy, trip.
-  /// - It belongs to the transportation, travel, maps categories.
+  /// - It belongs to the transportation, navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -17147,13 +17175,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ship =
-      IconData(0xe3be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ship_wheel] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ship_wheel] icon is a graphical symbol that conveys a specific idea or functionality related to steering, rudder, boat, knots, nautical mile, maritime, sailing, yacht, cruise, ocean liner, tanker, vessel, navy, trip.
-  /// - It belongs to the transportation, travel, maps categories.
+  /// - It belongs to the transportation, navigation, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -17161,7 +17189,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ship_wheel =
-      IconData(0xe507, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe506, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shirt] icon from the Lucide icon set.
   ///
@@ -17175,7 +17203,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shirt =
-      IconData(0xe1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_bag] icon from the Lucide icon set.
   ///
@@ -17189,7 +17217,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shopping_bag =
-      IconData(0xe15f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_basket] icon from the Lucide icon set.
   ///
@@ -17203,7 +17231,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shopping_basket =
-      IconData(0xe4ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_cart] icon from the Lucide icon set.
   ///
@@ -17217,7 +17245,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shopping_cart =
-      IconData(0xe160, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe15f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shovel] icon from the Lucide icon set.
   ///
@@ -17231,7 +17259,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shovel =
-      IconData(0xe161, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe160, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shower_head] icon from the Lucide icon set.
   ///
@@ -17245,7 +17273,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shower_head =
-      IconData(0xe380, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe37f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shrink] icon from the Lucide icon set.
   ///
@@ -17259,7 +17287,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shrink =
-      IconData(0xe220, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe21f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shrub] icon from the Lucide icon set.
   ///
@@ -17273,7 +17301,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shrub =
-      IconData(0xe2ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shuffle] icon from the Lucide icon set.
   ///
@@ -17287,13 +17315,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData shuffle =
-      IconData(0xe162, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe161, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sigma] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, maths, enumeration, enumerate.
-  /// - It belongs to the text, maths, science categories.
+  /// - The [sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, math, enumeration, enumerate.
+  /// - It belongs to the text, math, science categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17301,7 +17329,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sigma =
-      IconData(0xe201, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe200, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal] icon from the Lucide icon set.
   ///
@@ -17315,7 +17343,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signal =
-      IconData(0xe25f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_high] icon from the Lucide icon set.
   ///
@@ -17329,7 +17357,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signal_high =
-      IconData(0xe260, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_low] icon from the Lucide icon set.
   ///
@@ -17343,7 +17371,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signal_low =
-      IconData(0xe261, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe260, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_medium] icon from the Lucide icon set.
   ///
@@ -17357,7 +17385,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signal_medium =
-      IconData(0xe262, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe261, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_zero] icon from the Lucide icon set.
   ///
@@ -17371,13 +17399,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signal_zero =
-      IconData(0xe263, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe262, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signature] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [signature] icon is a graphical symbol that conveys a specific idea or functionality related to text, format, input, contract, autograph, handwriting, sign, cursive, ink, scribble, authorize, personal, agreement, legal, document, identity, authentic, approval, verification, unique.
-  /// - It belongs to the text, layout categories.
+  /// - It belongs to the text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/AndreasSas](https://github.com/AndreasSas), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -17385,7 +17413,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signature =
-      IconData(0xe5f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signpost] icon from the Lucide icon set.
   ///
@@ -17399,7 +17427,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signpost =
-      IconData(0xe545, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe544, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signpost_big] icon from the Lucide icon set.
   ///
@@ -17413,7 +17441,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData signpost_big =
-      IconData(0xe546, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe545, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [siren] icon from the Lucide icon set.
   ///
@@ -17427,7 +17455,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData siren =
-      IconData(0xe2ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skip_back] icon from the Lucide icon set.
   ///
@@ -17441,7 +17469,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData skip_back =
-      IconData(0xe163, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe162, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skip_forward] icon from the Lucide icon set.
   ///
@@ -17455,7 +17483,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData skip_forward =
-      IconData(0xe164, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe163, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skull] icon from the Lucide icon set.
   ///
@@ -17469,13 +17497,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData skull =
-      IconData(0xe221, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe220, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [slack] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [slack] icon is a graphical symbol that conveys a specific idea or functionality related to logo.
-  /// - It belongs to the account, social, communication, brands, development categories.
+  /// - It belongs to the account, social, brands, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ashygee](https://github.com/ashygee), [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17483,13 +17511,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData slack =
-      IconData(0xe165, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe164, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [slash] icon is a graphical symbol that conveys a specific idea or functionality related to divide, division, or, /.
-  /// - It belongs to the development, maths categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -17497,7 +17525,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData slash =
-      IconData(0xe522, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe521, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [slice] icon from the Lucide icon set.
   ///
@@ -17511,7 +17539,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData slice =
-      IconData(0xe2f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sliders_horizontal] icon from the Lucide icon set.
   ///
@@ -17525,7 +17553,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sliders_horizontal =
-      IconData(0xe29a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe299, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sliders_vertical] icon from the Lucide icon set.
   ///
@@ -17539,7 +17567,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sliders_vertical =
-      IconData(0xe166, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe165, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone] icon from the Lucide icon set.
   ///
@@ -17553,7 +17581,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData smartphone =
-      IconData(0xe167, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe166, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone_charging] icon from the Lucide icon set.
   ///
@@ -17567,13 +17595,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData smartphone_charging =
-      IconData(0xe22e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone_nfc] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [smartphone_nfc] icon is a graphical symbol that conveys a specific idea or functionality related to contactless, payment, near-field communication, screen.
-  /// - It belongs to the communication, money, devices categories.
+  /// - It belongs to the communication, finance, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17581,7 +17609,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData smartphone_nfc =
-      IconData(0xe3c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smile] icon from the Lucide icon set.
   ///
@@ -17595,7 +17623,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData smile =
-      IconData(0xe168, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe167, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smile_plus] icon from the Lucide icon set.
   ///
@@ -17609,7 +17637,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData smile_plus =
-      IconData(0xe301, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe300, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [snail] icon from the Lucide icon set.
   ///
@@ -17623,7 +17651,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData snail =
-      IconData(0xe4fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [snowflake] icon from the Lucide icon set.
   ///
@@ -17637,13 +17665,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData snowflake =
-      IconData(0xe169, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe168, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sofa] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [sofa] icon is a graphical symbol that conveys a specific idea or functionality related to armchair, furniture, leisure, lounge, loveseat, couch.
-  /// - It belongs to the furniture categories.
+  /// - It belongs to the home categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -17651,7 +17679,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sofa =
-      IconData(0xe2c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [soup] icon from the Lucide icon set.
   ///
@@ -17665,7 +17693,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData soup =
-      IconData(0xe3ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [space] icon from the Lucide icon set.
   ///
@@ -17679,7 +17707,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData space =
-      IconData(0xe3e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spade] icon from the Lucide icon set.
   ///
@@ -17693,7 +17721,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData spade =
-      IconData(0xe49e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sparkle] icon from the Lucide icon set.
   ///
@@ -17707,13 +17735,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sparkle =
-      IconData(0xe483, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe482, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sparkles] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to stars, effect, filter, night, magic.
-  /// - It belongs to the shapes, cursors, multimedia, gaming, weather categories.
+  /// - It belongs to the cursors, multimedia, gaming, weather categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -17721,7 +17749,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sparkles =
-      IconData(0xe417, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe416, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [speaker] icon from the Lucide icon set.
   ///
@@ -17735,7 +17763,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData speaker =
-      IconData(0xe16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe169, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [speech] icon from the Lucide icon set.
   ///
@@ -17749,7 +17777,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData speech =
-      IconData(0xe523, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe522, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spell_check] icon from the Lucide icon set.
   ///
@@ -17763,7 +17791,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData spell_check =
-      IconData(0xe49f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spell_check_2] icon from the Lucide icon set.
   ///
@@ -17777,7 +17805,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData spell_check_2 =
-      IconData(0xe4a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe49f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spline] icon from the Lucide icon set.
   ///
@@ -17791,7 +17819,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData spline =
-      IconData(0xe38f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe38e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [split] icon from the Lucide icon set.
   ///
@@ -17805,7 +17833,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData split =
-      IconData(0xe445, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe444, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spray_can] icon from the Lucide icon set.
   ///
@@ -17819,7 +17847,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData spray_can =
-      IconData(0xe49a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe499, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sprout] icon from the Lucide icon set.
   ///
@@ -17833,7 +17861,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sprout =
-      IconData(0xe1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square] icon from the Lucide icon set.
   ///
@@ -17847,13 +17875,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square =
-      IconData(0xe16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_activity] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_activity] icon is a graphical symbol that conveys a specific idea or functionality related to pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, siesmic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music.
-  /// - It belongs to the medical, account, social, science, multimedia, shapes categories.
+  /// - It belongs to the medical, social, science, multimedia categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -17861,13 +17889,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_activity =
-      IconData(0xe4b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to backwards, reverse, direction, south, sign, keyboard, button.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17875,13 +17903,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_down =
-      IconData(0xe42c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_down_left] icon is a graphical symbol that conveys a specific idea or functionality related to direction, south-west, diagonal, sign, turn, keyboard, button.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -17889,13 +17917,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_down_left =
-      IconData(0xe4ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_down_right] icon is a graphical symbol that conveys a specific idea or functionality related to direction, south-east, diagonal, sign, turn, keyboard, button.
-  /// - It belongs to the arrows, navigation, shapes, gaming categories.
+  /// - It belongs to the arrows, navigation, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -17903,13 +17931,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_down_right =
-      IconData(0xe4bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_left] icon is a graphical symbol that conveys a specific idea or functionality related to previous, back, direction, west, sign, keyboard, button, <-.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17917,7 +17945,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_left =
-      IconData(0xe42d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_down_left] icon from the Lucide icon set.
   ///
@@ -17931,7 +17959,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_out_down_left =
-      IconData(0xe5a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_down_right] icon from the Lucide icon set.
   ///
@@ -17945,7 +17973,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_out_down_right =
-      IconData(0xe5a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_up_left] icon from the Lucide icon set.
   ///
@@ -17959,7 +17987,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_out_up_left =
-      IconData(0xe5a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_up_right] icon from the Lucide icon set.
   ///
@@ -17973,13 +18001,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_out_up_right =
-      IconData(0xe5a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to next, forward, direction, west, sign, keyboard, button, ->.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -17987,13 +18015,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_right =
-      IconData(0xe42e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to forward, direction, north, sign, keyboard, button.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18001,13 +18029,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_up =
-      IconData(0xe42f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe42e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_up_left] icon is a graphical symbol that conveys a specific idea or functionality related to direction, north-west, diagonal, sign, keyboard, button.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18015,13 +18043,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_up_left =
-      IconData(0xe4bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_arrow_up_right] icon is a graphical symbol that conveys a specific idea or functionality related to direction, north-east, diagonal, sign, keyboard, button, share.
-  /// - It belongs to the arrows, navigation, shapes, social categories.
+  /// - It belongs to the arrows, navigation, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18029,13 +18057,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_arrow_up_right =
-      IconData(0xe4bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_asterisk] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to password, secret, access, key, multiply, multiplication, glob pattern, wildcard, *.
-  /// - It belongs to the text, security, account, maths, development categories.
+  /// - It belongs to the text, security, math, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18043,7 +18071,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_asterisk =
-      IconData(0xe16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_bottom_dashed_scissors] icon from the Lucide icon set.
   ///
@@ -18057,7 +18085,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_bottom_dashed_scissors =
-      IconData(0xe4f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chart_gantt] icon from the Lucide icon set.
   ///
@@ -18071,13 +18099,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_chart_gantt =
-      IconData(0xe16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_check] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
-  /// - It belongs to the notifications, shapes categories.
+  /// - It belongs to the notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18085,13 +18113,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_check =
-      IconData(0xe55e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe55d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_check_big] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_check_big] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
-  /// - It belongs to the notifications, shapes categories.
+  /// - It belongs to the notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -18099,13 +18127,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_check_big =
-      IconData(0xe16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_down] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_chevron_down] icon is a graphical symbol that conveys a specific idea or functionality related to back, menu, panel.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18113,13 +18141,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_chevron_down =
-      IconData(0xe3d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_left] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_chevron_left] icon is a graphical symbol that conveys a specific idea or functionality related to back, previous, less than, fewer, menu, panel, button, keyboard, <.
-  /// - It belongs to the arrows, navigation, shapes categories.
+  /// - It belongs to the arrows, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18127,13 +18155,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_chevron_left =
-      IconData(0xe3d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_chevron_right] icon is a graphical symbol that conveys a specific idea or functionality related to forward, next, more than, greater, menu, panel, code, coding, command line, terminal, prompt, shell, console, >.
-  /// - It belongs to the arrows, navigation, shapes, development categories.
+  /// - It belongs to the arrows, navigation, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18141,13 +18169,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_chevron_right =
-      IconData(0xe3d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_up] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_chevron_up] icon is a graphical symbol that conveys a specific idea or functionality related to caret, keyboard, button, mac, control, ctrl, superscript, exponential, power, ahead, menu, panel, ^.
-  /// - It belongs to the arrows, navigation, maths, shapes categories.
+  /// - It belongs to the arrows, navigation, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18155,7 +18183,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_chevron_up =
-      IconData(0xe3d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_code] icon from the Lucide icon set.
   ///
@@ -18169,7 +18197,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_code =
-      IconData(0xe16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed] icon from the Lucide icon set.
   ///
@@ -18183,13 +18211,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dashed =
-      IconData(0xe1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_bottom] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_dashed_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 1:1, shape, snippet, code, coding.
-  /// - It belongs to the shapes, development, files categories.
+  /// - It belongs to the development, files categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18197,13 +18225,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dashed_bottom =
-      IconData(0xe4c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_bottom_code] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_dashed_bottom_code] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 1:1, shape, snippet, code, coding.
-  /// - It belongs to the shapes, development, files categories.
+  /// - It belongs to the development, files categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18211,7 +18239,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dashed_bottom_code =
-      IconData(0xe4c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_kanban] icon from the Lucide icon set.
   ///
@@ -18225,7 +18253,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dashed_kanban =
-      IconData(0xe170, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_mouse_pointer] icon from the Lucide icon set.
   ///
@@ -18239,13 +18267,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dashed_mouse_pointer =
-      IconData(0xe50e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_divide] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [square_divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, maths, ÷, /.
-  /// - It belongs to the maths, shapes categories.
+  /// - The [square_divide] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, math, ÷, /.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18253,13 +18281,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_divide =
-      IconData(0xe171, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe170, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dot] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_dot] icon is a graphical symbol that conveys a specific idea or functionality related to git, diff, modified, ..
-  /// - It belongs to the shapes, development categories.
+  /// - It belongs to the development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18267,13 +18295,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_dot =
-      IconData(0xe172, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe171, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_equal] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_equal] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, =.
-  /// - It belongs to the maths, shapes categories.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18281,13 +18309,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_equal =
-      IconData(0xe173, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe172, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_function] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [square_function] icon is a graphical symbol that conveys a specific idea or functionality related to programming, code, automation, maths.
-  /// - It belongs to the development, shapes, maths categories.
+  /// - The [square_function] icon is a graphical symbol that conveys a specific idea or functionality related to programming, code, automation, math.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18295,7 +18323,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_function =
-      IconData(0xe22d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe22c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_kanban] icon from the Lucide icon set.
   ///
@@ -18309,13 +18337,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_kanban =
-      IconData(0xe174, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe173, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_library] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_library] icon is a graphical symbol that conveys a specific idea or functionality related to books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package.
-  /// - It belongs to the text, photography, multimedia, maps, development categories.
+  /// - It belongs to the text, photography, multimedia, navigation, development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18323,13 +18351,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_library =
-      IconData(0xe554, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe553, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_m] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_m] icon is a graphical symbol that conveys a specific idea or functionality related to metro, subway, underground, track, line.
-  /// - It belongs to the transportation, maps, navigation categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18337,13 +18365,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_m =
-      IconData(0xe508, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe507, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_menu] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_menu] icon is a graphical symbol that conveys a specific idea or functionality related to bars, navigation, hamburger, options, menu bar, panel.
-  /// - It belongs to the layout, account categories.
+  /// - It belongs to the layout categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18351,13 +18379,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_menu =
-      IconData(0xe458, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe457, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_minus] icon is a graphical symbol that conveys a specific idea or functionality related to subtract, remove, decrease, reduce, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade.
-  /// - It belongs to the maths, development, text, tools, devices, shapes categories.
+  /// - It belongs to the math, development, text, tools, devices categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18365,7 +18393,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_minus =
-      IconData(0xe175, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe174, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_mouse_pointer] icon from the Lucide icon set.
   ///
@@ -18379,13 +18407,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_mouse_pointer =
-      IconData(0xe202, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe201, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_parking] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_parking] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18393,13 +18421,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_parking =
-      IconData(0xe3cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_parking_off] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_parking_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18407,7 +18435,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_parking_off =
-      IconData(0xe3d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pen] icon from the Lucide icon set.
   ///
@@ -18421,13 +18449,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_pen =
-      IconData(0xe176, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe175, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_percent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_percent] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, sale, discount, offer, marketing, sticker, price tag.
-  /// - It belongs to the account, social, money, shopping, maths, shapes categories.
+  /// - It belongs to the social, finance, shopping, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18435,13 +18463,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_percent =
-      IconData(0xe521, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe520, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pi] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_pi] icon is a graphical symbol that conveys a specific idea or functionality related to constant, code, coding, programming, symbol, trigonometry, geometry, formula.
-  /// - It belongs to the development, maths, shapes categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18449,7 +18477,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_pi =
-      IconData(0xe48d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pilcrow] icon from the Lucide icon set.
   ///
@@ -18463,7 +18491,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_pilcrow =
-      IconData(0xe490, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_play] icon from the Lucide icon set.
   ///
@@ -18477,13 +18505,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_play =
-      IconData(0xe486, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe485, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_plus] icon is a graphical symbol that conveys a specific idea or functionality related to add, new, increase, increment, positive, calculate, calculator, button, keyboard, toolbar, maximum, upgrade, extra, operator, join, concatenate, code, coding, +.
-  /// - It belongs to the maths, tools, development, text, shapes categories.
+  /// - It belongs to the math, tools, development, text categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18491,7 +18519,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_plus =
-      IconData(0xe177, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe176, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_power] icon from the Lucide icon set.
   ///
@@ -18505,13 +18533,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_power =
-      IconData(0xe556, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe555, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_radical] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [square_radical] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, formula, maths, operator, root, square, symbol.
-  /// - It belongs to the development, maths, shapes categories.
+  /// - The [square_radical] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, formula, math, operator, root, square, symbol.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/smnandre](https://github.com/smnandre) have been instrumental in the development of this icon.
@@ -18519,7 +18547,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_radical =
-      IconData(0xe5c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_scissors] icon from the Lucide icon set.
   ///
@@ -18533,13 +18561,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_scissors =
-      IconData(0xe4f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_sigma] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [square_sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, maths, enumeration, enumerate.
-  /// - It belongs to the text, maths categories.
+  /// - The [square_sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, math, enumeration, enumerate.
+  /// - It belongs to the text, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18547,13 +18575,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_sigma =
-      IconData(0xe48e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe48d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_slash] icon is a graphical symbol that conveys a specific idea or functionality related to git, diff, ignored, divide, division, shortcut, or, /.
-  /// - It belongs to the shapes, development, maths categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18561,7 +18589,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_slash =
-      IconData(0xe178, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe177, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_split_horizontal] icon from the Lucide icon set.
   ///
@@ -18575,7 +18603,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_split_horizontal =
-      IconData(0xe3ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_split_vertical] icon from the Lucide icon set.
   ///
@@ -18589,7 +18617,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_split_vertical =
-      IconData(0xe3bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_square] icon from the Lucide icon set.
   ///
@@ -18603,7 +18631,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_square =
-      IconData(0xe613, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe612, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_stack] icon from the Lucide icon set.
   ///
@@ -18617,13 +18645,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_stack =
-      IconData(0xe4a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_terminal] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_terminal] icon is a graphical symbol that conveys a specific idea or functionality related to code, command line, prompt, shell.
-  /// - It belongs to the development, shapes categories.
+  /// - It belongs to the development categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18631,13 +18659,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_terminal =
-      IconData(0xe20a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe209, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_user] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_user] icon is a graphical symbol that conveys a specific idea or functionality related to person, account, contact.
-  /// - It belongs to the account, shapes categories.
+  /// - It belongs to the account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -18645,13 +18673,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_user =
-      IconData(0xe46a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe469, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_user_round] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [square_user_round] icon is a graphical symbol that conveys a specific idea or functionality related to person, account, contact.
-  /// - It belongs to the account, shapes categories.
+  /// - It belongs to the account categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -18659,13 +18687,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_user_round =
-      IconData(0xe46b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_x] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [square_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, maths, multiply, multiplication.
-  /// - It belongs to the maths, shapes, notifications categories.
+  /// - The [square_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, math, multiply, multiplication.
+  /// - It belongs to the math, notifications categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -18673,7 +18701,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData square_x =
-      IconData(0xe179, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe178, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squircle] icon from the Lucide icon set.
   ///
@@ -18687,7 +18715,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData squircle =
-      IconData(0xe57f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squirrel] icon from the Lucide icon set.
   ///
@@ -18701,13 +18729,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData squirrel =
-      IconData(0xe4a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stamp] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [stamp] icon is a graphical symbol that conveys a specific idea or functionality related to mark, print, clone, loyalty, library.
-  /// - It belongs to the design, cursors, tools, maps categories.
+  /// - It belongs to the design, cursors, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -18715,7 +18743,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData stamp =
-      IconData(0xe3bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star] icon from the Lucide icon set.
   ///
@@ -18729,7 +18757,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData star =
-      IconData(0xe17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe179, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star_half] icon from the Lucide icon set.
   ///
@@ -18743,7 +18771,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData star_half =
-      IconData(0xe20b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star_off] icon from the Lucide icon set.
   ///
@@ -18757,7 +18785,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData star_off =
-      IconData(0xe2b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [step_back] icon from the Lucide icon set.
   ///
@@ -18771,7 +18799,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData step_back =
-      IconData(0xe3ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [step_forward] icon from the Lucide icon set.
   ///
@@ -18785,7 +18813,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData step_forward =
-      IconData(0xe3ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stethoscope] icon from the Lucide icon set.
   ///
@@ -18799,13 +18827,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData stethoscope =
-      IconData(0xe2f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sticker] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [sticker] icon is a graphical symbol that conveys a specific idea or functionality related to reaction, emotion, smile, happy, feedback.
-  /// - It belongs to the communication, social categories.
+  /// - It belongs to the social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18813,13 +18841,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sticker =
-      IconData(0xe302, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe301, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sticky_note] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [sticky_note] icon is a graphical symbol that conveys a specific idea or functionality related to post-it, comment, annotation, reaction, memo, reminder, todo, task, idea, brainstorm, document, page, paper, sheet, stationary, office.
-  /// - It belongs to the communication, text, social categories.
+  /// - It belongs to the text, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -18827,13 +18855,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sticky_note =
-      IconData(0xe303, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe302, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [store] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [store] icon is a graphical symbol that conveys a specific idea or functionality related to shop, supermarket, stand, boutique, building.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings, navigation, shopping categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -18841,7 +18869,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData store =
-      IconData(0xe3e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stretch_horizontal] icon from the Lucide icon set.
   ///
@@ -18855,7 +18883,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData stretch_horizontal =
-      IconData(0xe27c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stretch_vertical] icon from the Lucide icon set.
   ///
@@ -18869,7 +18897,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData stretch_vertical =
-      IconData(0xe27d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe27c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [strikethrough] icon from the Lucide icon set.
   ///
@@ -18883,7 +18911,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData strikethrough =
-      IconData(0xe17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [subscript] icon from the Lucide icon set.
   ///
@@ -18897,7 +18925,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData subscript =
-      IconData(0xe25c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun] icon from the Lucide icon set.
   ///
@@ -18911,7 +18939,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sun =
-      IconData(0xe17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_dim] icon from the Lucide icon set.
   ///
@@ -18925,7 +18953,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sun_dim =
-      IconData(0xe299, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe298, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_medium] icon from the Lucide icon set.
   ///
@@ -18939,7 +18967,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sun_medium =
-      IconData(0xe2b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_moon] icon from the Lucide icon set.
   ///
@@ -18953,7 +18981,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sun_moon =
-      IconData(0xe2b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_snow] icon from the Lucide icon set.
   ///
@@ -18967,7 +18995,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sun_snow =
-      IconData(0xe376, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe375, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sunrise] icon from the Lucide icon set.
   ///
@@ -18981,7 +19009,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sunrise =
-      IconData(0xe17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sunset] icon from the Lucide icon set.
   ///
@@ -18995,7 +19023,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sunset =
-      IconData(0xe17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [superscript] icon from the Lucide icon set.
   ///
@@ -19009,13 +19037,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData superscript =
-      IconData(0xe25e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe25d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swatch_book] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [swatch_book] icon is a graphical symbol that conveys a specific idea or functionality related to colors, colours, swatches, pantone, shades, tint, hue, saturation, brightness, theme, scheme, palette, samples, textile, carpet.
-  /// - It belongs to the design, home, furniture, photography categories.
+  /// - It belongs to the design, home, photography categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19023,13 +19051,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData swatch_book =
-      IconData(0xe5a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swiss_franc] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
-  /// - It belongs to the currency, money categories.
+  /// - It belongs to the finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu) have been instrumental in the development of this icon.
@@ -19037,7 +19065,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData swiss_franc =
-      IconData(0xe17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [switch_camera] icon from the Lucide icon set.
   ///
@@ -19051,7 +19079,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData switch_camera =
-      IconData(0xe180, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sword] icon from the Lucide icon set.
   ///
@@ -19065,7 +19093,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData sword =
-      IconData(0xe2b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swords] icon from the Lucide icon set.
   ///
@@ -19079,7 +19107,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData swords =
-      IconData(0xe2b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [syringe] icon from the Lucide icon set.
   ///
@@ -19093,7 +19121,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData syringe =
-      IconData(0xe2f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table] icon from the Lucide icon set.
   ///
@@ -19107,7 +19135,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table =
-      IconData(0xe181, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe180, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_2] icon from the Lucide icon set.
   ///
@@ -19121,7 +19149,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_2 =
-      IconData(0xe2f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_cells_merge] icon from the Lucide icon set.
   ///
@@ -19135,7 +19163,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_cells_merge =
-      IconData(0xe5cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_cells_split] icon from the Lucide icon set.
   ///
@@ -19149,7 +19177,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_cells_split =
-      IconData(0xe5cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_columns_split] icon from the Lucide icon set.
   ///
@@ -19163,7 +19191,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_columns_split =
-      IconData(0xe5ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_of_contents] icon from the Lucide icon set.
   ///
@@ -19177,7 +19205,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_of_contents =
-      IconData(0xe623, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe622, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_properties] icon from the Lucide icon set.
   ///
@@ -19191,7 +19219,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_properties =
-      IconData(0xe4e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_rows_split] icon from the Lucide icon set.
   ///
@@ -19205,7 +19233,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData table_rows_split =
-      IconData(0xe5cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablet] icon from the Lucide icon set.
   ///
@@ -19219,7 +19247,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tablet =
-      IconData(0xe182, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe181, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablet_smartphone] icon from the Lucide icon set.
   ///
@@ -19233,7 +19261,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tablet_smartphone =
-      IconData(0xe50f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablets] icon from the Lucide icon set.
   ///
@@ -19247,7 +19275,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tablets =
-      IconData(0xe3c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tag] icon from the Lucide icon set.
   ///
@@ -19261,7 +19289,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tag =
-      IconData(0xe183, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe182, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tags] icon from the Lucide icon set.
   ///
@@ -19275,13 +19303,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tags =
-      IconData(0xe360, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_1] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tally_1] icon is a graphical symbol that conveys a specific idea or functionality related to count, score, enumerate, days, one, 1, first, bar, prison, cell, sentence.
-  /// - It belongs to the maths, gaming categories.
+  /// - It belongs to the math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19289,13 +19317,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tally_1 =
-      IconData(0xe4db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_2] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tally_2] icon is a graphical symbol that conveys a specific idea or functionality related to count, score, enumerate, days, two, 2, second, double, bars, prison, cell, sentence.
-  /// - It belongs to the maths, gaming categories.
+  /// - It belongs to the math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19303,13 +19331,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tally_2 =
-      IconData(0xe4dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_3] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tally_3] icon is a graphical symbol that conveys a specific idea or functionality related to count, score, enumerate, days, three, 3, third, triple, bars, prison, cell, sentence.
-  /// - It belongs to the maths, gaming categories.
+  /// - It belongs to the math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19317,13 +19345,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tally_3 =
-      IconData(0xe4dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_4] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tally_4] icon is a graphical symbol that conveys a specific idea or functionality related to count, score, enumerate, days, 4, fourth, quadruple, bars, prison, cell, sentence.
-  /// - It belongs to the maths, gaming categories.
+  /// - It belongs to the math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19331,13 +19359,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tally_4 =
-      IconData(0xe4de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_5] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tally_5] icon is a graphical symbol that conveys a specific idea or functionality related to count, score, enumerate, days, five, 5, fifth, bars, prison, cell, sentence, slash, /.
-  /// - It belongs to the maths, gaming categories.
+  /// - It belongs to the math, gaming categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19345,13 +19373,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tally_5 =
-      IconData(0xe4df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tangent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [tangent] icon is a graphical symbol that conveys a specific idea or functionality related to tangential, shape, circle, geometry, trigonometry, bezier curve.
-  /// - It belongs to the shapes, maths, design, tools categories.
+  /// - It belongs to the shapes, math, design, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -19359,7 +19387,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tangent =
-      IconData(0xe533, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe532, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [target] icon from the Lucide icon set.
   ///
@@ -19373,7 +19401,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData target =
-      IconData(0xe184, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe183, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [telescope] icon from the Lucide icon set.
   ///
@@ -19387,7 +19415,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData telescope =
-      IconData(0xe5ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tent] icon from the Lucide icon set.
   ///
@@ -19401,7 +19429,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tent =
-      IconData(0xe227, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe226, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tent_tree] icon from the Lucide icon set.
   ///
@@ -19415,7 +19443,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tent_tree =
-      IconData(0xe540, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe53f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [terminal] icon from the Lucide icon set.
   ///
@@ -19429,7 +19457,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData terminal =
-      IconData(0xe185, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe184, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tube] icon from the Lucide icon set.
   ///
@@ -19443,7 +19471,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData test_tube =
-      IconData(0xe40a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe409, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tube_diagonal] icon from the Lucide icon set.
   ///
@@ -19457,7 +19485,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData test_tube_diagonal =
-      IconData(0xe40b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tubes] icon from the Lucide icon set.
   ///
@@ -19471,7 +19499,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData test_tubes =
-      IconData(0xe40c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe40b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text] icon from the Lucide icon set.
   ///
@@ -19485,7 +19513,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text =
-      IconData(0xe3ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_cursor] icon from the Lucide icon set.
   ///
@@ -19499,7 +19527,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text_cursor =
-      IconData(0xe264, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe263, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_cursor_input] icon from the Lucide icon set.
   ///
@@ -19513,7 +19541,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text_cursor_input =
-      IconData(0xe265, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe264, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_quote] icon from the Lucide icon set.
   ///
@@ -19527,7 +19555,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text_quote =
-      IconData(0xe4a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_search] icon from the Lucide icon set.
   ///
@@ -19541,7 +19569,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text_search =
-      IconData(0xe5b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_select] icon from the Lucide icon set.
   ///
@@ -19555,7 +19583,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData text_select =
-      IconData(0xe3e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [theater] icon from the Lucide icon set.
   ///
@@ -19569,7 +19597,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData theater =
-      IconData(0xe527, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe526, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer] icon from the Lucide icon set.
   ///
@@ -19583,7 +19611,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData thermometer =
-      IconData(0xe186, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe185, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer_snowflake] icon from the Lucide icon set.
   ///
@@ -19597,7 +19625,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData thermometer_snowflake =
-      IconData(0xe187, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe186, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer_sun] icon from the Lucide icon set.
   ///
@@ -19611,7 +19639,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData thermometer_sun =
-      IconData(0xe188, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe187, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thumbs_down] icon from the Lucide icon set.
   ///
@@ -19625,7 +19653,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData thumbs_down =
-      IconData(0xe189, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe188, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thumbs_up] icon from the Lucide icon set.
   ///
@@ -19639,7 +19667,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData thumbs_up =
-      IconData(0xe18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe189, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket] icon from the Lucide icon set.
   ///
@@ -19653,13 +19681,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket =
-      IconData(0xe20f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe20e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_check] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_check] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, booked, purchased, receipt, redeemed, validated, verified, certified, checked, used.
-  /// - It belongs to the account, transportation categories.
+  /// - It belongs to the transportation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19667,13 +19695,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_check =
-      IconData(0xe5b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_minus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_minus] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, remove, cancel, unbook, subtract, decrease, -.
-  /// - It belongs to the account, transportation categories.
+  /// - It belongs to the transportation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19681,13 +19709,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_minus =
-      IconData(0xe5b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_percent] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_percent] icon is a graphical symbol that conveys a specific idea or functionality related to discount, reduced, offer, voucher, entry, pass, event, concert, show, book, purchase, %.
-  /// - It belongs to the account, transportation, shopping categories.
+  /// - It belongs to the transportation, shopping categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19695,13 +19723,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_percent =
-      IconData(0xe5b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_plus] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_plus] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, book, purchase, add, +.
-  /// - It belongs to the account, transportation categories.
+  /// - It belongs to the transportation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19709,13 +19737,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_plus =
-      IconData(0xe5b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_slash] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_slash] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, redeemed, used, marked, checked, verified, spoiled, invalidated, void, denied, refused, banned, barred, forbidden, prohibited, cancelled, cancellation, refunded, delete, remove, clear, error.
-  /// - It belongs to the account, transportation categories.
+  /// - It belongs to the transportation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19723,13 +19751,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_slash =
-      IconData(0xe5b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_x] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [ticket_x] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, cancelled, cancellation, refunded, used, void, invalidated, spoiled, denied, refused, banned, barred, forbidden, prohibited, delete, remove, clear, error, x.
-  /// - It belongs to the account, transportation categories.
+  /// - It belongs to the transportation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19737,7 +19765,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ticket_x =
-      IconData(0xe5b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tickets] icon from the Lucide icon set.
   ///
@@ -19751,7 +19779,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tickets =
-      IconData(0xe627, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe626, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tickets_plane] icon from the Lucide icon set.
   ///
@@ -19765,7 +19793,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tickets_plane =
-      IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe627, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer] icon from the Lucide icon set.
   ///
@@ -19779,7 +19807,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData timer =
-      IconData(0xe1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer_off] icon from the Lucide icon set.
   ///
@@ -19793,7 +19821,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData timer_off =
-      IconData(0xe249, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe248, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer_reset] icon from the Lucide icon set.
   ///
@@ -19807,7 +19835,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData timer_reset =
-      IconData(0xe236, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe235, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toggle_left] icon from the Lucide icon set.
   ///
@@ -19821,7 +19849,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData toggle_left =
-      IconData(0xe18b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toggle_right] icon from the Lucide icon set.
   ///
@@ -19835,7 +19863,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData toggle_right =
-      IconData(0xe18c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toilet] icon from the Lucide icon set.
   ///
@@ -19849,7 +19877,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData toilet =
-      IconData(0xe63a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe639, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tornado] icon from the Lucide icon set.
   ///
@@ -19863,7 +19891,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tornado =
-      IconData(0xe218, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe217, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [torus] icon from the Lucide icon set.
   ///
@@ -19877,7 +19905,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData torus =
-      IconData(0xe534, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe533, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [touchpad] icon from the Lucide icon set.
   ///
@@ -19891,7 +19919,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData touchpad =
-      IconData(0xe44e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [touchpad_off] icon from the Lucide icon set.
   ///
@@ -19905,7 +19933,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData touchpad_off =
-      IconData(0xe44f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tower_control] icon from the Lucide icon set.
   ///
@@ -19919,7 +19947,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tower_control =
-      IconData(0xe3c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toy_brick] icon from the Lucide icon set.
   ///
@@ -19933,7 +19961,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData toy_brick =
-      IconData(0xe34b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe34a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tractor] icon from the Lucide icon set.
   ///
@@ -19947,7 +19975,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tractor =
-      IconData(0xe509, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe508, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [traffic_cone] icon from the Lucide icon set.
   ///
@@ -19961,7 +19989,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData traffic_cone =
-      IconData(0xe50a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe509, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_front] icon from the Lucide icon set.
   ///
@@ -19975,13 +20003,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData train_front =
-      IconData(0xe50b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_front_tunnel] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [train_front_tunnel] icon is a graphical symbol that conveys a specific idea or functionality related to railway, metro, subway, underground, speed, bullet, fast, track, line.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -19989,13 +20017,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData train_front_tunnel =
-      IconData(0xe50c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_track] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [train_track] icon is a graphical symbol that conveys a specific idea or functionality related to railway, line.
-  /// - It belongs to the transportation, maps categories.
+  /// - It belongs to the transportation, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -20003,7 +20031,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData train_track =
-      IconData(0xe50d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe50c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tram_front] icon from the Lucide icon set.
   ///
@@ -20017,7 +20045,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tram_front =
-      IconData(0xe2a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trash] icon from the Lucide icon set.
   ///
@@ -20031,7 +20059,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trash =
-      IconData(0xe18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trash_2] icon from the Lucide icon set.
   ///
@@ -20045,7 +20073,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trash_2 =
-      IconData(0xe18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_deciduous] icon from the Lucide icon set.
   ///
@@ -20059,7 +20087,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tree_deciduous =
-      IconData(0xe2f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_palm] icon from the Lucide icon set.
   ///
@@ -20073,7 +20101,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tree_palm =
-      IconData(0xe281, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe280, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_pine] icon from the Lucide icon set.
   ///
@@ -20087,7 +20115,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tree_pine =
-      IconData(0xe2f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trees] icon from the Lucide icon set.
   ///
@@ -20101,7 +20129,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trees =
-      IconData(0xe2f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trello] icon from the Lucide icon set.
   ///
@@ -20115,7 +20143,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trello =
-      IconData(0xe18f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_down] icon from the Lucide icon set.
   ///
@@ -20129,7 +20157,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trending_down =
-      IconData(0xe190, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe18f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_up] icon from the Lucide icon set.
   ///
@@ -20143,7 +20171,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trending_up =
-      IconData(0xe191, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe190, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_up_down] icon from the Lucide icon set.
   ///
@@ -20157,7 +20185,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trending_up_down =
-      IconData(0xe62a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe629, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle] icon from the Lucide icon set.
   ///
@@ -20171,7 +20199,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData triangle =
-      IconData(0xe192, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe191, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle_alert] icon from the Lucide icon set.
   ///
@@ -20185,13 +20213,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData triangle_alert =
-      IconData(0xe193, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe192, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle_right] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [triangle_right] icon is a graphical symbol that conveys a specific idea or functionality related to volume, controls, controller, tv remote, geometry, delta, ramp, slope, incline, increase.
-  /// - It belongs to the shapes, maths categories.
+  /// - It belongs to the shapes, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -20199,7 +20227,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData triangle_right =
-      IconData(0xe4f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trophy] icon from the Lucide icon set.
   ///
@@ -20213,7 +20241,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData trophy =
-      IconData(0xe377, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe376, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [truck] icon from the Lucide icon set.
   ///
@@ -20227,7 +20255,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData truck =
-      IconData(0xe194, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe193, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [turtle] icon from the Lucide icon set.
   ///
@@ -20241,7 +20269,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData turtle =
-      IconData(0xe4fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv] icon from the Lucide icon set.
   ///
@@ -20255,7 +20283,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tv =
-      IconData(0xe195, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe194, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv_minimal] icon from the Lucide icon set.
   ///
@@ -20269,7 +20297,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tv_minimal =
-      IconData(0xe203, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe202, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv_minimal_play] icon from the Lucide icon set.
   ///
@@ -20283,7 +20311,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData tv_minimal_play =
-      IconData(0xe5f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [twitch] icon from the Lucide icon set.
   ///
@@ -20297,7 +20325,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData twitch =
-      IconData(0xe196, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe195, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [twitter] icon from the Lucide icon set.
   ///
@@ -20311,7 +20339,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData twitter =
-      IconData(0xe197, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe196, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [type] icon from the Lucide icon set.
   ///
@@ -20325,7 +20353,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData type =
-      IconData(0xe198, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe197, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [type_outline] icon from the Lucide icon set.
   ///
@@ -20339,7 +20367,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData type_outline =
-      IconData(0xe607, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe606, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [umbrella] icon from the Lucide icon set.
   ///
@@ -20353,7 +20381,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData umbrella =
-      IconData(0xe199, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe198, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [umbrella_off] icon from the Lucide icon set.
   ///
@@ -20367,7 +20395,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData umbrella_off =
-      IconData(0xe548, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe547, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [underline] icon from the Lucide icon set.
   ///
@@ -20381,7 +20409,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData underline =
-      IconData(0xe19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe199, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo] icon from the Lucide icon set.
   ///
@@ -20395,7 +20423,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData undo =
-      IconData(0xe19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo_2] icon from the Lucide icon set.
   ///
@@ -20409,7 +20437,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData undo_2 =
-      IconData(0xe2a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo_dot] icon from the Lucide icon set.
   ///
@@ -20423,7 +20451,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData undo_dot =
-      IconData(0xe456, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe455, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unfold_horizontal] icon from the Lucide icon set.
   ///
@@ -20437,7 +20465,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData unfold_horizontal =
-      IconData(0xe442, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe441, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unfold_vertical] icon from the Lucide icon set.
   ///
@@ -20451,7 +20479,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData unfold_vertical =
-      IconData(0xe443, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe442, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ungroup] icon from the Lucide icon set.
   ///
@@ -20465,13 +20493,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData ungroup =
-      IconData(0xe46c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [university] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [university] icon is a graphical symbol that conveys a specific idea or functionality related to building, education, childhood, school.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -20479,7 +20507,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData university =
-      IconData(0xe3e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unlink] icon from the Lucide icon set.
   ///
@@ -20493,7 +20521,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData unlink =
-      IconData(0xe19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unlink_2] icon from the Lucide icon set.
   ///
@@ -20507,7 +20535,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData unlink_2 =
-      IconData(0xe19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unplug] icon from the Lucide icon set.
   ///
@@ -20521,7 +20549,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData unplug =
-      IconData(0xe462, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe461, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [upload] icon from the Lucide icon set.
   ///
@@ -20535,7 +20563,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData upload =
-      IconData(0xe19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [usb] icon from the Lucide icon set.
   ///
@@ -20549,7 +20577,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData usb =
-      IconData(0xe35a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe359, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user] icon from the Lucide icon set.
   ///
@@ -20563,7 +20591,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user =
-      IconData(0xe19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_check] icon from the Lucide icon set.
   ///
@@ -20577,7 +20605,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_check =
-      IconData(0xe1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_cog] icon from the Lucide icon set.
   ///
@@ -20591,7 +20619,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_cog =
-      IconData(0xe346, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe345, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_minus] icon from the Lucide icon set.
   ///
@@ -20605,7 +20633,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_minus =
-      IconData(0xe1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_pen] icon from the Lucide icon set.
   ///
@@ -20619,7 +20647,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_pen =
-      IconData(0xe601, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe600, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_plus] icon from the Lucide icon set.
   ///
@@ -20633,7 +20661,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_plus =
-      IconData(0xe1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round] icon from the Lucide icon set.
   ///
@@ -20647,7 +20675,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round =
-      IconData(0xe46d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_check] icon from the Lucide icon set.
   ///
@@ -20661,7 +20689,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_check =
-      IconData(0xe46e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_cog] icon from the Lucide icon set.
   ///
@@ -20675,7 +20703,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_cog =
-      IconData(0xe46f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_minus] icon from the Lucide icon set.
   ///
@@ -20689,7 +20717,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_minus =
-      IconData(0xe470, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe46f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_pen] icon from the Lucide icon set.
   ///
@@ -20703,7 +20731,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_pen =
-      IconData(0xe602, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe601, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_plus] icon from the Lucide icon set.
   ///
@@ -20717,7 +20745,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_plus =
-      IconData(0xe471, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe470, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_search] icon from the Lucide icon set.
   ///
@@ -20731,7 +20759,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_search =
-      IconData(0xe57d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_x] icon from the Lucide icon set.
   ///
@@ -20745,7 +20773,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_round_x =
-      IconData(0xe472, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe471, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_search] icon from the Lucide icon set.
   ///
@@ -20759,7 +20787,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_search =
-      IconData(0xe57e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe57d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_x] icon from the Lucide icon set.
   ///
@@ -20773,7 +20801,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData user_x =
-      IconData(0xe1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [users] icon from the Lucide icon set.
   ///
@@ -20787,7 +20815,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData users =
-      IconData(0xe1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [users_round] icon from the Lucide icon set.
   ///
@@ -20801,13 +20829,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData users_round =
-      IconData(0xe473, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe472, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utensils] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [utensils] icon is a graphical symbol that conveys a specific idea or functionality related to fork, knife, cutlery, flatware, tableware, silverware, food, restaurant, meal, breakfast, dinner, supper.
-  /// - It belongs to the food-beverage, travel, maps categories.
+  /// - It belongs to the food-beverage, travel, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -20815,13 +20843,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData utensils =
-      IconData(0xe2f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utensils_crossed] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [utensils_crossed] icon is a graphical symbol that conveys a specific idea or functionality related to fork, knife, cutlery, flatware, tableware, silverware, food, restaurant, meal, breakfast, dinner, supper.
-  /// - It belongs to the food-beverage, travel, maps categories.
+  /// - It belongs to the food-beverage, travel, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -20829,7 +20857,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData utensils_crossed =
-      IconData(0xe2f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utility_pole] icon from the Lucide icon set.
   ///
@@ -20843,13 +20871,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData utility_pole =
-      IconData(0xe3c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [variable] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [variable] icon is a graphical symbol that conveys a specific idea or functionality related to code, coding, programming, symbol, calculate, algebra, x, parentheses, parenthesis, brackets, parameter, (, ).
-  /// - It belongs to the development, maths categories.
+  /// - It belongs to the development, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -20857,7 +20885,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData variable =
-      IconData(0xe478, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe477, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vault] icon from the Lucide icon set.
   ///
@@ -20871,7 +20899,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData vault =
-      IconData(0xe594, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe593, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vegan] icon from the Lucide icon set.
   ///
@@ -20885,7 +20913,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData vegan =
-      IconData(0xe3a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [venetian_mask] icon from the Lucide icon set.
   ///
@@ -20899,7 +20927,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData venetian_mask =
-      IconData(0xe2aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vibrate] icon from the Lucide icon set.
   ///
@@ -20913,7 +20941,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData vibrate =
-      IconData(0xe223, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe222, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vibrate_off] icon from the Lucide icon set.
   ///
@@ -20927,7 +20955,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData vibrate_off =
-      IconData(0xe29d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe29c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [video] icon from the Lucide icon set.
   ///
@@ -20941,7 +20969,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData video =
-      IconData(0xe1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [video_off] icon from the Lucide icon set.
   ///
@@ -20955,7 +20983,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData video_off =
-      IconData(0xe1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [videotape] icon from the Lucide icon set.
   ///
@@ -20969,7 +20997,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData videotape =
-      IconData(0xe4d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [view] icon from the Lucide icon set.
   ///
@@ -20983,7 +21011,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData view =
-      IconData(0xe1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [voicemail] icon from the Lucide icon set.
   ///
@@ -20997,13 +21025,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData voicemail =
-      IconData(0xe1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volleyball] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [volleyball] icon is a graphical symbol that conveys a specific idea or functionality related to beach, sand, net, holiday, vacation, summer, soccer, football, futbol, kick, pitch, goal, score, bounce, leather, wool, yarn, knitting, sewing, thread, embroidery, textile.
-  /// - It belongs to the sports, gaming, travel, home categories.
+  /// - It belongs to the sports, gaming, travel categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -21011,7 +21039,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volleyball =
-      IconData(0xe634, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe633, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume] icon from the Lucide icon set.
   ///
@@ -21025,7 +21053,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volume =
-      IconData(0xe1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_1] icon from the Lucide icon set.
   ///
@@ -21039,7 +21067,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volume_1 =
-      IconData(0xe1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_2] icon from the Lucide icon set.
   ///
@@ -21053,7 +21081,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volume_2 =
-      IconData(0xe1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_off] icon from the Lucide icon set.
   ///
@@ -21067,7 +21095,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volume_off =
-      IconData(0xe62b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe62a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_x] icon from the Lucide icon set.
   ///
@@ -21081,7 +21109,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData volume_x =
-      IconData(0xe1ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vote] icon from the Lucide icon set.
   ///
@@ -21095,13 +21123,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData vote =
-      IconData(0xe3b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [wallet] icon is a graphical symbol that conveys a specific idea or functionality related to money, finance, pocket.
-  /// - It belongs to the account, money categories.
+  /// - It belongs to the account, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -21109,13 +21137,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wallet =
-      IconData(0xe204, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe203, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet_cards] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [wallet_cards] icon is a graphical symbol that conveys a specific idea or functionality related to money, finance, pocket, credit, purchase, payment, shopping, retail, consumer, cc.
-  /// - It belongs to the account, money categories.
+  /// - It belongs to the account, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -21123,13 +21151,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wallet_cards =
-      IconData(0xe4d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet_minimal] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [wallet_minimal] icon is a graphical symbol that conveys a specific idea or functionality related to finance, pocket.
-  /// - It belongs to the account, money categories.
+  /// - It belongs to the account, finance categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -21137,7 +21165,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wallet_minimal =
-      IconData(0xe4d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe4d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallpaper] icon from the Lucide icon set.
   ///
@@ -21151,7 +21179,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wallpaper =
-      IconData(0xe450, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe44f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wand] icon from the Lucide icon set.
   ///
@@ -21165,7 +21193,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wand =
-      IconData(0xe246, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe245, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wand_sparkles] icon from the Lucide icon set.
   ///
@@ -21179,13 +21207,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wand_sparkles =
-      IconData(0xe35b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe35a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [warehouse] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [warehouse] icon is a graphical symbol that conveys a specific idea or functionality related to storage, logistics, building.
-  /// - It belongs to the buildings, maps categories.
+  /// - It belongs to the buildings, navigation categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -21193,7 +21221,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData warehouse =
-      IconData(0xe3ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [washing_machine] icon from the Lucide icon set.
   ///
@@ -21207,7 +21235,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData washing_machine =
-      IconData(0xe595, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe594, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [watch] icon from the Lucide icon set.
   ///
@@ -21221,13 +21249,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData watch =
-      IconData(0xe1ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waves] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [waves] icon is a graphical symbol that conveys a specific idea or functionality related to water, sea, sound, hertz, wavelength, vibrate.
-  /// - It belongs to the weather, maps, multimedia, sustainability categories.
+  /// - It belongs to the weather, navigation, multimedia, sustainability categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -21235,13 +21263,27 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData waves =
-      IconData(0xe283, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe282, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [waves_ladder] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [waves_ladder] icon is a graphical symbol that conveys a specific idea or functionality related to swimming, water, pool, lifeguard, ocean, 🌊, 🏊‍♂️, 🏊‍♀️, 🏊, 🥽.
+  /// - It belongs to the sports, home categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData waves_ladder =
+      IconData(0xe63f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waypoints] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [waypoints] icon is a graphical symbol that conveys a specific idea or functionality related to indirection, vpn, virtual private network, proxy, connections, bounce, reroute, path, journey, planner, stops, stations, shared, spread, viral.
-  /// - It belongs to the security, account, maps, navigation, development, social categories.
+  /// - It belongs to the security, account, navigation, development, social categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley) have been instrumental in the development of this icon.
@@ -21249,7 +21291,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData waypoints =
-      IconData(0xe547, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe546, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webcam] icon from the Lucide icon set.
   ///
@@ -21263,7 +21305,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData webcam =
-      IconData(0xe205, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe204, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webhook] icon from the Lucide icon set.
   ///
@@ -21277,7 +21319,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData webhook =
-      IconData(0xe378, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe377, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webhook_off] icon from the Lucide icon set.
   ///
@@ -21291,13 +21333,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData webhook_off =
-      IconData(0xe5bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [weight] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [weight] icon is a graphical symbol that conveys a specific idea or functionality related to mass, heavy, lead, metal, measure, geometry, scales, balance.
-  /// - It belongs to the maths categories.
+  /// - It belongs to the math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
@@ -21305,7 +21347,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData weight =
-      IconData(0xe535, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe534, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wheat] icon from the Lucide icon set.
   ///
@@ -21319,7 +21361,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wheat =
-      IconData(0xe3a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wheat_off] icon from the Lucide icon set.
   ///
@@ -21333,7 +21375,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wheat_off =
-      IconData(0xe3a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [whole_word] icon from the Lucide icon set.
   ///
@@ -21347,7 +21389,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData whole_word =
-      IconData(0xe3e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi] icon from the Lucide icon set.
   ///
@@ -21361,7 +21403,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wifi =
-      IconData(0xe1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_high] icon from the Lucide icon set.
   ///
@@ -21375,7 +21417,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wifi_high =
-      IconData(0xe5fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_low] icon from the Lucide icon set.
   ///
@@ -21389,7 +21431,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wifi_low =
-      IconData(0xe5fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_off] icon from the Lucide icon set.
   ///
@@ -21403,7 +21445,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wifi_off =
-      IconData(0xe1af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_zero] icon from the Lucide icon set.
   ///
@@ -21417,7 +21459,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wifi_zero =
-      IconData(0xe5fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wind] icon from the Lucide icon set.
   ///
@@ -21431,7 +21473,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wind =
-      IconData(0xe1b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wind_arrow_down] icon from the Lucide icon set.
   ///
@@ -21445,7 +21487,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wind_arrow_down =
-      IconData(0xe636, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe635, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wine] icon from the Lucide icon set.
   ///
@@ -21459,7 +21501,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wine =
-      IconData(0xe2f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe2f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wine_off] icon from the Lucide icon set.
   ///
@@ -21473,7 +21515,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wine_off =
-      IconData(0xe3a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe3a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [workflow] icon from the Lucide icon set.
   ///
@@ -21487,7 +21529,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData workflow =
-      IconData(0xe42a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe429, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [worm] icon from the Lucide icon set.
   ///
@@ -21501,7 +21543,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData worm =
-      IconData(0xe5df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe5de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wrap_text] icon from the Lucide icon set.
   ///
@@ -21515,13 +21557,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wrap_text =
-      IconData(0xe248, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe247, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wrench] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [wrench] icon is a graphical symbol that conveys a specific idea or functionality related to account, settings, spanner, diy, toolbox, build, construction.
-  /// - It belongs to the account, development, tools, home categories.
+  /// - It belongs to the account, development, tools categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman) have been instrumental in the development of this icon.
@@ -21529,13 +21571,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData wrench =
-      IconData(0xe1b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [x] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, maths, multiply, multiplication.
-  /// - It belongs to the notifications, maths categories.
+  /// - The [x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, math, multiply, multiplication.
+  /// - It belongs to the notifications, math categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
@@ -21543,13 +21585,13 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData x =
-      IconData(0xe1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [youtube] icon from the Lucide icon set.
   ///
   /// Description:
   /// - The [youtube] icon is a graphical symbol that conveys a specific idea or functionality related to logo, social, video, play.
-  /// - It belongs to the account, multimedia, social, text, brands categories.
+  /// - It belongs to the multimedia, social, brands categories.
   ///
   /// Acknowledgements:
   /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas) have been instrumental in the development of this icon.
@@ -21557,7 +21599,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData youtube =
-      IconData(0xe1b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zap] icon from the Lucide icon set.
   ///
@@ -21571,7 +21613,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData zap =
-      IconData(0xe1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zap_off] icon from the Lucide icon set.
   ///
@@ -21585,7 +21627,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData zap_off =
-      IconData(0xe1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zoom_in] icon from the Lucide icon set.
   ///
@@ -21599,7 +21641,7 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData zoom_in =
-      IconData(0xe1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zoom_out] icon from the Lucide icon set.
   ///
@@ -21613,5 +21655,5 @@ abstract final class LucideIcons {
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
   static const IconData zoom_out =
-      IconData(0xe1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 }
