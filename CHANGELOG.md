@@ -1,3 +1,14 @@
+# 1.6.2
+
+## Improvements 🚀
+- 0.471.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+
+## New icons 🎨
+- house-wifi by @[jguddas](https://github.com/jguddas)
+- triangle-dashed by @[colebemis](https://github.com/colebemis)
+
+
 # 1.6.1
 
 ## Improvements 🚀

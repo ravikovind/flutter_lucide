@@ -3264,7 +3264,7 @@ abstract final class LucideIcons {
   /// Represents the [building_2] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [building_2] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization.
+  /// - The [building_2] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city.
   /// - It belongs to the account, buildings categories.
   ///
   /// Acknowledgements:
@@ -10681,6 +10681,20 @@ abstract final class LucideIcons {
   static const IconData house_plus =
       IconData(0xe5f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Represents the [house_wifi] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [house_wifi] icon is a graphical symbol that conveys a specific idea or functionality related to home, living, building, wifi, connectivity.
+  /// - It belongs to the home, buildings, connectivity categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/akshaymemane](https://github.com/akshaymemane), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData house_wifi =
+      IconData(0xe640, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Represents the [ice_cream_bowl] icon from the Lucide icon set.
   ///
   /// Description:
@@ -16144,7 +16158,7 @@ abstract final class LucideIcons {
   /// Represents the [rotate_ccw] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [rotate_ccw] icon is a graphical symbol that conveys a specific idea or functionality related to arrow, left, counter-clockwise, restart, reload, rerun, refresh, backup, undo.
+  /// - The [rotate_ccw] icon is a graphical symbol that conveys a specific idea or functionality related to arrow, left, counter-clockwise, restart, reload, rerun, refresh, backup, undo, replay, redo, retry, rewind, reverse.
   /// - It belongs to the arrows, design, photography categories.
   ///
   /// Acknowledgements:
@@ -17660,7 +17674,7 @@ abstract final class LucideIcons {
   /// - It belongs to the weather, seasons categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
@@ -19620,7 +19634,7 @@ abstract final class LucideIcons {
   /// - It belongs to the weather categories.
   ///
   /// Acknowledgements:
-  /// - Contributions from [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere) have been instrumental in the development of this icon.
+  /// - Contributions from [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis) have been instrumental in the development of this icon.
   ///
   /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
   ///
@@ -20215,6 +20229,20 @@ abstract final class LucideIcons {
   static const IconData triangle_alert =
       IconData(0xe192, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Represents the [triangle_dashed] icon from the Lucide icon set.
+  ///
+  /// Description:
+  /// - The [triangle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to equilateral, delta, shape, pyramid, hierarchy, dashed.
+  /// - It belongs to the shapes categories.
+  ///
+  /// Acknowledgements:
+  /// - Contributions from [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Yohh](https://github.com/Yohh) have been instrumental in the development of this icon.
+  ///
+  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  ///
+  static const IconData triangle_dashed =
+      IconData(0xe641, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Represents the [triangle_right] icon from the Lucide icon set.
   ///
   /// Description:
@@ -20232,7 +20260,7 @@ abstract final class LucideIcons {
   /// Represents the [trophy] icon from the Lucide icon set.
   ///
   /// Description:
-  /// - The [trophy] icon is a graphical symbol that conveys a specific idea or functionality related to prize, sports, winner, achievement, award.
+  /// - The [trophy] icon is a graphical symbol that conveys a specific idea or functionality related to prize, sports, winner, achievement, award, champion, celebration, victory.
   /// - It belongs to the sports, gaming categories.
   ///
   /// Acknowledgements:
