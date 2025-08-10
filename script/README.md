@@ -1,9 +1,18 @@
-https://github.com/lucide-icons/lucide/releases/tag/${version}
-download the lucide-font-${version}.zip & lucide-icons-${version}.zip files from the above link & extract them.
-Update icons directory of script with the extracted lucide-icons-${version} directory(icons)
-Update info.json of script with the extracted lucide-font-${version}/info.json file(info.json)
+Go to <https://github.com/lucide-icons/lucide/releases/tag/${version}>
+download both:
 
-Run 'dart lib/script.dart' to generate the icons
+- `lucide-font-${version}.zip`
+- `lucide-icons-${version}.zip`
 
-replace content of flutter_lucide_updated.txt with flutter_lucide.dart in main package file
-replace lucide. along with replace lucide.ttf file with new one, in main package file.
+Packages from the above link & extract them
+Replace:
+
+- From `lucide-icons-${version}` directory
+  - `scripts/icons` directory with the extracted one
+- From `lucide-font-${version}`
+  - `scripts/info.json` file with the extracted one
+  - `lib/fonts/lucide.ttf` with the one extracted one
+
+Now navigate to the `script/` directory:
+`dart lib/script.dart` to generate the icons
+`mv flutter_lucide_update.txt ../lib/src/flutter_lucide.dart`
