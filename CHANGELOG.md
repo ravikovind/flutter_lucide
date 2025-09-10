@@ -1,3 +1,16 @@
+# 1.7.0
+
+## Improvements 🚀
+- 0.543.0 version of Lucide Icons is added.
+- Updated `README.md` with the latest information.
+- Added 200+ new icons from Lucide 0.543.0 release.
+- Total icon count increased from 1450+ to 1635+ icons.
+
+## New icons 🎨
+- Added numerous new icons from Lucide 0.543.0 release
+- Includes icons requested by community members like @[Naam](https://github.com/Naam)
+- Full list of new icons available in [Lucide 0.543.0 release notes](https://github.com/lucide-icons/lucide/releases/tag/0.543.0)
+
 # 1.6.2
 
 ## Improvements 🚀

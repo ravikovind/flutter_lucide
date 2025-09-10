@@ -10,56 +10,78 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ravikovind/flutter_lucide)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ravikovind/flutter_lucide)
 
-Lucide is a free, open-source icon set with over 1450+ icons(0.471.0), derived from the popular Feather icon set. It's available as a Flutter package for easy integration. Featuring a clean, modern design, it's perfect for enhancing user interfaces.
-
-For more insights, please visit the Lucide icon library at [https://lucide.dev/](https://lucide.dev/).
-Beautiful & consistent icons Made by the community.
+A comprehensive Flutter package providing **1,635+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
 
 ![Lucide](https://github.com/ravikovind/flutter_lucide/raw/main/screenshots/logo.png)
 
-Lucide Version [0.471.0](https://github.com/lucide-icons/lucide/releases/tag/0.471.0).
+## ✨ Features
 
-## Usage
+- 🎨 **1,635+ Icons** - Comprehensive collection from Lucide 0.543.0
+- 🚀 **Tree Shaking** - Only include icons you actually use
+- 📱 **Cross Platform** - Works on Android, iOS, Web, macOS, Windows, and Linux
+- 📚 **Well Documented** - Each icon includes descriptions and categories
+- 🔄 **Regular Updates** - Stay current with the latest Lucide releases
+- ⚡ **Lightweight** - Optimized for performance
 
-To use this plugin, add `flutter_lucide` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+## 📦 Installation
+
+Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.6.2
+  flutter_lucide: ^1.7.0
 ```
 
-## Example
+Then run:
 
-Import the file to your project
+```bash
+flutter pub get
+```
+
+## 🚀 Quick Start
+
+1. **Import the package** in your Dart file:
 
 ```dart
 import 'package:flutter_lucide/flutter_lucide.dart';
 ```
 
-Use the Icon
+2. **Use any icon** in your widgets:
 
 ```dart
-
-Icon(LucideIcons.route);
-
+Icon(LucideIcons.heart)
+Icon(LucideIcons.search)
+Icon(LucideIcons.settings)
 ```
 
-## Issues & Feedback
+## 🤝 Contributing
 
-If you wish to contribute to this repo, welcome to [Pull Requests](https://github.com/ravikovind/flutter_lucide/pulls).
-Star ⭐ the repo if you find it useful 🤩🤩. we are open to `enhancements`, `bug-fixes` & `suggestions`. feel free to open an [issue](https://github.com/ravikovind/flutter_lucide/issues).
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) guide for details.
 
-## License
+- 🐛 **Bug reports**: [Open an issue](https://github.com/ravikovind/flutter_lucide/issues)
+- ✨ **Feature requests**: [Open an issue](https://github.com/ravikovind/flutter_lucide/issues)
+- 🔧 **Pull requests**: [Submit a PR](https://github.com/ravikovind/flutter_lucide/pulls)
 
-```md
-MIT License
-```
+## 📄 License
 
-## Maintainers
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### [Ravi Kovind](https://ravikovind.github.io/)
+## 🔗 Links
 
-### [Achintya Singh](https://achiit.github.io/aboutachintya/#/)
+- **Lucide Icons**: [lucide.dev](https://lucide.dev/)
+- **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+- **Current Version**: [Lucide 0.543.0](https://github.com/lucide-icons/lucide/releases/tag/0.543.0)
+
+## Maintainers & Contributors
+
+### Maintainers
+
+- [Ravi Kovind](https://ravikovind.github.io/)
+- [Achintya Singh](https://achiit.github.io/aboutachintya/#/)
+
+### Contributors
+
+- [@Naam](https://github.com/Naam) - Requested icon updates that led to version 1.7.0 release, helped identify missing icons from Lucide 0.485.0+
 
 ## Disclaimer
 
