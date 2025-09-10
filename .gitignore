@@ -25,3 +25,9 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# OS dependant temp files
+.DS_Store
+
+# Editor config files
+.vscode
