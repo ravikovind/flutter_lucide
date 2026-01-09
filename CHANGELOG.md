@@ -1,3 +1,10 @@
+# 1.8.1
+
+## Bug Fix 🐛
+- Fixed SVG documentation preview where `stroke-width` was incorrectly set to 48 instead of 2
+
+---
+
 # 1.8.0
 
 ## Improvements 🚀

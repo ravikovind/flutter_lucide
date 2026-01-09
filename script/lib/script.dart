@@ -197,9 +197,9 @@ String _applySVGTransformations(
     r"stroke='[^']*'": 'stroke="$strokeColor"',
     r'stroke:\s*[^;"\s]+': 'stroke: $strokeColor',
 
-    // Handle dimensions
-    r'width="[\d.]*"': 'width="$size"',
-    r'height="[\d.]*"': 'height="$size"',
+    // Handle dimensions (negative lookbehind to avoid stroke-width)
+    r'(?<!stroke-)width="[\d.]*"': 'width="$size"',
+    r'(?<!stroke-)height="[\d.]*"': 'height="$size"',
   };
 
   String result = content;
