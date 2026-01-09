@@ -10,13 +10,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ravikovind/flutter_lucide)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ravikovind/flutter_lucide)
 
-A comprehensive Flutter package providing **1,635+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
+A comprehensive Flutter package providing **1,666+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
 
 ![Lucide](https://github.com/ravikovind/flutter_lucide/raw/main/screenshots/logo.png)
 
 ## ✨ Features
 
-- 🎨 **1,635+ Icons** - Comprehensive collection from Lucide 0.543.0
+- 🎨 **1,666+ Icons** - Comprehensive collection from Lucide 0.562.0
 - 🚀 **Tree Shaking** - Only include icons you actually use
 - 📱 **Cross Platform** - Works on Android, iOS, Web, macOS, Windows, and Linux
 - 📚 **Well Documented** - Each icon includes descriptions and categories
@@ -29,7 +29,7 @@ Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.7.0
+  flutter_lucide: ^1.8.0
 ```
 
 Then run:
@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)
 - **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-- **Current Version**: [Lucide 0.543.0](https://github.com/lucide-icons/lucide/releases/tag/0.543.0)
+- **Current Version**: [Lucide 0.562.0](https://github.com/lucide-icons/lucide/releases/tag/0.562.0)
 
 ## Maintainers & Contributors
 

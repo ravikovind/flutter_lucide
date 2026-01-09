@@ -63,6 +63,7 @@ Future<void> main() async {
     );
 
     final nameAsIcon = name.split('-').join('_');
+    final encodedSVG = await encodedSVGContent(name);
     final encoded = info['encodedCode']?.toString().replaceAll('\\', '0x');
 
     final tags = details['tags'] ?? <String>[];
@@ -72,17 +73,16 @@ Future<void> main() async {
             ?.toList() ??
         <String>[];
 
-    final str = '''
+    final str = '''/// ![$nameAsIcon](data:image/svg+xml;base64,$encodedSVG)
+  /// 
   /// Represents the [$nameAsIcon] icon from the Lucide icon set.
   /// 
   /// Description:
   /// - The [$nameAsIcon] icon is a graphical symbol that conveys a specific idea or functionality related to ${tags.join(', ')}.
-  /// - It belongs to the ${categories.join(', ')} categories.
+  /// - It belongs to the categories: ${categories.join(', ')}
   /// 
   /// Acknowledgements:
-  /// - Contributions from ${contributors.join(', ')} have been instrumental in the development of this icon.
-  /// 
-  /// - For more insights, please visit the Lucide icon library at [https://lucide.dev/].
+  /// - Contributors: ${contributors.join(', ')}
   /// 
   static const IconData $nameAsIcon = IconData($encoded, fontFamily: _fontFamily, fontPackage: _fontPackage);
   ''';
@@ -140,4 +140,112 @@ abstract final class LucideIcons {
   final script = io.File(path.join(current, 'flutter_lucide_update.txt'));
   await script.writeAsString(newContent);
   return print('Script completed successfully! 🎉 🎉');
+}
+
+/// Loads an SVG file by icon [name], applies custom styling and dimensions,
+/// then returns a base64-encoded SVG string.
+///
+/// If the SVG is not found or there's an error, a fallback SVG is returned instead.
+///
+/// Parameters:
+/// - [name]: The SVG filename without extension
+/// - [dir]: Directory containing SVG files (default: 'icons')
+/// - [strokeColor]: Hex color for strokes (default: '#0066cc')
+/// - [size]: Width and height dimensions (default: 56)
+Future<String> encodedSVGContent(
+  String name, {
+  String dir = 'icons',
+  String strokeColor = '#0066cc',
+  int size = 48,
+}) async {
+  final filePath = '$dir/$name.svg';
+
+  try {
+    final file = io.File(filePath);
+
+    if (!await file.exists()) {
+      print('⚠️ SVG not found: $filePath');
+      return _getFallbackSVG();
+    }
+
+    String content = await file.readAsString();
+
+    // Apply transformations
+    content = _applySVGTransformations(
+      content,
+      strokeColor: strokeColor,
+      size: size,
+    );
+
+    return convert.base64Encode(convert.utf8.encode(content));
+  } catch (e) {
+    print('❌ Failed to load SVG "$name": $e');
+    return _getFallbackSVG();
+  }
+}
+
+/// Applies styling and dimension transformations to SVG content
+String _applySVGTransformations(
+  String content, {
+  required String strokeColor,
+  required int size,
+}) {
+  // More flexible regex patterns for better matching
+  final transformations = <String, String>{
+    // Handle various stroke color formats
+    r'stroke="[^"]*"': 'stroke="$strokeColor"',
+    r"stroke='[^']*'": 'stroke="$strokeColor"',
+    r'stroke:\s*[^;"\s]+': 'stroke: $strokeColor',
+
+    // Handle dimensions
+    r'width="[\d.]*"': 'width="$size"',
+    r'height="[\d.]*"': 'height="$size"',
+  };
+
+  String result = content;
+
+  // Apply all transformations
+  transformations.forEach((pattern, replacement) {
+    result = result.replaceAll(RegExp(pattern), replacement);
+  });
+
+  // Ensure proper SVG structure
+  result = _ensureSVGStructure(result);
+
+  return result;
+}
+
+/// Ensures SVG has proper namespace and version attributes
+String _ensureSVGStructure(String content) {
+  String result = content;
+
+  // Add xmlns if missing
+  if (!result.contains('xmlns="http://www.w3.org/2000/svg"')) {
+    result = result.replaceFirst(
+      RegExp(r'<svg\b'),
+      '<svg xmlns="http://www.w3.org/2000/svg"',
+    );
+  }
+
+  // Add version if missing (optional but good practice)
+  if (!result.contains('version=')) {
+    result = result.replaceFirst(
+      RegExp(r'<svg\b'),
+      '<svg version="1.1"',
+    );
+  }
+
+  return result;
+}
+
+/// Returns a base64-encoded fallback SVG
+String _getFallbackSVG() {
+  const fallbackSvg = '''
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#ff0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10"/>
+  <line x1="12" y1="8" x2="12" y2="16"/>
+  <line x1="8" y1="12" x2="16" y2="12"/>
+</svg>''';
+
+  return convert.base64Encode(convert.utf8.encode(fallbackSvg));
 }

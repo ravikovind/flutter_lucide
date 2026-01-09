@@ -1,3 +1,30 @@
+# 1.8.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 0.562.0
+- Total icon count increased from 1,635+ to 1,666+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- balloon, birdhouse, book-search, calendars, cannabis-off
+- chess-bishop, chess-king, chess-knight, chess-pawn, chess-queen, chess-rook
+- circle-pile, clock-check, cloud-backup, cloud-sync, ev-charger
+- file-braces, file-braces-corner, file-check-corner, file-code-corner
+- file-exclamation-point, file-headphone, file-minus-corner, file-plus-corner
+- file-search-corner, file-signal, file-type-corner, file-x-corner
+- fingerprint-pattern, fishing-hook, form, gamepad-directional, git-branch-minus
+- hd, helicopter, layers-plus, monitor-cloud, motorbike, mouse-pointer-2-off
+- scooter, search-alert, solar-panel, stone, toolbox, van
+- waves-arrow-down, waves-arrow-up, weight-tilde
+
+## Removed Icons 🗑️
+- file-audio, file-audio-2, file-badge-2, file-check-2, file-code-2
+- file-json, file-json-2, file-key-2, file-lock-2, file-minus-2
+- file-plus-2, file-search-2, file-type-2, file-volume-2, file-warning
+- file-x-2, fingerprint
+
+---
+
 # 1.7.0
 
 ## Improvements 🚀

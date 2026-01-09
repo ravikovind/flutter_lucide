@@ -45,25 +45,8 @@ class _MyHomePageState extends State<MyHomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           const Text('You have pushed the button this many times: '),
-          /*
-Testing Latest Changes -
-
-feat(preview-comment): put x-ray at top if there are more than 7 changed icons to prevent them from being cut of by @jguddas in #3589
-fix(icons): changed church icon by @karsa-mistmere in #2971
-chore(metadata): Added tags to messages-square by @jamiemlaw in #3529
-fix(icons): Optimise bug icons by @jamiemlaw in #3574
-fix(icons): changed list/text & derived icons by @karsa-mistmere in #3568
-fix(icons): changed panel-top-bottom-dashed icon by @jguddas in #3584
-fix(icons): changed message-square-quote icon by @jguddas in #3550
-fix(meta): added tag to ship metadata by @jguddas in #3559
-fix(meta): add tags to id-card-lanyard metadata by @jguddas in #3534
-fix(icons): changed calendar-cog icon by @jguddas in #3583
-chore(deps): bump astro from 5.5.2 to 5.13.2 by @dependabot[bot] in #3564
-feat(packages): add new package for flutter by @vqh2602 in #3536
-feat(icons): added house-heart icon by @danielbayley in #3239
-          */
           Icon(
-            LucideIcons.messages_square,
+            LucideIcons.a_arrow_down,
             size: 48,
             color: Theme.of(context).colorScheme.primary,
           ),
@@ -77,7 +60,7 @@ feat(icons): added house-heart icon by @danielbayley in #3239
             const SizedBox(height: 16),
             IconButton.filled(
               onPressed: _incrementCounter,
-              icon: const Icon(LucideIcons.plus, size: 32),
+              icon: Icon(LucideIcons.plus, size: 32),
             ),
           ] else if (_counter < 0) ...[
             const SizedBox(height: 16),
@@ -109,5 +92,16 @@ feat(icons): added house-heart icon by @danielbayley in #3239
         ),
       ],
     ),
+  );
+}
+
+extension OfIconData on IconData {
+  IconData copyWith({
+    bool? matchTextDirection,
+    List<String>? fontFamilyFallback,
+  }) => IconData(
+    codePoint,
+    matchTextDirection: matchTextDirection ?? this.matchTextDirection,
+    fontFamilyFallback: fontFamilyFallback ?? this.fontFamilyFallback,
   );
 }
