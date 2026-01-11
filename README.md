@@ -29,7 +29,7 @@ Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.8.0
+  flutter_lucide: ^1.8.2
 ```
 
 Then run:

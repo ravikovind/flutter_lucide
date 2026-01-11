@@ -73,19 +73,19 @@ Future<void> main() async {
             ?.toList() ??
         <String>[];
 
-    final str = '''/// ![$nameAsIcon](data:image/svg+xml;base64,$encodedSVG)
-  /// 
+    final str = '''
   /// Represents the [$nameAsIcon] icon from the Lucide icon set.
-  /// 
+  ///
+  /// ![$nameAsIcon](data:image/svg+xml;base64,$encodedSVG)
+  ///
   /// Description:
   /// - The [$nameAsIcon] icon is a graphical symbol that conveys a specific idea or functionality related to ${tags.join(', ')}.
   /// - It belongs to the categories: ${categories.join(', ')}
-  /// 
+  ///
   /// Acknowledgements:
   /// - Contributors: ${contributors.join(', ')}
-  /// 
   static const IconData $nameAsIcon = IconData($encoded, fontFamily: _fontFamily, fontPackage: _fontPackage);
-  ''';
+''';
     list.add(str);
   }
 
@@ -155,7 +155,7 @@ abstract final class LucideIcons {
 Future<String> encodedSVGContent(
   String name, {
   String dir = 'icons',
-  String strokeColor = '#0066cc',
+  String strokeColor = '#eb1d25',
   int size = 48,
 }) async {
   final filePath = '$dir/$name.svg';

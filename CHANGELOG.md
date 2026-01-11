@@ -1,3 +1,10 @@
+# 1.8.2
+
+## Improvement 📝
+- Fixed dartdoc comments formatting for pub.dev documentation score
+
+---
+
 # 1.8.1
 
 ## Bug Fix 🐛
