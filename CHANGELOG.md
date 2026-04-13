@@ -1,3 +1,36 @@
+# 1.9.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.8.0 — a major upstream version milestone
+- Total icon count increased from 1,666+ to 1,695+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- beef-off, bookmark-off, cctv-off, database-search, ellipse
+- fishing-rod, git-merge-conflict, globe-off, globe-x
+- lens-concave, lens-convex, line-dot-right-horizontal, line-style
+- map-pin-search, message-circle-check, message-square-check, metronome
+- mirror-rectangular, mirror-round, mouse-left, mouse-right
+- printer-x, radio-off, road, shelving-unit
+- shield-cog, shield-cog-corner, sport-shoe
+- square-arrow-right-enter, square-arrow-right-exit
+- square-centerline-dashed-horizontal, square-centerline-dashed-vertical
+- towel-rack, user-key, user-round-key, x-line-top
+- zodiac-aquarius, zodiac-aries, zodiac-cancer, zodiac-capricorn, zodiac-gemini
+- zodiac-leo, zodiac-libra, zodiac-ophiuchus, zodiac-pisces, zodiac-sagittarius
+- zodiac-scorpio, zodiac-taurus, zodiac-virgo
+
+## Renamed Icons ✏️
+- `text-select` renamed to `square-dashed-text`
+
+## Removed Icons 🗑️
+- All brand & social media icons have been removed upstream by the Lucide team:
+  chromium, codepen, codesandbox, dribbble, facebook, figma, framer,
+  github, gitlab, instagram, linkedin, pocket, slack, trello, twitch, twitter, youtube
+- Also removed: flip-horizontal, flip-vertical, rail-symbol
+
+---
+
 # 1.8.2
 
 ## Improvement 📝
