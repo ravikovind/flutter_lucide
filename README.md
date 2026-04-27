@@ -40,7 +40,7 @@ flutter pub get
 
 ## 🔍 Looking for a specific icon?
 
-Browse **[ICONS.md](ICONS.md)** — a searchable reference of all 1,699+ icons with tags and categories. Use `Ctrl+F` / `Cmd+F` to find what you need instantly. Dart usage: replace `-` with `_` in the name, e.g. `pin-x` → `LucideIcons.pin_x`.
+Browse **[ICONS.md](https://github.com/ravikovind/flutter_lucide/blob/main/ICONS.md)** — a searchable reference of all 1,699+ icons with tags and categories. Use `Ctrl+F` / `Cmd+F` to find what you need instantly. Dart usage: replace `-` with `_` in the name, e.g. `pin-x` → `LucideIcons.pin_x`.
 
 ## 🚀 Quick Start
 
