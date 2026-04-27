@@ -1,3 +1,21 @@
+# 1.11.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.11.0
+- Total icon count increased from 1,695+ to 1,699+ icons
+- Added `ICONS.md` — searchable reference of all icons with tags and categories
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- bell-check, heart-x, layers-minus, timeline
+
+## Modified Icons 🔨
+- rotate-3d — updated SVG path
+- zap — updated SVG path, added power & quick tags
+- zap-off — updated tags
+
+---
+
 # 1.9.0
 
 ## Improvements 🚀

@@ -45,31 +45,35 @@ class _MyHomePageState extends State<MyHomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           const Text('You have pushed the button this many times: '),
-          Icon(
-            LucideIcons.a_arrow_down,
-            size: 48,
-            color: Theme.of(context).colorScheme.primary,
-          ),
-          Icon(
-            LucideIcons.bug,
-            size: 48,
-            color: Theme.of(context).colorScheme.primary,
-          ),
-
-          if (_counter > 0) ...[
-            const SizedBox(height: 16),
-            IconButton.filled(
-              onPressed: _incrementCounter,
-              icon: Icon(LucideIcons.plus, size: 32),
-            ),
-          ] else if (_counter < 0) ...[
-            const SizedBox(height: 16),
-            IconButton.filled(
-              onPressed: _decrementCounter,
-              icon: const Icon(LucideIcons.minus, size: 32),
-            ),
-          ],
           Text('$_counter', style: Theme.of(context).textTheme.headlineLarge),
+          // https://github.com/ravikovind/flutter_lucide/issues/8
+          // LucideIcons.cloud_sync is showing as a balloon instead of the correct icon
+          // Testing in UI to verify the fix for this issue cloud_sync vs balloon is resolved
+          const SizedBox(height: 16),
+          Wrap(
+            spacing: 16,
+            runSpacing: 16,
+            children: [
+              Icon(
+                LucideIcons.cloud_sync,
+                size: 48,
+                color: Theme.of(context).colorScheme.primary,
+              ),
+              Text(
+                'cloud_sync icon',
+                style: Theme.of(context).textTheme.bodyMedium,
+              ),
+              Text(
+                'balloon icon',
+                style: Theme.of(context).textTheme.bodyMedium,
+              ),
+              Icon(
+                LucideIcons.balloon,
+                size: 48,
+                color: Theme.of(context).colorScheme.primary,
+              ),
+            ],
+          ),
         ],
       ),
     ),

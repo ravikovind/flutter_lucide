@@ -51,6 +51,7 @@ Future<void> main() async {
         });
 
   final list = <String>[];
+  final iconRows = <String>[];
 
   for (final file in files) {
     final name = path.split(file.path).last.split('.').first;
@@ -73,6 +74,7 @@ Future<void> main() async {
             ?.toList() ??
         <String>[];
 
+    // dart constant
     final str = '''
   /// Represents the [$nameAsIcon] icon from the Lucide icon set.
   ///
@@ -87,6 +89,8 @@ Future<void> main() async {
   static const IconData $nameAsIcon = IconData($encoded, fontFamily: _fontFamily, fontPackage: _fontPackage);
 ''';
     list.add(str);
+
+    iconRows.add('| `$name` | ${tags.join(', ')} | ${categories.join(', ')} |');
   }
 
   final newContent = '''
@@ -139,6 +143,29 @@ abstract final class LucideIcons {
 
   final script = io.File(path.join(current, 'flutter_lucide_update.txt'));
   await script.writeAsString(newContent);
+
+  // Generate ICONS.md in repo root (one level up from script/)
+  final iconsContent = '''# Lucide Icons Reference
+
+All **${files.length}** icons available in `flutter_lucide`. Search by name, tag, or category.
+
+> Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
+>
+> Generated automatically by the release script. Do not edit by hand.
+
+---
+
+| Icon | Tags | Categories |
+|------|------|------------|
+${iconRows.join('\n')}
+
+*Total: ${files.length} icons*
+''';
+
+  final iconsFile = io.File(path.join(path.dirname(current), 'ICONS.md'));
+  await iconsFile.writeAsString(iconsContent);
+
+  print('ICONS.md written to repo root with ${files.length} icons.');
   return print('Script completed successfully! 🎉 🎉');
 }
 

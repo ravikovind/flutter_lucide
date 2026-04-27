@@ -10,13 +10,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ravikovind/flutter_lucide)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ravikovind/flutter_lucide)
 
-A comprehensive Flutter package providing **1,695+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
+A comprehensive Flutter package providing **1,699+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
 
 ![Lucide](https://github.com/ravikovind/flutter_lucide/raw/main/screenshots/logo.png)
 
 ## ✨ Features
 
-- 🎨 **1,695+ Icons** - Comprehensive collection from Lucide 1.8.0
+- 🎨 **1,699+ Icons** - Comprehensive collection from Lucide 1.11.0
 - 🚀 **Tree Shaking** - Only include icons you actually use
 - 📱 **Cross Platform** - Works on Android, iOS, Web, macOS, Windows, and Linux
 - 📚 **Well Documented** - Each icon includes descriptions and categories
@@ -29,7 +29,7 @@ Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.9.0
+  flutter_lucide: ^1.11.0
 ```
 
 Then run:
@@ -37,6 +37,10 @@ Then run:
 ```bash
 flutter pub get
 ```
+
+## 🔍 Looking for a specific icon?
+
+Browse **[ICONS.md](ICONS.md)** — a searchable reference of all 1,699+ icons with tags and categories. Use `Ctrl+F` / `Cmd+F` to find what you need instantly. Dart usage: replace `-` with `_` in the name, e.g. `pin-x` → `LucideIcons.pin_x`.
 
 ## 🚀 Quick Start
 
@@ -70,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)
 - **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-- **Current Version**: [Lucide 1.8.0](https://github.com/lucide-icons/lucide/releases/tag/1.8.0)
+- **Current Version**: [Lucide 1.11.0](https://github.com/lucide-icons/lucide/releases/tag/1.11.0)
 
 ## Maintainers & Contributors
 

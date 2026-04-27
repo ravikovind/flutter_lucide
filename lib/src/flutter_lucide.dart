@@ -41,7 +41,7 @@ abstract final class LucideIcons {
   /// [_fontPackage] is the font package for the lucide icon set.
   static const String _fontPackage = 'flutter_lucide';
 
-  /// Represents the [a_arrow_down] icon from the Lucide icon set.
+    /// Represents the [a_arrow_down] icon from the Lucide icon set.
   ///
   /// ![a_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTIgNCA0IDQtNCIgLz4KICA8cGF0aCBkPSJNMTggMTZWNyIgLz4KICA8cGF0aCBkPSJtMiAxNiA0LjAzOS05LjY5YS41LjUgMCAwIDEgLjkyMyAwTDExIDE2IiAvPgogIDxwYXRoIGQ9Ik0zLjMwNCAxM2g2LjM5MiIgLz4KPC9zdmc+Cg==)
   ///
@@ -51,8 +51,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData a_arrow_down =
-      IconData(0xe585, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData a_arrow_down = IconData(0xe585, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [a_arrow_up] icon from the Lucide icon set.
   ///
@@ -64,8 +63,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData a_arrow_up =
-      IconData(0xe586, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData a_arrow_up = IconData(0xe586, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [a_large_small] icon from the Lucide icon set.
   ///
@@ -77,8 +75,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData a_large_small =
-      IconData(0xe587, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData a_large_small = IconData(0xe587, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [accessibility] icon from the Lucide icon set.
   ///
@@ -90,8 +87,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData accessibility =
-      IconData(0xe297, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData accessibility = IconData(0xe297, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [activity] icon from the Lucide icon set.
   ///
@@ -103,8 +99,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData activity =
-      IconData(0xe038, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData activity = IconData(0xe038, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [air_vent] icon from the Lucide icon set.
   ///
@@ -116,8 +111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData air_vent =
-      IconData(0xe34d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData air_vent = IconData(0xe34d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [airplay] icon from the Lucide icon set.
   ///
@@ -129,8 +123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData airplay =
-      IconData(0xe039, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData airplay = IconData(0xe039, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock] icon from the Lucide icon set.
   ///
@@ -142,8 +135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData alarm_clock =
-      IconData(0xe03a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_clock = IconData(0xe03a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_check] icon from the Lucide icon set.
   ///
@@ -155,8 +147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData alarm_clock_check =
-      IconData(0xe1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_clock_check = IconData(0xe1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_minus] icon from the Lucide icon set.
   ///
@@ -168,8 +159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData alarm_clock_minus =
-      IconData(0xe1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_clock_minus = IconData(0xe1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_off] icon from the Lucide icon set.
   ///
@@ -181,8 +171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData alarm_clock_off =
-      IconData(0xe23b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_clock_off = IconData(0xe23b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_clock_plus] icon from the Lucide icon set.
   ///
@@ -194,8 +183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData alarm_clock_plus =
-      IconData(0xe1ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_clock_plus = IconData(0xe1ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [alarm_smoke] icon from the Lucide icon set.
   ///
@@ -207,8 +195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData alarm_smoke =
-      IconData(0xe57b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData alarm_smoke = IconData(0xe57b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [album] icon from the Lucide icon set.
   ///
@@ -220,8 +207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData album =
-      IconData(0xe03b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData album = IconData(0xe03b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_center_horizontal] icon from the Lucide icon set.
   ///
@@ -233,8 +219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_center_horizontal =
-      IconData(0xe26c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_center_horizontal = IconData(0xe26c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_center_vertical] icon from the Lucide icon set.
   ///
@@ -246,8 +231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_center_vertical =
-      IconData(0xe26d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_center_vertical = IconData(0xe26d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_end_horizontal] icon from the Lucide icon set.
   ///
@@ -259,8 +243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_end_horizontal =
-      IconData(0xe26e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_end_horizontal = IconData(0xe26e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_end_vertical] icon from the Lucide icon set.
   ///
@@ -272,8 +255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_end_vertical =
-      IconData(0xe26f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_end_vertical = IconData(0xe26f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_distribute_center] icon from the Lucide icon set.
   ///
@@ -285,8 +267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/r4lv](https://github.com/r4lv), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_distribute_center =
-      IconData(0xe03c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_distribute_center = IconData(0xe03c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_distribute_end] icon from the Lucide icon set.
   ///
@@ -298,8 +279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/r4lv](https://github.com/r4lv), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_distribute_end =
-      IconData(0xe03d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_distribute_end = IconData(0xe03d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_distribute_start] icon from the Lucide icon set.
   ///
@@ -311,8 +291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/r4lv](https://github.com/r4lv), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_distribute_start =
-      IconData(0xe03e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_distribute_start = IconData(0xe03e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_justify_center] icon from the Lucide icon set.
   ///
@@ -324,8 +303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_justify_center =
-      IconData(0xe272, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_justify_center = IconData(0xe272, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_justify_end] icon from the Lucide icon set.
   ///
@@ -337,8 +315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_justify_end =
-      IconData(0xe273, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_justify_end = IconData(0xe273, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_justify_start] icon from the Lucide icon set.
   ///
@@ -350,8 +327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_justify_start =
-      IconData(0xe274, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_justify_start = IconData(0xe274, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_space_around] icon from the Lucide icon set.
   ///
@@ -363,8 +339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_space_around =
-      IconData(0xe275, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_space_around = IconData(0xe275, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_horizontal_space_between] icon from the Lucide icon set.
   ///
@@ -376,8 +351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_horizontal_space_between =
-      IconData(0xe276, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_horizontal_space_between = IconData(0xe276, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_start_horizontal] icon from the Lucide icon set.
   ///
@@ -389,8 +363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_start_horizontal =
-      IconData(0xe270, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_start_horizontal = IconData(0xe270, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_start_vertical] icon from the Lucide icon set.
   ///
@@ -402,8 +375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_start_vertical =
-      IconData(0xe271, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_start_vertical = IconData(0xe271, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_center] icon from the Lucide icon set.
   ///
@@ -415,8 +387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData align_vertical_distribute_center =
-      IconData(0xe27e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_distribute_center = IconData(0xe27e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_end] icon from the Lucide icon set.
   ///
@@ -428,8 +399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_distribute_end =
-      IconData(0xe27f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_distribute_end = IconData(0xe27f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_distribute_start] icon from the Lucide icon set.
   ///
@@ -441,8 +411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_distribute_start =
-      IconData(0xe280, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_distribute_start = IconData(0xe280, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_center] icon from the Lucide icon set.
   ///
@@ -454,8 +423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_justify_center =
-      IconData(0xe277, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_justify_center = IconData(0xe277, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_end] icon from the Lucide icon set.
   ///
@@ -467,8 +435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_justify_end =
-      IconData(0xe278, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_justify_end = IconData(0xe278, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_justify_start] icon from the Lucide icon set.
   ///
@@ -480,8 +447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_justify_start =
-      IconData(0xe279, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_justify_start = IconData(0xe279, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_space_around] icon from the Lucide icon set.
   ///
@@ -493,8 +459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_space_around =
-      IconData(0xe27a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_space_around = IconData(0xe27a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [align_vertical_space_between] icon from the Lucide icon set.
   ///
@@ -506,8 +471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData align_vertical_space_between =
-      IconData(0xe27b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData align_vertical_space_between = IconData(0xe27b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ambulance] icon from the Lucide icon set.
   ///
@@ -519,8 +483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ambulance =
-      IconData(0xe5bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ambulance = IconData(0xe5bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ampersand] icon from the Lucide icon set.
   ///
@@ -532,8 +495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData ampersand =
-      IconData(0xe49c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ampersand = IconData(0xe49c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ampersands] icon from the Lucide icon set.
   ///
@@ -545,8 +507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ampersands =
-      IconData(0xe49d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ampersands = IconData(0xe49d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [amphora] icon from the Lucide icon set.
   ///
@@ -558,8 +519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData amphora =
-      IconData(0xe61b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData amphora = IconData(0xe61b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [anchor] icon from the Lucide icon set.
   ///
@@ -571,8 +531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData anchor =
-      IconData(0xe03f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData anchor = IconData(0xe03f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [angry] icon from the Lucide icon set.
   ///
@@ -584,8 +543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData angry =
-      IconData(0xe2fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData angry = IconData(0xe2fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [annoyed] icon from the Lucide icon set.
   ///
@@ -597,8 +555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData annoyed =
-      IconData(0xe2fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData annoyed = IconData(0xe2fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [antenna] icon from the Lucide icon set.
   ///
@@ -610,8 +567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData antenna =
-      IconData(0xe4e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData antenna = IconData(0xe4e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [anvil] icon from the Lucide icon set.
   ///
@@ -623,8 +579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData anvil =
-      IconData(0xe580, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData anvil = IconData(0xe580, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [aperture] icon from the Lucide icon set.
   ///
@@ -636,8 +591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData aperture =
-      IconData(0xe040, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData aperture = IconData(0xe040, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [app_window] icon from the Lucide icon set.
   ///
@@ -649,8 +603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData app_window =
-      IconData(0xe426, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData app_window = IconData(0xe426, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [app_window_mac] icon from the Lucide icon set.
   ///
@@ -662,8 +615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData app_window_mac =
-      IconData(0xe5d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData app_window_mac = IconData(0xe5d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [apple] icon from the Lucide icon set.
   ///
@@ -675,8 +627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData apple =
-      IconData(0xe34e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData apple = IconData(0xe34e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [archive] icon from the Lucide icon set.
   ///
@@ -688,8 +639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData archive =
-      IconData(0xe041, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData archive = IconData(0xe041, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [archive_restore] icon from the Lucide icon set.
   ///
@@ -701,8 +651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData archive_restore =
-      IconData(0xe2cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData archive_restore = IconData(0xe2cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [archive_x] icon from the Lucide icon set.
   ///
@@ -714,8 +663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData archive_x =
-      IconData(0xe50c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData archive_x = IconData(0xe50c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [armchair] icon from the Lucide icon set.
   ///
@@ -727,8 +675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData armchair =
-      IconData(0xe2c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData armchair = IconData(0xe2c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_down] icon from the Lucide icon set.
   ///
@@ -740,8 +687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_down =
-      IconData(0xe1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_down = IconData(0xe1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_down_dash] icon from the Lucide icon set.
   ///
@@ -753,8 +699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_down_dash =
-      IconData(0xe41d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_down_dash = IconData(0xe41d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_left] icon from the Lucide icon set.
   ///
@@ -766,8 +711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_left =
-      IconData(0xe1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_left = IconData(0xe1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_left_dash] icon from the Lucide icon set.
   ///
@@ -779,8 +723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_left_dash =
-      IconData(0xe41e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_left_dash = IconData(0xe41e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_right] icon from the Lucide icon set.
   ///
@@ -792,8 +735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_right =
-      IconData(0xe1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_right = IconData(0xe1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_right_dash] icon from the Lucide icon set.
   ///
@@ -805,8 +747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_right_dash =
-      IconData(0xe41f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_right_dash = IconData(0xe41f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_up] icon from the Lucide icon set.
   ///
@@ -818,8 +759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_up =
-      IconData(0xe1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_up = IconData(0xe1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_big_up_dash] icon from the Lucide icon set.
   ///
@@ -831,8 +771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData arrow_big_up_dash =
-      IconData(0xe420, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_big_up_dash = IconData(0xe420, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down] icon from the Lucide icon set.
   ///
@@ -844,8 +783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_down =
-      IconData(0xe042, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down = IconData(0xe042, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_0_1] icon from the Lucide icon set.
   ///
@@ -857,8 +795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_down_0_1 =
-      IconData(0xe413, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_0_1 = IconData(0xe413, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_1_0] icon from the Lucide icon set.
   ///
@@ -870,8 +807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_down_1_0 =
-      IconData(0xe414, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_1_0 = IconData(0xe414, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_a_z] icon from the Lucide icon set.
   ///
@@ -883,8 +819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_down_a_z =
-      IconData(0xe415, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_a_z = IconData(0xe415, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_from_line] icon from the Lucide icon set.
   ///
@@ -896,8 +831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_down_from_line =
-      IconData(0xe454, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_from_line = IconData(0xe454, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_left] icon from the Lucide icon set.
   ///
@@ -909,8 +843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_down_left =
-      IconData(0xe043, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_left = IconData(0xe043, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_narrow_wide] icon from the Lucide icon set.
   ///
@@ -922,8 +855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_down_narrow_wide =
-      IconData(0xe044, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_narrow_wide = IconData(0xe044, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_right] icon from the Lucide icon set.
   ///
@@ -935,8 +867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_down_right =
-      IconData(0xe045, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_right = IconData(0xe045, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_to_dot] icon from the Lucide icon set.
   ///
@@ -948,8 +879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_down_to_dot =
-      IconData(0xe44d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_to_dot = IconData(0xe44d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_to_line] icon from the Lucide icon set.
   ///
@@ -961,8 +891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_down_to_line =
-      IconData(0xe455, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_to_line = IconData(0xe455, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_up] icon from the Lucide icon set.
   ///
@@ -974,8 +903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_down_up =
-      IconData(0xe046, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_up = IconData(0xe046, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_wide_narrow] icon from the Lucide icon set.
   ///
@@ -987,8 +915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_down_wide_narrow =
-      IconData(0xe047, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_wide_narrow = IconData(0xe047, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_down_z_a] icon from the Lucide icon set.
   ///
@@ -1000,8 +927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_down_z_a =
-      IconData(0xe416, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_down_z_a = IconData(0xe416, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left] icon from the Lucide icon set.
   ///
@@ -1013,8 +939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_left =
-      IconData(0xe048, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_left = IconData(0xe048, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left_from_line] icon from the Lucide icon set.
   ///
@@ -1026,8 +951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_left_from_line =
-      IconData(0xe456, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_left_from_line = IconData(0xe456, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left_right] icon from the Lucide icon set.
   ///
@@ -1039,8 +963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_left_right =
-      IconData(0xe24a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_left_right = IconData(0xe24a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_left_to_line] icon from the Lucide icon set.
   ///
@@ -1052,8 +975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_left_to_line =
-      IconData(0xe457, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_left_to_line = IconData(0xe457, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right] icon from the Lucide icon set.
   ///
@@ -1065,8 +987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_right =
-      IconData(0xe049, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_right = IconData(0xe049, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right_from_line] icon from the Lucide icon set.
   ///
@@ -1078,8 +999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_right_from_line =
-      IconData(0xe458, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_right_from_line = IconData(0xe458, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right_left] icon from the Lucide icon set.
   ///
@@ -1091,8 +1011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_right_left =
-      IconData(0xe417, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_right_left = IconData(0xe417, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_right_to_line] icon from the Lucide icon set.
   ///
@@ -1104,8 +1023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_right_to_line =
-      IconData(0xe459, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_right_to_line = IconData(0xe459, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up] icon from the Lucide icon set.
   ///
@@ -1117,8 +1035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up =
-      IconData(0xe04a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up = IconData(0xe04a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_0_1] icon from the Lucide icon set.
   ///
@@ -1130,8 +1047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_up_0_1 =
-      IconData(0xe418, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_0_1 = IconData(0xe418, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_1_0] icon from the Lucide icon set.
   ///
@@ -1143,8 +1059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_up_1_0 =
-      IconData(0xe419, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_1_0 = IconData(0xe419, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_a_z] icon from the Lucide icon set.
   ///
@@ -1156,8 +1071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_up_a_z =
-      IconData(0xe41a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_a_z = IconData(0xe41a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_down] icon from the Lucide icon set.
   ///
@@ -1169,8 +1083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up_down =
-      IconData(0xe37d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_down = IconData(0xe37d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_from_dot] icon from the Lucide icon set.
   ///
@@ -1182,8 +1095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_up_from_dot =
-      IconData(0xe44e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_from_dot = IconData(0xe44e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_from_line] icon from the Lucide icon set.
   ///
@@ -1195,8 +1107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up_from_line =
-      IconData(0xe45a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_from_line = IconData(0xe45a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_left] icon from the Lucide icon set.
   ///
@@ -1208,8 +1119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up_left =
-      IconData(0xe04b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_left = IconData(0xe04b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_narrow_wide] icon from the Lucide icon set.
   ///
@@ -1221,8 +1131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lukesmurray](https://github.com/lukesmurray), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_up_narrow_wide =
-      IconData(0xe04c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_narrow_wide = IconData(0xe04c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_right] icon from the Lucide icon set.
   ///
@@ -1234,8 +1143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up_right =
-      IconData(0xe04d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_right = IconData(0xe04d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_to_line] icon from the Lucide icon set.
   ///
@@ -1247,8 +1155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrow_up_to_line =
-      IconData(0xe45b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_to_line = IconData(0xe45b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_wide_narrow] icon from the Lucide icon set.
   ///
@@ -1260,8 +1167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData arrow_up_wide_narrow =
-      IconData(0xe41b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_wide_narrow = IconData(0xe41b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrow_up_z_a] icon from the Lucide icon set.
   ///
@@ -1273,8 +1179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData arrow_up_z_a =
-      IconData(0xe41c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrow_up_z_a = IconData(0xe41c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [arrows_up_from_line] icon from the Lucide icon set.
   ///
@@ -1286,8 +1191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData arrows_up_from_line =
-      IconData(0xe4d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData arrows_up_from_line = IconData(0xe4d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [asterisk] icon from the Lucide icon set.
   ///
@@ -1299,8 +1203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData asterisk =
-      IconData(0xe1ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData asterisk = IconData(0xe1ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [at_sign] icon from the Lucide icon set.
   ///
@@ -1312,8 +1215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData at_sign =
-      IconData(0xe04e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData at_sign = IconData(0xe04e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [atom] icon from the Lucide icon set.
   ///
@@ -1325,8 +1227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData atom =
-      IconData(0xe3d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData atom = IconData(0xe3d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [audio_lines] icon from the Lucide icon set.
   ///
@@ -1338,8 +1239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData audio_lines =
-      IconData(0xe55a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData audio_lines = IconData(0xe55a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [audio_waveform] icon from the Lucide icon set.
   ///
@@ -1351,8 +1251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData audio_waveform =
-      IconData(0xe55b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData audio_waveform = IconData(0xe55b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [award] icon from the Lucide icon set.
   ///
@@ -1364,8 +1263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData award =
-      IconData(0xe04f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData award = IconData(0xe04f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [axe] icon from the Lucide icon set.
   ///
@@ -1377,8 +1275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData axe =
-      IconData(0xe050, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData axe = IconData(0xe050, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [axis_3d] icon from the Lucide icon set.
   ///
@@ -1390,8 +1287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData axis_3d =
-      IconData(0xe2fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData axis_3d = IconData(0xe2fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baby] icon from the Lucide icon set.
   ///
@@ -1403,8 +1299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData baby =
-      IconData(0xe2ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData baby = IconData(0xe2ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [backpack] icon from the Lucide icon set.
   ///
@@ -1416,8 +1311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData backpack =
-      IconData(0xe2c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData backpack = IconData(0xe2c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge] icon from the Lucide icon set.
   ///
@@ -1429,8 +1323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge =
-      IconData(0xe474, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge = IconData(0xe474, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_alert] icon from the Lucide icon set.
   ///
@@ -1442,8 +1335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_alert =
-      IconData(0xe475, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_alert = IconData(0xe475, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_cent] icon from the Lucide icon set.
   ///
@@ -1455,8 +1347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_cent =
-      IconData(0xe50f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_cent = IconData(0xe50f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_check] icon from the Lucide icon set.
   ///
@@ -1468,8 +1359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_check =
-      IconData(0xe241, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_check = IconData(0xe241, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_dollar_sign] icon from the Lucide icon set.
   ///
@@ -1481,8 +1371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_dollar_sign =
-      IconData(0xe476, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_dollar_sign = IconData(0xe476, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_euro] icon from the Lucide icon set.
   ///
@@ -1494,8 +1383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_euro =
-      IconData(0xe510, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_euro = IconData(0xe510, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_indian_rupee] icon from the Lucide icon set.
   ///
@@ -1507,8 +1395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_indian_rupee =
-      IconData(0xe511, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_indian_rupee = IconData(0xe511, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_info] icon from the Lucide icon set.
   ///
@@ -1520,8 +1407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_info =
-      IconData(0xe477, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_info = IconData(0xe477, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_japanese_yen] icon from the Lucide icon set.
   ///
@@ -1533,8 +1419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_japanese_yen =
-      IconData(0xe512, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_japanese_yen = IconData(0xe512, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_minus] icon from the Lucide icon set.
   ///
@@ -1546,8 +1431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_minus =
-      IconData(0xe478, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_minus = IconData(0xe478, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_percent] icon from the Lucide icon set.
   ///
@@ -1559,8 +1443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_percent =
-      IconData(0xe479, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_percent = IconData(0xe479, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_plus] icon from the Lucide icon set.
   ///
@@ -1572,8 +1455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_plus =
-      IconData(0xe47a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_plus = IconData(0xe47a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_pound_sterling] icon from the Lucide icon set.
   ///
@@ -1585,8 +1467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_pound_sterling =
-      IconData(0xe513, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_pound_sterling = IconData(0xe513, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_question_mark] icon from the Lucide icon set.
   ///
@@ -1598,8 +1479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_question_mark =
-      IconData(0xe47b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_question_mark = IconData(0xe47b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_russian_ruble] icon from the Lucide icon set.
   ///
@@ -1611,8 +1491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_russian_ruble =
-      IconData(0xe514, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_russian_ruble = IconData(0xe514, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_swiss_franc] icon from the Lucide icon set.
   ///
@@ -1624,8 +1503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData badge_swiss_franc =
-      IconData(0xe515, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_swiss_franc = IconData(0xe515, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_turkish_lira] icon from the Lucide icon set.
   ///
@@ -1637,8 +1515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData badge_turkish_lira =
-      IconData(0xe67e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_turkish_lira = IconData(0xe67e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [badge_x] icon from the Lucide icon set.
   ///
@@ -1650,8 +1527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_x =
-      IconData(0xe47c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData badge_x = IconData(0xe47c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baggage_claim] icon from the Lucide icon set.
   ///
@@ -1663,8 +1539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData baggage_claim =
-      IconData(0xe2c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData baggage_claim = IconData(0xe2c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [balloon] icon from the Lucide icon set.
   ///
@@ -1676,8 +1551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/peteruithoven](https://github.com/peteruithoven)
-  static const IconData balloon =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData balloon = IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ban] icon from the Lucide icon set.
   ///
@@ -1689,8 +1563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData ban =
-      IconData(0xe051, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ban = IconData(0xe051, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banana] icon from the Lucide icon set.
   ///
@@ -1702,8 +1575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData banana =
-      IconData(0xe34f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData banana = IconData(0xe34f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bandage] icon from the Lucide icon set.
   ///
@@ -1715,8 +1587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bandage =
-      IconData(0xe61d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bandage = IconData(0xe61d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banknote] icon from the Lucide icon set.
   ///
@@ -1728,8 +1599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData banknote =
-      IconData(0xe052, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData banknote = IconData(0xe052, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banknote_arrow_down] icon from the Lucide icon set.
   ///
@@ -1741,8 +1611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/joffx](https://github.com/joffx), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData banknote_arrow_down =
-      IconData(0xe64c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData banknote_arrow_down = IconData(0xe64c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banknote_arrow_up] icon from the Lucide icon set.
   ///
@@ -1754,8 +1623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/joffx](https://github.com/joffx), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData banknote_arrow_up =
-      IconData(0xe64d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData banknote_arrow_up = IconData(0xe64d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [banknote_x] icon from the Lucide icon set.
   ///
@@ -1767,8 +1635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/joffx](https://github.com/joffx), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData banknote_x =
-      IconData(0xe64e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData banknote_x = IconData(0xe64e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [barcode] icon from the Lucide icon set.
   ///
@@ -1780,8 +1647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData barcode =
-      IconData(0xe533, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData barcode = IconData(0xe533, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [barrel] icon from the Lucide icon set.
   ///
@@ -1793,8 +1659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData barrel =
-      IconData(0xe675, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData barrel = IconData(0xe675, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [baseline] icon from the Lucide icon set.
   ///
@@ -1806,8 +1671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData baseline =
-      IconData(0xe285, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData baseline = IconData(0xe285, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bath] icon from the Lucide icon set.
   ///
@@ -1819,8 +1683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData bath =
-      IconData(0xe2ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bath = IconData(0xe2ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery] icon from the Lucide icon set.
   ///
@@ -1832,8 +1695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery =
-      IconData(0xe053, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery = IconData(0xe053, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_charging] icon from the Lucide icon set.
   ///
@@ -1845,8 +1707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_charging =
-      IconData(0xe054, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_charging = IconData(0xe054, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_full] icon from the Lucide icon set.
   ///
@@ -1858,8 +1719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_full =
-      IconData(0xe055, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_full = IconData(0xe055, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_low] icon from the Lucide icon set.
   ///
@@ -1871,8 +1731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_low =
-      IconData(0xe056, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_low = IconData(0xe056, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_medium] icon from the Lucide icon set.
   ///
@@ -1884,8 +1743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_medium =
-      IconData(0xe057, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_medium = IconData(0xe057, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_plus] icon from the Lucide icon set.
   ///
@@ -1897,8 +1755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/Footagesus](https://github.com/Footagesus)
-  static const IconData battery_plus =
-      IconData(0xe63e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_plus = IconData(0xe63e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [battery_warning] icon from the Lucide icon set.
   ///
@@ -1910,8 +1767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Kaladii](https://github.com/Kaladii), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_warning =
-      IconData(0xe3ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData battery_warning = IconData(0xe3ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beaker] icon from the Lucide icon set.
   ///
@@ -1923,8 +1779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData beaker =
-      IconData(0xe058, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData beaker = IconData(0xe058, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bean] icon from the Lucide icon set.
   ///
@@ -1936,8 +1791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bean =
-      IconData(0xe38f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bean = IconData(0xe38f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bean_off] icon from the Lucide icon set.
   ///
@@ -1949,8 +1803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bean_off =
-      IconData(0xe390, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bean_off = IconData(0xe390, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed] icon from the Lucide icon set.
   ///
@@ -1962,8 +1815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bed =
-      IconData(0xe2c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bed = IconData(0xe2c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed_double] icon from the Lucide icon set.
   ///
@@ -1975,8 +1827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bed_double =
-      IconData(0xe2c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bed_double = IconData(0xe2c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bed_single] icon from the Lucide icon set.
   ///
@@ -1988,8 +1839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bed_single =
-      IconData(0xe2c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bed_single = IconData(0xe2c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beef] icon from the Lucide icon set.
   ///
@@ -2001,8 +1851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData beef =
-      IconData(0xe3a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData beef = IconData(0xe3a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beef_off] icon from the Lucide icon set.
   ///
@@ -2014,8 +1863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData beef_off =
-      IconData(0xe6dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData beef_off = IconData(0xe6dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beer] icon from the Lucide icon set.
   ///
@@ -2027,8 +1875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData beer =
-      IconData(0xe2cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData beer = IconData(0xe2cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [beer_off] icon from the Lucide icon set.
   ///
@@ -2040,8 +1887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData beer_off =
-      IconData(0xe5d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData beer_off = IconData(0xe5d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell] icon from the Lucide icon set.
   ///
@@ -2053,8 +1899,19 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bell =
-      IconData(0xe059, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell = IconData(0xe059, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [bell_check] icon from the Lucide icon set.
+  ///
+  /// ![bell_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMjY4IDIxYTIgMiAwIDAgMCAzLjQ2NCAwIiAvPgogIDxwYXRoIGQ9Im0xNSA4IDIgMiA0LTQiIC8+CiAgPHBhdGggZD0iTTE2Ljg2MDcgNC40ODI0QTYgNiAwIDAgMCA2IDhDNiAxMi40OTkgNC41ODkgMTMuOTU2IDMuMjYyIDE1LjMyNiIgLz4KICA8cGF0aCBkPSJNMy4yNjIgMTUuMzI2QTEgMSAwIDAgMCA0IDE3SDIwQTEgMSAwIDAgMCAyMC43NCAxNS4zMjdDMjAuMjA5IDE0Ljc3OSAxOS42NjUgMTQuMjE4IDE5LjIwMyAxMy40NTQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [bell_check] icon is a graphical symbol that conveys a specific idea or functionality related to alarm, notification, sound, reminder.
+  /// - It belongs to the categories: account, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/pettelau](https://github.com/pettelau)
+  static const IconData bell_check = IconData(0xe6ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_dot] icon from the Lucide icon set.
   ///
@@ -2066,8 +1923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bell_dot =
-      IconData(0xe42b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_dot = IconData(0xe42b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_electric] icon from the Lucide icon set.
   ///
@@ -2079,8 +1935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bell_electric =
-      IconData(0xe57c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_electric = IconData(0xe57c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_minus] icon from the Lucide icon set.
   ///
@@ -2092,8 +1947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bell_minus =
-      IconData(0xe1f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_minus = IconData(0xe1f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_off] icon from the Lucide icon set.
   ///
@@ -2105,8 +1959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bell_off =
-      IconData(0xe05a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_off = IconData(0xe05a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_plus] icon from the Lucide icon set.
   ///
@@ -2118,8 +1971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bell_plus =
-      IconData(0xe1f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_plus = IconData(0xe1f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bell_ring] icon from the Lucide icon set.
   ///
@@ -2131,8 +1983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bell_ring =
-      IconData(0xe224, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bell_ring = IconData(0xe224, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_horizontal_end] icon from the Lucide icon set.
   ///
@@ -2144,8 +1995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData between_horizontal_end =
-      IconData(0xe591, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData between_horizontal_end = IconData(0xe591, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_horizontal_start] icon from the Lucide icon set.
   ///
@@ -2157,8 +2007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData between_horizontal_start =
-      IconData(0xe592, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData between_horizontal_start = IconData(0xe592, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_vertical_end] icon from the Lucide icon set.
   ///
@@ -2170,8 +2019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData between_vertical_end =
-      IconData(0xe593, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData between_vertical_end = IconData(0xe593, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [between_vertical_start] icon from the Lucide icon set.
   ///
@@ -2183,8 +2031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData between_vertical_start =
-      IconData(0xe594, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData between_vertical_start = IconData(0xe594, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [biceps_flexed] icon from the Lucide icon set.
   ///
@@ -2196,8 +2043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData biceps_flexed =
-      IconData(0xe5eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData biceps_flexed = IconData(0xe5eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bike] icon from the Lucide icon set.
   ///
@@ -2209,8 +2055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bike =
-      IconData(0xe1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bike = IconData(0xe1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [binary] icon from the Lucide icon set.
   ///
@@ -2222,8 +2067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData binary =
-      IconData(0xe1f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData binary = IconData(0xe1f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [binoculars] icon from the Lucide icon set.
   ///
@@ -2235,8 +2079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData binoculars =
-      IconData(0xe621, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData binoculars = IconData(0xe621, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [biohazard] icon from the Lucide icon set.
   ///
@@ -2248,8 +2091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData biohazard =
-      IconData(0xe441, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData biohazard = IconData(0xe441, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bird] icon from the Lucide icon set.
   ///
@@ -2261,8 +2103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData bird =
-      IconData(0xe3c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bird = IconData(0xe3c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [birdhouse] icon from the Lucide icon set.
   ///
@@ -2274,8 +2115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/hieu-onefold](https://github.com/hieu-onefold), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData birdhouse =
-      IconData(0xe69a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData birdhouse = IconData(0xe69a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bitcoin] icon from the Lucide icon set.
   ///
@@ -2287,8 +2127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData bitcoin =
-      IconData(0xe05b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bitcoin = IconData(0xe05b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [blend] icon from the Lucide icon set.
   ///
@@ -2300,8 +2139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData blend =
-      IconData(0xe59c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData blend = IconData(0xe59c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [blinds] icon from the Lucide icon set.
   ///
@@ -2313,8 +2151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData blinds =
-      IconData(0xe3c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData blinds = IconData(0xe3c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [blocks] icon from the Lucide icon set.
   ///
@@ -2326,8 +2163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData blocks =
-      IconData(0xe4fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData blocks = IconData(0xe4fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth] icon from the Lucide icon set.
   ///
@@ -2339,8 +2175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData bluetooth =
-      IconData(0xe05c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bluetooth = IconData(0xe05c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth_connected] icon from the Lucide icon set.
   ///
@@ -2352,8 +2187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData bluetooth_connected =
-      IconData(0xe1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bluetooth_connected = IconData(0xe1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth_off] icon from the Lucide icon set.
   ///
@@ -2365,8 +2199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData bluetooth_off =
-      IconData(0xe1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bluetooth_off = IconData(0xe1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bluetooth_searching] icon from the Lucide icon set.
   ///
@@ -2378,8 +2211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData bluetooth_searching =
-      IconData(0xe1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bluetooth_searching = IconData(0xe1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bold] icon from the Lucide icon set.
   ///
@@ -2391,8 +2223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bold =
-      IconData(0xe05d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bold = IconData(0xe05d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bolt] icon from the Lucide icon set.
   ///
@@ -2404,8 +2235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData bolt =
-      IconData(0xe58c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bolt = IconData(0xe58c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bomb] icon from the Lucide icon set.
   ///
@@ -2417,8 +2247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bomb =
-      IconData(0xe2ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bomb = IconData(0xe2ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bone] icon from the Lucide icon set.
   ///
@@ -2430,8 +2259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bone =
-      IconData(0xe358, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bone = IconData(0xe358, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book] icon from the Lucide icon set.
   ///
@@ -2443,8 +2271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData book =
-      IconData(0xe05e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book = IconData(0xe05e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_a] icon from the Lucide icon set.
   ///
@@ -2456,8 +2283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_a =
-      IconData(0xe544, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_a = IconData(0xe544, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_alert] icon from the Lucide icon set.
   ///
@@ -2469,8 +2295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/domasmark](https://github.com/domasmark)
-  static const IconData book_alert =
-      IconData(0xe672, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_alert = IconData(0xe672, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_audio] icon from the Lucide icon set.
   ///
@@ -2482,8 +2307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_audio =
-      IconData(0xe545, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_audio = IconData(0xe545, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_check] icon from the Lucide icon set.
   ///
@@ -2495,8 +2319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_check =
-      IconData(0xe546, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_check = IconData(0xe546, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_copy] icon from the Lucide icon set.
   ///
@@ -2508,8 +2331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData book_copy =
-      IconData(0xe3ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_copy = IconData(0xe3ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_dashed] icon from the Lucide icon set.
   ///
@@ -2521,8 +2343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData book_dashed =
-      IconData(0xe3ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_dashed = IconData(0xe3ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_down] icon from the Lucide icon set.
   ///
@@ -2534,8 +2355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_down =
-      IconData(0xe3ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_down = IconData(0xe3ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_headphones] icon from the Lucide icon set.
   ///
@@ -2547,8 +2367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_headphones =
-      IconData(0xe547, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_headphones = IconData(0xe547, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_heart] icon from the Lucide icon set.
   ///
@@ -2560,8 +2379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData book_heart =
-      IconData(0xe548, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_heart = IconData(0xe548, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_image] icon from the Lucide icon set.
   ///
@@ -2573,8 +2391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData book_image =
-      IconData(0xe549, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_image = IconData(0xe549, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_key] icon from the Lucide icon set.
   ///
@@ -2586,8 +2403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData book_key =
-      IconData(0xe3ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_key = IconData(0xe3ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_lock] icon from the Lucide icon set.
   ///
@@ -2599,8 +2415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_lock =
-      IconData(0xe3f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_lock = IconData(0xe3f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_marked] icon from the Lucide icon set.
   ///
@@ -2612,8 +2427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_marked =
-      IconData(0xe3f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_marked = IconData(0xe3f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_minus] icon from the Lucide icon set.
   ///
@@ -2625,8 +2439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_minus =
-      IconData(0xe3f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_minus = IconData(0xe3f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_open] icon from the Lucide icon set.
   ///
@@ -2638,8 +2451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData book_open =
-      IconData(0xe05f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_open = IconData(0xe05f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_open_check] icon from the Lucide icon set.
   ///
@@ -2651,8 +2463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/schmidt-oliver](https://github.com/schmidt-oliver), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData book_open_check =
-      IconData(0xe381, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_open_check = IconData(0xe381, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_open_text] icon from the Lucide icon set.
   ///
@@ -2664,8 +2475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_open_text =
-      IconData(0xe54a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_open_text = IconData(0xe54a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_plus] icon from the Lucide icon set.
   ///
@@ -2677,8 +2487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_plus =
-      IconData(0xe3f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_plus = IconData(0xe3f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_search] icon from the Lucide icon set.
   ///
@@ -2690,8 +2499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir)
-  static const IconData book_search =
-      IconData(0xe6ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_search = IconData(0xe6ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_text] icon from the Lucide icon set.
   ///
@@ -2703,8 +2511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_text =
-      IconData(0xe54b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_text = IconData(0xe54b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_type] icon from the Lucide icon set.
   ///
@@ -2716,8 +2523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_type =
-      IconData(0xe54c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_type = IconData(0xe54c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_up] icon from the Lucide icon set.
   ///
@@ -2729,8 +2535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_up =
-      IconData(0xe3f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_up = IconData(0xe3f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_up_2] icon from the Lucide icon set.
   ///
@@ -2742,8 +2547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_up_2 =
-      IconData(0xe4a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_up_2 = IconData(0xe4a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_user] icon from the Lucide icon set.
   ///
@@ -2755,8 +2559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_user =
-      IconData(0xe54d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_user = IconData(0xe54d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [book_x] icon from the Lucide icon set.
   ///
@@ -2768,8 +2571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_x =
-      IconData(0xe3f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData book_x = IconData(0xe3f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark] icon from the Lucide icon set.
   ///
@@ -2781,8 +2583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/siarie](https://github.com/siarie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bookmark =
-      IconData(0xe060, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark = IconData(0xe060, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_check] icon from the Lucide icon set.
   ///
@@ -2794,8 +2595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bookmark_check =
-      IconData(0xe51f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark_check = IconData(0xe51f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_minus] icon from the Lucide icon set.
   ///
@@ -2807,8 +2607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/siarie](https://github.com/siarie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bookmark_minus =
-      IconData(0xe23c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark_minus = IconData(0xe23c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_off] icon from the Lucide icon set.
   ///
@@ -2820,8 +2619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/siarie](https://github.com/siarie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ZeenatLawal](https://github.com/ZeenatLawal), [https://github.com/swastik7805](https://github.com/swastik7805), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bookmark_off =
-      IconData(0xe6df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark_off = IconData(0xe6df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_plus] icon from the Lucide icon set.
   ///
@@ -2833,8 +2631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/siarie](https://github.com/siarie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bookmark_plus =
-      IconData(0xe23d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark_plus = IconData(0xe23d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bookmark_x] icon from the Lucide icon set.
   ///
@@ -2846,8 +2643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bookmark_x =
-      IconData(0xe520, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bookmark_x = IconData(0xe520, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [boom_box] icon from the Lucide icon set.
   ///
@@ -2859,8 +2655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData boom_box =
-      IconData(0xe4ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData boom_box = IconData(0xe4ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot] icon from the Lucide icon set.
   ///
@@ -2872,8 +2667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bot =
-      IconData(0xe1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bot = IconData(0xe1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot_message_square] icon from the Lucide icon set.
   ///
@@ -2885,8 +2679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bot_message_square =
-      IconData(0xe5ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bot_message_square = IconData(0xe5ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bot_off] icon from the Lucide icon set.
   ///
@@ -2898,8 +2691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/taichimaeda](https://github.com/taichimaeda), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData bot_off =
-      IconData(0xe5e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bot_off = IconData(0xe5e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bottle_wine] icon from the Lucide icon set.
   ///
@@ -2911,8 +2703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData bottle_wine =
-      IconData(0xe67b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bottle_wine = IconData(0xe67b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bow_arrow] icon from the Lucide icon set.
   ///
@@ -2924,8 +2715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData bow_arrow =
-      IconData(0xe65e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bow_arrow = IconData(0xe65e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [box] icon from the Lucide icon set.
   ///
@@ -2937,8 +2727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData box =
-      IconData(0xe061, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData box = IconData(0xe061, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [boxes] icon from the Lucide icon set.
   ///
@@ -2950,8 +2739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData boxes =
-      IconData(0xe2d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData boxes = IconData(0xe2d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [braces] icon from the Lucide icon set.
   ///
@@ -2963,8 +2751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData braces =
-      IconData(0xe36a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData braces = IconData(0xe36a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brackets] icon from the Lucide icon set.
   ///
@@ -2976,8 +2763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData brackets =
-      IconData(0xe443, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brackets = IconData(0xe443, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain] icon from the Lucide icon set.
   ///
@@ -2989,8 +2775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData brain =
-      IconData(0xe3c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brain = IconData(0xe3c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain_circuit] icon from the Lucide icon set.
   ///
@@ -3002,8 +2787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData brain_circuit =
-      IconData(0xe3c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brain_circuit = IconData(0xe3c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brain_cog] icon from the Lucide icon set.
   ///
@@ -3015,8 +2799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData brain_cog =
-      IconData(0xe3c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brain_cog = IconData(0xe3c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brick_wall] icon from the Lucide icon set.
   ///
@@ -3028,8 +2811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData brick_wall =
-      IconData(0xe581, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brick_wall = IconData(0xe581, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brick_wall_fire] icon from the Lucide icon set.
   ///
@@ -3041,8 +2823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData brick_wall_fire =
-      IconData(0xe653, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brick_wall_fire = IconData(0xe653, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brick_wall_shield] icon from the Lucide icon set.
   ///
@@ -3054,8 +2835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData brick_wall_shield =
-      IconData(0xe690, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brick_wall_shield = IconData(0xe690, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase] icon from the Lucide icon set.
   ///
@@ -3067,8 +2847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData briefcase =
-      IconData(0xe062, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData briefcase = IconData(0xe062, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase_business] icon from the Lucide icon set.
   ///
@@ -3080,8 +2859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData briefcase_business =
-      IconData(0xe5d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData briefcase_business = IconData(0xe5d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase_conveyor_belt] icon from the Lucide icon set.
   ///
@@ -3093,8 +2871,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData briefcase_conveyor_belt =
-      IconData(0xe62b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData briefcase_conveyor_belt = IconData(0xe62b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [briefcase_medical] icon from the Lucide icon set.
   ///
@@ -3106,8 +2883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData briefcase_medical =
-      IconData(0xe5d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData briefcase_medical = IconData(0xe5d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bring_to_front] icon from the Lucide icon set.
   ///
@@ -3119,8 +2895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/james-yeoman](https://github.com/james-yeoman), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bring_to_front =
-      IconData(0xe4ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bring_to_front = IconData(0xe4ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brush] icon from the Lucide icon set.
   ///
@@ -3132,8 +2907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData brush =
-      IconData(0xe1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brush = IconData(0xe1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [brush_cleaning] icon from the Lucide icon set.
   ///
@@ -3145,8 +2919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData brush_cleaning =
-      IconData(0xe666, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData brush_cleaning = IconData(0xe666, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bubbles] icon from the Lucide icon set.
   ///
@@ -3158,8 +2931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/vqh2602](https://github.com/vqh2602), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bubbles =
-      IconData(0xe654, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bubbles = IconData(0xe654, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug] icon from the Lucide icon set.
   ///
@@ -3171,8 +2943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData bug =
-      IconData(0xe20c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bug = IconData(0xe20c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug_off] icon from the Lucide icon set.
   ///
@@ -3184,8 +2955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData bug_off =
-      IconData(0xe50d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bug_off = IconData(0xe50d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bug_play] icon from the Lucide icon set.
   ///
@@ -3197,8 +2967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData bug_play =
-      IconData(0xe50e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bug_play = IconData(0xe50e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [building] icon from the Lucide icon set.
   ///
@@ -3210,8 +2979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData building =
-      IconData(0xe1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData building = IconData(0xe1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [building_2] icon from the Lucide icon set.
   ///
@@ -3223,8 +2991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/maxim-s-barabash](https://github.com/maxim-s-barabash), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData building_2 =
-      IconData(0xe290, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData building_2 = IconData(0xe290, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bus] icon from the Lucide icon set.
   ///
@@ -3236,8 +3003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bus =
-      IconData(0xe1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bus = IconData(0xe1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [bus_front] icon from the Lucide icon set.
   ///
@@ -3249,8 +3015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bus_front =
-      IconData(0xe4fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData bus_front = IconData(0xe4fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cable] icon from the Lucide icon set.
   ///
@@ -3262,8 +3027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cable =
-      IconData(0xe4e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cable = IconData(0xe4e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cable_car] icon from the Lucide icon set.
   ///
@@ -3275,8 +3039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData cable_car =
-      IconData(0xe4fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cable_car = IconData(0xe4fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cake] icon from the Lucide icon set.
   ///
@@ -3288,8 +3051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cake =
-      IconData(0xe344, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cake = IconData(0xe344, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cake_slice] icon from the Lucide icon set.
   ///
@@ -3301,8 +3063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cake_slice =
-      IconData(0xe4b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cake_slice = IconData(0xe4b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calculator] icon from the Lucide icon set.
   ///
@@ -3314,8 +3075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData calculator =
-      IconData(0xe1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calculator = IconData(0xe1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar] icon from the Lucide icon set.
   ///
@@ -3327,8 +3087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar =
-      IconData(0xe063, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar = IconData(0xe063, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_1] icon from the Lucide icon set.
   ///
@@ -3340,8 +3099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/peteruithoven](https://github.com/peteruithoven)
-  static const IconData calendar_1 =
-      IconData(0xe630, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_1 = IconData(0xe630, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_arrow_down] icon from the Lucide icon set.
   ///
@@ -3353,8 +3111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_arrow_down =
-      IconData(0xe5fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_arrow_down = IconData(0xe5fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_arrow_up] icon from the Lucide icon set.
   ///
@@ -3366,8 +3123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_arrow_up =
-      IconData(0xe5ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_arrow_up = IconData(0xe5ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_check] icon from the Lucide icon set.
   ///
@@ -3379,8 +3135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_check =
-      IconData(0xe2b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_check = IconData(0xe2b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_check_2] icon from the Lucide icon set.
   ///
@@ -3392,8 +3147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_check_2 =
-      IconData(0xe2b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_check_2 = IconData(0xe2b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_clock] icon from the Lucide icon set.
   ///
@@ -3405,8 +3159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData calendar_clock =
-      IconData(0xe304, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_clock = IconData(0xe304, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_cog] icon from the Lucide icon set.
   ///
@@ -3418,8 +3171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData calendar_cog =
-      IconData(0xe5ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_cog = IconData(0xe5ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_days] icon from the Lucide icon set.
   ///
@@ -3431,8 +3183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_days =
-      IconData(0xe2b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_days = IconData(0xe2b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_fold] icon from the Lucide icon set.
   ///
@@ -3444,8 +3195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData calendar_fold =
-      IconData(0xe5b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_fold = IconData(0xe5b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_heart] icon from the Lucide icon set.
   ///
@@ -3457,8 +3207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData calendar_heart =
-      IconData(0xe305, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_heart = IconData(0xe305, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_minus] icon from the Lucide icon set.
   ///
@@ -3470,8 +3219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData calendar_minus =
-      IconData(0xe2ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_minus = IconData(0xe2ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_minus_2] icon from the Lucide icon set.
   ///
@@ -3483,8 +3231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData calendar_minus_2 =
-      IconData(0xe5b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_minus_2 = IconData(0xe5b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_off] icon from the Lucide icon set.
   ///
@@ -3496,8 +3243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_off =
-      IconData(0xe2bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_off = IconData(0xe2bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_plus] icon from the Lucide icon set.
   ///
@@ -3509,8 +3255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData calendar_plus =
-      IconData(0xe2bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_plus = IconData(0xe2bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_plus_2] icon from the Lucide icon set.
   ///
@@ -3522,8 +3267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData calendar_plus_2 =
-      IconData(0xe5b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_plus_2 = IconData(0xe5b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_range] icon from the Lucide icon set.
   ///
@@ -3535,8 +3279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_range =
-      IconData(0xe2bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_range = IconData(0xe2bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_search] icon from the Lucide icon set.
   ///
@@ -3548,8 +3291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData calendar_search =
-      IconData(0xe306, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_search = IconData(0xe306, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_sync] icon from the Lucide icon set.
   ///
@@ -3561,8 +3303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData calendar_sync =
-      IconData(0xe636, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_sync = IconData(0xe636, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_x] icon from the Lucide icon set.
   ///
@@ -3574,8 +3315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_x =
-      IconData(0xe2be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_x = IconData(0xe2be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendar_x_2] icon from the Lucide icon set.
   ///
@@ -3587,8 +3327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData calendar_x_2 =
-      IconData(0xe2bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendar_x_2 = IconData(0xe2bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [calendars] icon from the Lucide icon set.
   ///
@@ -3600,8 +3339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData calendars =
-      IconData(0xe6a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData calendars = IconData(0xe6a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [camera] icon from the Lucide icon set.
   ///
@@ -3613,8 +3351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData camera =
-      IconData(0xe064, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData camera = IconData(0xe064, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [camera_off] icon from the Lucide icon set.
   ///
@@ -3626,8 +3363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData camera_off =
-      IconData(0xe065, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData camera_off = IconData(0xe065, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [candy] icon from the Lucide icon set.
   ///
@@ -3639,8 +3375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData candy =
-      IconData(0xe391, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData candy = IconData(0xe391, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [candy_cane] icon from the Lucide icon set.
   ///
@@ -3652,8 +3387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData candy_cane =
-      IconData(0xe4ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData candy_cane = IconData(0xe4ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [candy_off] icon from the Lucide icon set.
   ///
@@ -3665,8 +3399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData candy_off =
-      IconData(0xe392, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData candy_off = IconData(0xe392, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cannabis] icon from the Lucide icon set.
   ///
@@ -3678,8 +3411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cannabis =
-      IconData(0xe5d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cannabis = IconData(0xe5d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cannabis_off] icon from the Lucide icon set.
   ///
@@ -3691,8 +3423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nickveles](https://github.com/nickveles)
-  static const IconData cannabis_off =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cannabis_off = IconData(0xe6e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [captions] icon from the Lucide icon set.
   ///
@@ -3704,8 +3435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/DefaultLP](https://github.com/DefaultLP)
-  static const IconData captions =
-      IconData(0xe3a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData captions = IconData(0xe3a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [captions_off] icon from the Lucide icon set.
   ///
@@ -3717,8 +3447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/DefaultLP](https://github.com/DefaultLP)
-  static const IconData captions_off =
-      IconData(0xe5c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData captions_off = IconData(0xe5c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car] icon from the Lucide icon set.
   ///
@@ -3730,8 +3459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto)
-  static const IconData car =
-      IconData(0xe1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData car = IconData(0xe1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car_front] icon from the Lucide icon set.
   ///
@@ -3743,8 +3471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData car_front =
-      IconData(0xe4fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData car_front = IconData(0xe4fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [car_taxi_front] icon from the Lucide icon set.
   ///
@@ -3756,8 +3483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData car_taxi_front =
-      IconData(0xe4fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData car_taxi_front = IconData(0xe4fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [caravan] icon from the Lucide icon set.
   ///
@@ -3769,8 +3495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData caravan =
-      IconData(0xe539, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData caravan = IconData(0xe539, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [card_sim] icon from the Lucide icon set.
   ///
@@ -3782,8 +3507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData card_sim =
-      IconData(0xe671, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData card_sim = IconData(0xe671, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [carrot] icon from the Lucide icon set.
   ///
@@ -3795,8 +3519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData carrot =
-      IconData(0xe25a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData carrot = IconData(0xe25a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_lower] icon from the Lucide icon set.
   ///
@@ -3808,8 +3531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData case_lower =
-      IconData(0xe3d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData case_lower = IconData(0xe3d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_sensitive] icon from the Lucide icon set.
   ///
@@ -3821,8 +3543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData case_sensitive =
-      IconData(0xe3d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData case_sensitive = IconData(0xe3d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [case_upper] icon from the Lucide icon set.
   ///
@@ -3834,8 +3555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData case_upper =
-      IconData(0xe3da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData case_upper = IconData(0xe3da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cassette_tape] icon from the Lucide icon set.
   ///
@@ -3847,8 +3567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData cassette_tape =
-      IconData(0xe4ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cassette_tape = IconData(0xe4ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cast] icon from the Lucide icon set.
   ///
@@ -3860,8 +3579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData cast =
-      IconData(0xe066, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cast = IconData(0xe066, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [castle] icon from the Lucide icon set.
   ///
@@ -3873,8 +3591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData castle =
-      IconData(0xe3e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData castle = IconData(0xe3e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cat] icon from the Lucide icon set.
   ///
@@ -3886,8 +3603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie)
-  static const IconData cat =
-      IconData(0xe38c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cat = IconData(0xe38c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cctv] icon from the Lucide icon set.
   ///
@@ -3899,8 +3615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cctv =
-      IconData(0xe57d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cctv = IconData(0xe57d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cctv_off] icon from the Lucide icon set.
   ///
@@ -3912,8 +3627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/rrod497](https://github.com/rrod497)
-  static const IconData cctv_off =
-      IconData(0xe6d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cctv_off = IconData(0xe6d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_area] icon from the Lucide icon set.
   ///
@@ -3925,8 +3639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nstokoe](https://github.com/nstokoe)
-  static const IconData chart_area =
-      IconData(0xe4d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_area = IconData(0xe4d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar] icon from the Lucide icon set.
   ///
@@ -3938,8 +3651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_bar =
-      IconData(0xe2a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_bar = IconData(0xe2a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_big] icon from the Lucide icon set.
   ///
@@ -3951,8 +3663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_bar_big =
-      IconData(0xe4a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_bar_big = IconData(0xe4a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_decreasing] icon from the Lucide icon set.
   ///
@@ -3964,8 +3675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_bar_decreasing =
-      IconData(0xe607, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_bar_decreasing = IconData(0xe607, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_increasing] icon from the Lucide icon set.
   ///
@@ -3977,8 +3687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_bar_increasing =
-      IconData(0xe608, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_bar_increasing = IconData(0xe608, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_bar_stacked] icon from the Lucide icon set.
   ///
@@ -3990,8 +3699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_bar_stacked =
-      IconData(0xe609, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_bar_stacked = IconData(0xe609, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_candlestick] icon from the Lucide icon set.
   ///
@@ -4003,8 +3711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_candlestick =
-      IconData(0xe4a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_candlestick = IconData(0xe4a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column] icon from the Lucide icon set.
   ///
@@ -4016,8 +3723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_column =
-      IconData(0xe2a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_column = IconData(0xe2a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_big] icon from the Lucide icon set.
   ///
@@ -4029,8 +3735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_column_big =
-      IconData(0xe4a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_column_big = IconData(0xe4a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_decreasing] icon from the Lucide icon set.
   ///
@@ -4042,8 +3747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_column_decreasing =
-      IconData(0xe067, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_column_decreasing = IconData(0xe067, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_increasing] icon from the Lucide icon set.
   ///
@@ -4055,8 +3759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_column_increasing =
-      IconData(0xe2a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_column_increasing = IconData(0xe2a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_column_stacked] icon from the Lucide icon set.
   ///
@@ -4068,8 +3771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData chart_column_stacked =
-      IconData(0xe60a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_column_stacked = IconData(0xe60a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_gantt] icon from the Lucide icon set.
   ///
@@ -4081,8 +3783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData chart_gantt =
-      IconData(0xe624, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_gantt = IconData(0xe624, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_line] icon from the Lucide icon set.
   ///
@@ -4094,8 +3795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_line =
-      IconData(0xe2a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_line = IconData(0xe2a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_network] icon from the Lucide icon set.
   ///
@@ -4107,8 +3807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_network =
-      IconData(0xe60b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_network = IconData(0xe60b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_column] icon from the Lucide icon set.
   ///
@@ -4120,8 +3819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_no_axes_column =
-      IconData(0xe068, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_no_axes_column = IconData(0xe068, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_column_decreasing] icon from the Lucide icon set.
   ///
@@ -4133,8 +3831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_no_axes_column_decreasing =
-      IconData(0xe069, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_no_axes_column_decreasing = IconData(0xe069, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_column_increasing] icon from the Lucide icon set.
   ///
@@ -4146,8 +3843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_no_axes_column_increasing =
-      IconData(0xe06a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_no_axes_column_increasing = IconData(0xe06a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_combined] icon from the Lucide icon set.
   ///
@@ -4159,8 +3855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_no_axes_combined =
-      IconData(0xe60c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_no_axes_combined = IconData(0xe60c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_no_axes_gantt] icon from the Lucide icon set.
   ///
@@ -4172,8 +3867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_no_axes_gantt =
-      IconData(0xe4c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_no_axes_gantt = IconData(0xe4c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_pie] icon from the Lucide icon set.
   ///
@@ -4185,8 +3879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chart_pie =
-      IconData(0xe06b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_pie = IconData(0xe06b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_scatter] icon from the Lucide icon set.
   ///
@@ -4198,8 +3891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chart_scatter =
-      IconData(0xe48a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_scatter = IconData(0xe48a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chart_spline] icon from the Lucide icon set.
   ///
@@ -4211,8 +3903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chart_spline =
-      IconData(0xe60d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chart_spline = IconData(0xe60d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [check] icon from the Lucide icon set.
   ///
@@ -4224,8 +3915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData check =
-      IconData(0xe06c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData check = IconData(0xe06c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [check_check] icon from the Lucide icon set.
   ///
@@ -4237,8 +3927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData check_check =
-      IconData(0xe38e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData check_check = IconData(0xe38e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [check_line] icon from the Lucide icon set.
   ///
@@ -4250,8 +3939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/oosawy](https://github.com/oosawy)
-  static const IconData check_line =
-      IconData(0xe66b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData check_line = IconData(0xe66b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chef_hat] icon from the Lucide icon set.
   ///
@@ -4263,8 +3951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData chef_hat =
-      IconData(0xe2ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chef_hat = IconData(0xe2ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cherry] icon from the Lucide icon set.
   ///
@@ -4276,8 +3963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cherry =
-      IconData(0xe350, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cherry = IconData(0xe350, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_bishop] icon from the Lucide icon set.
   ///
@@ -4289,8 +3975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chess_bishop =
-      IconData(0xe6a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_bishop = IconData(0xe6a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_king] icon from the Lucide icon set.
   ///
@@ -4302,8 +3987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chess_king =
-      IconData(0xe6a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_king = IconData(0xe6a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_knight] icon from the Lucide icon set.
   ///
@@ -4315,8 +3999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chess_knight =
-      IconData(0xe6a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_knight = IconData(0xe6a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_pawn] icon from the Lucide icon set.
   ///
@@ -4328,8 +4011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chess_pawn =
-      IconData(0xe6a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_pawn = IconData(0xe6a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_queen] icon from the Lucide icon set.
   ///
@@ -4341,8 +4023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chess_queen =
-      IconData(0xe6a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_queen = IconData(0xe6a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chess_rook] icon from the Lucide icon set.
   ///
@@ -4354,8 +4035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData chess_rook =
-      IconData(0xe6a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chess_rook = IconData(0xe6a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_down] icon from the Lucide icon set.
   ///
@@ -4367,8 +4047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevron_down =
-      IconData(0xe06d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_down = IconData(0xe06d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_first] icon from the Lucide icon set.
   ///
@@ -4380,8 +4059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/dperezcabrera](https://github.com/dperezcabrera), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chevron_first =
-      IconData(0xe243, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_first = IconData(0xe243, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_last] icon from the Lucide icon set.
   ///
@@ -4393,8 +4071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/dperezcabrera](https://github.com/dperezcabrera), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chevron_last =
-      IconData(0xe244, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_last = IconData(0xe244, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_left] icon from the Lucide icon set.
   ///
@@ -4406,8 +4083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevron_left =
-      IconData(0xe06e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_left = IconData(0xe06e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_right] icon from the Lucide icon set.
   ///
@@ -4419,8 +4095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevron_right =
-      IconData(0xe06f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_right = IconData(0xe06f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevron_up] icon from the Lucide icon set.
   ///
@@ -4432,8 +4107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevron_up =
-      IconData(0xe070, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevron_up = IconData(0xe070, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_down] icon from the Lucide icon set.
   ///
@@ -4445,8 +4119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevrons_down =
-      IconData(0xe071, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_down = IconData(0xe071, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_down_up] icon from the Lucide icon set.
   ///
@@ -4458,8 +4131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/PeterlitsZo](https://github.com/PeterlitsZo), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chevrons_down_up =
-      IconData(0xe228, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_down_up = IconData(0xe228, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_left] icon from the Lucide icon set.
   ///
@@ -4471,8 +4143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevrons_left =
-      IconData(0xe072, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_left = IconData(0xe072, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_left_right] icon from the Lucide icon set.
   ///
@@ -4484,8 +4155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chevrons_left_right =
-      IconData(0xe293, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_left_right = IconData(0xe293, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_left_right_ellipsis] icon from the Lucide icon set.
   ///
@@ -4497,8 +4167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chevrons_left_right_ellipsis =
-      IconData(0xe61f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_left_right_ellipsis = IconData(0xe61f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_right] icon from the Lucide icon set.
   ///
@@ -4510,8 +4179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevrons_right =
-      IconData(0xe073, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_right = IconData(0xe073, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_right_left] icon from the Lucide icon set.
   ///
@@ -4523,8 +4191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData chevrons_right_left =
-      IconData(0xe294, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_right_left = IconData(0xe294, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_up] icon from the Lucide icon set.
   ///
@@ -4536,8 +4203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData chevrons_up =
-      IconData(0xe074, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_up = IconData(0xe074, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [chevrons_up_down] icon from the Lucide icon set.
   ///
@@ -4549,8 +4215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData chevrons_up_down =
-      IconData(0xe211, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData chevrons_up_down = IconData(0xe211, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [church] icon from the Lucide icon set.
   ///
@@ -4562,8 +4227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData church =
-      IconData(0xe3e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData church = IconData(0xe3e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cigarette] icon from the Lucide icon set.
   ///
@@ -4575,8 +4239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cigarette =
-      IconData(0xe2c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cigarette = IconData(0xe2c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cigarette_off] icon from the Lucide icon set.
   ///
@@ -4588,8 +4251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cigarette_off =
-      IconData(0xe2c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cigarette_off = IconData(0xe2c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle] icon from the Lucide icon set.
   ///
@@ -4601,8 +4263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData circle =
-      IconData(0xe076, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle = IconData(0xe076, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_alert] icon from the Lucide icon set.
   ///
@@ -4614,8 +4275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_alert =
-      IconData(0xe077, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_alert = IconData(0xe077, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_down] icon from the Lucide icon set.
   ///
@@ -4627,8 +4287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_arrow_down =
-      IconData(0xe078, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_down = IconData(0xe078, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_left] icon from the Lucide icon set.
   ///
@@ -4640,8 +4299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_arrow_left =
-      IconData(0xe079, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_left = IconData(0xe079, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_down_left] icon from the Lucide icon set.
   ///
@@ -4653,8 +4311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_down_left =
-      IconData(0xe3f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_out_down_left = IconData(0xe3f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_down_right] icon from the Lucide icon set.
   ///
@@ -4666,8 +4323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_down_right =
-      IconData(0xe3f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_out_down_right = IconData(0xe3f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_up_left] icon from the Lucide icon set.
   ///
@@ -4679,8 +4335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_up_left =
-      IconData(0xe3f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_out_up_left = IconData(0xe3f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_out_up_right] icon from the Lucide icon set.
   ///
@@ -4692,8 +4347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_up_right =
-      IconData(0xe3fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_out_up_right = IconData(0xe3fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_right] icon from the Lucide icon set.
   ///
@@ -4705,8 +4359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_arrow_right =
-      IconData(0xe07a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_right = IconData(0xe07a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_arrow_up] icon from the Lucide icon set.
   ///
@@ -4718,8 +4371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_arrow_up =
-      IconData(0xe07b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_arrow_up = IconData(0xe07b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_check] icon from the Lucide icon set.
   ///
@@ -4731,8 +4383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_check =
-      IconData(0xe226, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_check = IconData(0xe226, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_check_big] icon from the Lucide icon set.
   ///
@@ -4744,8 +4395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_check_big =
-      IconData(0xe07c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_check_big = IconData(0xe07c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_down] icon from the Lucide icon set.
   ///
@@ -4757,8 +4407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_chevron_down =
-      IconData(0xe4dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_chevron_down = IconData(0xe4dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_left] icon from the Lucide icon set.
   ///
@@ -4770,8 +4419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_chevron_left =
-      IconData(0xe4de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_chevron_left = IconData(0xe4de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_right] icon from the Lucide icon set.
   ///
@@ -4783,8 +4431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_chevron_right =
-      IconData(0xe4df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_chevron_right = IconData(0xe4df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_chevron_up] icon from the Lucide icon set.
   ///
@@ -4796,8 +4443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_chevron_up =
-      IconData(0xe4e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_chevron_up = IconData(0xe4e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dashed] icon from the Lucide icon set.
   ///
@@ -4809,8 +4455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_dashed =
-      IconData(0xe4b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_dashed = IconData(0xe4b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_divide] icon from the Lucide icon set.
   ///
@@ -4822,8 +4467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_divide =
-      IconData(0xe07d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_divide = IconData(0xe07d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dollar_sign] icon from the Lucide icon set.
   ///
@@ -4835,8 +4479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_dollar_sign =
-      IconData(0xe47d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_dollar_sign = IconData(0xe47d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dot] icon from the Lucide icon set.
   ///
@@ -4848,8 +4491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData circle_dot =
-      IconData(0xe345, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_dot = IconData(0xe345, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_dot_dashed] icon from the Lucide icon set.
   ///
@@ -4861,8 +4503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_dot_dashed =
-      IconData(0xe4b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_dot_dashed = IconData(0xe4b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_ellipsis] icon from the Lucide icon set.
   ///
@@ -4874,8 +4515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_ellipsis =
-      IconData(0xe346, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_ellipsis = IconData(0xe346, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_equal] icon from the Lucide icon set.
   ///
@@ -4887,8 +4527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_equal =
-      IconData(0xe400, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_equal = IconData(0xe400, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_fading_arrow_up] icon from the Lucide icon set.
   ///
@@ -4900,8 +4539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mosch](https://github.com/mosch)
-  static const IconData circle_fading_arrow_up =
-      IconData(0xe618, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_fading_arrow_up = IconData(0xe618, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_fading_plus] icon from the Lucide icon set.
   ///
@@ -4913,8 +4551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_fading_plus =
-      IconData(0xe5bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_fading_plus = IconData(0xe5bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_gauge] icon from the Lucide icon set.
   ///
@@ -4926,8 +4563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_gauge =
-      IconData(0xe4e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_gauge = IconData(0xe4e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_minus] icon from the Lucide icon set.
   ///
@@ -4939,8 +4575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_minus =
-      IconData(0xe07e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_minus = IconData(0xe07e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_off] icon from the Lucide icon set.
   ///
@@ -4952,8 +4587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_off =
-      IconData(0xe401, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_off = IconData(0xe401, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_parking] icon from the Lucide icon set.
   ///
@@ -4965,8 +4599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_parking =
-      IconData(0xe3c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_parking = IconData(0xe3c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_parking_off] icon from the Lucide icon set.
   ///
@@ -4978,8 +4611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_parking_off =
-      IconData(0xe3ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_parking_off = IconData(0xe3ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_pause] icon from the Lucide icon set.
   ///
@@ -4991,8 +4623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_pause =
-      IconData(0xe07f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_pause = IconData(0xe07f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_percent] icon from the Lucide icon set.
   ///
@@ -5004,8 +4635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_percent =
-      IconData(0xe51a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_percent = IconData(0xe51a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_pile] icon from the Lucide icon set.
   ///
@@ -5017,8 +4647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
-  static const IconData circle_pile =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_pile = IconData(0xe6e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_play] icon from the Lucide icon set.
   ///
@@ -5030,8 +4659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData circle_play =
-      IconData(0xe080, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_play = IconData(0xe080, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_plus] icon from the Lucide icon set.
   ///
@@ -5043,8 +4671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_plus =
-      IconData(0xe081, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_plus = IconData(0xe081, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_pound_sterling] icon from the Lucide icon set.
   ///
@@ -5056,8 +4683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/LieOnLion](https://github.com/LieOnLion)
-  static const IconData circle_pound_sterling =
-      IconData(0xe66d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_pound_sterling = IconData(0xe66d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_power] icon from the Lucide icon set.
   ///
@@ -5069,8 +4695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_power =
-      IconData(0xe550, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_power = IconData(0xe550, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_question_mark] icon from the Lucide icon set.
   ///
@@ -5082,8 +4707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danbovey](https://github.com/danbovey), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_question_mark =
-      IconData(0xe082, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_question_mark = IconData(0xe082, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_slash] icon from the Lucide icon set.
   ///
@@ -5095,8 +4719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_slash =
-      IconData(0xe402, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_slash = IconData(0xe402, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_slash_2] icon from the Lucide icon set.
   ///
@@ -5108,8 +4731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_slash_2 =
-      IconData(0xe213, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_slash_2 = IconData(0xe213, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_small] icon from the Lucide icon set.
   ///
@@ -5121,8 +4743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData circle_small =
-      IconData(0xe640, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_small = IconData(0xe640, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_star] icon from the Lucide icon set.
   ///
@@ -5134,8 +4755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData circle_star =
-      IconData(0xe68d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_star = IconData(0xe68d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_stop] icon from the Lucide icon set.
   ///
@@ -5147,8 +4767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_stop =
-      IconData(0xe083, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_stop = IconData(0xe083, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_user] icon from the Lucide icon set.
   ///
@@ -5160,8 +4779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData circle_user =
-      IconData(0xe461, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_user = IconData(0xe461, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_user_round] icon from the Lucide icon set.
   ///
@@ -5173,8 +4791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData circle_user_round =
-      IconData(0xe462, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_user_round = IconData(0xe462, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circle_x] icon from the Lucide icon set.
   ///
@@ -5186,8 +4803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_x =
-      IconData(0xe084, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circle_x = IconData(0xe084, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [circuit_board] icon from the Lucide icon set.
   ///
@@ -5199,8 +4815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circuit_board =
-      IconData(0xe403, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData circuit_board = IconData(0xe403, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [citrus] icon from the Lucide icon set.
   ///
@@ -5212,8 +4827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData citrus =
-      IconData(0xe375, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData citrus = IconData(0xe375, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clapperboard] icon from the Lucide icon set.
   ///
@@ -5225,8 +4839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/torfmuer](https://github.com/torfmuer)
-  static const IconData clapperboard =
-      IconData(0xe29b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clapperboard = IconData(0xe29b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard] icon from the Lucide icon set.
   ///
@@ -5238,8 +4851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard =
-      IconData(0xe085, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard = IconData(0xe085, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_check] icon from the Lucide icon set.
   ///
@@ -5251,8 +4863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_check =
-      IconData(0xe219, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_check = IconData(0xe219, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_clock] icon from the Lucide icon set.
   ///
@@ -5264,8 +4875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/beanduong](https://github.com/beanduong), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clipboard_clock =
-      IconData(0xe688, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_clock = IconData(0xe688, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_copy] icon from the Lucide icon set.
   ///
@@ -5277,8 +4887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_copy =
-      IconData(0xe225, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_copy = IconData(0xe225, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_list] icon from the Lucide icon set.
   ///
@@ -5290,8 +4899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_list =
-      IconData(0xe086, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_list = IconData(0xe086, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_minus] icon from the Lucide icon set.
   ///
@@ -5303,8 +4911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_minus =
-      IconData(0xe5be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_minus = IconData(0xe5be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_paste] icon from the Lucide icon set.
   ///
@@ -5316,8 +4923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/xnousnow](https://github.com/xnousnow), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData clipboard_paste =
-      IconData(0xe3e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_paste = IconData(0xe3e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_pen] icon from the Lucide icon set.
   ///
@@ -5329,8 +4935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Spleefies](https://github.com/Spleefies)
-  static const IconData clipboard_pen =
-      IconData(0xe307, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_pen = IconData(0xe307, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_pen_line] icon from the Lucide icon set.
   ///
@@ -5342,8 +4947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData clipboard_pen_line =
-      IconData(0xe308, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_pen_line = IconData(0xe308, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_plus] icon from the Lucide icon set.
   ///
@@ -5355,8 +4959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_plus =
-      IconData(0xe5bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_plus = IconData(0xe5bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_type] icon from the Lucide icon set.
   ///
@@ -5368,8 +4971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData clipboard_type =
-      IconData(0xe309, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_type = IconData(0xe309, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clipboard_x] icon from the Lucide icon set.
   ///
@@ -5381,8 +4983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clipboard_x =
-      IconData(0xe222, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clipboard_x = IconData(0xe222, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock] icon from the Lucide icon set.
   ///
@@ -5394,8 +4995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData clock =
-      IconData(0xe087, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock = IconData(0xe087, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_1] icon from the Lucide icon set.
   ///
@@ -5407,8 +5007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_1 =
-      IconData(0xe24b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_1 = IconData(0xe24b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_10] icon from the Lucide icon set.
   ///
@@ -5420,8 +5019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData clock_10 =
-      IconData(0xe24c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_10 = IconData(0xe24c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_11] icon from the Lucide icon set.
   ///
@@ -5433,8 +5031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_11 =
-      IconData(0xe24d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_11 = IconData(0xe24d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_12] icon from the Lucide icon set.
   ///
@@ -5446,8 +5043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData clock_12 =
-      IconData(0xe24e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_12 = IconData(0xe24e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_2] icon from the Lucide icon set.
   ///
@@ -5459,8 +5055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData clock_2 =
-      IconData(0xe24f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_2 = IconData(0xe24f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_3] icon from the Lucide icon set.
   ///
@@ -5472,8 +5067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_3 =
-      IconData(0xe250, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_3 = IconData(0xe250, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_4] icon from the Lucide icon set.
   ///
@@ -5485,8 +5079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj)
-  static const IconData clock_4 =
-      IconData(0xe251, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_4 = IconData(0xe251, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_5] icon from the Lucide icon set.
   ///
@@ -5498,8 +5091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_5 =
-      IconData(0xe252, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_5 = IconData(0xe252, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_6] icon from the Lucide icon set.
   ///
@@ -5511,8 +5103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_6 =
-      IconData(0xe253, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_6 = IconData(0xe253, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_7] icon from the Lucide icon set.
   ///
@@ -5524,8 +5115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_7 =
-      IconData(0xe254, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_7 = IconData(0xe254, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_8] icon from the Lucide icon set.
   ///
@@ -5537,8 +5127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData clock_8 =
-      IconData(0xe255, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_8 = IconData(0xe255, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_9] icon from the Lucide icon set.
   ///
@@ -5550,8 +5139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_9 =
-      IconData(0xe256, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_9 = IconData(0xe256, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_alert] icon from the Lucide icon set.
   ///
@@ -5563,8 +5151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_alert =
-      IconData(0xe62a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_alert = IconData(0xe62a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_arrow_down] icon from the Lucide icon set.
   ///
@@ -5576,8 +5163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData clock_arrow_down =
-      IconData(0xe600, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_arrow_down = IconData(0xe600, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_arrow_up] icon from the Lucide icon set.
   ///
@@ -5589,8 +5175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData clock_arrow_up =
-      IconData(0xe601, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_arrow_up = IconData(0xe601, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_check] icon from the Lucide icon set.
   ///
@@ -5602,8 +5187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData clock_check =
-      IconData(0xe69e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_check = IconData(0xe69e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_fading] icon from the Lucide icon set.
   ///
@@ -5615,8 +5199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData clock_fading =
-      IconData(0xe64a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_fading = IconData(0xe64a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clock_plus] icon from the Lucide icon set.
   ///
@@ -5628,8 +5211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/gubser](https://github.com/gubser)
-  static const IconData clock_plus =
-      IconData(0xe667, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clock_plus = IconData(0xe667, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [closed_caption] icon from the Lucide icon set.
   ///
@@ -5641,8 +5223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData closed_caption =
-      IconData(0xe68a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData closed_caption = IconData(0xe68a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud] icon from the Lucide icon set.
   ///
@@ -5654,8 +5235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud =
-      IconData(0xe088, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud = IconData(0xe088, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_alert] icon from the Lucide icon set.
   ///
@@ -5667,8 +5247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloud_alert =
-      IconData(0xe633, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_alert = IconData(0xe633, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_backup] icon from the Lucide icon set.
   ///
@@ -5680,8 +5259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_backup =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_backup = IconData(0xe6e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_check] icon from the Lucide icon set.
   ///
@@ -5693,8 +5271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/lscheibel](https://github.com/lscheibel)
-  static const IconData cloud_check =
-      IconData(0xe66e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_check = IconData(0xe66e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_cog] icon from the Lucide icon set.
   ///
@@ -5706,8 +5283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData cloud_cog =
-      IconData(0xe30a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_cog = IconData(0xe30a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_download] icon from the Lucide icon set.
   ///
@@ -5719,8 +5295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_download =
-      IconData(0xe089, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_download = IconData(0xe089, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_drizzle] icon from the Lucide icon set.
   ///
@@ -5732,8 +5307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_drizzle =
-      IconData(0xe08a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_drizzle = IconData(0xe08a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_fog] icon from the Lucide icon set.
   ///
@@ -5745,8 +5319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData cloud_fog =
-      IconData(0xe214, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_fog = IconData(0xe214, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_hail] icon from the Lucide icon set.
   ///
@@ -5758,8 +5331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_hail =
-      IconData(0xe08b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_hail = IconData(0xe08b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_lightning] icon from the Lucide icon set.
   ///
@@ -5771,8 +5343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_lightning =
-      IconData(0xe08c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_lightning = IconData(0xe08c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_moon] icon from the Lucide icon set.
   ///
@@ -5784,8 +5355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloud_moon =
-      IconData(0xe215, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_moon = IconData(0xe215, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_moon_rain] icon from the Lucide icon set.
   ///
@@ -5797,8 +5367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloud_moon_rain =
-      IconData(0xe2fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_moon_rain = IconData(0xe2fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_off] icon from the Lucide icon set.
   ///
@@ -5810,8 +5379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_off =
-      IconData(0xe08d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_off = IconData(0xe08d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_rain] icon from the Lucide icon set.
   ///
@@ -5823,8 +5391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_rain =
-      IconData(0xe08e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_rain = IconData(0xe08e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_rain_wind] icon from the Lucide icon set.
   ///
@@ -5836,8 +5403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_rain_wind =
-      IconData(0xe08f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_rain_wind = IconData(0xe08f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_snow] icon from the Lucide icon set.
   ///
@@ -5849,8 +5415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_snow =
-      IconData(0xe090, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_snow = IconData(0xe090, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_sun] icon from the Lucide icon set.
   ///
@@ -5862,8 +5427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_sun =
-      IconData(0xe216, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_sun = IconData(0xe216, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_sun_rain] icon from the Lucide icon set.
   ///
@@ -5875,8 +5439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_sun_rain =
-      IconData(0xe2fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_sun_rain = IconData(0xe2fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_sync] icon from the Lucide icon set.
   ///
@@ -5888,8 +5451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cloud_sync =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_sync = IconData(0xe6e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloud_upload] icon from the Lucide icon set.
   ///
@@ -5901,8 +5463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloud_upload =
-      IconData(0xe091, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloud_upload = IconData(0xe091, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cloudy] icon from the Lucide icon set.
   ///
@@ -5914,8 +5475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloudy =
-      IconData(0xe217, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cloudy = IconData(0xe217, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [clover] icon from the Lucide icon set.
   ///
@@ -5927,8 +5487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData clover =
-      IconData(0xe092, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData clover = IconData(0xe092, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [club] icon from the Lucide icon set.
   ///
@@ -5940,8 +5499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData club =
-      IconData(0xe496, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData club = IconData(0xe496, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [code] icon from the Lucide icon set.
   ///
@@ -5953,8 +5511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData code =
-      IconData(0xe093, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData code = IconData(0xe093, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [code_xml] icon from the Lucide icon set.
   ///
@@ -5966,8 +5523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData code_xml =
-      IconData(0xe206, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData code_xml = IconData(0xe206, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [coffee] icon from the Lucide icon set.
   ///
@@ -5979,8 +5535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData coffee =
-      IconData(0xe096, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData coffee = IconData(0xe096, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cog] icon from the Lucide icon set.
   ///
@@ -5992,8 +5547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cog =
-      IconData(0xe30b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cog = IconData(0xe30b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [coins] icon from the Lucide icon set.
   ///
@@ -6005,8 +5559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData coins =
-      IconData(0xe097, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData coins = IconData(0xe097, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [columns_2] icon from the Lucide icon set.
   ///
@@ -6018,8 +5571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData columns_2 =
-      IconData(0xe098, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData columns_2 = IconData(0xe098, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [columns_3] icon from the Lucide icon set.
   ///
@@ -6031,8 +5583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData columns_3 =
-      IconData(0xe099, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData columns_3 = IconData(0xe099, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [columns_3_cog] icon from the Lucide icon set.
   ///
@@ -6044,8 +5595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/irvineacosta](https://github.com/irvineacosta), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData columns_3_cog =
-      IconData(0xe661, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData columns_3_cog = IconData(0xe661, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [columns_4] icon from the Lucide icon set.
   ///
@@ -6057,8 +5607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData columns_4 =
-      IconData(0xe589, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData columns_4 = IconData(0xe589, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [combine] icon from the Lucide icon set.
   ///
@@ -6070,8 +5619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData combine =
-      IconData(0xe44c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData combine = IconData(0xe44c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [command] icon from the Lucide icon set.
   ///
@@ -6083,8 +5631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData command =
-      IconData(0xe09a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData command = IconData(0xe09a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [compass] icon from the Lucide icon set.
   ///
@@ -6096,8 +5643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData compass =
-      IconData(0xe09b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData compass = IconData(0xe09b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [component] icon from the Lucide icon set.
   ///
@@ -6109,8 +5655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData component =
-      IconData(0xe2ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData component = IconData(0xe2ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [computer] icon from the Lucide icon set.
   ///
@@ -6122,8 +5667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData computer =
-      IconData(0xe4e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData computer = IconData(0xe4e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [concierge_bell] icon from the Lucide icon set.
   ///
@@ -6135,8 +5679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData concierge_bell =
-      IconData(0xe378, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData concierge_bell = IconData(0xe378, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cone] icon from the Lucide icon set.
   ///
@@ -6148,8 +5691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cone =
-      IconData(0xe523, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cone = IconData(0xe523, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [construction] icon from the Lucide icon set.
   ///
@@ -6161,8 +5703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData construction =
-      IconData(0xe3b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData construction = IconData(0xe3b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [contact] icon from the Lucide icon set.
   ///
@@ -6174,8 +5715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/FPDK](https://github.com/FPDK), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData contact =
-      IconData(0xe09c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData contact = IconData(0xe09c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [contact_round] icon from the Lucide icon set.
   ///
@@ -6187,8 +5727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData contact_round =
-      IconData(0xe463, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData contact_round = IconData(0xe463, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [container] icon from the Lucide icon set.
   ///
@@ -6200,8 +5739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData container =
-      IconData(0xe4d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData container = IconData(0xe4d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [contrast] icon from the Lucide icon set.
   ///
@@ -6213,8 +5751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData contrast =
-      IconData(0xe09d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData contrast = IconData(0xe09d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cookie] icon from the Lucide icon set.
   ///
@@ -6226,8 +5763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData cookie =
-      IconData(0xe26b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cookie = IconData(0xe26b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cooking_pot] icon from the Lucide icon set.
   ///
@@ -6239,8 +5775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/guillermo-angeles](https://github.com/guillermo-angeles), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData cooking_pot =
-      IconData(0xe584, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cooking_pot = IconData(0xe584, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy] icon from the Lucide icon set.
   ///
@@ -6252,8 +5787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy =
-      IconData(0xe09e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy = IconData(0xe09e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_check] icon from the Lucide icon set.
   ///
@@ -6265,8 +5799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy_check =
-      IconData(0xe3fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy_check = IconData(0xe3fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_minus] icon from the Lucide icon set.
   ///
@@ -6278,8 +5811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy_minus =
-      IconData(0xe3fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy_minus = IconData(0xe3fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_plus] icon from the Lucide icon set.
   ///
@@ -6291,8 +5823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy_plus =
-      IconData(0xe3fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy_plus = IconData(0xe3fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_slash] icon from the Lucide icon set.
   ///
@@ -6304,8 +5835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy_slash =
-      IconData(0xe3fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy_slash = IconData(0xe3fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copy_x] icon from the Lucide icon set.
   ///
@@ -6317,8 +5847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData copy_x =
-      IconData(0xe3ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copy_x = IconData(0xe3ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copyleft] icon from the Lucide icon set.
   ///
@@ -6330,8 +5859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData copyleft =
-      IconData(0xe09f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copyleft = IconData(0xe09f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [copyright] icon from the Lucide icon set.
   ///
@@ -6343,8 +5871,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData copyright =
-      IconData(0xe0a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData copyright = IconData(0xe0a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_down_left] icon from the Lucide icon set.
   ///
@@ -6356,8 +5883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_down_left =
-      IconData(0xe0a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_down_left = IconData(0xe0a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_down_right] icon from the Lucide icon set.
   ///
@@ -6369,8 +5895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_down_right =
-      IconData(0xe0a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_down_right = IconData(0xe0a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_left_down] icon from the Lucide icon set.
   ///
@@ -6382,8 +5907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_left_down =
-      IconData(0xe0a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_left_down = IconData(0xe0a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_left_up] icon from the Lucide icon set.
   ///
@@ -6395,8 +5919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_left_up =
-      IconData(0xe0a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_left_up = IconData(0xe0a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_right_down] icon from the Lucide icon set.
   ///
@@ -6408,8 +5931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_right_down =
-      IconData(0xe0a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_right_down = IconData(0xe0a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_right_up] icon from the Lucide icon set.
   ///
@@ -6421,8 +5943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_right_up =
-      IconData(0xe0a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_right_up = IconData(0xe0a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_up_left] icon from the Lucide icon set.
   ///
@@ -6434,8 +5955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_up_left =
-      IconData(0xe0a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_up_left = IconData(0xe0a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [corner_up_right] icon from the Lucide icon set.
   ///
@@ -6447,8 +5967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData corner_up_right =
-      IconData(0xe0a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData corner_up_right = IconData(0xe0a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cpu] icon from the Lucide icon set.
   ///
@@ -6460,8 +5979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cpu =
-      IconData(0xe0a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cpu = IconData(0xe0a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [creative_commons] icon from the Lucide icon set.
   ///
@@ -6473,8 +5991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData creative_commons =
-      IconData(0xe3b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData creative_commons = IconData(0xe3b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [credit_card] icon from the Lucide icon set.
   ///
@@ -6486,8 +6003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData credit_card =
-      IconData(0xe0aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData credit_card = IconData(0xe0aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [croissant] icon from the Lucide icon set.
   ///
@@ -6499,8 +6015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData croissant =
-      IconData(0xe2ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData croissant = IconData(0xe2ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [crop] icon from the Lucide icon set.
   ///
@@ -6512,8 +6027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData crop =
-      IconData(0xe0ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData crop = IconData(0xe0ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cross] icon from the Lucide icon set.
   ///
@@ -6525,8 +6039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData cross =
-      IconData(0xe1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cross = IconData(0xe1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [crosshair] icon from the Lucide icon set.
   ///
@@ -6538,8 +6051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData crosshair =
-      IconData(0xe0ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData crosshair = IconData(0xe0ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [crown] icon from the Lucide icon set.
   ///
@@ -6551,8 +6063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData crown =
-      IconData(0xe1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData crown = IconData(0xe1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cuboid] icon from the Lucide icon set.
   ///
@@ -6564,8 +6075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData cuboid =
-      IconData(0xe524, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cuboid = IconData(0xe524, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cup_soda] icon from the Lucide icon set.
   ///
@@ -6577,8 +6087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cup_soda =
-      IconData(0xe2d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cup_soda = IconData(0xe2d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [currency] icon from the Lucide icon set.
   ///
@@ -6590,8 +6099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData currency =
-      IconData(0xe230, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData currency = IconData(0xe230, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [cylinder] icon from the Lucide icon set.
   ///
@@ -6603,8 +6111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData cylinder =
-      IconData(0xe525, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData cylinder = IconData(0xe525, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dam] icon from the Lucide icon set.
   ///
@@ -6616,8 +6123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev)
-  static const IconData dam =
-      IconData(0xe606, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dam = IconData(0xe606, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database] icon from the Lucide icon set.
   ///
@@ -6629,8 +6135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData database =
-      IconData(0xe0ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData database = IconData(0xe0ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database_backup] icon from the Lucide icon set.
   ///
@@ -6642,8 +6147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData database_backup =
-      IconData(0xe3ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData database_backup = IconData(0xe3ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database_search] icon from the Lucide icon set.
   ///
@@ -6655,8 +6159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Spleefies](https://github.com/Spleefies)
-  static const IconData database_search =
-      IconData(0xe6b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData database_search = IconData(0xe6b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [database_zap] icon from the Lucide icon set.
   ///
@@ -6668,8 +6171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData database_zap =
-      IconData(0xe50b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData database_zap = IconData(0xe50b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [decimals_arrow_left] icon from the Lucide icon set.
   ///
@@ -6681,8 +6183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData decimals_arrow_left =
-      IconData(0xe65c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData decimals_arrow_left = IconData(0xe65c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [decimals_arrow_right] icon from the Lucide icon set.
   ///
@@ -6694,8 +6195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData decimals_arrow_right =
-      IconData(0xe65d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData decimals_arrow_right = IconData(0xe65d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [delete] icon from the Lucide icon set.
   ///
@@ -6707,8 +6207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData delete =
-      IconData(0xe0ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData delete = IconData(0xe0ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dessert] icon from the Lucide icon set.
   ///
@@ -6720,8 +6219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData dessert =
-      IconData(0xe4bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dessert = IconData(0xe4bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diameter] icon from the Lucide icon set.
   ///
@@ -6733,8 +6231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData diameter =
-      IconData(0xe526, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diameter = IconData(0xe526, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond] icon from the Lucide icon set.
   ///
@@ -6746,8 +6243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData diamond =
-      IconData(0xe2d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diamond = IconData(0xe2d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_minus] icon from the Lucide icon set.
   ///
@@ -6759,8 +6255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData diamond_minus =
-      IconData(0xe5e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diamond_minus = IconData(0xe5e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_percent] icon from the Lucide icon set.
   ///
@@ -6772,8 +6267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData diamond_percent =
-      IconData(0xe51b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diamond_percent = IconData(0xe51b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diamond_plus] icon from the Lucide icon set.
   ///
@@ -6785,8 +6279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData diamond_plus =
-      IconData(0xe5e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diamond_plus = IconData(0xe5e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_1] icon from the Lucide icon set.
   ///
@@ -6798,8 +6291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_1 =
-      IconData(0xe287, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_1 = IconData(0xe287, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_2] icon from the Lucide icon set.
   ///
@@ -6811,8 +6303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_2 =
-      IconData(0xe288, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_2 = IconData(0xe288, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_3] icon from the Lucide icon set.
   ///
@@ -6824,8 +6315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_3 =
-      IconData(0xe289, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_3 = IconData(0xe289, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_4] icon from the Lucide icon set.
   ///
@@ -6837,8 +6327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_4 =
-      IconData(0xe28a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_4 = IconData(0xe28a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_5] icon from the Lucide icon set.
   ///
@@ -6850,8 +6339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_5 =
-      IconData(0xe28b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_5 = IconData(0xe28b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dice_6] icon from the Lucide icon set.
   ///
@@ -6863,8 +6351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dice_6 =
-      IconData(0xe28c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dice_6 = IconData(0xe28c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dices] icon from the Lucide icon set.
   ///
@@ -6876,8 +6363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dices =
-      IconData(0xe2c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dices = IconData(0xe2c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [diff] icon from the Lucide icon set.
   ///
@@ -6889,8 +6375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData diff =
-      IconData(0xe30c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData diff = IconData(0xe30c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc] icon from the Lucide icon set.
   ///
@@ -6902,8 +6387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData disc =
-      IconData(0xe0af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData disc = IconData(0xe0af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc_2] icon from the Lucide icon set.
   ///
@@ -6915,8 +6399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData disc_2 =
-      IconData(0xe3f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData disc_2 = IconData(0xe3f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc_3] icon from the Lucide icon set.
   ///
@@ -6928,8 +6411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData disc_3 =
-      IconData(0xe494, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData disc_3 = IconData(0xe494, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [disc_album] icon from the Lucide icon set.
   ///
@@ -6941,8 +6423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData disc_album =
-      IconData(0xe55c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData disc_album = IconData(0xe55c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [divide] icon from the Lucide icon set.
   ///
@@ -6954,8 +6435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData divide =
-      IconData(0xe0b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData divide = IconData(0xe0b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dna] icon from the Lucide icon set.
   ///
@@ -6967,8 +6447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData dna =
-      IconData(0xe393, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dna = IconData(0xe393, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dna_off] icon from the Lucide icon set.
   ///
@@ -6980,8 +6459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dna_off =
-      IconData(0xe394, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dna_off = IconData(0xe394, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dock] icon from the Lucide icon set.
   ///
@@ -6993,8 +6471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData dock =
-      IconData(0xe5d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dock = IconData(0xe5d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dog] icon from the Lucide icon set.
   ///
@@ -7006,8 +6483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData dog =
-      IconData(0xe38d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dog = IconData(0xe38d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dollar_sign] icon from the Lucide icon set.
   ///
@@ -7019,8 +6495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData dollar_sign =
-      IconData(0xe0b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dollar_sign = IconData(0xe0b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [donut] icon from the Lucide icon set.
   ///
@@ -7032,8 +6507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData donut =
-      IconData(0xe4bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData donut = IconData(0xe4bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [door_closed] icon from the Lucide icon set.
   ///
@@ -7045,8 +6519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData door_closed =
-      IconData(0xe3d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData door_closed = IconData(0xe3d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [door_closed_locked] icon from the Lucide icon set.
   ///
@@ -7058,8 +6531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lukedukeus](https://github.com/lukedukeus)
-  static const IconData door_closed_locked =
-      IconData(0xe664, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData door_closed_locked = IconData(0xe664, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [door_open] icon from the Lucide icon set.
   ///
@@ -7071,8 +6543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData door_open =
-      IconData(0xe3d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData door_open = IconData(0xe3d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dot] icon from the Lucide icon set.
   ///
@@ -7084,8 +6555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData dot =
-      IconData(0xe44f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dot = IconData(0xe44f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [download] icon from the Lucide icon set.
   ///
@@ -7097,8 +6567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData download =
-      IconData(0xe0b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData download = IconData(0xe0b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drafting_compass] icon from the Lucide icon set.
   ///
@@ -7110,8 +6579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData drafting_compass =
-      IconData(0xe527, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drafting_compass = IconData(0xe527, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drama] icon from the Lucide icon set.
   ///
@@ -7123,8 +6591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData drama =
-      IconData(0xe521, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drama = IconData(0xe521, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drill] icon from the Lucide icon set.
   ///
@@ -7136,8 +6603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData drill =
-      IconData(0xe58d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drill = IconData(0xe58d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drone] icon from the Lucide icon set.
   ///
@@ -7149,8 +6615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/bernatfortet](https://github.com/bernatfortet), [https://github.com/shopped](https://github.com/shopped), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData drone =
-      IconData(0xe676, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drone = IconData(0xe676, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [droplet] icon from the Lucide icon set.
   ///
@@ -7162,8 +6627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData droplet =
-      IconData(0xe0b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData droplet = IconData(0xe0b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [droplet_off] icon from the Lucide icon set.
   ///
@@ -7175,8 +6639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Footagesus](https://github.com/Footagesus)
-  static const IconData droplet_off =
-      IconData(0xe638, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData droplet_off = IconData(0xe638, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [droplets] icon from the Lucide icon set.
   ///
@@ -7188,8 +6651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData droplets =
-      IconData(0xe0b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData droplets = IconData(0xe0b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drum] icon from the Lucide icon set.
   ///
@@ -7201,8 +6663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData drum =
-      IconData(0xe55d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drum = IconData(0xe55d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [drumstick] icon from the Lucide icon set.
   ///
@@ -7214,8 +6675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData drumstick =
-      IconData(0xe25b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData drumstick = IconData(0xe25b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [dumbbell] icon from the Lucide icon set.
   ///
@@ -7227,8 +6687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData dumbbell =
-      IconData(0xe3a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData dumbbell = IconData(0xe3a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ear] icon from the Lucide icon set.
   ///
@@ -7240,8 +6699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData ear =
-      IconData(0xe382, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ear = IconData(0xe382, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ear_off] icon from the Lucide icon set.
   ///
@@ -7253,8 +6711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData ear_off =
-      IconData(0xe383, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ear_off = IconData(0xe383, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [earth] icon from the Lucide icon set.
   ///
@@ -7266,8 +6723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData earth =
-      IconData(0xe1f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData earth = IconData(0xe1f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [earth_lock] icon from the Lucide icon set.
   ///
@@ -7279,8 +6735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData earth_lock =
-      IconData(0xe5cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData earth_lock = IconData(0xe5cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eclipse] icon from the Lucide icon set.
   ///
@@ -7292,8 +6747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData eclipse =
-      IconData(0xe59d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData eclipse = IconData(0xe59d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg] icon from the Lucide icon set.
   ///
@@ -7305,8 +6759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData egg =
-      IconData(0xe25d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData egg = IconData(0xe25d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg_fried] icon from the Lucide icon set.
   ///
@@ -7318,8 +6771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData egg_fried =
-      IconData(0xe351, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData egg_fried = IconData(0xe351, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [egg_off] icon from the Lucide icon set.
   ///
@@ -7331,8 +6783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData egg_off =
-      IconData(0xe395, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData egg_off = IconData(0xe395, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ellipse] icon from the Lucide icon set.
   ///
@@ -7344,8 +6795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/KISHORE-KUMAR-S](https://github.com/KISHORE-KUMAR-S)
-  static const IconData ellipse =
-      IconData(0xe6b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ellipse = IconData(0xe6b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ellipsis] icon from the Lucide icon set.
   ///
@@ -7357,8 +6807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData ellipsis =
-      IconData(0xe0b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ellipsis = IconData(0xe0b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ellipsis_vertical] icon from the Lucide icon set.
   ///
@@ -7370,8 +6819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData ellipsis_vertical =
-      IconData(0xe0b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ellipsis_vertical = IconData(0xe0b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [equal] icon from the Lucide icon set.
   ///
@@ -7383,8 +6831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData equal =
-      IconData(0xe1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData equal = IconData(0xe1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [equal_approximately] icon from the Lucide icon set.
   ///
@@ -7396,8 +6843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ksk3110](https://github.com/ksk3110)
-  static const IconData equal_approximately =
-      IconData(0xe634, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData equal_approximately = IconData(0xe634, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [equal_not] icon from the Lucide icon set.
   ///
@@ -7409,8 +6855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData equal_not =
-      IconData(0xe1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData equal_not = IconData(0xe1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eraser] icon from the Lucide icon set.
   ///
@@ -7422,8 +6867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/maxwellito](https://github.com/maxwellito), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData eraser =
-      IconData(0xe28f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData eraser = IconData(0xe28f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ethernet_port] icon from the Lucide icon set.
   ///
@@ -7435,8 +6879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData ethernet_port =
-      IconData(0xe620, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ethernet_port = IconData(0xe620, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [euro] icon from the Lucide icon set.
   ///
@@ -7448,8 +6891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData euro =
-      IconData(0xe0b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData euro = IconData(0xe0b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ev_charger] icon from the Lucide icon set.
   ///
@@ -7461,8 +6903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData ev_charger =
-      IconData(0xe697, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ev_charger = IconData(0xe697, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [expand] icon from the Lucide icon set.
   ///
@@ -7474,8 +6915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData expand =
-      IconData(0xe21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData expand = IconData(0xe21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [external_link] icon from the Lucide icon set.
   ///
@@ -7487,8 +6927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData external_link =
-      IconData(0xe0b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData external_link = IconData(0xe0b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eye] icon from the Lucide icon set.
   ///
@@ -7500,8 +6939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData eye =
-      IconData(0xe0ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData eye = IconData(0xe0ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eye_closed] icon from the Lucide icon set.
   ///
@@ -7513,8 +6951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData eye_closed =
-      IconData(0xe62e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData eye_closed = IconData(0xe62e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [eye_off] icon from the Lucide icon set.
   ///
@@ -7526,8 +6963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData eye_off =
-      IconData(0xe0bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData eye_off = IconData(0xe0bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [factory] icon from the Lucide icon set.
   ///
@@ -7539,8 +6975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData factory =
-      IconData(0xe29f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData factory = IconData(0xe29f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fan] icon from the Lucide icon set.
   ///
@@ -7552,8 +6987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData fan =
-      IconData(0xe379, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fan = IconData(0xe379, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fast_forward] icon from the Lucide icon set.
   ///
@@ -7565,8 +6999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData fast_forward =
-      IconData(0xe0bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fast_forward = IconData(0xe0bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [feather] icon from the Lucide icon set.
   ///
@@ -7578,8 +7011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData feather =
-      IconData(0xe0be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData feather = IconData(0xe0be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fence] icon from the Lucide icon set.
   ///
@@ -7591,8 +7023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData fence =
-      IconData(0xe582, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fence = IconData(0xe582, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ferris_wheel] icon from the Lucide icon set.
   ///
@@ -7604,8 +7035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ferris_wheel =
-      IconData(0xe47f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ferris_wheel = IconData(0xe47f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file] icon from the Lucide icon set.
   ///
@@ -7617,8 +7047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file =
-      IconData(0xe0c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file = IconData(0xe0c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_archive] icon from the Lucide icon set.
   ///
@@ -7630,8 +7059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_archive =
-      IconData(0xe30d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_archive = IconData(0xe30d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_axis_3d] icon from the Lucide icon set.
   ///
@@ -7643,8 +7071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_axis_3d =
-      IconData(0xe30e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_axis_3d = IconData(0xe30e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_badge] icon from the Lucide icon set.
   ///
@@ -7656,8 +7083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_badge =
-      IconData(0xe30f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_badge = IconData(0xe30f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_box] icon from the Lucide icon set.
   ///
@@ -7669,8 +7095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_box =
-      IconData(0xe310, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_box = IconData(0xe310, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_braces] icon from the Lucide icon set.
   ///
@@ -7682,8 +7107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_braces =
-      IconData(0xe36b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_braces = IconData(0xe36b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_braces_corner] icon from the Lucide icon set.
   ///
@@ -7695,8 +7119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_braces_corner =
-      IconData(0xe36c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_braces_corner = IconData(0xe36c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_column] icon from the Lucide icon set.
   ///
@@ -7708,8 +7131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_chart_column =
-      IconData(0xe311, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_chart_column = IconData(0xe311, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_column_increasing] icon from the Lucide icon set.
   ///
@@ -7721,8 +7143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_chart_column_increasing =
-      IconData(0xe312, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_chart_column_increasing = IconData(0xe312, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_line] icon from the Lucide icon set.
   ///
@@ -7734,8 +7155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_chart_line =
-      IconData(0xe313, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_chart_line = IconData(0xe313, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_chart_pie] icon from the Lucide icon set.
   ///
@@ -7747,8 +7167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_chart_pie =
-      IconData(0xe314, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_chart_pie = IconData(0xe314, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_check] icon from the Lucide icon set.
   ///
@@ -7760,8 +7179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_check =
-      IconData(0xe0c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_check = IconData(0xe0c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_check_corner] icon from the Lucide icon set.
   ///
@@ -7773,8 +7191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_check_corner =
-      IconData(0xe0c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_check_corner = IconData(0xe0c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_clock] icon from the Lucide icon set.
   ///
@@ -7786,8 +7203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData file_clock =
-      IconData(0xe315, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_clock = IconData(0xe315, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_code] icon from the Lucide icon set.
   ///
@@ -7799,8 +7215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_code =
-      IconData(0xe0c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_code = IconData(0xe0c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_code_corner] icon from the Lucide icon set.
   ///
@@ -7812,8 +7227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData file_code_corner =
-      IconData(0xe45e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_code_corner = IconData(0xe45e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_cog] icon from the Lucide icon set.
   ///
@@ -7825,8 +7239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData file_cog =
-      IconData(0xe316, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_cog = IconData(0xe316, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_diff] icon from the Lucide icon set.
   ///
@@ -7838,8 +7251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_diff =
-      IconData(0xe317, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_diff = IconData(0xe317, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_digit] icon from the Lucide icon set.
   ///
@@ -7851,8 +7263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_digit =
-      IconData(0xe0c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_digit = IconData(0xe0c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_down] icon from the Lucide icon set.
   ///
@@ -7864,8 +7275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_down =
-      IconData(0xe318, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_down = IconData(0xe318, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_exclamation_point] icon from the Lucide icon set.
   ///
@@ -7877,8 +7287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_exclamation_point =
-      IconData(0xe319, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_exclamation_point = IconData(0xe319, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_headphone] icon from the Lucide icon set.
   ///
@@ -7890,8 +7299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_headphone =
-      IconData(0xe31a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_headphone = IconData(0xe31a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_heart] icon from the Lucide icon set.
   ///
@@ -7903,8 +7311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_heart =
-      IconData(0xe31b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_heart = IconData(0xe31b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_image] icon from the Lucide icon set.
   ///
@@ -7916,8 +7323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_image =
-      IconData(0xe31c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_image = IconData(0xe31c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_input] icon from the Lucide icon set.
   ///
@@ -7929,8 +7335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_input =
-      IconData(0xe0c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_input = IconData(0xe0c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_key] icon from the Lucide icon set.
   ///
@@ -7942,8 +7347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_key =
-      IconData(0xe31d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_key = IconData(0xe31d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_lock] icon from the Lucide icon set.
   ///
@@ -7955,8 +7359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_lock =
-      IconData(0xe31e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_lock = IconData(0xe31e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_minus] icon from the Lucide icon set.
   ///
@@ -7968,8 +7371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_minus =
-      IconData(0xe0c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_minus = IconData(0xe0c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_minus_corner] icon from the Lucide icon set.
   ///
@@ -7981,8 +7383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_minus_corner =
-      IconData(0xe0c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_minus_corner = IconData(0xe0c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_music] icon from the Lucide icon set.
   ///
@@ -7994,8 +7395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_music =
-      IconData(0xe55e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_music = IconData(0xe55e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_output] icon from the Lucide icon set.
   ///
@@ -8007,8 +7407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_output =
-      IconData(0xe0c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_output = IconData(0xe0c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_pen] icon from the Lucide icon set.
   ///
@@ -8020,8 +7419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_pen =
-      IconData(0xe31f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_pen = IconData(0xe31f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_pen_line] icon from the Lucide icon set.
   ///
@@ -8033,8 +7431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_pen_line =
-      IconData(0xe320, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_pen_line = IconData(0xe320, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_play] icon from the Lucide icon set.
   ///
@@ -8046,8 +7443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_play =
-      IconData(0xe321, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_play = IconData(0xe321, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_plus] icon from the Lucide icon set.
   ///
@@ -8059,8 +7455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_plus =
-      IconData(0xe0c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_plus = IconData(0xe0c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_plus_corner] icon from the Lucide icon set.
   ///
@@ -8072,8 +7467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_plus_corner =
-      IconData(0xe0ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_plus_corner = IconData(0xe0ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_question_mark] icon from the Lucide icon set.
   ///
@@ -8085,8 +7479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_question_mark =
-      IconData(0xe322, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_question_mark = IconData(0xe322, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_scan] icon from the Lucide icon set.
   ///
@@ -8098,8 +7491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_scan =
-      IconData(0xe323, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_scan = IconData(0xe323, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_search] icon from the Lucide icon set.
   ///
@@ -8111,8 +7503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_search =
-      IconData(0xe0cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_search = IconData(0xe0cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_search_corner] icon from the Lucide icon set.
   ///
@@ -8124,8 +7515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_search_corner =
-      IconData(0xe324, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_search_corner = IconData(0xe324, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_signal] icon from the Lucide icon set.
   ///
@@ -8137,8 +7527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_signal =
-      IconData(0xe325, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_signal = IconData(0xe325, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_sliders] icon from the Lucide icon set.
   ///
@@ -8150,8 +7539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_sliders =
-      IconData(0xe5a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_sliders = IconData(0xe5a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_spreadsheet] icon from the Lucide icon set.
   ///
@@ -8163,8 +7551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_spreadsheet =
-      IconData(0xe326, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_spreadsheet = IconData(0xe326, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_stack] icon from the Lucide icon set.
   ///
@@ -8176,8 +7563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData file_stack =
-      IconData(0xe4a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_stack = IconData(0xe4a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_symlink] icon from the Lucide icon set.
   ///
@@ -8189,8 +7575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_symlink =
-      IconData(0xe327, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_symlink = IconData(0xe327, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_terminal] icon from the Lucide icon set.
   ///
@@ -8202,8 +7587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_terminal =
-      IconData(0xe328, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_terminal = IconData(0xe328, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_text] icon from the Lucide icon set.
   ///
@@ -8215,8 +7599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_text =
-      IconData(0xe0cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_text = IconData(0xe0cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_type] icon from the Lucide icon set.
   ///
@@ -8228,8 +7611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_type =
-      IconData(0xe329, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_type = IconData(0xe329, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_type_corner] icon from the Lucide icon set.
   ///
@@ -8241,8 +7623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_type_corner =
-      IconData(0xe36d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_type_corner = IconData(0xe36d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_up] icon from the Lucide icon set.
   ///
@@ -8254,8 +7635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_up =
-      IconData(0xe32a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_up = IconData(0xe32a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_user] icon from the Lucide icon set.
   ///
@@ -8267,8 +7647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_user =
-      IconData(0xe62d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_user = IconData(0xe62d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_video_camera] icon from the Lucide icon set.
   ///
@@ -8280,8 +7659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_video_camera =
-      IconData(0xe32b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_video_camera = IconData(0xe32b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_volume] icon from the Lucide icon set.
   ///
@@ -8293,8 +7671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData file_volume =
-      IconData(0xe32c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_volume = IconData(0xe32c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_x] icon from the Lucide icon set.
   ///
@@ -8306,8 +7683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_x =
-      IconData(0xe0cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_x = IconData(0xe0cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [file_x_corner] icon from the Lucide icon set.
   ///
@@ -8319,8 +7695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData file_x_corner =
-      IconData(0xe0ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData file_x_corner = IconData(0xe0ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [files] icon from the Lucide icon set.
   ///
@@ -8332,8 +7707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData files =
-      IconData(0xe0cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData files = IconData(0xe0cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [film] icon from the Lucide icon set.
   ///
@@ -8345,8 +7719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData film =
-      IconData(0xe0d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData film = IconData(0xe0d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fingerprint_pattern] icon from the Lucide icon set.
   ///
@@ -8358,8 +7731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData fingerprint_pattern =
-      IconData(0xe2cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fingerprint_pattern = IconData(0xe2cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fire_extinguisher] icon from the Lucide icon set.
   ///
@@ -8371,8 +7743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData fire_extinguisher =
-      IconData(0xe57e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fire_extinguisher = IconData(0xe57e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish] icon from the Lucide icon set.
   ///
@@ -8384,8 +7755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie)
-  static const IconData fish =
-      IconData(0xe3a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fish = IconData(0xe3a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish_off] icon from the Lucide icon set.
   ///
@@ -8397,8 +7767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/kemie](https://github.com/kemie), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData fish_off =
-      IconData(0xe3b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fish_off = IconData(0xe3b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fish_symbol] icon from the Lucide icon set.
   ///
@@ -8410,8 +7779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData fish_symbol =
-      IconData(0xe4f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fish_symbol = IconData(0xe4f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fishing_hook] icon from the Lucide icon set.
   ///
@@ -8423,8 +7791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/7ender](https://github.com/7ender), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData fishing_hook =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fishing_hook = IconData(0xe6e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fishing_rod] icon from the Lucide icon set.
   ///
@@ -8436,8 +7803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/7ender](https://github.com/7ender), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData fishing_rod =
-      IconData(0xe6b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fishing_rod = IconData(0xe6b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag] icon from the Lucide icon set.
   ///
@@ -8449,8 +7815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flag =
-      IconData(0xe0d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flag = IconData(0xe0d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag_off] icon from the Lucide icon set.
   ///
@@ -8462,8 +7827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/cyberalien](https://github.com/cyberalien), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flag_off =
-      IconData(0xe292, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flag_off = IconData(0xe292, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag_triangle_left] icon from the Lucide icon set.
   ///
@@ -8475,8 +7839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/tidoni](https://github.com/tidoni), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flag_triangle_left =
-      IconData(0xe237, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flag_triangle_left = IconData(0xe237, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flag_triangle_right] icon from the Lucide icon set.
   ///
@@ -8488,8 +7851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/tidoni](https://github.com/tidoni), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flag_triangle_right =
-      IconData(0xe238, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flag_triangle_right = IconData(0xe238, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flame] icon from the Lucide icon set.
   ///
@@ -8501,8 +7863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flame =
-      IconData(0xe0d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flame = IconData(0xe0d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flame_kindling] icon from the Lucide icon set.
   ///
@@ -8514,8 +7875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData flame_kindling =
-      IconData(0xe53a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flame_kindling = IconData(0xe53a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flashlight] icon from the Lucide icon set.
   ///
@@ -8527,8 +7887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flashlight =
-      IconData(0xe0d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flashlight = IconData(0xe0d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flashlight_off] icon from the Lucide icon set.
   ///
@@ -8540,8 +7899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flashlight_off =
-      IconData(0xe0d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flashlight_off = IconData(0xe0d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flask_conical] icon from the Lucide icon set.
   ///
@@ -8553,8 +7911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flask_conical =
-      IconData(0xe0d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flask_conical = IconData(0xe0d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flask_conical_off] icon from the Lucide icon set.
   ///
@@ -8566,8 +7923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flask_conical_off =
-      IconData(0xe396, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flask_conical_off = IconData(0xe396, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flask_round] icon from the Lucide icon set.
   ///
@@ -8579,8 +7935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData flask_round =
-      IconData(0xe0d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flask_round = IconData(0xe0d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flip_horizontal_2] icon from the Lucide icon set.
   ///
@@ -8592,8 +7947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData flip_horizontal_2 =
-      IconData(0xe35e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flip_horizontal_2 = IconData(0xe35e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flip_vertical_2] icon from the Lucide icon set.
   ///
@@ -8605,8 +7959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData flip_vertical_2 =
-      IconData(0xe360, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flip_vertical_2 = IconData(0xe360, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flower] icon from the Lucide icon set.
   ///
@@ -8618,8 +7971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData flower =
-      IconData(0xe2d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flower = IconData(0xe2d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [flower_2] icon from the Lucide icon set.
   ///
@@ -8631,8 +7983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData flower_2 =
-      IconData(0xe2d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData flower_2 = IconData(0xe2d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [focus] icon from the Lucide icon set.
   ///
@@ -8644,8 +7995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData focus =
-      IconData(0xe29e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData focus = IconData(0xe29e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fold_horizontal] icon from the Lucide icon set.
   ///
@@ -8657,8 +8007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData fold_horizontal =
-      IconData(0xe43b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fold_horizontal = IconData(0xe43b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fold_vertical] icon from the Lucide icon set.
   ///
@@ -8670,8 +8019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData fold_vertical =
-      IconData(0xe43c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fold_vertical = IconData(0xe43c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder] icon from the Lucide icon set.
   ///
@@ -8683,8 +8031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder =
-      IconData(0xe0d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder = IconData(0xe0d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_archive] icon from the Lucide icon set.
   ///
@@ -8696,8 +8043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_archive =
-      IconData(0xe32d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_archive = IconData(0xe32d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_check] icon from the Lucide icon set.
   ///
@@ -8709,8 +8055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData folder_check =
-      IconData(0xe32e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_check = IconData(0xe32e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_clock] icon from the Lucide icon set.
   ///
@@ -8722,8 +8067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData folder_clock =
-      IconData(0xe32f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_clock = IconData(0xe32f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_closed] icon from the Lucide icon set.
   ///
@@ -8735,8 +8079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData folder_closed =
-      IconData(0xe330, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_closed = IconData(0xe330, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_code] icon from the Lucide icon set.
   ///
@@ -8748,8 +8091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_code =
-      IconData(0xe5fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_code = IconData(0xe5fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_cog] icon from the Lucide icon set.
   ///
@@ -8761,8 +8103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData folder_cog =
-      IconData(0xe331, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_cog = IconData(0xe331, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_dot] icon from the Lucide icon set.
   ///
@@ -8774,8 +8115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData folder_dot =
-      IconData(0xe4c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_dot = IconData(0xe4c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_down] icon from the Lucide icon set.
   ///
@@ -8787,8 +8127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_down =
-      IconData(0xe332, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_down = IconData(0xe332, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_git] icon from the Lucide icon set.
   ///
@@ -8800,8 +8139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData folder_git =
-      IconData(0xe409, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_git = IconData(0xe409, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_git_2] icon from the Lucide icon set.
   ///
@@ -8813,8 +8151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_git_2 =
-      IconData(0xe40a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_git_2 = IconData(0xe40a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_heart] icon from the Lucide icon set.
   ///
@@ -8826,8 +8163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_heart =
-      IconData(0xe333, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_heart = IconData(0xe333, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_input] icon from the Lucide icon set.
   ///
@@ -8839,8 +8175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_input =
-      IconData(0xe334, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_input = IconData(0xe334, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_kanban] icon from the Lucide icon set.
   ///
@@ -8852,8 +8187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData folder_kanban =
-      IconData(0xe4c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_kanban = IconData(0xe4c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_key] icon from the Lucide icon set.
   ///
@@ -8865,8 +8199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_key =
-      IconData(0xe335, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_key = IconData(0xe335, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_lock] icon from the Lucide icon set.
   ///
@@ -8878,8 +8211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData folder_lock =
-      IconData(0xe336, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_lock = IconData(0xe336, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_minus] icon from the Lucide icon set.
   ///
@@ -8891,8 +8223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_minus =
-      IconData(0xe0d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_minus = IconData(0xe0d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_open] icon from the Lucide icon set.
   ///
@@ -8904,8 +8235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_open =
-      IconData(0xe247, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_open = IconData(0xe247, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_open_dot] icon from the Lucide icon set.
   ///
@@ -8917,8 +8247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData folder_open_dot =
-      IconData(0xe4c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_open_dot = IconData(0xe4c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_output] icon from the Lucide icon set.
   ///
@@ -8930,8 +8259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_output =
-      IconData(0xe337, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_output = IconData(0xe337, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_pen] icon from the Lucide icon set.
   ///
@@ -8943,8 +8271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_pen =
-      IconData(0xe338, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_pen = IconData(0xe338, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_plus] icon from the Lucide icon set.
   ///
@@ -8956,8 +8283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_plus =
-      IconData(0xe0d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_plus = IconData(0xe0d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_root] icon from the Lucide icon set.
   ///
@@ -8969,8 +8295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData folder_root =
-      IconData(0xe4c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_root = IconData(0xe4c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_search] icon from the Lucide icon set.
   ///
@@ -8982,8 +8307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_search =
-      IconData(0xe339, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_search = IconData(0xe339, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_search_2] icon from the Lucide icon set.
   ///
@@ -8995,8 +8319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_search_2 =
-      IconData(0xe33a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_search_2 = IconData(0xe33a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_symlink] icon from the Lucide icon set.
   ///
@@ -9008,8 +8331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_symlink =
-      IconData(0xe33b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_symlink = IconData(0xe33b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_sync] icon from the Lucide icon set.
   ///
@@ -9021,8 +8343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_sync =
-      IconData(0xe4c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_sync = IconData(0xe4c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_tree] icon from the Lucide icon set.
   ///
@@ -9034,8 +8355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData folder_tree =
-      IconData(0xe33c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_tree = IconData(0xe33c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_up] icon from the Lucide icon set.
   ///
@@ -9047,8 +8367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_up =
-      IconData(0xe33d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_up = IconData(0xe33d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folder_x] icon from the Lucide icon set.
   ///
@@ -9060,8 +8379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folder_x =
-      IconData(0xe33e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folder_x = IconData(0xe33e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [folders] icon from the Lucide icon set.
   ///
@@ -9073,8 +8391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData folders =
-      IconData(0xe33f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData folders = IconData(0xe33f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [footprints] icon from the Lucide icon set.
   ///
@@ -9086,8 +8403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData footprints =
-      IconData(0xe3b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData footprints = IconData(0xe3b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [forklift] icon from the Lucide icon set.
   ///
@@ -9099,8 +8415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData forklift =
-      IconData(0xe3c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData forklift = IconData(0xe3c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [form] icon from the Lucide icon set.
   ///
@@ -9112,8 +8427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData form =
-      IconData(0xe6a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData form = IconData(0xe6a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [forward] icon from the Lucide icon set.
   ///
@@ -9125,8 +8439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData forward =
-      IconData(0xe229, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData forward = IconData(0xe229, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [frame] icon from the Lucide icon set.
   ///
@@ -9138,8 +8451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Bowero](https://github.com/Bowero), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData frame =
-      IconData(0xe291, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData frame = IconData(0xe291, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [frown] icon from the Lucide icon set.
   ///
@@ -9151,8 +8463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData frown =
-      IconData(0xe0db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData frown = IconData(0xe0db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fuel] icon from the Lucide icon set.
   ///
@@ -9164,8 +8475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData fuel =
-      IconData(0xe2af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fuel = IconData(0xe2af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [fullscreen] icon from the Lucide icon set.
   ///
@@ -9177,8 +8487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData fullscreen =
-      IconData(0xe534, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData fullscreen = IconData(0xe534, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [funnel] icon from the Lucide icon set.
   ///
@@ -9190,8 +8499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/lukedukeus](https://github.com/lukedukeus), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData funnel =
-      IconData(0xe0dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData funnel = IconData(0xe0dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [funnel_plus] icon from the Lucide icon set.
   ///
@@ -9203,8 +8511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/gubser](https://github.com/gubser), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/lukedukeus](https://github.com/lukedukeus), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData funnel_plus =
-      IconData(0xe0dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData funnel_plus = IconData(0xe0dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [funnel_x] icon from the Lucide icon set.
   ///
@@ -9216,8 +8523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/gubser](https://github.com/gubser), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/lukedukeus](https://github.com/lukedukeus), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData funnel_x =
-      IconData(0xe3b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData funnel_x = IconData(0xe3b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_horizontal] icon from the Lucide icon set.
   ///
@@ -9229,8 +8535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData gallery_horizontal =
-      IconData(0xe4ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gallery_horizontal = IconData(0xe4ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_horizontal_end] icon from the Lucide icon set.
   ///
@@ -9242,8 +8547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData gallery_horizontal_end =
-      IconData(0xe4cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gallery_horizontal_end = IconData(0xe4cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_thumbnails] icon from the Lucide icon set.
   ///
@@ -9255,8 +8559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData gallery_thumbnails =
-      IconData(0xe4d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gallery_thumbnails = IconData(0xe4d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_vertical] icon from the Lucide icon set.
   ///
@@ -9268,8 +8571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData gallery_vertical =
-      IconData(0xe4d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gallery_vertical = IconData(0xe4d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gallery_vertical_end] icon from the Lucide icon set.
   ///
@@ -9281,8 +8583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData gallery_vertical_end =
-      IconData(0xe4d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gallery_vertical_end = IconData(0xe4d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gamepad] icon from the Lucide icon set.
   ///
@@ -9294,8 +8595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData gamepad =
-      IconData(0xe0de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gamepad = IconData(0xe0de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gamepad_2] icon from the Lucide icon set.
   ///
@@ -9307,8 +8607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData gamepad_2 =
-      IconData(0xe0df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gamepad_2 = IconData(0xe0df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gamepad_directional] icon from the Lucide icon set.
   ///
@@ -9320,8 +8619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/felipeajzanetti](https://github.com/felipeajzanetti), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData gamepad_directional =
-      IconData(0xe69b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gamepad_directional = IconData(0xe69b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gauge] icon from the Lucide icon set.
   ///
@@ -9333,8 +8631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData gauge =
-      IconData(0xe1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gauge = IconData(0xe1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gavel] icon from the Lucide icon set.
   ///
@@ -9346,8 +8643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData gavel =
-      IconData(0xe0e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gavel = IconData(0xe0e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gem] icon from the Lucide icon set.
   ///
@@ -9359,8 +8655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData gem =
-      IconData(0xe242, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gem = IconData(0xe242, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [georgian_lari] icon from the Lucide icon set.
   ///
@@ -9372,8 +8667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kivicode](https://github.com/kivicode)
-  static const IconData georgian_lari =
-      IconData(0xe678, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData georgian_lari = IconData(0xe678, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ghost] icon from the Lucide icon set.
   ///
@@ -9385,8 +8679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData ghost =
-      IconData(0xe20e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ghost = IconData(0xe20e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gift] icon from the Lucide icon set.
   ///
@@ -9398,8 +8691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData gift =
-      IconData(0xe0e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gift = IconData(0xe0e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_branch] icon from the Lucide icon set.
   ///
@@ -9411,8 +8703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData git_branch =
-      IconData(0xe0e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_branch = IconData(0xe0e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_branch_minus] icon from the Lucide icon set.
   ///
@@ -9424,8 +8715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/joris-gallot](https://github.com/joris-gallot)
-  static const IconData git_branch_minus =
-      IconData(0xe69c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_branch_minus = IconData(0xe69c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_branch_plus] icon from the Lucide icon set.
   ///
@@ -9437,8 +8727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_branch_plus =
-      IconData(0xe1f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_branch_plus = IconData(0xe1f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_commit_horizontal] icon from the Lucide icon set.
   ///
@@ -9450,8 +8739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData git_commit_horizontal =
-      IconData(0xe0e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_commit_horizontal = IconData(0xe0e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_commit_vertical] icon from the Lucide icon set.
   ///
@@ -9463,8 +8751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_commit_vertical =
-      IconData(0xe552, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_commit_vertical = IconData(0xe552, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_compare] icon from the Lucide icon set.
   ///
@@ -9476,8 +8763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_compare =
-      IconData(0xe359, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_compare = IconData(0xe359, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_compare_arrows] icon from the Lucide icon set.
   ///
@@ -9489,8 +8775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_compare_arrows =
-      IconData(0xe553, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_compare_arrows = IconData(0xe553, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_fork] icon from the Lucide icon set.
   ///
@@ -9502,8 +8787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_fork =
-      IconData(0xe28d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_fork = IconData(0xe28d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_graph] icon from the Lucide icon set.
   ///
@@ -9515,8 +8799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_graph =
-      IconData(0xe554, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_graph = IconData(0xe554, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_merge] icon from the Lucide icon set.
   ///
@@ -9528,8 +8811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_merge =
-      IconData(0xe0e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_merge = IconData(0xe0e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_merge_conflict] icon from the Lucide icon set.
   ///
@@ -9541,8 +8823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/timmy471](https://github.com/timmy471), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_merge_conflict =
-      IconData(0xe6b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_merge_conflict = IconData(0xe6b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request] icon from the Lucide icon set.
   ///
@@ -9554,8 +8835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_pull_request =
-      IconData(0xe0e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request = IconData(0xe0e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_arrow] icon from the Lucide icon set.
   ///
@@ -9567,8 +8847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_pull_request_arrow =
-      IconData(0xe555, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request_arrow = IconData(0xe555, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_closed] icon from the Lucide icon set.
   ///
@@ -9580,8 +8859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_pull_request_closed =
-      IconData(0xe35a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request_closed = IconData(0xe35a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_create] icon from the Lucide icon set.
   ///
@@ -9593,8 +8871,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_pull_request_create =
-      IconData(0xe556, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request_create = IconData(0xe556, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_create_arrow] icon from the Lucide icon set.
   ///
@@ -9606,8 +8883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData git_pull_request_create_arrow =
-      IconData(0xe557, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request_create_arrow = IconData(0xe557, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [git_pull_request_draft] icon from the Lucide icon set.
   ///
@@ -9619,8 +8895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData git_pull_request_draft =
-      IconData(0xe35b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData git_pull_request_draft = IconData(0xe35b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [glass_water] icon from the Lucide icon set.
   ///
@@ -9632,8 +8907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData glass_water =
-      IconData(0xe2d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData glass_water = IconData(0xe2d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [glasses] icon from the Lucide icon set.
   ///
@@ -9645,8 +8919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData glasses =
-      IconData(0xe20d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData glasses = IconData(0xe20d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [globe] icon from the Lucide icon set.
   ///
@@ -9658,8 +8931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData globe =
-      IconData(0xe0e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData globe = IconData(0xe0e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [globe_lock] icon from the Lucide icon set.
   ///
@@ -9671,8 +8943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData globe_lock =
-      IconData(0xe5cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData globe_lock = IconData(0xe5cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [globe_off] icon from the Lucide icon set.
   ///
@@ -9684,8 +8955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/TimNekk](https://github.com/TimNekk), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData globe_off =
-      IconData(0xe6b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData globe_off = IconData(0xe6b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [globe_x] icon from the Lucide icon set.
   ///
@@ -9697,8 +8967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir)
-  static const IconData globe_x =
-      IconData(0xe6b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData globe_x = IconData(0xe6b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [goal] icon from the Lucide icon set.
   ///
@@ -9710,8 +8979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/guillermo-angeles](https://github.com/guillermo-angeles), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData goal =
-      IconData(0xe4a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData goal = IconData(0xe4a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [gpu] icon from the Lucide icon set.
   ///
@@ -9723,8 +8991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/xandykati98](https://github.com/xandykati98), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData gpu =
-      IconData(0xe66a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData gpu = IconData(0xe66a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [graduation_cap] icon from the Lucide icon set.
   ///
@@ -9736,8 +9003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Tummerhore](https://github.com/Tummerhore), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData graduation_cap =
-      IconData(0xe234, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData graduation_cap = IconData(0xe234, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grape] icon from the Lucide icon set.
   ///
@@ -9749,8 +9015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData grape =
-      IconData(0xe352, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grape = IconData(0xe352, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2] icon from the Lucide icon set.
   ///
@@ -9762,8 +9027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData grid_2x2 =
-      IconData(0xe4ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_2x2 = IconData(0xe4ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_check] icon from the Lucide icon set.
   ///
@@ -9775,8 +9039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData grid_2x2_check =
-      IconData(0xe5e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_2x2_check = IconData(0xe5e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_plus] icon from the Lucide icon set.
   ///
@@ -9788,8 +9051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData grid_2x2_plus =
-      IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_2x2_plus = IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_2x2_x] icon from the Lucide icon set.
   ///
@@ -9801,8 +9063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData grid_2x2_x =
-      IconData(0xe5e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_2x2_x = IconData(0xe5e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_3x2] icon from the Lucide icon set.
   ///
@@ -9814,8 +9075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/qubrat](https://github.com/qubrat)
-  static const IconData grid_3x2 =
-      IconData(0xe66f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_3x2 = IconData(0xe66f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grid_3x3] icon from the Lucide icon set.
   ///
@@ -9827,8 +9087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData grid_3x3 =
-      IconData(0xe0e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grid_3x3 = IconData(0xe0e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grip] icon from the Lucide icon set.
   ///
@@ -9840,8 +9099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/koole](https://github.com/koole), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData grip =
-      IconData(0xe3b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grip = IconData(0xe3b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grip_horizontal] icon from the Lucide icon set.
   ///
@@ -9853,8 +9111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData grip_horizontal =
-      IconData(0xe0ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grip_horizontal = IconData(0xe0ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [grip_vertical] icon from the Lucide icon set.
   ///
@@ -9866,8 +9123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData grip_vertical =
-      IconData(0xe0eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData grip_vertical = IconData(0xe0eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [group] icon from the Lucide icon set.
   ///
@@ -9879,8 +9135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData group =
-      IconData(0xe464, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData group = IconData(0xe464, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [guitar] icon from the Lucide icon set.
   ///
@@ -9892,8 +9147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData guitar =
-      IconData(0xe55f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData guitar = IconData(0xe55f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ham] icon from the Lucide icon set.
   ///
@@ -9905,8 +9159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ham =
-      IconData(0xe5d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ham = IconData(0xe5d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hamburger] icon from the Lucide icon set.
   ///
@@ -9918,8 +9171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/kemie](https://github.com/kemie), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData hamburger =
-      IconData(0xe665, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hamburger = IconData(0xe665, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hammer] icon from the Lucide icon set.
   ///
@@ -9931,8 +9183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hammer =
-      IconData(0xe0ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hammer = IconData(0xe0ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand] icon from the Lucide icon set.
   ///
@@ -9944,8 +9195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hand =
-      IconData(0xe1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand = IconData(0xe1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_coins] icon from the Lucide icon set.
   ///
@@ -9957,8 +9207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/kayleyhill](https://github.com/kayleyhill)
-  static const IconData hand_coins =
-      IconData(0xe5b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_coins = IconData(0xe5b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_fist] icon from the Lucide icon set.
   ///
@@ -9970,8 +9219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData hand_fist =
-      IconData(0xe68b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_fist = IconData(0xe68b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_grab] icon from the Lucide icon set.
   ///
@@ -9983,8 +9231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hand_grab =
-      IconData(0xe1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_grab = IconData(0xe1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_heart] icon from the Lucide icon set.
   ///
@@ -9996,8 +9243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/kayleyhill](https://github.com/kayleyhill), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hand_heart =
-      IconData(0xe5b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_heart = IconData(0xe5b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_helping] icon from the Lucide icon set.
   ///
@@ -10009,8 +9255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData hand_helping =
-      IconData(0xe3b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_helping = IconData(0xe3b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_metal] icon from the Lucide icon set.
   ///
@@ -10022,8 +9267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hand_metal =
-      IconData(0xe22c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_metal = IconData(0xe22c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hand_platter] icon from the Lucide icon set.
   ///
@@ -10035,8 +9279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData hand_platter =
-      IconData(0xe5ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hand_platter = IconData(0xe5ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [handbag] icon from the Lucide icon set.
   ///
@@ -10048,8 +9291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData handbag =
-      IconData(0xe689, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData handbag = IconData(0xe689, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [handshake] icon from the Lucide icon set.
   ///
@@ -10061,8 +9303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData handshake =
-      IconData(0xe5c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData handshake = IconData(0xe5c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_drive] icon from the Lucide icon set.
   ///
@@ -10074,8 +9315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData hard_drive =
-      IconData(0xe0ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hard_drive = IconData(0xe0ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_drive_download] icon from the Lucide icon set.
   ///
@@ -10087,8 +9327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData hard_drive_download =
-      IconData(0xe4e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hard_drive_download = IconData(0xe4e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_drive_upload] icon from the Lucide icon set.
   ///
@@ -10100,8 +9339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData hard_drive_upload =
-      IconData(0xe4e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hard_drive_upload = IconData(0xe4e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hard_hat] icon from the Lucide icon set.
   ///
@@ -10113,8 +9351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hard_hat =
-      IconData(0xe0ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hard_hat = IconData(0xe0ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hash] icon from the Lucide icon set.
   ///
@@ -10126,8 +9363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hash =
-      IconData(0xe0ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hash = IconData(0xe0ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hat_glasses] icon from the Lucide icon set.
   ///
@@ -10139,8 +9375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hat_glasses =
-      IconData(0xe683, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hat_glasses = IconData(0xe683, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [haze] icon from the Lucide icon set.
   ///
@@ -10152,8 +9387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData haze =
-      IconData(0xe0f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData haze = IconData(0xe0f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hd] icon from the Lucide icon set.
   ///
@@ -10165,8 +9399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData hd =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hd = IconData(0xe6e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hdmi_port] icon from the Lucide icon set.
   ///
@@ -10178,8 +9411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData hdmi_port =
-      IconData(0xe4e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hdmi_port = IconData(0xe4e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading] icon from the Lucide icon set.
   ///
@@ -10191,8 +9423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData heading =
-      IconData(0xe384, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading = IconData(0xe384, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_1] icon from the Lucide icon set.
   ///
@@ -10204,8 +9435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData heading_1 =
-      IconData(0xe385, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_1 = IconData(0xe385, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_2] icon from the Lucide icon set.
   ///
@@ -10217,8 +9447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData heading_2 =
-      IconData(0xe386, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_2 = IconData(0xe386, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_3] icon from the Lucide icon set.
   ///
@@ -10230,8 +9459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heading_3 =
-      IconData(0xe387, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_3 = IconData(0xe387, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_4] icon from the Lucide icon set.
   ///
@@ -10243,8 +9471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heading_4 =
-      IconData(0xe388, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_4 = IconData(0xe388, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_5] icon from the Lucide icon set.
   ///
@@ -10256,8 +9483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heading_5 =
-      IconData(0xe389, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_5 = IconData(0xe389, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heading_6] icon from the Lucide icon set.
   ///
@@ -10269,8 +9495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData heading_6 =
-      IconData(0xe38a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heading_6 = IconData(0xe38a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [headphone_off] icon from the Lucide icon set.
   ///
@@ -10282,8 +9507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Need-an-AwP](https://github.com/Need-an-AwP)
-  static const IconData headphone_off =
-      IconData(0xe629, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData headphone_off = IconData(0xe629, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [headphones] icon from the Lucide icon set.
   ///
@@ -10295,8 +9519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData headphones =
-      IconData(0xe0f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData headphones = IconData(0xe0f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [headset] icon from the Lucide icon set.
   ///
@@ -10308,8 +9531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData headset =
-      IconData(0xe5bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData headset = IconData(0xe5bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart] icon from the Lucide icon set.
   ///
@@ -10321,8 +9543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart =
-      IconData(0xe0f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart = IconData(0xe0f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_crack] icon from the Lucide icon set.
   ///
@@ -10334,8 +9555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart_crack =
-      IconData(0xe2d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_crack = IconData(0xe2d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_handshake] icon from the Lucide icon set.
   ///
@@ -10347,8 +9567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart_handshake =
-      IconData(0xe2d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_handshake = IconData(0xe2d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_minus] icon from the Lucide icon set.
   ///
@@ -10360,8 +9579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Ayberkyvs](https://github.com/Ayberkyvs), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart_minus =
-      IconData(0xe651, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_minus = IconData(0xe651, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_off] icon from the Lucide icon set.
   ///
@@ -10373,8 +9591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart_off =
-      IconData(0xe295, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_off = IconData(0xe295, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_plus] icon from the Lucide icon set.
   ///
@@ -10386,8 +9603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Ayberkyvs](https://github.com/Ayberkyvs), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData heart_plus =
-      IconData(0xe652, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_plus = IconData(0xe652, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heart_pulse] icon from the Lucide icon set.
   ///
@@ -10399,8 +9615,19 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData heart_pulse =
-      IconData(0xe36e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heart_pulse = IconData(0xe36e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [heart_x] icon from the Lucide icon set.
+  ///
+  /// ![heart_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuNSAxMi41IDUgNSIgLz4KICA8cGF0aCBkPSJtMjAuNSAxMi41LTUgNSIgLz4KICA8cGF0aCBkPSJNMjEuOTU1IDguNzc0YTUuNSA1LjUgMCAwIDAtOS41NDYtMi45NS42LjYgMCAwIDEtLjgxOCAwQTUuNSA1LjUgMCAwIDAgMiA5LjVjMCAyLjMgMS41IDQgMyA1LjVsNS41MDggNS4zMzJhMiAyIDAgMCAwIDIuNTcuMzUyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [heart_x] icon is a graphical symbol that conveys a specific idea or functionality related to unlike, unfavorite, remove, reject, dismiss, delete, clear.
+  /// - It belongs to the categories: social, multimedia, design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Ayberkyvs](https://github.com/Ayberkyvs), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/swastik7805](https://github.com/swastik7805)
+  static const IconData heart_x = IconData(0xe6ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [heater] icon from the Lucide icon set.
   ///
@@ -10412,8 +9639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData heater =
-      IconData(0xe58e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData heater = IconData(0xe58e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [helicopter] icon from the Lucide icon set.
   ///
@@ -10425,8 +9651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/liloudreams](https://github.com/liloudreams), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData helicopter =
-      IconData(0xe69d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData helicopter = IconData(0xe69d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hexagon] icon from the Lucide icon set.
   ///
@@ -10438,8 +9663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hexagon =
-      IconData(0xe0f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hexagon = IconData(0xe0f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [highlighter] icon from the Lucide icon set.
   ///
@@ -10451,8 +9675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData highlighter =
-      IconData(0xe0f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData highlighter = IconData(0xe0f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [history] icon from the Lucide icon set.
   ///
@@ -10464,8 +9687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData history =
-      IconData(0xe1f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData history = IconData(0xe1f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hop] icon from the Lucide icon set.
   ///
@@ -10477,8 +9699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hop =
-      IconData(0xe397, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hop = IconData(0xe397, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hop_off] icon from the Lucide icon set.
   ///
@@ -10490,8 +9711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData hop_off =
-      IconData(0xe398, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hop_off = IconData(0xe398, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hospital] icon from the Lucide icon set.
   ///
@@ -10503,8 +9723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hospital =
-      IconData(0xe5d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hospital = IconData(0xe5d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hotel] icon from the Lucide icon set.
   ///
@@ -10516,8 +9735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData hotel =
-      IconData(0xe3e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hotel = IconData(0xe3e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [hourglass] icon from the Lucide icon set.
   ///
@@ -10529,8 +9747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData hourglass =
-      IconData(0xe296, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData hourglass = IconData(0xe296, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house] icon from the Lucide icon set.
   ///
@@ -10542,8 +9759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData house =
-      IconData(0xe0f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData house = IconData(0xe0f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house_heart] icon from the Lucide icon set.
   ///
@@ -10555,8 +9771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData house_heart =
-      IconData(0xe695, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData house_heart = IconData(0xe695, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house_plug] icon from the Lucide icon set.
   ///
@@ -10568,8 +9783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData house_plug =
-      IconData(0xe5f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData house_plug = IconData(0xe5f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house_plus] icon from the Lucide icon set.
   ///
@@ -10581,8 +9795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData house_plus =
-      IconData(0xe5f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData house_plus = IconData(0xe5f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [house_wifi] icon from the Lucide icon set.
   ///
@@ -10594,8 +9807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/akshaymemane](https://github.com/akshaymemane), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData house_wifi =
-      IconData(0xe63c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData house_wifi = IconData(0xe63c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ice_cream_bowl] icon from the Lucide icon set.
   ///
@@ -10607,8 +9819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData ice_cream_bowl =
-      IconData(0xe3a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ice_cream_bowl = IconData(0xe3a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ice_cream_cone] icon from the Lucide icon set.
   ///
@@ -10620,8 +9831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ice_cream_cone =
-      IconData(0xe353, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ice_cream_cone = IconData(0xe353, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [id_card] icon from the Lucide icon set.
   ///
@@ -10633,8 +9843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData id_card =
-      IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData id_card = IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [id_card_lanyard] icon from the Lucide icon set.
   ///
@@ -10646,8 +9855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/python2911](https://github.com/python2911), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData id_card_lanyard =
-      IconData(0xe670, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData id_card_lanyard = IconData(0xe670, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image] icon from the Lucide icon set.
   ///
@@ -10659,8 +9867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData image =
-      IconData(0xe0f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image = IconData(0xe0f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_down] icon from the Lucide icon set.
   ///
@@ -10672,8 +9879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData image_down =
-      IconData(0xe53c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_down = IconData(0xe53c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_minus] icon from the Lucide icon set.
   ///
@@ -10685,8 +9891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData image_minus =
-      IconData(0xe1f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_minus = IconData(0xe1f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_off] icon from the Lucide icon set.
   ///
@@ -10698,8 +9903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData image_off =
-      IconData(0xe1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_off = IconData(0xe1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_play] icon from the Lucide icon set.
   ///
@@ -10711,8 +9915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData image_play =
-      IconData(0xe5df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_play = IconData(0xe5df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_plus] icon from the Lucide icon set.
   ///
@@ -10724,8 +9927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData image_plus =
-      IconData(0xe1f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_plus = IconData(0xe1f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_up] icon from the Lucide icon set.
   ///
@@ -10737,8 +9939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData image_up =
-      IconData(0xe5cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_up = IconData(0xe5cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [image_upscale] icon from the Lucide icon set.
   ///
@@ -10750,8 +9951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData image_upscale =
-      IconData(0xe637, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData image_upscale = IconData(0xe637, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [images] icon from the Lucide icon set.
   ///
@@ -10763,8 +9963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData images =
-      IconData(0xe5c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData images = IconData(0xe5c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [import] icon from the Lucide icon set.
   ///
@@ -10776,8 +9975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData import =
-      IconData(0xe22f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData import = IconData(0xe22f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [inbox] icon from the Lucide icon set.
   ///
@@ -10789,8 +9987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData inbox =
-      IconData(0xe0f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData inbox = IconData(0xe0f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [indian_rupee] icon from the Lucide icon set.
   ///
@@ -10802,8 +9999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData indian_rupee =
-      IconData(0xe0f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData indian_rupee = IconData(0xe0f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [infinity] icon from the Lucide icon set.
   ///
@@ -10815,8 +10011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData infinity =
-      IconData(0xe1e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData infinity = IconData(0xe1e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [info] icon from the Lucide icon set.
   ///
@@ -10828,8 +10023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData info =
-      IconData(0xe0f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData info = IconData(0xe0f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [inspection_panel] icon from the Lucide icon set.
   ///
@@ -10841,8 +10035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData inspection_panel =
-      IconData(0xe583, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData inspection_panel = IconData(0xe583, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [italic] icon from the Lucide icon set.
   ///
@@ -10854,8 +10047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData italic =
-      IconData(0xe0fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData italic = IconData(0xe0fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [iteration_ccw] icon from the Lucide icon set.
   ///
@@ -10867,8 +10059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData iteration_ccw =
-      IconData(0xe423, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData iteration_ccw = IconData(0xe423, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [iteration_cw] icon from the Lucide icon set.
   ///
@@ -10880,8 +10071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData iteration_cw =
-      IconData(0xe424, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData iteration_cw = IconData(0xe424, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [japanese_yen] icon from the Lucide icon set.
   ///
@@ -10893,8 +10083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData japanese_yen =
-      IconData(0xe0fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData japanese_yen = IconData(0xe0fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [joystick] icon from the Lucide icon set.
   ///
@@ -10906,8 +10095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData joystick =
-      IconData(0xe355, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData joystick = IconData(0xe355, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [kanban] icon from the Lucide icon set.
   ///
@@ -10919,8 +10107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData kanban =
-      IconData(0xe4dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData kanban = IconData(0xe4dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [kayak] icon from the Lucide icon set.
   ///
@@ -10932,8 +10119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jpjacobpadilla](https://github.com/jpjacobpadilla)
-  static const IconData kayak =
-      IconData(0xe68f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData kayak = IconData(0xe68f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [key] icon from the Lucide icon set.
   ///
@@ -10945,8 +10131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ashygee](https://github.com/ashygee), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData key =
-      IconData(0xe0fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData key = IconData(0xe0fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [key_round] icon from the Lucide icon set.
   ///
@@ -10958,8 +10143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData key_round =
-      IconData(0xe4a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData key_round = IconData(0xe4a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [key_square] icon from the Lucide icon set.
   ///
@@ -10971,8 +10155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData key_square =
-      IconData(0xe4a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData key_square = IconData(0xe4a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard] icon from the Lucide icon set.
   ///
@@ -10984,8 +10167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData keyboard =
-      IconData(0xe284, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData keyboard = IconData(0xe284, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard_music] icon from the Lucide icon set.
   ///
@@ -10997,8 +10179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData keyboard_music =
-      IconData(0xe560, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData keyboard_music = IconData(0xe560, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [keyboard_off] icon from the Lucide icon set.
   ///
@@ -11010,8 +10191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Diottodev](https://github.com/Diottodev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData keyboard_off =
-      IconData(0xe5de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData keyboard_off = IconData(0xe5de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp] icon from the Lucide icon set.
   ///
@@ -11023,8 +10203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData lamp =
-      IconData(0xe2d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp = IconData(0xe2d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_ceiling] icon from the Lucide icon set.
   ///
@@ -11036,8 +10215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData lamp_ceiling =
-      IconData(0xe2d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp_ceiling = IconData(0xe2d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_desk] icon from the Lucide icon set.
   ///
@@ -11049,8 +10227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData lamp_desk =
-      IconData(0xe2da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp_desk = IconData(0xe2da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_floor] icon from the Lucide icon set.
   ///
@@ -11062,8 +10239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData lamp_floor =
-      IconData(0xe2db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp_floor = IconData(0xe2db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_wall_down] icon from the Lucide icon set.
   ///
@@ -11075,8 +10251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData lamp_wall_down =
-      IconData(0xe2dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp_wall_down = IconData(0xe2dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lamp_wall_up] icon from the Lucide icon set.
   ///
@@ -11088,8 +10263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData lamp_wall_up =
-      IconData(0xe2dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lamp_wall_up = IconData(0xe2dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [land_plot] icon from the Lucide icon set.
   ///
@@ -11101,8 +10275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData land_plot =
-      IconData(0xe528, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData land_plot = IconData(0xe528, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [landmark] icon from the Lucide icon set.
   ///
@@ -11114,8 +10287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData landmark =
-      IconData(0xe23a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData landmark = IconData(0xe23a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [languages] icon from the Lucide icon set.
   ///
@@ -11127,8 +10299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData languages =
-      IconData(0xe0fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData languages = IconData(0xe0fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laptop] icon from the Lucide icon set.
   ///
@@ -11140,8 +10311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData laptop =
-      IconData(0xe1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData laptop = IconData(0xe1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laptop_minimal] icon from the Lucide icon set.
   ///
@@ -11153,8 +10323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData laptop_minimal =
-      IconData(0xe1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData laptop_minimal = IconData(0xe1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laptop_minimal_check] icon from the Lucide icon set.
   ///
@@ -11166,8 +10335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData laptop_minimal_check =
-      IconData(0xe632, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData laptop_minimal_check = IconData(0xe632, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lasso] icon from the Lucide icon set.
   ///
@@ -11179,8 +10347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData lasso =
-      IconData(0xe1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lasso = IconData(0xe1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lasso_select] icon from the Lucide icon set.
   ///
@@ -11192,8 +10359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData lasso_select =
-      IconData(0xe1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lasso_select = IconData(0xe1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [laugh] icon from the Lucide icon set.
   ///
@@ -11205,8 +10371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData laugh =
-      IconData(0xe300, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData laugh = IconData(0xe300, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layers] icon from the Lucide icon set.
   ///
@@ -11218,8 +10383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData layers =
-      IconData(0xe529, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layers = IconData(0xe529, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layers_2] icon from the Lucide icon set.
   ///
@@ -11231,8 +10395,19 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData layers_2 =
-      IconData(0xe52a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layers_2 = IconData(0xe52a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [layers_minus] icon from the Lucide icon set.
+  ///
+  /// ![layers_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuODMgMi4xOGEyIDIgMCAwIDAtMS42NiAwTDIuNiA2LjA4YTEgMSAwIDAgMCAwIDEuODNsOC41OCAzLjkxYTIgMiAwIDAgMCAuODMuMTggMiAyIDAgMCAwIC44My0uMThsOC41OC0zLjlhMSAxIDAgMCAwIDAtMS44MzJ6IiAvPgogIDxwYXRoIGQ9Ik0xNiAxN2g2IiAvPgogIDxwYXRoIGQ9Ik0yLjAwMyAxMS45OTVhMSAxIDAgMCAwIC41OTcuOTE1bDguNTggMy45MWEyIDIgMCAwIDAgLjgzLjE4IiAvPgogIDxwYXRoIGQ9Ik0yLjAwMyAxNi45OTVhMSAxIDAgMCAwIC41OTcuOTE1bDguNTggMy45MWEyIDIgMCAwIDAgLjgzLjE4IDIgMiAwIDAgMCAuODMtLjE4bDIuMTEtLjk2IiAvPgogIDxwYXRoIGQ9Ik0yMi4wMTggMTIuMDA0YTEgMSAwIDAgMS0uNTk4LjkxNmwtLjE3Ny4wOCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [layers_minus] icon is a graphical symbol that conveys a specific idea or functionality related to stack, pile, pages, sheets, paperwork, copies, copy, layers, remove, delete.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/juanisidoro](https://github.com/juanisidoro), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Spleefies](https://github.com/Spleefies)
+  static const IconData layers_minus = IconData(0xe6ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layers_plus] icon from the Lucide icon set.
   ///
@@ -11244,8 +10419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/juanisidoro](https://github.com/juanisidoro), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData layers_plus =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layers_plus = IconData(0xe6e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_dashboard] icon from the Lucide icon set.
   ///
@@ -11257,8 +10431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_dashboard =
-      IconData(0xe1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_dashboard = IconData(0xe1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_grid] icon from the Lucide icon set.
   ///
@@ -11270,8 +10443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_grid =
-      IconData(0xe0ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_grid = IconData(0xe0ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_list] icon from the Lucide icon set.
   ///
@@ -11283,8 +10455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_list =
-      IconData(0xe1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_list = IconData(0xe1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_panel_left] icon from the Lucide icon set.
   ///
@@ -11296,8 +10467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_panel_left =
-      IconData(0xe470, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_panel_left = IconData(0xe470, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_panel_top] icon from the Lucide icon set.
   ///
@@ -11309,8 +10479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_panel_top =
-      IconData(0xe471, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_panel_top = IconData(0xe471, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [layout_template] icon from the Lucide icon set.
   ///
@@ -11322,8 +10491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData layout_template =
-      IconData(0xe207, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData layout_template = IconData(0xe207, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [leaf] icon from the Lucide icon set.
   ///
@@ -11335,8 +10503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData leaf =
-      IconData(0xe2de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData leaf = IconData(0xe2de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [leafy_green] icon from the Lucide icon set.
   ///
@@ -11348,8 +10515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData leafy_green =
-      IconData(0xe46f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData leafy_green = IconData(0xe46f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lectern] icon from the Lucide icon set.
   ///
@@ -11361,8 +10527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/gurtt](https://github.com/gurtt), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData lectern =
-      IconData(0xe5e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lectern = IconData(0xe5e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lens_concave] icon from the Lucide icon set.
   ///
@@ -11374,8 +10539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData lens_concave =
-      IconData(0xe6b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lens_concave = IconData(0xe6b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lens_convex] icon from the Lucide icon set.
   ///
@@ -11387,8 +10551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData lens_convex =
-      IconData(0xe6b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lens_convex = IconData(0xe6b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [library] icon from the Lucide icon set.
   ///
@@ -11400,8 +10563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData library =
-      IconData(0xe100, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData library = IconData(0xe100, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [library_big] icon from the Lucide icon set.
   ///
@@ -11413,8 +10575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData library_big =
-      IconData(0xe54e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData library_big = IconData(0xe54e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [life_buoy] icon from the Lucide icon set.
   ///
@@ -11426,8 +10587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData life_buoy =
-      IconData(0xe101, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData life_buoy = IconData(0xe101, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ligature] icon from the Lucide icon set.
   ///
@@ -11439,8 +10599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ligature =
-      IconData(0xe43a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ligature = IconData(0xe43a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lightbulb] icon from the Lucide icon set.
   ///
@@ -11452,8 +10611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData lightbulb =
-      IconData(0xe1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lightbulb = IconData(0xe1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lightbulb_off] icon from the Lucide icon set.
   ///
@@ -11465,8 +10623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData lightbulb_off =
-      IconData(0xe208, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lightbulb_off = IconData(0xe208, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [line_dot_right_horizontal] icon from the Lucide icon set.
   ///
@@ -11478,8 +10635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
-  static const IconData line_dot_right_horizontal =
-      IconData(0xe6b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData line_dot_right_horizontal = IconData(0xe6b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [line_squiggle] icon from the Lucide icon set.
   ///
@@ -11491,8 +10647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData line_squiggle =
-      IconData(0xe67a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData line_squiggle = IconData(0xe67a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [line_style] icon from the Lucide icon set.
   ///
@@ -11504,8 +10659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/dg-ac](https://github.com/dg-ac)
-  static const IconData line_style =
-      IconData(0xe6da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData line_style = IconData(0xe6da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link] icon from the Lucide icon set.
   ///
@@ -11517,8 +10671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData link =
-      IconData(0xe102, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData link = IconData(0xe102, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link_2] icon from the Lucide icon set.
   ///
@@ -11530,8 +10683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData link_2 =
-      IconData(0xe103, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData link_2 = IconData(0xe103, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [link_2_off] icon from the Lucide icon set.
   ///
@@ -11543,8 +10695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData link_2_off =
-      IconData(0xe104, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData link_2_off = IconData(0xe104, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list] icon from the Lucide icon set.
   ///
@@ -11556,8 +10707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list =
-      IconData(0xe106, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list = IconData(0xe106, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_check] icon from the Lucide icon set.
   ///
@@ -11569,8 +10719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/guanboo-yang](https://github.com/guanboo-yang), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_check =
-      IconData(0xe5fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_check = IconData(0xe5fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_checks] icon from the Lucide icon set.
   ///
@@ -11582,8 +10731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_checks =
-      IconData(0xe1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_checks = IconData(0xe1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_chevrons_down_up] icon from the Lucide icon set.
   ///
@@ -11595,8 +10743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/ocavue](https://github.com/ocavue), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/PeterlitsZo](https://github.com/PeterlitsZo), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/juliankellydesign](https://github.com/juliankellydesign), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_chevrons_down_up =
-      IconData(0xe694, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_chevrons_down_up = IconData(0xe694, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_chevrons_up_down] icon from the Lucide icon set.
   ///
@@ -11608,8 +10755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/ocavue](https://github.com/ocavue), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/PeterlitsZo](https://github.com/PeterlitsZo), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/juliankellydesign](https://github.com/juliankellydesign), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_chevrons_up_down =
-      IconData(0xe696, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_chevrons_up_down = IconData(0xe696, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_collapse] icon from the Lucide icon set.
   ///
@@ -11621,8 +10767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ocavue](https://github.com/ocavue), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_collapse =
-      IconData(0xe59b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_collapse = IconData(0xe59b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_end] icon from the Lucide icon set.
   ///
@@ -11634,8 +10779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_end =
-      IconData(0xe2df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_end = IconData(0xe2df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_filter] icon from the Lucide icon set.
   ///
@@ -11647,8 +10791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_filter =
-      IconData(0xe460, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_filter = IconData(0xe460, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_filter_plus] icon from the Lucide icon set.
   ///
@@ -11660,8 +10803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/abdeniz](https://github.com/abdeniz), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_filter_plus =
-      IconData(0xe639, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_filter_plus = IconData(0xe639, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_indent_decrease] icon from the Lucide icon set.
   ///
@@ -11673,8 +10815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Themistoklis](https://github.com/Themistoklis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_indent_decrease =
-      IconData(0xe107, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_indent_decrease = IconData(0xe107, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_indent_increase] icon from the Lucide icon set.
   ///
@@ -11686,8 +10827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Themistoklis](https://github.com/Themistoklis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_indent_increase =
-      IconData(0xe108, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_indent_increase = IconData(0xe108, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_minus] icon from the Lucide icon set.
   ///
@@ -11699,8 +10839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_minus =
-      IconData(0xe23e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_minus = IconData(0xe23e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_music] icon from the Lucide icon set.
   ///
@@ -11712,8 +10851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_music =
-      IconData(0xe2e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_music = IconData(0xe2e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_ordered] icon from the Lucide icon set.
   ///
@@ -11725,8 +10863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_ordered =
-      IconData(0xe1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_ordered = IconData(0xe1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_plus] icon from the Lucide icon set.
   ///
@@ -11738,8 +10875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_plus =
-      IconData(0xe23f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_plus = IconData(0xe23f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_restart] icon from the Lucide icon set.
   ///
@@ -11751,8 +10887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_restart =
-      IconData(0xe452, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_restart = IconData(0xe452, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_start] icon from the Lucide icon set.
   ///
@@ -11764,8 +10899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_start =
-      IconData(0xe2e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_start = IconData(0xe2e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_todo] icon from the Lucide icon set.
   ///
@@ -11777,8 +10911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData list_todo =
-      IconData(0xe4c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_todo = IconData(0xe4c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_tree] icon from the Lucide icon set.
   ///
@@ -11790,8 +10923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_tree =
-      IconData(0xe408, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_tree = IconData(0xe408, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_video] icon from the Lucide icon set.
   ///
@@ -11803,8 +10935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_video =
-      IconData(0xe2e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_video = IconData(0xe2e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [list_x] icon from the Lucide icon set.
   ///
@@ -11816,8 +10947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData list_x =
-      IconData(0xe240, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData list_x = IconData(0xe240, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader] icon from the Lucide icon set.
   ///
@@ -11829,8 +10959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData loader =
-      IconData(0xe109, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData loader = IconData(0xe109, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader_circle] icon from the Lucide icon set.
   ///
@@ -11842,8 +10971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData loader_circle =
-      IconData(0xe10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData loader_circle = IconData(0xe10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [loader_pinwheel] icon from the Lucide icon set.
   ///
@@ -11855,8 +10983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData loader_pinwheel =
-      IconData(0xe5e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData loader_pinwheel = IconData(0xe5e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate] icon from the Lucide icon set.
   ///
@@ -11868,8 +10995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData locate =
-      IconData(0xe1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData locate = IconData(0xe1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate_fixed] icon from the Lucide icon set.
   ///
@@ -11881,8 +11007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData locate_fixed =
-      IconData(0xe1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData locate_fixed = IconData(0xe1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [locate_off] icon from the Lucide icon set.
   ///
@@ -11894,8 +11019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/fdev](https://github.com/fdev), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData locate_off =
-      IconData(0xe282, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData locate_off = IconData(0xe282, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock] icon from the Lucide icon set.
   ///
@@ -11907,8 +11031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData lock =
-      IconData(0xe10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lock = IconData(0xe10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_keyhole] icon from the Lucide icon set.
   ///
@@ -11920,8 +11043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData lock_keyhole =
-      IconData(0xe531, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lock_keyhole = IconData(0xe531, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_keyhole_open] icon from the Lucide icon set.
   ///
@@ -11933,8 +11055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData lock_keyhole_open =
-      IconData(0xe532, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lock_keyhole_open = IconData(0xe532, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lock_open] icon from the Lucide icon set.
   ///
@@ -11946,8 +11067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData lock_open =
-      IconData(0xe10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lock_open = IconData(0xe10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [log_in] icon from the Lucide icon set.
   ///
@@ -11959,8 +11079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData log_in =
-      IconData(0xe10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData log_in = IconData(0xe10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [log_out] icon from the Lucide icon set.
   ///
@@ -11972,8 +11091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData log_out =
-      IconData(0xe10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData log_out = IconData(0xe10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [logs] icon from the Lucide icon set.
   ///
@@ -11985,8 +11103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData logs =
-      IconData(0xe5f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData logs = IconData(0xe5f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [lollipop] icon from the Lucide icon set.
   ///
@@ -11998,8 +11115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData lollipop =
-      IconData(0xe4bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData lollipop = IconData(0xe4bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [luggage] icon from the Lucide icon set.
   ///
@@ -12011,8 +11127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData luggage =
-      IconData(0xe2ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData luggage = IconData(0xe2ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [magnet] icon from the Lucide icon set.
   ///
@@ -12024,8 +11139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData magnet =
-      IconData(0xe2b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData magnet = IconData(0xe2b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail] icon from the Lucide icon set.
   ///
@@ -12037,8 +11151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail =
-      IconData(0xe10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail = IconData(0xe10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_check] icon from the Lucide icon set.
   ///
@@ -12050,8 +11163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mail_check =
-      IconData(0xe361, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_check = IconData(0xe361, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_minus] icon from the Lucide icon set.
   ///
@@ -12063,8 +11175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mail_minus =
-      IconData(0xe362, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_minus = IconData(0xe362, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_open] icon from the Lucide icon set.
   ///
@@ -12076,8 +11187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail_open =
-      IconData(0xe363, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_open = IconData(0xe363, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_plus] icon from the Lucide icon set.
   ///
@@ -12089,8 +11199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail_plus =
-      IconData(0xe364, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_plus = IconData(0xe364, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_question_mark] icon from the Lucide icon set.
   ///
@@ -12102,8 +11211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mail_question_mark =
-      IconData(0xe365, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_question_mark = IconData(0xe365, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_search] icon from the Lucide icon set.
   ///
@@ -12115,8 +11223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mail_search =
-      IconData(0xe366, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_search = IconData(0xe366, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_warning] icon from the Lucide icon set.
   ///
@@ -12128,8 +11235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail_warning =
-      IconData(0xe367, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_warning = IconData(0xe367, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mail_x] icon from the Lucide icon set.
   ///
@@ -12141,8 +11247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail_x =
-      IconData(0xe368, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mail_x = IconData(0xe368, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mailbox] icon from the Lucide icon set.
   ///
@@ -12154,8 +11259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mailbox =
-      IconData(0xe3d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mailbox = IconData(0xe3d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mails] icon from the Lucide icon set.
   ///
@@ -12167,8 +11271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mails =
-      IconData(0xe369, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mails = IconData(0xe369, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map] icon from the Lucide icon set.
   ///
@@ -12180,8 +11283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map =
-      IconData(0xe110, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map = IconData(0xe110, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_minus] icon from the Lucide icon set.
   ///
@@ -12193,8 +11295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/MarianoFranzese](https://github.com/MarianoFranzese), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData map_minus =
-      IconData(0xe686, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_minus = IconData(0xe686, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin] icon from the Lucide icon set.
   ///
@@ -12206,8 +11307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData map_pin =
-      IconData(0xe111, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin = IconData(0xe111, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_check] icon from the Lucide icon set.
   ///
@@ -12219,8 +11319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_check =
-      IconData(0xe60f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_check = IconData(0xe60f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_check_inside] icon from the Lucide icon set.
   ///
@@ -12232,8 +11331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_check_inside =
-      IconData(0xe610, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_check_inside = IconData(0xe610, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_house] icon from the Lucide icon set.
   ///
@@ -12245,8 +11343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_house =
-      IconData(0xe61c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_house = IconData(0xe61c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_minus] icon from the Lucide icon set.
   ///
@@ -12258,8 +11355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_minus =
-      IconData(0xe611, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_minus = IconData(0xe611, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_minus_inside] icon from the Lucide icon set.
   ///
@@ -12271,8 +11367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_minus_inside =
-      IconData(0xe612, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_minus_inside = IconData(0xe612, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_off] icon from the Lucide icon set.
   ///
@@ -12284,8 +11379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_off =
-      IconData(0xe2a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_off = IconData(0xe2a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_pen] icon from the Lucide icon set.
   ///
@@ -12297,8 +11391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/sachinkr7368](https://github.com/sachinkr7368)
-  static const IconData map_pin_pen =
-      IconData(0xe655, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_pen = IconData(0xe655, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_plus] icon from the Lucide icon set.
   ///
@@ -12310,8 +11403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_plus =
-      IconData(0xe613, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_plus = IconData(0xe613, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_plus_inside] icon from the Lucide icon set.
   ///
@@ -12323,8 +11415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_plus_inside =
-      IconData(0xe614, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_plus_inside = IconData(0xe614, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_search] icon from the Lucide icon set.
   ///
@@ -12336,8 +11427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/TonySullivan](https://github.com/TonySullivan)
-  static const IconData map_pin_search =
-      IconData(0xe6de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_search = IconData(0xe6de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_x] icon from the Lucide icon set.
   ///
@@ -12349,8 +11439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_x =
-      IconData(0xe615, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_x = IconData(0xe615, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pin_x_inside] icon from the Lucide icon set.
   ///
@@ -12362,8 +11451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData map_pin_x_inside =
-      IconData(0xe616, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pin_x_inside = IconData(0xe616, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_pinned] icon from the Lucide icon set.
   ///
@@ -12375,8 +11463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData map_pinned =
-      IconData(0xe53d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_pinned = IconData(0xe53d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [map_plus] icon from the Lucide icon set.
   ///
@@ -12388,8 +11475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Seanw265](https://github.com/Seanw265)
-  static const IconData map_plus =
-      IconData(0xe63f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData map_plus = IconData(0xe63f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mars] icon from the Lucide icon set.
   ///
@@ -12401,8 +11487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData mars =
-      IconData(0xe641, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mars = IconData(0xe641, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mars_stroke] icon from the Lucide icon set.
   ///
@@ -12414,8 +11499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData mars_stroke =
-      IconData(0xe642, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mars_stroke = IconData(0xe642, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [martini] icon from the Lucide icon set.
   ///
@@ -12427,8 +11511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData martini =
-      IconData(0xe2e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData martini = IconData(0xe2e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [maximize] icon from the Lucide icon set.
   ///
@@ -12440,8 +11523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData maximize =
-      IconData(0xe112, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData maximize = IconData(0xe112, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [maximize_2] icon from the Lucide icon set.
   ///
@@ -12453,8 +11535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData maximize_2 =
-      IconData(0xe113, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData maximize_2 = IconData(0xe113, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [medal] icon from the Lucide icon set.
   ///
@@ -12466,8 +11547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData medal =
-      IconData(0xe36f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData medal = IconData(0xe36f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [megaphone] icon from the Lucide icon set.
   ///
@@ -12479,8 +11559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData megaphone =
-      IconData(0xe235, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData megaphone = IconData(0xe235, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [megaphone_off] icon from the Lucide icon set.
   ///
@@ -12492,8 +11571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData megaphone_off =
-      IconData(0xe370, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData megaphone_off = IconData(0xe370, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [meh] icon from the Lucide icon set.
   ///
@@ -12505,8 +11583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData meh =
-      IconData(0xe114, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData meh = IconData(0xe114, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [memory_stick] icon from the Lucide icon set.
   ///
@@ -12518,8 +11595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData memory_stick =
-      IconData(0xe445, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData memory_stick = IconData(0xe445, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [menu] icon from the Lucide icon set.
   ///
@@ -12531,8 +11607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData menu =
-      IconData(0xe115, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData menu = IconData(0xe115, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [merge] icon from the Lucide icon set.
   ///
@@ -12544,8 +11619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData merge =
-      IconData(0xe43f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData merge = IconData(0xe43f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle] icon from the Lucide icon set.
   ///
@@ -12557,8 +11631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle =
-      IconData(0xe116, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle = IconData(0xe116, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_check] icon from the Lucide icon set.
   ///
@@ -12570,8 +11643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Shrinks99](https://github.com/Shrinks99)
-  static const IconData message_circle_check =
-      IconData(0xe6ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_check = IconData(0xe6ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_code] icon from the Lucide icon set.
   ///
@@ -12583,8 +11655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_code =
-      IconData(0xe562, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_code = IconData(0xe562, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_dashed] icon from the Lucide icon set.
   ///
@@ -12596,8 +11667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_dashed =
-      IconData(0xe563, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_dashed = IconData(0xe563, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_heart] icon from the Lucide icon set.
   ///
@@ -12609,8 +11679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_heart =
-      IconData(0xe564, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_heart = IconData(0xe564, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_more] icon from the Lucide icon set.
   ///
@@ -12622,8 +11691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_more =
-      IconData(0xe565, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_more = IconData(0xe565, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_off] icon from the Lucide icon set.
   ///
@@ -12635,8 +11703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_off =
-      IconData(0xe566, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_off = IconData(0xe566, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_plus] icon from the Lucide icon set.
   ///
@@ -12648,8 +11715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_plus =
-      IconData(0xe567, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_plus = IconData(0xe567, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_question_mark] icon from the Lucide icon set.
   ///
@@ -12661,8 +11727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_question_mark =
-      IconData(0xe568, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_question_mark = IconData(0xe568, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_reply] icon from the Lucide icon set.
   ///
@@ -12674,8 +11739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_reply =
-      IconData(0xe569, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_reply = IconData(0xe569, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_warning] icon from the Lucide icon set.
   ///
@@ -12687,8 +11751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_warning =
-      IconData(0xe56a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_warning = IconData(0xe56a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_circle_x] icon from the Lucide icon set.
   ///
@@ -12700,8 +11763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_x =
-      IconData(0xe56b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_circle_x = IconData(0xe56b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square] icon from the Lucide icon set.
   ///
@@ -12713,8 +11775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square =
-      IconData(0xe117, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square = IconData(0xe117, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_check] icon from the Lucide icon set.
   ///
@@ -12726,8 +11787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_check =
-      IconData(0xe6bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_check = IconData(0xe6bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_code] icon from the Lucide icon set.
   ///
@@ -12739,8 +11799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_code =
-      IconData(0xe56c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_code = IconData(0xe56c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_dashed] icon from the Lucide icon set.
   ///
@@ -12752,8 +11811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_dashed =
-      IconData(0xe40b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_dashed = IconData(0xe40b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_diff] icon from the Lucide icon set.
   ///
@@ -12765,8 +11823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_diff =
-      IconData(0xe56d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_diff = IconData(0xe56d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_dot] icon from the Lucide icon set.
   ///
@@ -12778,8 +11835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_dot =
-      IconData(0xe56e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_dot = IconData(0xe56e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_heart] icon from the Lucide icon set.
   ///
@@ -12791,8 +11847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_heart =
-      IconData(0xe56f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_heart = IconData(0xe56f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_lock] icon from the Lucide icon set.
   ///
@@ -12804,8 +11859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_lock =
-      IconData(0xe62c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_lock = IconData(0xe62c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_more] icon from the Lucide icon set.
   ///
@@ -12817,8 +11871,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_more =
-      IconData(0xe570, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_more = IconData(0xe570, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_off] icon from the Lucide icon set.
   ///
@@ -12830,8 +11883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_off =
-      IconData(0xe571, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_off = IconData(0xe571, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_plus] icon from the Lucide icon set.
   ///
@@ -12843,8 +11895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_plus =
-      IconData(0xe40c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_plus = IconData(0xe40c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_quote] icon from the Lucide icon set.
   ///
@@ -12856,8 +11907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData message_square_quote =
-      IconData(0xe572, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_quote = IconData(0xe572, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_reply] icon from the Lucide icon set.
   ///
@@ -12869,8 +11919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_reply =
-      IconData(0xe573, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_reply = IconData(0xe573, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_share] icon from the Lucide icon set.
   ///
@@ -12882,8 +11931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_share =
-      IconData(0xe574, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_share = IconData(0xe574, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_text] icon from the Lucide icon set.
   ///
@@ -12895,8 +11943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_text =
-      IconData(0xe575, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_text = IconData(0xe575, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_warning] icon from the Lucide icon set.
   ///
@@ -12908,8 +11955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_warning =
-      IconData(0xe576, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_warning = IconData(0xe576, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [message_square_x] icon from the Lucide icon set.
   ///
@@ -12921,8 +11967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_x =
-      IconData(0xe577, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData message_square_x = IconData(0xe577, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [messages_square] icon from the Lucide icon set.
   ///
@@ -12934,8 +11979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData messages_square =
-      IconData(0xe40d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData messages_square = IconData(0xe40d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [metronome] icon from the Lucide icon set.
   ///
@@ -12947,8 +11991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/edwloef](https://github.com/edwloef)
-  static const IconData metronome =
-      IconData(0xe6bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData metronome = IconData(0xe6bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic] icon from the Lucide icon set.
   ///
@@ -12960,8 +12003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mic =
-      IconData(0xe118, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mic = IconData(0xe118, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic_off] icon from the Lucide icon set.
   ///
@@ -12973,8 +12015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/LieOnLion](https://github.com/LieOnLion)
-  static const IconData mic_off =
-      IconData(0xe119, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mic_off = IconData(0xe119, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mic_vocal] icon from the Lucide icon set.
   ///
@@ -12986,8 +12027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mic_vocal =
-      IconData(0xe349, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mic_vocal = IconData(0xe349, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microchip] icon from the Lucide icon set.
   ///
@@ -12999,8 +12039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData microchip =
-      IconData(0xe61a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData microchip = IconData(0xe61a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microscope] icon from the Lucide icon set.
   ///
@@ -13012,8 +12051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData microscope =
-      IconData(0xe2e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData microscope = IconData(0xe2e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [microwave] icon from the Lucide icon set.
   ///
@@ -13025,8 +12063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData microwave =
-      IconData(0xe37a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData microwave = IconData(0xe37a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milestone] icon from the Lucide icon set.
   ///
@@ -13038,8 +12075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData milestone =
-      IconData(0xe298, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData milestone = IconData(0xe298, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milk] icon from the Lucide icon set.
   ///
@@ -13051,8 +12087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData milk =
-      IconData(0xe399, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData milk = IconData(0xe399, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [milk_off] icon from the Lucide icon set.
   ///
@@ -13064,8 +12099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData milk_off =
-      IconData(0xe39a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData milk_off = IconData(0xe39a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minimize] icon from the Lucide icon set.
   ///
@@ -13077,8 +12111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData minimize =
-      IconData(0xe11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData minimize = IconData(0xe11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minimize_2] icon from the Lucide icon set.
   ///
@@ -13090,8 +12123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData minimize_2 =
-      IconData(0xe11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData minimize_2 = IconData(0xe11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [minus] icon from the Lucide icon set.
   ///
@@ -13103,8 +12135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData minus =
-      IconData(0xe11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData minus = IconData(0xe11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mirror_rectangular] icon from the Lucide icon set.
   ///
@@ -13116,8 +12147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mirror_rectangular =
-      IconData(0xe6bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mirror_rectangular = IconData(0xe6bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mirror_round] icon from the Lucide icon set.
   ///
@@ -13129,8 +12159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Muhammad-Aqib-Bashir](https://github.com/Muhammad-Aqib-Bashir), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mirror_round =
-      IconData(0xe6be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mirror_round = IconData(0xe6be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor] icon from the Lucide icon set.
   ///
@@ -13142,8 +12171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor =
-      IconData(0xe11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor = IconData(0xe11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_check] icon from the Lucide icon set.
   ///
@@ -13155,8 +12183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_check =
-      IconData(0xe482, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_check = IconData(0xe482, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_cloud] icon from the Lucide icon set.
   ///
@@ -13168,8 +12195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_cloud =
-      IconData(0xe699, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_cloud = IconData(0xe699, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_cog] icon from the Lucide icon set.
   ///
@@ -13181,8 +12207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData monitor_cog =
-      IconData(0xe603, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_cog = IconData(0xe603, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_dot] icon from the Lucide icon set.
   ///
@@ -13194,8 +12219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_dot =
-      IconData(0xe483, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_dot = IconData(0xe483, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_down] icon from the Lucide icon set.
   ///
@@ -13207,8 +12231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData monitor_down =
-      IconData(0xe421, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_down = IconData(0xe421, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_off] icon from the Lucide icon set.
   ///
@@ -13220,8 +12243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/yukosgiti](https://github.com/yukosgiti), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData monitor_off =
-      IconData(0xe1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_off = IconData(0xe1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_pause] icon from the Lucide icon set.
   ///
@@ -13233,8 +12255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_pause =
-      IconData(0xe484, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_pause = IconData(0xe484, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_play] icon from the Lucide icon set.
   ///
@@ -13246,8 +12267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_play =
-      IconData(0xe485, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_play = IconData(0xe485, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_smartphone] icon from the Lucide icon set.
   ///
@@ -13259,8 +12279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/badraxas](https://github.com/badraxas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData monitor_smartphone =
-      IconData(0xe3a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_smartphone = IconData(0xe3a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_speaker] icon from the Lucide icon set.
   ///
@@ -13272,8 +12291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData monitor_speaker =
-      IconData(0xe210, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_speaker = IconData(0xe210, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_stop] icon from the Lucide icon set.
   ///
@@ -13285,8 +12303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_stop =
-      IconData(0xe486, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_stop = IconData(0xe486, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_up] icon from the Lucide icon set.
   ///
@@ -13298,8 +12315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData monitor_up =
-      IconData(0xe422, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_up = IconData(0xe422, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [monitor_x] icon from the Lucide icon set.
   ///
@@ -13311,8 +12327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData monitor_x =
-      IconData(0xe487, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData monitor_x = IconData(0xe487, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [moon] icon from the Lucide icon set.
   ///
@@ -13324,8 +12339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData moon =
-      IconData(0xe11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData moon = IconData(0xe11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [moon_star] icon from the Lucide icon set.
   ///
@@ -13337,8 +12351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData moon_star =
-      IconData(0xe410, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData moon_star = IconData(0xe410, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [motorbike] icon from the Lucide icon set.
   ///
@@ -13350,8 +12363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData motorbike =
-      IconData(0xe698, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData motorbike = IconData(0xe698, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mountain] icon from the Lucide icon set.
   ///
@@ -13363,8 +12375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kerkeslager](https://github.com/kerkeslager), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mountain =
-      IconData(0xe231, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mountain = IconData(0xe231, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mountain_snow] icon from the Lucide icon set.
   ///
@@ -13376,8 +12387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kerkeslager](https://github.com/kerkeslager), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mountain_snow =
-      IconData(0xe232, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mountain_snow = IconData(0xe232, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse] icon from the Lucide icon set.
   ///
@@ -13389,8 +12399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData mouse =
-      IconData(0xe28e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse = IconData(0xe28e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_left] icon from the Lucide icon set.
   ///
@@ -13402,8 +12411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/marvfash](https://github.com/marvfash)
-  static const IconData mouse_left =
-      IconData(0xe6bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_left = IconData(0xe6bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_off] icon from the Lucide icon set.
   ///
@@ -13415,8 +12423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mouse_off =
-      IconData(0xe5db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_off = IconData(0xe5db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer] icon from the Lucide icon set.
   ///
@@ -13428,8 +12435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ashygee](https://github.com/ashygee), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData mouse_pointer =
-      IconData(0xe11f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_pointer = IconData(0xe11f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_2] icon from the Lucide icon set.
   ///
@@ -13441,8 +12447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData mouse_pointer_2 =
-      IconData(0xe1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_pointer_2 = IconData(0xe1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_2_off] icon from the Lucide icon set.
   ///
@@ -13454,8 +12459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/domingasp](https://github.com/domingasp), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mouse_pointer_2_off =
-      IconData(0xe6a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_pointer_2_off = IconData(0xe6a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_ban] icon from the Lucide icon set.
   ///
@@ -13467,8 +12471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData mouse_pointer_ban =
-      IconData(0xe5e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_pointer_ban = IconData(0xe5e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_pointer_click] icon from the Lucide icon set.
   ///
@@ -13480,8 +12483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mouse_pointer_click =
-      IconData(0xe120, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_pointer_click = IconData(0xe120, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [mouse_right] icon from the Lucide icon set.
   ///
@@ -13493,8 +12495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/marvfash](https://github.com/marvfash)
-  static const IconData mouse_right =
-      IconData(0xe6c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData mouse_right = IconData(0xe6c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move] icon from the Lucide icon set.
   ///
@@ -13506,8 +12507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData move =
-      IconData(0xe121, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move = IconData(0xe121, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_3d] icon from the Lucide icon set.
   ///
@@ -13519,8 +12519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData move_3d =
-      IconData(0xe2e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_3d = IconData(0xe2e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_diagonal] icon from the Lucide icon set.
   ///
@@ -13532,8 +12531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData move_diagonal =
-      IconData(0xe1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_diagonal = IconData(0xe1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_diagonal_2] icon from the Lucide icon set.
   ///
@@ -13545,8 +12543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData move_diagonal_2 =
-      IconData(0xe1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_diagonal_2 = IconData(0xe1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down] icon from the Lucide icon set.
   ///
@@ -13558,8 +12555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_down =
-      IconData(0xe48c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_down = IconData(0xe48c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down_left] icon from the Lucide icon set.
   ///
@@ -13571,8 +12567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/siarie](https://github.com/siarie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_down_left =
-      IconData(0xe48d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_down_left = IconData(0xe48d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_down_right] icon from the Lucide icon set.
   ///
@@ -13584,8 +12579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_down_right =
-      IconData(0xe48e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_down_right = IconData(0xe48e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_horizontal] icon from the Lucide icon set.
   ///
@@ -13597,8 +12591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData move_horizontal =
-      IconData(0xe1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_horizontal = IconData(0xe1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_left] icon from the Lucide icon set.
   ///
@@ -13610,8 +12603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_left =
-      IconData(0xe48f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_left = IconData(0xe48f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_right] icon from the Lucide icon set.
   ///
@@ -13623,8 +12615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_right =
-      IconData(0xe490, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_right = IconData(0xe490, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up] icon from the Lucide icon set.
   ///
@@ -13636,8 +12627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_up =
-      IconData(0xe491, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_up = IconData(0xe491, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up_left] icon from the Lucide icon set.
   ///
@@ -13649,8 +12639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_up_left =
-      IconData(0xe492, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_up_left = IconData(0xe492, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_up_right] icon from the Lucide icon set.
   ///
@@ -13662,8 +12651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData move_up_right =
-      IconData(0xe493, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_up_right = IconData(0xe493, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [move_vertical] icon from the Lucide icon set.
   ///
@@ -13675,8 +12663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData move_vertical =
-      IconData(0xe1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData move_vertical = IconData(0xe1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music] icon from the Lucide icon set.
   ///
@@ -13688,8 +12675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData music =
-      IconData(0xe122, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData music = IconData(0xe122, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_2] icon from the Lucide icon set.
   ///
@@ -13701,8 +12687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_2 =
-      IconData(0xe34a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData music_2 = IconData(0xe34a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_3] icon from the Lucide icon set.
   ///
@@ -13714,8 +12699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_3 =
-      IconData(0xe34b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData music_3 = IconData(0xe34b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [music_4] icon from the Lucide icon set.
   ///
@@ -13727,8 +12711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_4 =
-      IconData(0xe34c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData music_4 = IconData(0xe34c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation] icon from the Lucide icon set.
   ///
@@ -13740,8 +12723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData navigation =
-      IconData(0xe123, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData navigation = IconData(0xe123, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_2] icon from the Lucide icon set.
   ///
@@ -13753,8 +12735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData navigation_2 =
-      IconData(0xe124, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData navigation_2 = IconData(0xe124, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_2_off] icon from the Lucide icon set.
   ///
@@ -13766,8 +12747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData navigation_2_off =
-      IconData(0xe2a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData navigation_2_off = IconData(0xe2a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [navigation_off] icon from the Lucide icon set.
   ///
@@ -13779,8 +12759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData navigation_off =
-      IconData(0xe2a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData navigation_off = IconData(0xe2a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [network] icon from the Lucide icon set.
   ///
@@ -13792,8 +12771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData network =
-      IconData(0xe125, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData network = IconData(0xe125, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [newspaper] icon from the Lucide icon set.
   ///
@@ -13805,8 +12783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData newspaper =
-      IconData(0xe348, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData newspaper = IconData(0xe348, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nfc] icon from the Lucide icon set.
   ///
@@ -13818,8 +12795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData nfc =
-      IconData(0xe3c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData nfc = IconData(0xe3c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [non_binary] icon from the Lucide icon set.
   ///
@@ -13831,8 +12807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData non_binary =
-      IconData(0xe643, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData non_binary = IconData(0xe643, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook] icon from the Lucide icon set.
   ///
@@ -13844,8 +12819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notebook =
-      IconData(0xe595, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notebook = IconData(0xe595, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_pen] icon from the Lucide icon set.
   ///
@@ -13857,8 +12831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notebook_pen =
-      IconData(0xe596, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notebook_pen = IconData(0xe596, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_tabs] icon from the Lucide icon set.
   ///
@@ -13870,8 +12843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notebook_tabs =
-      IconData(0xe597, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notebook_tabs = IconData(0xe597, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notebook_text] icon from the Lucide icon set.
   ///
@@ -13883,8 +12855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notebook_text =
-      IconData(0xe598, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notebook_text = IconData(0xe598, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notepad_text] icon from the Lucide icon set.
   ///
@@ -13896,8 +12867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notepad_text =
-      IconData(0xe599, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notepad_text = IconData(0xe599, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [notepad_text_dashed] icon from the Lucide icon set.
   ///
@@ -13909,8 +12879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData notepad_text_dashed =
-      IconData(0xe59a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData notepad_text_dashed = IconData(0xe59a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nut] icon from the Lucide icon set.
   ///
@@ -13922,8 +12891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData nut =
-      IconData(0xe39b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData nut = IconData(0xe39b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [nut_off] icon from the Lucide icon set.
   ///
@@ -13935,8 +12903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData nut_off =
-      IconData(0xe39c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData nut_off = IconData(0xe39c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon] icon from the Lucide icon set.
   ///
@@ -13948,8 +12915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData octagon =
-      IconData(0xe126, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData octagon = IconData(0xe126, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_alert] icon from the Lucide icon set.
   ///
@@ -13961,8 +12927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData octagon_alert =
-      IconData(0xe127, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData octagon_alert = IconData(0xe127, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_minus] icon from the Lucide icon set.
   ///
@@ -13974,8 +12939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData octagon_minus =
-      IconData(0xe627, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData octagon_minus = IconData(0xe627, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_pause] icon from the Lucide icon set.
   ///
@@ -13987,8 +12951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData octagon_pause =
-      IconData(0xe21b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData octagon_pause = IconData(0xe21b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [octagon_x] icon from the Lucide icon set.
   ///
@@ -14000,8 +12963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData octagon_x =
-      IconData(0xe128, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData octagon_x = IconData(0xe128, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [omega] icon from the Lucide icon set.
   ///
@@ -14013,8 +12975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData omega =
-      IconData(0xe619, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData omega = IconData(0xe619, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [option] icon from the Lucide icon set.
   ///
@@ -14026,8 +12987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData option =
-      IconData(0xe1f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData option = IconData(0xe1f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [orbit] icon from the Lucide icon set.
   ///
@@ -14039,8 +12999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData orbit =
-      IconData(0xe3e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData orbit = IconData(0xe3e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [origami] icon from the Lucide icon set.
   ///
@@ -14052,8 +13011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/gurtt](https://github.com/gurtt)
-  static const IconData origami =
-      IconData(0xe5e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData origami = IconData(0xe5e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package] icon from the Lucide icon set.
   ///
@@ -14065,8 +13023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/sezze](https://github.com/sezze)
-  static const IconData package =
-      IconData(0xe129, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package = IconData(0xe129, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_2] icon from the Lucide icon set.
   ///
@@ -14078,8 +13035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData package_2 =
-      IconData(0xe340, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_2 = IconData(0xe340, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_check] icon from the Lucide icon set.
   ///
@@ -14091,8 +13047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData package_check =
-      IconData(0xe266, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_check = IconData(0xe266, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_minus] icon from the Lucide icon set.
   ///
@@ -14104,8 +13059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData package_minus =
-      IconData(0xe267, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_minus = IconData(0xe267, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_open] icon from the Lucide icon set.
   ///
@@ -14117,8 +13071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData package_open =
-      IconData(0xe2cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_open = IconData(0xe2cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_plus] icon from the Lucide icon set.
   ///
@@ -14130,8 +13083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData package_plus =
-      IconData(0xe268, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_plus = IconData(0xe268, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_search] icon from the Lucide icon set.
   ///
@@ -14143,8 +13095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData package_search =
-      IconData(0xe269, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_search = IconData(0xe269, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [package_x] icon from the Lucide icon set.
   ///
@@ -14156,8 +13107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData package_x =
-      IconData(0xe26a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData package_x = IconData(0xe26a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paint_bucket] icon from the Lucide icon set.
   ///
@@ -14169,8 +13119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData paint_bucket =
-      IconData(0xe2e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paint_bucket = IconData(0xe2e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paint_roller] icon from the Lucide icon set.
   ///
@@ -14182,8 +13131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData paint_roller =
-      IconData(0xe59e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paint_roller = IconData(0xe59e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paintbrush] icon from the Lucide icon set.
   ///
@@ -14195,8 +13143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData paintbrush =
-      IconData(0xe2e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paintbrush = IconData(0xe2e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paintbrush_vertical] icon from the Lucide icon set.
   ///
@@ -14208,8 +13155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData paintbrush_vertical =
-      IconData(0xe2e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paintbrush_vertical = IconData(0xe2e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [palette] icon from the Lucide icon set.
   ///
@@ -14221,8 +13167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData palette =
-      IconData(0xe1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData palette = IconData(0xe1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panda] icon from the Lucide icon set.
   ///
@@ -14234,8 +13179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData panda =
-      IconData(0xe668, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panda = IconData(0xe668, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom] icon from the Lucide icon set.
   ///
@@ -14247,8 +13191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_bottom =
-      IconData(0xe42c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_bottom = IconData(0xe42c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_close] icon from the Lucide icon set.
   ///
@@ -14260,8 +13203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_bottom_close =
-      IconData(0xe42d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_bottom_close = IconData(0xe42d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_dashed] icon from the Lucide icon set.
   ///
@@ -14273,8 +13215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta)
-  static const IconData panel_bottom_dashed =
-      IconData(0xe42e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_bottom_dashed = IconData(0xe42e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_bottom_open] icon from the Lucide icon set.
   ///
@@ -14286,8 +13227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_bottom_open =
-      IconData(0xe42f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_bottom_open = IconData(0xe42f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left] icon from the Lucide icon set.
   ///
@@ -14299,8 +13239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_left =
-      IconData(0xe12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_left = IconData(0xe12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_close] icon from the Lucide icon set.
   ///
@@ -14312,8 +13251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_left_close =
-      IconData(0xe21c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_left_close = IconData(0xe21c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_dashed] icon from the Lucide icon set.
   ///
@@ -14325,8 +13263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta)
-  static const IconData panel_left_dashed =
-      IconData(0xe430, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_left_dashed = IconData(0xe430, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_open] icon from the Lucide icon set.
   ///
@@ -14338,8 +13275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_left_open =
-      IconData(0xe21d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_left_open = IconData(0xe21d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_left_right_dashed] icon from the Lucide icon set.
   ///
@@ -14351,8 +13287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData panel_left_right_dashed =
-      IconData(0xe692, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_left_right_dashed = IconData(0xe692, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right] icon from the Lucide icon set.
   ///
@@ -14364,8 +13299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_right =
-      IconData(0xe431, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_right = IconData(0xe431, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_close] icon from the Lucide icon set.
   ///
@@ -14377,8 +13311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_right_close =
-      IconData(0xe432, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_right_close = IconData(0xe432, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_dashed] icon from the Lucide icon set.
   ///
@@ -14390,8 +13323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta)
-  static const IconData panel_right_dashed =
-      IconData(0xe433, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_right_dashed = IconData(0xe433, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_right_open] icon from the Lucide icon set.
   ///
@@ -14403,8 +13335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_right_open =
-      IconData(0xe434, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_right_open = IconData(0xe434, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top] icon from the Lucide icon set.
   ///
@@ -14416,8 +13347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_top =
-      IconData(0xe435, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_top = IconData(0xe435, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_bottom_dashed] icon from the Lucide icon set.
   ///
@@ -14429,8 +13359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData panel_top_bottom_dashed =
-      IconData(0xe693, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_top_bottom_dashed = IconData(0xe693, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_close] icon from the Lucide icon set.
   ///
@@ -14442,8 +13371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_top_close =
-      IconData(0xe436, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_top_close = IconData(0xe436, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_dashed] icon from the Lucide icon set.
   ///
@@ -14455,8 +13383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/irvineacosta](https://github.com/irvineacosta)
-  static const IconData panel_top_dashed =
-      IconData(0xe437, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_top_dashed = IconData(0xe437, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panel_top_open] icon from the Lucide icon set.
   ///
@@ -14468,8 +13395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panel_top_open =
-      IconData(0xe438, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panel_top_open = IconData(0xe438, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_left_bottom] icon from the Lucide icon set.
   ///
@@ -14481,8 +13407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData panels_left_bottom =
-      IconData(0xe12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panels_left_bottom = IconData(0xe12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_right_bottom] icon from the Lucide icon set.
   ///
@@ -14494,8 +13419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData panels_right_bottom =
-      IconData(0xe588, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panels_right_bottom = IconData(0xe588, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [panels_top_left] icon from the Lucide icon set.
   ///
@@ -14507,8 +13431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData panels_top_left =
-      IconData(0xe12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData panels_top_left = IconData(0xe12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paperclip] icon from the Lucide icon set.
   ///
@@ -14520,8 +13443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData paperclip =
-      IconData(0xe12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paperclip = IconData(0xe12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [parentheses] icon from the Lucide icon set.
   ///
@@ -14533,8 +13455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData parentheses =
-      IconData(0xe444, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData parentheses = IconData(0xe444, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [parking_meter] icon from the Lucide icon set.
   ///
@@ -14546,8 +13467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData parking_meter =
-      IconData(0xe500, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData parking_meter = IconData(0xe500, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [party_popper] icon from the Lucide icon set.
   ///
@@ -14559,8 +13479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData party_popper =
-      IconData(0xe343, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData party_popper = IconData(0xe343, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pause] icon from the Lucide icon set.
   ///
@@ -14572,8 +13491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pause =
-      IconData(0xe12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pause = IconData(0xe12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [paw_print] icon from the Lucide icon set.
   ///
@@ -14585,8 +13503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData paw_print =
-      IconData(0xe4f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData paw_print = IconData(0xe4f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pc_case] icon from the Lucide icon set.
   ///
@@ -14598,8 +13515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData pc_case =
-      IconData(0xe446, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pc_case = IconData(0xe446, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen] icon from the Lucide icon set.
   ///
@@ -14611,8 +13527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pen =
-      IconData(0xe12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pen = IconData(0xe12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_line] icon from the Lucide icon set.
   ///
@@ -14624,8 +13539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pen_line =
-      IconData(0xe130, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pen_line = IconData(0xe130, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_off] icon from the Lucide icon set.
   ///
@@ -14637,8 +13551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pen_off =
-      IconData(0xe5ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pen_off = IconData(0xe5ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pen_tool] icon from the Lucide icon set.
   ///
@@ -14650,8 +13563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ashygee](https://github.com/ashygee), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pen_tool =
-      IconData(0xe131, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pen_tool = IconData(0xe131, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil] icon from the Lucide icon set.
   ///
@@ -14663,8 +13575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pencil =
-      IconData(0xe1f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pencil = IconData(0xe1f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_line] icon from the Lucide icon set.
   ///
@@ -14676,8 +13587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pencil_line =
-      IconData(0xe4f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pencil_line = IconData(0xe4f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_off] icon from the Lucide icon set.
   ///
@@ -14689,8 +13599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pencil_off =
-      IconData(0xe5ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pencil_off = IconData(0xe5ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pencil_ruler] icon from the Lucide icon set.
   ///
@@ -14702,8 +13611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pencil_ruler =
-      IconData(0xe4f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pencil_ruler = IconData(0xe4f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pentagon] icon from the Lucide icon set.
   ///
@@ -14715,8 +13623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pentagon =
-      IconData(0xe52b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pentagon = IconData(0xe52b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [percent] icon from the Lucide icon set.
   ///
@@ -14728,8 +13635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData percent =
-      IconData(0xe132, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData percent = IconData(0xe132, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [person_standing] icon from the Lucide icon set.
   ///
@@ -14741,8 +13647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData person_standing =
-      IconData(0xe21e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData person_standing = IconData(0xe21e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [philippine_peso] icon from the Lucide icon set.
   ///
@@ -14754,8 +13659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/kasutu](https://github.com/kasutu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData philippine_peso =
-      IconData(0xe604, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData philippine_peso = IconData(0xe604, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone] icon from the Lucide icon set.
   ///
@@ -14767,8 +13671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone =
-      IconData(0xe133, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone = IconData(0xe133, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_call] icon from the Lucide icon set.
   ///
@@ -14780,8 +13683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData phone_call =
-      IconData(0xe134, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_call = IconData(0xe134, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_forwarded] icon from the Lucide icon set.
   ///
@@ -14793,8 +13695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone_forwarded =
-      IconData(0xe135, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_forwarded = IconData(0xe135, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_incoming] icon from the Lucide icon set.
   ///
@@ -14806,8 +13707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone_incoming =
-      IconData(0xe136, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_incoming = IconData(0xe136, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_missed] icon from the Lucide icon set.
   ///
@@ -14819,8 +13719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone_missed =
-      IconData(0xe137, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_missed = IconData(0xe137, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_off] icon from the Lucide icon set.
   ///
@@ -14832,8 +13731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone_off =
-      IconData(0xe138, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_off = IconData(0xe138, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [phone_outgoing] icon from the Lucide icon set.
   ///
@@ -14845,8 +13743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData phone_outgoing =
-      IconData(0xe139, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData phone_outgoing = IconData(0xe139, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pi] icon from the Lucide icon set.
   ///
@@ -14858,8 +13755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pi =
-      IconData(0xe472, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pi = IconData(0xe472, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [piano] icon from the Lucide icon set.
   ///
@@ -14871,8 +13767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData piano =
-      IconData(0xe561, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData piano = IconData(0xe561, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pickaxe] icon from the Lucide icon set.
   ///
@@ -14884,8 +13779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pickaxe =
-      IconData(0xe5c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pickaxe = IconData(0xe5c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [picture_in_picture] icon from the Lucide icon set.
   ///
@@ -14897,8 +13791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData picture_in_picture =
-      IconData(0xe3ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData picture_in_picture = IconData(0xe3ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [picture_in_picture_2] icon from the Lucide icon set.
   ///
@@ -14910,8 +13803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/cd16b](https://github.com/cd16b), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData picture_in_picture_2 =
-      IconData(0xe3af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData picture_in_picture_2 = IconData(0xe3af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [piggy_bank] icon from the Lucide icon set.
   ///
@@ -14923,8 +13815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData piggy_bank =
-      IconData(0xe13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData piggy_bank = IconData(0xe13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow] icon from the Lucide icon set.
   ///
@@ -14936,8 +13827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pilcrow =
-      IconData(0xe3a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pilcrow = IconData(0xe3a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow_left] icon from the Lucide icon set.
   ///
@@ -14949,8 +13839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zaaakher](https://github.com/zaaakher), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData pilcrow_left =
-      IconData(0xe5dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pilcrow_left = IconData(0xe5dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pilcrow_right] icon from the Lucide icon set.
   ///
@@ -14962,8 +13851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zaaakher](https://github.com/zaaakher), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jonas-hoebenreich](https://github.com/jonas-hoebenreich)
-  static const IconData pilcrow_right =
-      IconData(0xe5dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pilcrow_right = IconData(0xe5dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pill] icon from the Lucide icon set.
   ///
@@ -14975,8 +13863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData pill =
-      IconData(0xe3bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pill = IconData(0xe3bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pill_bottle] icon from the Lucide icon set.
   ///
@@ -14988,8 +13875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pill_bottle =
-      IconData(0xe5ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pill_bottle = IconData(0xe5ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pin] icon from the Lucide icon set.
   ///
@@ -15001,8 +13887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pin =
-      IconData(0xe259, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pin = IconData(0xe259, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pin_off] icon from the Lucide icon set.
   ///
@@ -15014,8 +13899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData pin_off =
-      IconData(0xe2b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pin_off = IconData(0xe2b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pipette] icon from the Lucide icon set.
   ///
@@ -15027,8 +13911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pipette =
-      IconData(0xe13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pipette = IconData(0xe13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pizza] icon from the Lucide icon set.
   ///
@@ -15040,8 +13923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData pizza =
-      IconData(0xe354, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pizza = IconData(0xe354, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane] icon from the Lucide icon set.
   ///
@@ -15053,8 +13935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData plane =
-      IconData(0xe1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plane = IconData(0xe1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane_landing] icon from the Lucide icon set.
   ///
@@ -15066,8 +13947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData plane_landing =
-      IconData(0xe3cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plane_landing = IconData(0xe3cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plane_takeoff] icon from the Lucide icon set.
   ///
@@ -15079,8 +13959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData plane_takeoff =
-      IconData(0xe3ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plane_takeoff = IconData(0xe3ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [play] icon from the Lucide icon set.
   ///
@@ -15092,8 +13971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData play =
-      IconData(0xe13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData play = IconData(0xe13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug] icon from the Lucide icon set.
   ///
@@ -15105,8 +13983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData plug =
-      IconData(0xe37f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plug = IconData(0xe37f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug_2] icon from the Lucide icon set.
   ///
@@ -15118,8 +13995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData plug_2 =
-      IconData(0xe380, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plug_2 = IconData(0xe380, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plug_zap] icon from the Lucide icon set.
   ///
@@ -15131,8 +14007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData plug_zap =
-      IconData(0xe45c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plug_zap = IconData(0xe45c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [plus] icon from the Lucide icon set.
   ///
@@ -15144,8 +14019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData plus =
-      IconData(0xe13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData plus = IconData(0xe13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pocket_knife] icon from the Lucide icon set.
   ///
@@ -15157,8 +14031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pocket_knife =
-      IconData(0xe4a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pocket_knife = IconData(0xe4a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [podcast] icon from the Lucide icon set.
   ///
@@ -15170,8 +14043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/iiaishwarya](https://github.com/iiaishwarya), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData podcast =
-      IconData(0xe1fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData podcast = IconData(0xe1fa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pointer] icon from the Lucide icon set.
   ///
@@ -15183,8 +14055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData pointer =
-      IconData(0xe1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pointer = IconData(0xe1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pointer_off] icon from the Lucide icon set.
   ///
@@ -15196,8 +14067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData pointer_off =
-      IconData(0xe57f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pointer_off = IconData(0xe57f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [popcorn] icon from the Lucide icon set.
   ///
@@ -15209,8 +14079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData popcorn =
-      IconData(0xe4be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData popcorn = IconData(0xe4be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [popsicle] icon from the Lucide icon set.
   ///
@@ -15222,8 +14091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData popsicle =
-      IconData(0xe4bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData popsicle = IconData(0xe4bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pound_sterling] icon from the Lucide icon set.
   ///
@@ -15235,8 +14103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData pound_sterling =
-      IconData(0xe13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pound_sterling = IconData(0xe13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [power] icon from the Lucide icon set.
   ///
@@ -15248,8 +14115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData power =
-      IconData(0xe140, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData power = IconData(0xe140, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [power_off] icon from the Lucide icon set.
   ///
@@ -15261,8 +14127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData power_off =
-      IconData(0xe209, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData power_off = IconData(0xe209, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [presentation] icon from the Lucide icon set.
   ///
@@ -15274,8 +14139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData presentation =
-      IconData(0xe4ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData presentation = IconData(0xe4ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [printer] icon from the Lucide icon set.
   ///
@@ -15287,8 +14151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData printer =
-      IconData(0xe141, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData printer = IconData(0xe141, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [printer_check] icon from the Lucide icon set.
   ///
@@ -15300,8 +14163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData printer_check =
-      IconData(0xe5f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData printer_check = IconData(0xe5f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [printer_x] icon from the Lucide icon set.
   ///
@@ -15313,8 +14175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/lt25106](https://github.com/lt25106)
-  static const IconData printer_x =
-      IconData(0xe6c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData printer_x = IconData(0xe6c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [projector] icon from the Lucide icon set.
   ///
@@ -15326,8 +14187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData projector =
-      IconData(0xe4af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData projector = IconData(0xe4af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [proportions] icon from the Lucide icon set.
   ///
@@ -15339,8 +14199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData proportions =
-      IconData(0xe5cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData proportions = IconData(0xe5cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [puzzle] icon from the Lucide icon set.
   ///
@@ -15352,8 +14211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData puzzle =
-      IconData(0xe29c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData puzzle = IconData(0xe29c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [pyramid] icon from the Lucide icon set.
   ///
@@ -15365,8 +14223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData pyramid =
-      IconData(0xe52c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData pyramid = IconData(0xe52c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [qr_code] icon from the Lucide icon set.
   ///
@@ -15378,8 +14235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData qr_code =
-      IconData(0xe1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData qr_code = IconData(0xe1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [quote] icon from the Lucide icon set.
   ///
@@ -15391,8 +14247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Billiam](https://github.com/Billiam), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData quote =
-      IconData(0xe239, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData quote = IconData(0xe239, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rabbit] icon from the Lucide icon set.
   ///
@@ -15404,8 +14259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rabbit =
-      IconData(0xe4f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rabbit = IconData(0xe4f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radar] icon from the Lucide icon set.
   ///
@@ -15417,8 +14271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData radar =
-      IconData(0xe497, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radar = IconData(0xe497, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radiation] icon from the Lucide icon set.
   ///
@@ -15430,8 +14283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData radiation =
-      IconData(0xe442, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radiation = IconData(0xe442, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radical] icon from the Lucide icon set.
   ///
@@ -15443,8 +14295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/smnandre](https://github.com/smnandre), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData radical =
-      IconData(0xe5c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radical = IconData(0xe5c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio] icon from the Lucide icon set.
   ///
@@ -15456,8 +14307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData radio =
-      IconData(0xe142, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radio = IconData(0xe142, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio_off] icon from the Lucide icon set.
   ///
@@ -15469,8 +14319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kongsgard](https://github.com/kongsgard)
-  static const IconData radio_off =
-      IconData(0xe6dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radio_off = IconData(0xe6dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio_receiver] icon from the Lucide icon set.
   ///
@@ -15482,8 +14331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData radio_receiver =
-      IconData(0xe1fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radio_receiver = IconData(0xe1fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radio_tower] icon from the Lucide icon set.
   ///
@@ -15495,8 +14343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData radio_tower =
-      IconData(0xe404, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radio_tower = IconData(0xe404, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [radius] icon from the Lucide icon set.
   ///
@@ -15508,8 +14355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData radius =
-      IconData(0xe52d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData radius = IconData(0xe52d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rainbow] icon from the Lucide icon set.
   ///
@@ -15521,8 +14367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rainbow =
-      IconData(0xe4c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rainbow = IconData(0xe4c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rat] icon from the Lucide icon set.
   ///
@@ -15534,8 +14379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/henri42](https://github.com/henri42), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rat =
-      IconData(0xe3eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rat = IconData(0xe3eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ratio] icon from the Lucide icon set.
   ///
@@ -15547,8 +14391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ratio =
-      IconData(0xe4e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ratio = IconData(0xe4e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt] icon from the Lucide icon set.
   ///
@@ -15560,8 +14403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData receipt =
-      IconData(0xe3d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt = IconData(0xe3d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_cent] icon from the Lucide icon set.
   ///
@@ -15573,8 +14415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_cent =
-      IconData(0xe5a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_cent = IconData(0xe5a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_euro] icon from the Lucide icon set.
   ///
@@ -15586,8 +14427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_euro =
-      IconData(0xe5a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_euro = IconData(0xe5a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_indian_rupee] icon from the Lucide icon set.
   ///
@@ -15599,8 +14439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_indian_rupee =
-      IconData(0xe5a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_indian_rupee = IconData(0xe5a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_japanese_yen] icon from the Lucide icon set.
   ///
@@ -15612,8 +14451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_japanese_yen =
-      IconData(0xe5a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_japanese_yen = IconData(0xe5a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_pound_sterling] icon from the Lucide icon set.
   ///
@@ -15625,8 +14463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_pound_sterling =
-      IconData(0xe5a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_pound_sterling = IconData(0xe5a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_russian_ruble] icon from the Lucide icon set.
   ///
@@ -15638,8 +14475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_russian_ruble =
-      IconData(0xe5aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_russian_ruble = IconData(0xe5aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_swiss_franc] icon from the Lucide icon set.
   ///
@@ -15651,8 +14487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_swiss_franc =
-      IconData(0xe5ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_swiss_franc = IconData(0xe5ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_text] icon from the Lucide icon set.
   ///
@@ -15664,8 +14499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_text =
-      IconData(0xe5ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_text = IconData(0xe5ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [receipt_turkish_lira] icon from the Lucide icon set.
   ///
@@ -15677,8 +14511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData receipt_turkish_lira =
-      IconData(0xe67f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData receipt_turkish_lira = IconData(0xe67f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_circle] icon from the Lucide icon set.
   ///
@@ -15690,8 +14523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zefir-git](https://github.com/zefir-git), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData rectangle_circle =
-      IconData(0xe673, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rectangle_circle = IconData(0xe673, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_ellipsis] icon from the Lucide icon set.
   ///
@@ -15703,8 +14535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData rectangle_ellipsis =
-      IconData(0xe21f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rectangle_ellipsis = IconData(0xe21f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_goggles] icon from the Lucide icon set.
   ///
@@ -15716,8 +14547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData rectangle_goggles =
-      IconData(0xe656, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rectangle_goggles = IconData(0xe656, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_horizontal] icon from the Lucide icon set.
   ///
@@ -15729,8 +14559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData rectangle_horizontal =
-      IconData(0xe376, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rectangle_horizontal = IconData(0xe376, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rectangle_vertical] icon from the Lucide icon set.
   ///
@@ -15742,8 +14571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData rectangle_vertical =
-      IconData(0xe377, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rectangle_vertical = IconData(0xe377, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [recycle] icon from the Lucide icon set.
   ///
@@ -15755,8 +14583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData recycle =
-      IconData(0xe2e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData recycle = IconData(0xe2e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo] icon from the Lucide icon set.
   ///
@@ -15768,8 +14595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/aelfric](https://github.com/aelfric), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData redo =
-      IconData(0xe143, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData redo = IconData(0xe143, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo_2] icon from the Lucide icon set.
   ///
@@ -15781,8 +14607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData redo_2 =
-      IconData(0xe2a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData redo_2 = IconData(0xe2a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [redo_dot] icon from the Lucide icon set.
   ///
@@ -15794,8 +14619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData redo_dot =
-      IconData(0xe450, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData redo_dot = IconData(0xe450, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_ccw] icon from the Lucide icon set.
   ///
@@ -15807,8 +14631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData refresh_ccw =
-      IconData(0xe144, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData refresh_ccw = IconData(0xe144, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_ccw_dot] icon from the Lucide icon set.
   ///
@@ -15820,8 +14643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData refresh_ccw_dot =
-      IconData(0xe4b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData refresh_ccw_dot = IconData(0xe4b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_cw] icon from the Lucide icon set.
   ///
@@ -15833,8 +14655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData refresh_cw =
-      IconData(0xe145, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData refresh_cw = IconData(0xe145, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refresh_cw_off] icon from the Lucide icon set.
   ///
@@ -15846,8 +14667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData refresh_cw_off =
-      IconData(0xe498, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData refresh_cw_off = IconData(0xe498, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [refrigerator] icon from the Lucide icon set.
   ///
@@ -15859,8 +14679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData refrigerator =
-      IconData(0xe37b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData refrigerator = IconData(0xe37b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [regex] icon from the Lucide icon set.
   ///
@@ -15872,8 +14691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData regex =
-      IconData(0xe1fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData regex = IconData(0xe1fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [remove_formatting] icon from the Lucide icon set.
   ///
@@ -15885,8 +14703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData remove_formatting =
-      IconData(0xe3b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData remove_formatting = IconData(0xe3b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat] icon from the Lucide icon set.
   ///
@@ -15898,8 +14715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData repeat =
-      IconData(0xe146, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData repeat = IconData(0xe146, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat_1] icon from the Lucide icon set.
   ///
@@ -15911,8 +14727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData repeat_1 =
-      IconData(0xe1fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData repeat_1 = IconData(0xe1fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [repeat_2] icon from the Lucide icon set.
   ///
@@ -15924,8 +14739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData repeat_2 =
-      IconData(0xe411, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData repeat_2 = IconData(0xe411, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [replace] icon from the Lucide icon set.
   ///
@@ -15937,8 +14751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData replace =
-      IconData(0xe3db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData replace = IconData(0xe3db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [replace_all] icon from the Lucide icon set.
   ///
@@ -15950,8 +14763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData replace_all =
-      IconData(0xe3dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData replace_all = IconData(0xe3dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [reply] icon from the Lucide icon set.
   ///
@@ -15963,8 +14775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData reply =
-      IconData(0xe22a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData reply = IconData(0xe22a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [reply_all] icon from the Lucide icon set.
   ///
@@ -15976,8 +14787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData reply_all =
-      IconData(0xe22b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData reply_all = IconData(0xe22b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rewind] icon from the Lucide icon set.
   ///
@@ -15989,8 +14799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData rewind =
-      IconData(0xe147, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rewind = IconData(0xe147, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ribbon] icon from the Lucide icon set.
   ///
@@ -16002,8 +14811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ribbon =
-      IconData(0xe558, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ribbon = IconData(0xe558, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [road] icon from the Lucide icon set.
   ///
@@ -16015,8 +14823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/uibalint](https://github.com/uibalint), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData road =
-      IconData(0xe6d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData road = IconData(0xe6d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rocket] icon from the Lucide icon set.
   ///
@@ -16028,8 +14835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData rocket =
-      IconData(0xe286, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rocket = IconData(0xe286, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rocking_chair] icon from the Lucide icon set.
   ///
@@ -16041,8 +14847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/connium](https://github.com/connium), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData rocking_chair =
-      IconData(0xe233, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rocking_chair = IconData(0xe233, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [roller_coaster] icon from the Lucide icon set.
   ///
@@ -16054,8 +14859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData roller_coaster =
-      IconData(0xe480, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData roller_coaster = IconData(0xe480, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rose] icon from the Lucide icon set.
   ///
@@ -16067,12 +14871,11 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData rose =
-      IconData(0xe691, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rose = IconData(0xe691, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_3d] icon from the Lucide icon set.
   ///
-  /// ![rotate_3d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuNDY2IDcuNUMxNS42NDMgNC4yMzcgMTMuOTUyIDIgMTIgMiA5LjIzOSAyIDcgNi40NzcgNyAxMnMyLjIzOSAxMCA1IDEwYy4zNDIgMCAuNjc3LS4wNjkgMS0uMiIgLz4KICA8cGF0aCBkPSJtMTUuMTk0IDEzLjcwNyAzLjgxNCAxLjg2LTEuODYgMy44MTQiIC8+CiAgPHBhdGggZD0iTTE5IDE1LjU3Yy0xLjgwNC44ODUtNC4yNzQgMS40My03IDEuNDMtNS41MjMgMC0xMC0yLjIzOS0xMC01czQuNDc3LTUgMTAtNWM0LjgzOCAwIDguODczIDEuNzE4IDkuOCA0IiAvPgo8L3N2Zz4K)
+  /// ![rotate_3d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuMTk0IDEzLjcwNyAzLjgxNCAxLjg2LTEuODYgMy44MTQiIC8+CiAgPHBhdGggZD0iTTE2LjQ3MjE0IDcuNTI3ODYgQSA1IDEwIDAgMSAwIDEzIDIxLjc5Nzk2IiAvPgogIDxwYXRoIGQ9Ik0yMS43OTc5NiAxMSBBIDEwIDUgMCAxIDAgMTkgMTUuNTcwNzEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [rotate_3d] icon is a graphical symbol that conveys a specific idea or functionality related to gizmo, transform, orientation, orbit, axis.
@@ -16080,8 +14883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel)
-  static const IconData rotate_3d =
-      IconData(0xe2ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_3d = IconData(0xe2ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_ccw] icon from the Lucide icon set.
   ///
@@ -16093,8 +14895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData rotate_ccw =
-      IconData(0xe148, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_ccw = IconData(0xe148, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_ccw_key] icon from the Lucide icon set.
   ///
@@ -16106,8 +14907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/pgbradbury](https://github.com/pgbradbury), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData rotate_ccw_key =
-      IconData(0xe650, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_ccw_key = IconData(0xe650, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_ccw_square] icon from the Lucide icon set.
   ///
@@ -16119,8 +14919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rotate_ccw_square =
-      IconData(0xe5d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_ccw_square = IconData(0xe5d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_cw] icon from the Lucide icon set.
   ///
@@ -16132,8 +14931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData rotate_cw =
-      IconData(0xe149, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_cw = IconData(0xe149, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rotate_cw_square] icon from the Lucide icon set.
   ///
@@ -16145,8 +14943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rotate_cw_square =
-      IconData(0xe5d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rotate_cw_square = IconData(0xe5d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [route] icon from the Lucide icon set.
   ///
@@ -16158,8 +14955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData route =
-      IconData(0xe53e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData route = IconData(0xe53e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [route_off] icon from the Lucide icon set.
   ///
@@ -16171,8 +14967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData route_off =
-      IconData(0xe53f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData route_off = IconData(0xe53f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [router] icon from the Lucide icon set.
   ///
@@ -16184,8 +14979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/FrancoMaxime](https://github.com/FrancoMaxime), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData router =
-      IconData(0xe3bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData router = IconData(0xe3bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_2] icon from the Lucide icon set.
   ///
@@ -16197,8 +14991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rows_2 =
-      IconData(0xe439, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rows_2 = IconData(0xe439, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_3] icon from the Lucide icon set.
   ///
@@ -16210,8 +15003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rows_3 =
-      IconData(0xe58a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rows_3 = IconData(0xe58a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rows_4] icon from the Lucide icon set.
   ///
@@ -16223,8 +15015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData rows_4 =
-      IconData(0xe58b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rows_4 = IconData(0xe58b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [rss] icon from the Lucide icon set.
   ///
@@ -16236,8 +15027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData rss =
-      IconData(0xe14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData rss = IconData(0xe14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ruler] icon from the Lucide icon set.
   ///
@@ -16249,8 +15039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ruler =
-      IconData(0xe14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ruler = IconData(0xe14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ruler_dimension_line] icon from the Lucide icon set.
   ///
@@ -16262,8 +15051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ruler_dimension_line =
-      IconData(0xe662, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ruler_dimension_line = IconData(0xe662, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [russian_ruble] icon from the Lucide icon set.
   ///
@@ -16275,8 +15063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData russian_ruble =
-      IconData(0xe14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData russian_ruble = IconData(0xe14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sailboat] icon from the Lucide icon set.
   ///
@@ -16288,8 +15075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData sailboat =
-      IconData(0xe37e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sailboat = IconData(0xe37e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [salad] icon from the Lucide icon set.
   ///
@@ -16301,8 +15087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie)
-  static const IconData salad =
-      IconData(0xe3a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData salad = IconData(0xe3a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sandwich] icon from the Lucide icon set.
   ///
@@ -16314,8 +15099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData sandwich =
-      IconData(0xe3a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sandwich = IconData(0xe3a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [satellite] icon from the Lucide icon set.
   ///
@@ -16327,8 +15111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData satellite =
-      IconData(0xe447, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData satellite = IconData(0xe447, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [satellite_dish] icon from the Lucide icon set.
   ///
@@ -16340,8 +15123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData satellite_dish =
-      IconData(0xe448, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData satellite_dish = IconData(0xe448, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [saudi_riyal] icon from the Lucide icon set.
   ///
@@ -16353,8 +15135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/null78](https://github.com/null78), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData saudi_riyal =
-      IconData(0xe64b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData saudi_riyal = IconData(0xe64b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save] icon from the Lucide icon set.
   ///
@@ -16366,8 +15147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData save =
-      IconData(0xe14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData save = IconData(0xe14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save_all] icon from the Lucide icon set.
   ///
@@ -16379,8 +15159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData save_all =
-      IconData(0xe40f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData save_all = IconData(0xe40f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [save_off] icon from the Lucide icon set.
   ///
@@ -16392,8 +15171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev)
-  static const IconData save_off =
-      IconData(0xe5f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData save_off = IconData(0xe5f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scale] icon from the Lucide icon set.
   ///
@@ -16405,8 +15183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData scale =
-      IconData(0xe212, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scale = IconData(0xe212, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scale_3d] icon from the Lucide icon set.
   ///
@@ -16418,8 +15195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData scale_3d =
-      IconData(0xe2eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scale_3d = IconData(0xe2eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scaling] icon from the Lucide icon set.
   ///
@@ -16431,8 +15207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData scaling =
-      IconData(0xe2ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scaling = IconData(0xe2ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan] icon from the Lucide icon set.
   ///
@@ -16444,8 +15219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData scan =
-      IconData(0xe257, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan = IconData(0xe257, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_barcode] icon from the Lucide icon set.
   ///
@@ -16457,8 +15231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scan_barcode =
-      IconData(0xe535, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_barcode = IconData(0xe535, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_eye] icon from the Lucide icon set.
   ///
@@ -16470,8 +15243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scan_eye =
-      IconData(0xe536, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_eye = IconData(0xe536, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_face] icon from the Lucide icon set.
   ///
@@ -16483,8 +15255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData scan_face =
-      IconData(0xe371, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_face = IconData(0xe371, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_heart] icon from the Lucide icon set.
   ///
@@ -16496,8 +15267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData scan_heart =
-      IconData(0xe63a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_heart = IconData(0xe63a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_line] icon from the Lucide icon set.
   ///
@@ -16509,8 +15279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/wojtekmaj](https://github.com/wojtekmaj), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData scan_line =
-      IconData(0xe258, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_line = IconData(0xe258, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_qr_code] icon from the Lucide icon set.
   ///
@@ -16522,8 +15291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/vexkiddy](https://github.com/vexkiddy)
-  static const IconData scan_qr_code =
-      IconData(0xe5f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_qr_code = IconData(0xe5f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_search] icon from the Lucide icon set.
   ///
@@ -16535,8 +15303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scan_search =
-      IconData(0xe537, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_search = IconData(0xe537, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scan_text] icon from the Lucide icon set.
   ///
@@ -16548,8 +15315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scan_text =
-      IconData(0xe538, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scan_text = IconData(0xe538, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [school] icon from the Lucide icon set.
   ///
@@ -16561,8 +15327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData school =
-      IconData(0xe3e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData school = IconData(0xe3e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scissors] icon from the Lucide icon set.
   ///
@@ -16574,8 +15339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData scissors =
-      IconData(0xe14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scissors = IconData(0xe14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scissors_line_dashed] icon from the Lucide icon set.
   ///
@@ -16587,8 +15351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scissors_line_dashed =
-      IconData(0xe4e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scissors_line_dashed = IconData(0xe4e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scooter] icon from the Lucide icon set.
   ///
@@ -16600,8 +15363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Ahmed-Dghaies](https://github.com/Ahmed-Dghaies), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData scooter =
-      IconData(0xe6ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scooter = IconData(0xe6ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [screen_share] icon from the Lucide icon set.
   ///
@@ -16613,8 +15375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData screen_share =
-      IconData(0xe14f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData screen_share = IconData(0xe14f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [screen_share_off] icon from the Lucide icon set.
   ///
@@ -16626,8 +15387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData screen_share_off =
-      IconData(0xe150, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData screen_share_off = IconData(0xe150, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scroll] icon from the Lucide icon set.
   ///
@@ -16639,8 +15399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData scroll =
-      IconData(0xe2ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scroll = IconData(0xe2ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [scroll_text] icon from the Lucide icon set.
   ///
@@ -16652,8 +15411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData scroll_text =
-      IconData(0xe45f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData scroll_text = IconData(0xe45f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search] icon from the Lucide icon set.
   ///
@@ -16665,8 +15423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData search =
-      IconData(0xe151, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search = IconData(0xe151, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_alert] icon from the Lucide icon set.
   ///
@@ -16678,8 +15435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Veatec22](https://github.com/Veatec22)
-  static const IconData search_alert =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search_alert = IconData(0xe6e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_check] icon from the Lucide icon set.
   ///
@@ -16691,8 +15447,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData search_check =
-      IconData(0xe4aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search_check = IconData(0xe4aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_code] icon from the Lucide icon set.
   ///
@@ -16704,8 +15459,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData search_code =
-      IconData(0xe4ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search_code = IconData(0xe4ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_slash] icon from the Lucide icon set.
   ///
@@ -16717,8 +15471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData search_slash =
-      IconData(0xe4ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search_slash = IconData(0xe4ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [search_x] icon from the Lucide icon set.
   ///
@@ -16730,8 +15483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData search_x =
-      IconData(0xe4ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData search_x = IconData(0xe4ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [section] icon from the Lucide icon set.
   ///
@@ -16743,8 +15495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/gurtt](https://github.com/gurtt), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData section =
-      IconData(0xe5e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData section = IconData(0xe5e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send] icon from the Lucide icon set.
   ///
@@ -16756,8 +15507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData send =
-      IconData(0xe152, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData send = IconData(0xe152, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send_horizontal] icon from the Lucide icon set.
   ///
@@ -16769,8 +15519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData send_horizontal =
-      IconData(0xe4f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData send_horizontal = IconData(0xe4f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [send_to_back] icon from the Lucide icon set.
   ///
@@ -16782,8 +15531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/james-yeoman](https://github.com/james-yeoman), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData send_to_back =
-      IconData(0xe4f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData send_to_back = IconData(0xe4f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [separator_horizontal] icon from the Lucide icon set.
   ///
@@ -16795,8 +15543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData separator_horizontal =
-      IconData(0xe1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData separator_horizontal = IconData(0xe1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [separator_vertical] icon from the Lucide icon set.
   ///
@@ -16808,8 +15555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData separator_vertical =
-      IconData(0xe1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData separator_vertical = IconData(0xe1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server] icon from the Lucide icon set.
   ///
@@ -16821,8 +15567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData server =
-      IconData(0xe153, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData server = IconData(0xe153, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_cog] icon from the Lucide icon set.
   ///
@@ -16834,8 +15579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData server_cog =
-      IconData(0xe341, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData server_cog = IconData(0xe341, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_crash] icon from the Lucide icon set.
   ///
@@ -16847,8 +15591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData server_crash =
-      IconData(0xe1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData server_crash = IconData(0xe1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [server_off] icon from the Lucide icon set.
   ///
@@ -16860,8 +15603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/yukosgiti](https://github.com/yukosgiti), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData server_off =
-      IconData(0xe1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData server_off = IconData(0xe1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [settings] icon from the Lucide icon set.
   ///
@@ -16873,8 +15615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData settings =
-      IconData(0xe154, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData settings = IconData(0xe154, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [settings_2] icon from the Lucide icon set.
   ///
@@ -16886,8 +15627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData settings_2 =
-      IconData(0xe245, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData settings_2 = IconData(0xe245, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shapes] icon from the Lucide icon set.
   ///
@@ -16899,8 +15639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData shapes =
-      IconData(0xe4b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shapes = IconData(0xe4b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [share] icon from the Lucide icon set.
   ///
@@ -16912,8 +15651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData share =
-      IconData(0xe155, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData share = IconData(0xe155, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [share_2] icon from the Lucide icon set.
   ///
@@ -16925,8 +15663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData share_2 =
-      IconData(0xe156, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData share_2 = IconData(0xe156, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sheet] icon from the Lucide icon set.
   ///
@@ -16938,8 +15675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData sheet =
-      IconData(0xe157, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sheet = IconData(0xe157, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shell] icon from the Lucide icon set.
   ///
@@ -16951,8 +15687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData shell =
-      IconData(0xe4f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shell = IconData(0xe4f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shelving_unit] icon from the Lucide icon set.
   ///
@@ -16964,8 +15699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shelving_unit =
-      IconData(0xe6c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shelving_unit = IconData(0xe6c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield] icon from the Lucide icon set.
   ///
@@ -16977,8 +15711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield =
-      IconData(0xe158, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield = IconData(0xe158, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_alert] icon from the Lucide icon set.
   ///
@@ -16990,8 +15723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_alert =
-      IconData(0xe1fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_alert = IconData(0xe1fe, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_ban] icon from the Lucide icon set.
   ///
@@ -17003,8 +15735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_ban =
-      IconData(0xe159, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_ban = IconData(0xe159, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_check] icon from the Lucide icon set.
   ///
@@ -17016,8 +15747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_check =
-      IconData(0xe1ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_check = IconData(0xe1ff, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_cog] icon from the Lucide icon set.
   ///
@@ -17029,8 +15759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/RajnishKMehta](https://github.com/RajnishKMehta)
-  static const IconData shield_cog =
-      IconData(0xe6da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_cog = IconData(0xe6e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_cog_corner] icon from the Lucide icon set.
   ///
@@ -17042,8 +15771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/RajnishKMehta](https://github.com/RajnishKMehta)
-  static const IconData shield_cog_corner =
-      IconData(0xe6da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_cog_corner = IconData(0xe6e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_ellipsis] icon from the Lucide icon set.
   ///
@@ -17055,8 +15783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_ellipsis =
-      IconData(0xe516, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_ellipsis = IconData(0xe516, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_half] icon from the Lucide icon set.
   ///
@@ -17068,8 +15795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_half =
-      IconData(0xe517, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_half = IconData(0xe517, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_minus] icon from the Lucide icon set.
   ///
@@ -17081,8 +15807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_minus =
-      IconData(0xe518, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_minus = IconData(0xe518, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_off] icon from the Lucide icon set.
   ///
@@ -17094,8 +15819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_off =
-      IconData(0xe15a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_off = IconData(0xe15a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_plus] icon from the Lucide icon set.
   ///
@@ -17107,8 +15831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_plus =
-      IconData(0xe519, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_plus = IconData(0xe519, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_question_mark] icon from the Lucide icon set.
   ///
@@ -17120,8 +15843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_question_mark =
-      IconData(0xe40e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_question_mark = IconData(0xe40e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_user] icon from the Lucide icon set.
   ///
@@ -17133,8 +15855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/sebinemeth](https://github.com/sebinemeth), [https://github.com/ksk3110](https://github.com/ksk3110), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData shield_user =
-      IconData(0xe647, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_user = IconData(0xe647, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shield_x] icon from the Lucide icon set.
   ///
@@ -17146,8 +15867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_x =
-      IconData(0xe200, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shield_x = IconData(0xe200, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ship] icon from the Lucide icon set.
   ///
@@ -17159,8 +15879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData ship =
-      IconData(0xe3ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ship = IconData(0xe3ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ship_wheel] icon from the Lucide icon set.
   ///
@@ -17172,8 +15891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ship_wheel =
-      IconData(0xe502, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ship_wheel = IconData(0xe502, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shirt] icon from the Lucide icon set.
   ///
@@ -17185,8 +15903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData shirt =
-      IconData(0xe1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shirt = IconData(0xe1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_bag] icon from the Lucide icon set.
   ///
@@ -17198,8 +15915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData shopping_bag =
-      IconData(0xe15b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shopping_bag = IconData(0xe15b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_basket] icon from the Lucide icon set.
   ///
@@ -17211,8 +15927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData shopping_basket =
-      IconData(0xe4ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shopping_basket = IconData(0xe4ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shopping_cart] icon from the Lucide icon set.
   ///
@@ -17224,8 +15939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shopping_cart =
-      IconData(0xe15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shopping_cart = IconData(0xe15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shovel] icon from the Lucide icon set.
   ///
@@ -17237,8 +15951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shovel =
-      IconData(0xe15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shovel = IconData(0xe15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shower_head] icon from the Lucide icon set.
   ///
@@ -17250,8 +15963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shower_head =
-      IconData(0xe37c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shower_head = IconData(0xe37c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shredder] icon from the Lucide icon set.
   ///
@@ -17263,8 +15975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Alirashidy](https://github.com/Alirashidy), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shredder =
-      IconData(0xe65b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shredder = IconData(0xe65b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shrimp] icon from the Lucide icon set.
   ///
@@ -17276,8 +15987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shrimp =
-      IconData(0xe649, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shrimp = IconData(0xe649, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shrink] icon from the Lucide icon set.
   ///
@@ -17289,8 +15999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData shrink =
-      IconData(0xe220, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shrink = IconData(0xe220, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shrub] icon from the Lucide icon set.
   ///
@@ -17302,8 +16011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData shrub =
-      IconData(0xe2ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shrub = IconData(0xe2ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [shuffle] icon from the Lucide icon set.
   ///
@@ -17315,8 +16023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData shuffle =
-      IconData(0xe15e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData shuffle = IconData(0xe15e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sigma] icon from the Lucide icon set.
   ///
@@ -17328,8 +16035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData sigma =
-      IconData(0xe201, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sigma = IconData(0xe201, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal] icon from the Lucide icon set.
   ///
@@ -17341,8 +16047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData signal =
-      IconData(0xe25f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signal = IconData(0xe25f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_high] icon from the Lucide icon set.
   ///
@@ -17354,8 +16059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData signal_high =
-      IconData(0xe260, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signal_high = IconData(0xe260, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_low] icon from the Lucide icon set.
   ///
@@ -17367,8 +16071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData signal_low =
-      IconData(0xe261, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signal_low = IconData(0xe261, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_medium] icon from the Lucide icon set.
   ///
@@ -17380,8 +16083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData signal_medium =
-      IconData(0xe262, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signal_medium = IconData(0xe262, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signal_zero] icon from the Lucide icon set.
   ///
@@ -17393,8 +16095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/azdle](https://github.com/azdle)
-  static const IconData signal_zero =
-      IconData(0xe263, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signal_zero = IconData(0xe263, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signature] icon from the Lucide icon set.
   ///
@@ -17406,8 +16107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData signature =
-      IconData(0xe5f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signature = IconData(0xe5f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signpost] icon from the Lucide icon set.
   ///
@@ -17419,8 +16119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData signpost =
-      IconData(0xe540, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signpost = IconData(0xe540, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [signpost_big] icon from the Lucide icon set.
   ///
@@ -17432,8 +16131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData signpost_big =
-      IconData(0xe541, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData signpost_big = IconData(0xe541, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [siren] icon from the Lucide icon set.
   ///
@@ -17445,8 +16143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData siren =
-      IconData(0xe2ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData siren = IconData(0xe2ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skip_back] icon from the Lucide icon set.
   ///
@@ -17458,8 +16155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData skip_back =
-      IconData(0xe15f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData skip_back = IconData(0xe15f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skip_forward] icon from the Lucide icon set.
   ///
@@ -17471,8 +16167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData skip_forward =
-      IconData(0xe160, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData skip_forward = IconData(0xe160, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [skull] icon from the Lucide icon set.
   ///
@@ -17484,8 +16179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData skull =
-      IconData(0xe221, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData skull = IconData(0xe221, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [slash] icon from the Lucide icon set.
   ///
@@ -17497,8 +16191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData slash =
-      IconData(0xe51d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData slash = IconData(0xe51d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [slice] icon from the Lucide icon set.
   ///
@@ -17510,8 +16203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData slice =
-      IconData(0xe2f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData slice = IconData(0xe2f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sliders_horizontal] icon from the Lucide icon set.
   ///
@@ -17523,8 +16215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData sliders_horizontal =
-      IconData(0xe29a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sliders_horizontal = IconData(0xe29a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sliders_vertical] icon from the Lucide icon set.
   ///
@@ -17536,8 +16227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData sliders_vertical =
-      IconData(0xe162, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sliders_vertical = IconData(0xe162, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone] icon from the Lucide icon set.
   ///
@@ -17549,8 +16239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData smartphone =
-      IconData(0xe163, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData smartphone = IconData(0xe163, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone_charging] icon from the Lucide icon set.
   ///
@@ -17562,8 +16251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData smartphone_charging =
-      IconData(0xe22e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData smartphone_charging = IconData(0xe22e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smartphone_nfc] icon from the Lucide icon set.
   ///
@@ -17575,8 +16263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData smartphone_nfc =
-      IconData(0xe3c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData smartphone_nfc = IconData(0xe3c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smile] icon from the Lucide icon set.
   ///
@@ -17588,8 +16275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData smile =
-      IconData(0xe164, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData smile = IconData(0xe164, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [smile_plus] icon from the Lucide icon set.
   ///
@@ -17601,8 +16287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData smile_plus =
-      IconData(0xe301, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData smile_plus = IconData(0xe301, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [snail] icon from the Lucide icon set.
   ///
@@ -17614,8 +16299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData snail =
-      IconData(0xe4f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData snail = IconData(0xe4f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [snowflake] icon from the Lucide icon set.
   ///
@@ -17627,8 +16311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData snowflake =
-      IconData(0xe165, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData snowflake = IconData(0xe165, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [soap_dispenser_droplet] icon from the Lucide icon set.
   ///
@@ -17640,8 +16323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData soap_dispenser_droplet =
-      IconData(0xe669, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData soap_dispenser_droplet = IconData(0xe669, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sofa] icon from the Lucide icon set.
   ///
@@ -17653,8 +16335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sofa =
-      IconData(0xe2c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sofa = IconData(0xe2c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [solar_panel] icon from the Lucide icon set.
   ///
@@ -17666,8 +16347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData solar_panel =
-      IconData(0xe69f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData solar_panel = IconData(0xe69f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [soup] icon from the Lucide icon set.
   ///
@@ -17679,8 +16359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kemie](https://github.com/kemie)
-  static const IconData soup =
-      IconData(0xe3aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData soup = IconData(0xe3aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [space] icon from the Lucide icon set.
   ///
@@ -17692,8 +16371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData space =
-      IconData(0xe3dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData space = IconData(0xe3dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spade] icon from the Lucide icon set.
   ///
@@ -17705,8 +16383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData spade =
-      IconData(0xe499, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spade = IconData(0xe499, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sparkle] icon from the Lucide icon set.
   ///
@@ -17718,8 +16395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Shiva953](https://github.com/Shiva953), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sparkle =
-      IconData(0xe47e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sparkle = IconData(0xe47e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sparkles] icon from the Lucide icon set.
   ///
@@ -17731,8 +16407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sparkles =
-      IconData(0xe412, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sparkles = IconData(0xe412, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [speaker] icon from the Lucide icon set.
   ///
@@ -17744,8 +16419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData speaker =
-      IconData(0xe166, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData speaker = IconData(0xe166, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [speech] icon from the Lucide icon set.
   ///
@@ -17757,8 +16431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/doerge](https://github.com/doerge), [https://github.com/airone01](https://github.com/airone01), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData speech =
-      IconData(0xe51e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData speech = IconData(0xe51e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spell_check] icon from the Lucide icon set.
   ///
@@ -17770,8 +16443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData spell_check =
-      IconData(0xe49a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spell_check = IconData(0xe49a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spell_check_2] icon from the Lucide icon set.
   ///
@@ -17783,8 +16455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData spell_check_2 =
-      IconData(0xe49b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spell_check_2 = IconData(0xe49b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spline] icon from the Lucide icon set.
   ///
@@ -17796,8 +16467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData spline =
-      IconData(0xe38b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spline = IconData(0xe38b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spline_pointer] icon from the Lucide icon set.
   ///
@@ -17809,8 +16479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/kaleidosium](https://github.com/kaleidosium), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData spline_pointer =
-      IconData(0xe64f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spline_pointer = IconData(0xe64f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [split] icon from the Lucide icon set.
   ///
@@ -17822,8 +16491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData split =
-      IconData(0xe440, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData split = IconData(0xe440, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spool] icon from the Lucide icon set.
   ///
@@ -17835,8 +16503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData spool =
-      IconData(0xe677, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spool = IconData(0xe677, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sport_shoe] icon from the Lucide icon set.
   ///
@@ -17848,8 +16515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Youya-ui](https://github.com/Youya-ui)
-  static const IconData sport_shoe =
-      IconData(0xe6db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sport_shoe = IconData(0xe6db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spotlight] icon from the Lucide icon set.
   ///
@@ -17861,8 +16527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData spotlight =
-      IconData(0xe682, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spotlight = IconData(0xe682, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [spray_can] icon from the Lucide icon set.
   ///
@@ -17874,8 +16539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData spray_can =
-      IconData(0xe495, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData spray_can = IconData(0xe495, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sprout] icon from the Lucide icon set.
   ///
@@ -17887,8 +16551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData sprout =
-      IconData(0xe1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sprout = IconData(0xe1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square] icon from the Lucide icon set.
   ///
@@ -17900,8 +16563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square =
-      IconData(0xe167, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square = IconData(0xe167, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_activity] icon from the Lucide icon set.
   ///
@@ -17913,8 +16575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_activity =
-      IconData(0xe4b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_activity = IconData(0xe4b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down] icon from the Lucide icon set.
   ///
@@ -17926,8 +16587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_down =
-      IconData(0xe427, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_down = IconData(0xe427, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down_left] icon from the Lucide icon set.
   ///
@@ -17939,8 +16599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_down_left =
-      IconData(0xe4b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_down_left = IconData(0xe4b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_down_right] icon from the Lucide icon set.
   ///
@@ -17952,8 +16611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_down_right =
-      IconData(0xe4b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_down_right = IconData(0xe4b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_left] icon from the Lucide icon set.
   ///
@@ -17965,8 +16623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_left =
-      IconData(0xe428, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_left = IconData(0xe428, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_down_left] icon from the Lucide icon set.
   ///
@@ -17978,8 +16635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_down_left =
-      IconData(0xe5a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_out_down_left = IconData(0xe5a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_down_right] icon from the Lucide icon set.
   ///
@@ -17991,8 +16647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_down_right =
-      IconData(0xe5a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_out_down_right = IconData(0xe5a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_up_left] icon from the Lucide icon set.
   ///
@@ -18004,8 +16659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_up_left =
-      IconData(0xe5a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_out_up_left = IconData(0xe5a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_out_up_right] icon from the Lucide icon set.
   ///
@@ -18017,8 +16671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_up_right =
-      IconData(0xe5a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_out_up_right = IconData(0xe5a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_right] icon from the Lucide icon set.
   ///
@@ -18030,8 +16683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_right =
-      IconData(0xe429, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_right = IconData(0xe429, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_right_enter] icon from the Lucide icon set.
   ///
@@ -18043,8 +16695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_right_enter =
-      IconData(0xe6c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_right_enter = IconData(0xe6c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_right_exit] icon from the Lucide icon set.
   ///
@@ -18056,8 +16707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_right_exit =
-      IconData(0xe6c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_right_exit = IconData(0xe6c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up] icon from the Lucide icon set.
   ///
@@ -18069,8 +16719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_arrow_up =
-      IconData(0xe42a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_up = IconData(0xe42a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up_left] icon from the Lucide icon set.
   ///
@@ -18082,8 +16731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_up_left =
-      IconData(0xe4b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_up_left = IconData(0xe4b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_arrow_up_right] icon from the Lucide icon set.
   ///
@@ -18095,8 +16743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_up_right =
-      IconData(0xe4b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_arrow_up_right = IconData(0xe4b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_asterisk] icon from the Lucide icon set.
   ///
@@ -18108,8 +16755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_asterisk =
-      IconData(0xe168, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_asterisk = IconData(0xe168, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_bottom_dashed_scissors] icon from the Lucide icon set.
   ///
@@ -18121,8 +16767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/eden881](https://github.com/eden881)
-  static const IconData square_bottom_dashed_scissors =
-      IconData(0xe4eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_bottom_dashed_scissors = IconData(0xe4eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_centerline_dashed_horizontal] icon from the Lucide icon set.
   ///
@@ -18134,8 +16779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_centerline_dashed_horizontal =
-      IconData(0xe6c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_centerline_dashed_horizontal = IconData(0xe6c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_centerline_dashed_vertical] icon from the Lucide icon set.
   ///
@@ -18147,8 +16791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_centerline_dashed_vertical =
-      IconData(0xe6c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_centerline_dashed_vertical = IconData(0xe6c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chart_gantt] icon from the Lucide icon set.
   ///
@@ -18160,8 +16803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_chart_gantt =
-      IconData(0xe169, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_chart_gantt = IconData(0xe169, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_check] icon from the Lucide icon set.
   ///
@@ -18173,8 +16815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_check =
-      IconData(0xe559, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_check = IconData(0xe559, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_check_big] icon from the Lucide icon set.
   ///
@@ -18186,8 +16827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData square_check_big =
-      IconData(0xe16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_check_big = IconData(0xe16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_down] icon from the Lucide icon set.
   ///
@@ -18199,8 +16839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_chevron_down =
-      IconData(0xe3cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_chevron_down = IconData(0xe3cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_left] icon from the Lucide icon set.
   ///
@@ -18212,8 +16851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_chevron_left =
-      IconData(0xe3d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_chevron_left = IconData(0xe3d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_right] icon from the Lucide icon set.
   ///
@@ -18225,8 +16863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_chevron_right =
-      IconData(0xe3d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_chevron_right = IconData(0xe3d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_chevron_up] icon from the Lucide icon set.
   ///
@@ -18238,8 +16875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_chevron_up =
-      IconData(0xe3d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_chevron_up = IconData(0xe3d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_code] icon from the Lucide icon set.
   ///
@@ -18251,8 +16887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_code =
-      IconData(0xe16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_code = IconData(0xe16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed] icon from the Lucide icon set.
   ///
@@ -18264,8 +16899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData square_dashed =
-      IconData(0xe1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed = IconData(0xe1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_bottom] icon from the Lucide icon set.
   ///
@@ -18277,8 +16911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_dashed_bottom =
-      IconData(0xe4c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_bottom = IconData(0xe4c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_bottom_code] icon from the Lucide icon set.
   ///
@@ -18290,8 +16923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_dashed_bottom_code =
-      IconData(0xe4c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_bottom_code = IconData(0xe4c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_kanban] icon from the Lucide icon set.
   ///
@@ -18303,8 +16935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_dashed_kanban =
-      IconData(0xe16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_kanban = IconData(0xe16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_mouse_pointer] icon from the Lucide icon set.
   ///
@@ -18316,8 +16947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_dashed_mouse_pointer =
-      IconData(0xe509, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_mouse_pointer = IconData(0xe509, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_text] icon from the Lucide icon set.
   ///
@@ -18329,8 +16959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_dashed_text =
-      IconData(0xe6df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_text = IconData(0xe6ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dashed_top_solid] icon from the Lucide icon set.
   ///
@@ -18342,8 +16971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/juanpablofernandez](https://github.com/juanpablofernandez)
-  static const IconData square_dashed_top_solid =
-      IconData(0xe66c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dashed_top_solid = IconData(0xe66c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_divide] icon from the Lucide icon set.
   ///
@@ -18355,8 +16983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_divide =
-      IconData(0xe16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_divide = IconData(0xe16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_dot] icon from the Lucide icon set.
   ///
@@ -18368,8 +16995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_dot =
-      IconData(0xe16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_dot = IconData(0xe16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_equal] icon from the Lucide icon set.
   ///
@@ -18381,8 +17007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_equal =
-      IconData(0xe16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_equal = IconData(0xe16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_function] icon from the Lucide icon set.
   ///
@@ -18394,8 +17019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_function =
-      IconData(0xe22d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_function = IconData(0xe22d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_kanban] icon from the Lucide icon set.
   ///
@@ -18407,8 +17031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_kanban =
-      IconData(0xe170, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_kanban = IconData(0xe170, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_library] icon from the Lucide icon set.
   ///
@@ -18420,8 +17043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_library =
-      IconData(0xe54f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_library = IconData(0xe54f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_m] icon from the Lucide icon set.
   ///
@@ -18433,8 +17055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_m =
-      IconData(0xe503, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_m = IconData(0xe503, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_menu] icon from the Lucide icon set.
   ///
@@ -18446,8 +17067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_menu =
-      IconData(0xe453, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_menu = IconData(0xe453, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_minus] icon from the Lucide icon set.
   ///
@@ -18459,8 +17079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_minus =
-      IconData(0xe171, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_minus = IconData(0xe171, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_mouse_pointer] icon from the Lucide icon set.
   ///
@@ -18472,8 +17091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_mouse_pointer =
-      IconData(0xe202, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_mouse_pointer = IconData(0xe202, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_parking] icon from the Lucide icon set.
   ///
@@ -18485,8 +17103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_parking =
-      IconData(0xe3cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_parking = IconData(0xe3cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_parking_off] icon from the Lucide icon set.
   ///
@@ -18498,8 +17115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_parking_off =
-      IconData(0xe3cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_parking_off = IconData(0xe3cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pause] icon from the Lucide icon set.
   ///
@@ -18511,8 +17127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_pause =
-      IconData(0xe684, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_pause = IconData(0xe684, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pen] icon from the Lucide icon set.
   ///
@@ -18524,8 +17139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_pen =
-      IconData(0xe172, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_pen = IconData(0xe172, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_percent] icon from the Lucide icon set.
   ///
@@ -18537,8 +17151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_percent =
-      IconData(0xe51c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_percent = IconData(0xe51c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pi] icon from the Lucide icon set.
   ///
@@ -18550,8 +17163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_pi =
-      IconData(0xe488, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_pi = IconData(0xe488, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_pilcrow] icon from the Lucide icon set.
   ///
@@ -18563,8 +17175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_pilcrow =
-      IconData(0xe48b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_pilcrow = IconData(0xe48b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_play] icon from the Lucide icon set.
   ///
@@ -18576,8 +17187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_play =
-      IconData(0xe481, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_play = IconData(0xe481, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_plus] icon from the Lucide icon set.
   ///
@@ -18589,8 +17199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_plus =
-      IconData(0xe173, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_plus = IconData(0xe173, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_power] icon from the Lucide icon set.
   ///
@@ -18602,8 +17211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData square_power =
-      IconData(0xe551, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_power = IconData(0xe551, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_radical] icon from the Lucide icon set.
   ///
@@ -18615,8 +17223,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/smnandre](https://github.com/smnandre)
-  static const IconData square_radical =
-      IconData(0xe5c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_radical = IconData(0xe5c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_round_corner] icon from the Lucide icon set.
   ///
@@ -18628,8 +17235,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/liamb13](https://github.com/liamb13), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData square_round_corner =
-      IconData(0xe648, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_round_corner = IconData(0xe648, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_scissors] icon from the Lucide icon set.
   ///
@@ -18641,8 +17247,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/eden881](https://github.com/eden881)
-  static const IconData square_scissors =
-      IconData(0xe4ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_scissors = IconData(0xe4ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_sigma] icon from the Lucide icon set.
   ///
@@ -18654,8 +17259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_sigma =
-      IconData(0xe489, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_sigma = IconData(0xe489, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_slash] icon from the Lucide icon set.
   ///
@@ -18667,8 +17271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_slash =
-      IconData(0xe174, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_slash = IconData(0xe174, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_split_horizontal] icon from the Lucide icon set.
   ///
@@ -18680,8 +17283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_split_horizontal =
-      IconData(0xe3b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_split_horizontal = IconData(0xe3b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_split_vertical] icon from the Lucide icon set.
   ///
@@ -18693,8 +17295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_split_vertical =
-      IconData(0xe3b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_split_vertical = IconData(0xe3b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_square] icon from the Lucide icon set.
   ///
@@ -18706,8 +17307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData square_square =
-      IconData(0xe60e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_square = IconData(0xe60e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_stack] icon from the Lucide icon set.
   ///
@@ -18719,8 +17319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_stack =
-      IconData(0xe4a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_stack = IconData(0xe4a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_star] icon from the Lucide icon set.
   ///
@@ -18732,8 +17331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_star =
-      IconData(0xe68e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_star = IconData(0xe68e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_stop] icon from the Lucide icon set.
   ///
@@ -18745,8 +17343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_stop =
-      IconData(0xe685, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_stop = IconData(0xe685, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_terminal] icon from the Lucide icon set.
   ///
@@ -18758,8 +17355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_terminal =
-      IconData(0xe20a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_terminal = IconData(0xe20a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_user] icon from the Lucide icon set.
   ///
@@ -18771,8 +17367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_user =
-      IconData(0xe465, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_user = IconData(0xe465, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_user_round] icon from the Lucide icon set.
   ///
@@ -18784,8 +17379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_user_round =
-      IconData(0xe466, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_user_round = IconData(0xe466, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [square_x] icon from the Lucide icon set.
   ///
@@ -18797,8 +17391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData square_x =
-      IconData(0xe175, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData square_x = IconData(0xe175, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squares_exclude] icon from the Lucide icon set.
   ///
@@ -18810,8 +17403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData squares_exclude =
-      IconData(0xe657, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squares_exclude = IconData(0xe657, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squares_intersect] icon from the Lucide icon set.
   ///
@@ -18823,8 +17415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData squares_intersect =
-      IconData(0xe658, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squares_intersect = IconData(0xe658, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squares_subtract] icon from the Lucide icon set.
   ///
@@ -18836,8 +17427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData squares_subtract =
-      IconData(0xe659, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squares_subtract = IconData(0xe659, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squares_unite] icon from the Lucide icon set.
   ///
@@ -18849,8 +17439,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData squares_unite =
-      IconData(0xe65a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squares_unite = IconData(0xe65a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squircle] icon from the Lucide icon set.
   ///
@@ -18862,8 +17451,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData squircle =
-      IconData(0xe57a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squircle = IconData(0xe57a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squircle_dashed] icon from the Lucide icon set.
   ///
@@ -18875,8 +17463,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/aramsoneson](https://github.com/aramsoneson)
-  static const IconData squircle_dashed =
-      IconData(0xe679, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squircle_dashed = IconData(0xe679, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [squirrel] icon from the Lucide icon set.
   ///
@@ -18888,8 +17475,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData squirrel =
-      IconData(0xe49f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData squirrel = IconData(0xe49f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stamp] icon from the Lucide icon set.
   ///
@@ -18901,8 +17487,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData stamp =
-      IconData(0xe3bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData stamp = IconData(0xe3bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star] icon from the Lucide icon set.
   ///
@@ -18914,8 +17499,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData star =
-      IconData(0xe176, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData star = IconData(0xe176, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star_half] icon from the Lucide icon set.
   ///
@@ -18927,8 +17511,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData star_half =
-      IconData(0xe20b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData star_half = IconData(0xe20b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [star_off] icon from the Lucide icon set.
   ///
@@ -18940,8 +17523,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData star_off =
-      IconData(0xe2b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData star_off = IconData(0xe2b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [step_back] icon from the Lucide icon set.
   ///
@@ -18953,8 +17535,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData step_back =
-      IconData(0xe3e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData step_back = IconData(0xe3e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [step_forward] icon from the Lucide icon set.
   ///
@@ -18966,8 +17547,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData step_forward =
-      IconData(0xe3ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData step_forward = IconData(0xe3ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stethoscope] icon from the Lucide icon set.
   ///
@@ -18979,8 +17559,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData stethoscope =
-      IconData(0xe2f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData stethoscope = IconData(0xe2f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sticker] icon from the Lucide icon set.
   ///
@@ -18992,8 +17571,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData sticker =
-      IconData(0xe302, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sticker = IconData(0xe302, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sticky_note] icon from the Lucide icon set.
   ///
@@ -19005,8 +17583,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData sticky_note =
-      IconData(0xe303, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sticky_note = IconData(0xe303, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stone] icon from the Lucide icon set.
   ///
@@ -19018,8 +17595,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Alportan](https://github.com/Alportan), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData stone =
-      IconData(0xe6af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData stone = IconData(0xe6eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [store] icon from the Lucide icon set.
   ///
@@ -19031,8 +17607,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData store =
-      IconData(0xe3e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData store = IconData(0xe3e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stretch_horizontal] icon from the Lucide icon set.
   ///
@@ -19044,8 +17619,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData stretch_horizontal =
-      IconData(0xe27c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData stretch_horizontal = IconData(0xe27c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [stretch_vertical] icon from the Lucide icon set.
   ///
@@ -19057,8 +17631,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData stretch_vertical =
-      IconData(0xe27d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData stretch_vertical = IconData(0xe27d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [strikethrough] icon from the Lucide icon set.
   ///
@@ -19070,8 +17643,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData strikethrough =
-      IconData(0xe177, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData strikethrough = IconData(0xe177, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [subscript] icon from the Lucide icon set.
   ///
@@ -19083,8 +17655,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nabanita-sarkar](https://github.com/nabanita-sarkar), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData subscript =
-      IconData(0xe25c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData subscript = IconData(0xe25c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun] icon from the Lucide icon set.
   ///
@@ -19096,8 +17667,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sun =
-      IconData(0xe178, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sun = IconData(0xe178, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_dim] icon from the Lucide icon set.
   ///
@@ -19109,8 +17679,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/bduffany](https://github.com/bduffany), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sun_dim =
-      IconData(0xe299, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sun_dim = IconData(0xe299, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_medium] icon from the Lucide icon set.
   ///
@@ -19122,8 +17691,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sun_medium =
-      IconData(0xe2b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sun_medium = IconData(0xe2b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_moon] icon from the Lucide icon set.
   ///
@@ -19135,8 +17703,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zishankadri](https://github.com/zishankadri), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData sun_moon =
-      IconData(0xe2b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sun_moon = IconData(0xe2b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sun_snow] icon from the Lucide icon set.
   ///
@@ -19148,8 +17715,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sun_snow =
-      IconData(0xe372, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sun_snow = IconData(0xe372, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sunrise] icon from the Lucide icon set.
   ///
@@ -19161,8 +17727,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sunrise =
-      IconData(0xe179, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sunrise = IconData(0xe179, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sunset] icon from the Lucide icon set.
   ///
@@ -19174,8 +17739,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData sunset =
-      IconData(0xe17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sunset = IconData(0xe17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [superscript] icon from the Lucide icon set.
   ///
@@ -19187,8 +17751,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nabanita-sarkar](https://github.com/nabanita-sarkar), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData superscript =
-      IconData(0xe25e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData superscript = IconData(0xe25e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swatch_book] icon from the Lucide icon set.
   ///
@@ -19200,8 +17763,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData swatch_book =
-      IconData(0xe59f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData swatch_book = IconData(0xe59f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swiss_franc] icon from the Lucide icon set.
   ///
@@ -19213,8 +17775,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData swiss_franc =
-      IconData(0xe17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData swiss_franc = IconData(0xe17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [switch_camera] icon from the Lucide icon set.
   ///
@@ -19226,8 +17787,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData switch_camera =
-      IconData(0xe17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData switch_camera = IconData(0xe17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [sword] icon from the Lucide icon set.
   ///
@@ -19239,8 +17799,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData sword =
-      IconData(0xe2b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData sword = IconData(0xe2b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [swords] icon from the Lucide icon set.
   ///
@@ -19252,8 +17811,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData swords =
-      IconData(0xe2b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData swords = IconData(0xe2b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [syringe] icon from the Lucide icon set.
   ///
@@ -19265,8 +17823,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData syringe =
-      IconData(0xe2f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData syringe = IconData(0xe2f2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table] icon from the Lucide icon set.
   ///
@@ -19278,8 +17835,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData table =
-      IconData(0xe17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table = IconData(0xe17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_2] icon from the Lucide icon set.
   ///
@@ -19291,8 +17847,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/abejenaru](https://github.com/abejenaru), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData table_2 =
-      IconData(0xe2f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_2 = IconData(0xe2f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_cells_merge] icon from the Lucide icon set.
   ///
@@ -19304,8 +17859,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData table_cells_merge =
-      IconData(0xe5c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_cells_merge = IconData(0xe5c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_cells_split] icon from the Lucide icon set.
   ///
@@ -19317,8 +17871,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData table_cells_split =
-      IconData(0xe5c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_cells_split = IconData(0xe5c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_columns_split] icon from the Lucide icon set.
   ///
@@ -19330,8 +17883,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData table_columns_split =
-      IconData(0xe5c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_columns_split = IconData(0xe5c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_of_contents] icon from the Lucide icon set.
   ///
@@ -19343,8 +17895,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData table_of_contents =
-      IconData(0xe61e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_of_contents = IconData(0xe61e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_properties] icon from the Lucide icon set.
   ///
@@ -19356,8 +17907,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData table_properties =
-      IconData(0xe4db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_properties = IconData(0xe4db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [table_rows_split] icon from the Lucide icon set.
   ///
@@ -19369,8 +17919,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme)
-  static const IconData table_rows_split =
-      IconData(0xe5ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData table_rows_split = IconData(0xe5ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablet] icon from the Lucide icon set.
   ///
@@ -19382,8 +17931,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tablet =
-      IconData(0xe17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tablet = IconData(0xe17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablet_smartphone] icon from the Lucide icon set.
   ///
@@ -19395,8 +17943,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tablet_smartphone =
-      IconData(0xe50a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tablet_smartphone = IconData(0xe50a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tablets] icon from the Lucide icon set.
   ///
@@ -19408,8 +17955,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tablets =
-      IconData(0xe3be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tablets = IconData(0xe3be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tag] icon from the Lucide icon set.
   ///
@@ -19421,8 +17967,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/aaofyi](https://github.com/aaofyi), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData tag =
-      IconData(0xe17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tag = IconData(0xe17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tags] icon from the Lucide icon set.
   ///
@@ -19434,8 +17979,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData tags =
-      IconData(0xe35c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tags = IconData(0xe35c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_1] icon from the Lucide icon set.
   ///
@@ -19447,8 +17991,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tally_1 =
-      IconData(0xe4d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tally_1 = IconData(0xe4d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_2] icon from the Lucide icon set.
   ///
@@ -19460,8 +18003,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tally_2 =
-      IconData(0xe4d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tally_2 = IconData(0xe4d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_3] icon from the Lucide icon set.
   ///
@@ -19473,8 +18015,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tally_3 =
-      IconData(0xe4d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tally_3 = IconData(0xe4d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_4] icon from the Lucide icon set.
   ///
@@ -19486,8 +18027,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tally_4 =
-      IconData(0xe4d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tally_4 = IconData(0xe4d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tally_5] icon from the Lucide icon set.
   ///
@@ -19499,8 +18039,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tally_5 =
-      IconData(0xe4da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tally_5 = IconData(0xe4da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tangent] icon from the Lucide icon set.
   ///
@@ -19512,8 +18051,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData tangent =
-      IconData(0xe52e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tangent = IconData(0xe52e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [target] icon from the Lucide icon set.
   ///
@@ -19525,8 +18063,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData target =
-      IconData(0xe180, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData target = IconData(0xe180, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [telescope] icon from the Lucide icon set.
   ///
@@ -19538,8 +18075,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData telescope =
-      IconData(0xe5c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData telescope = IconData(0xe5c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tent] icon from the Lucide icon set.
   ///
@@ -19551,8 +18087,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/MoltenCoffee](https://github.com/MoltenCoffee), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tent =
-      IconData(0xe227, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tent = IconData(0xe227, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tent_tree] icon from the Lucide icon set.
   ///
@@ -19564,8 +18099,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tent_tree =
-      IconData(0xe53b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tent_tree = IconData(0xe53b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [terminal] icon from the Lucide icon set.
   ///
@@ -19577,8 +18111,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData terminal =
-      IconData(0xe181, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData terminal = IconData(0xe181, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tube] icon from the Lucide icon set.
   ///
@@ -19590,8 +18123,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData test_tube =
-      IconData(0xe405, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData test_tube = IconData(0xe405, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tube_diagonal] icon from the Lucide icon set.
   ///
@@ -19603,8 +18135,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData test_tube_diagonal =
-      IconData(0xe406, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData test_tube_diagonal = IconData(0xe406, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [test_tubes] icon from the Lucide icon set.
   ///
@@ -19616,8 +18147,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData test_tubes =
-      IconData(0xe407, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData test_tubes = IconData(0xe407, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_align_center] icon from the Lucide icon set.
   ///
@@ -19629,8 +18159,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_align_center =
-      IconData(0xe182, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_align_center = IconData(0xe182, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_align_end] icon from the Lucide icon set.
   ///
@@ -19642,8 +18171,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_align_end =
-      IconData(0xe183, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_align_end = IconData(0xe183, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_align_justify] icon from the Lucide icon set.
   ///
@@ -19655,8 +18183,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_align_justify =
-      IconData(0xe184, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_align_justify = IconData(0xe184, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_align_start] icon from the Lucide icon set.
   ///
@@ -19668,8 +18195,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_align_start =
-      IconData(0xe185, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_align_start = IconData(0xe185, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_cursor] icon from the Lucide icon set.
   ///
@@ -19681,8 +18207,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData text_cursor =
-      IconData(0xe264, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_cursor = IconData(0xe264, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_cursor_input] icon from the Lucide icon set.
   ///
@@ -19694,8 +18219,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData text_cursor_input =
-      IconData(0xe265, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_cursor_input = IconData(0xe265, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_initial] icon from the Lucide icon set.
   ///
@@ -19707,8 +18231,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/GRA0007](https://github.com/GRA0007), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_initial =
-      IconData(0xe605, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_initial = IconData(0xe605, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_quote] icon from the Lucide icon set.
   ///
@@ -19720,8 +18243,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_quote =
-      IconData(0xe49e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_quote = IconData(0xe49e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_search] icon from the Lucide icon set.
   ///
@@ -19733,8 +18255,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_search =
-      IconData(0xe5ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_search = IconData(0xe5ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [text_wrap] icon from the Lucide icon set.
   ///
@@ -19746,8 +18267,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/bduffany](https://github.com/bduffany), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData text_wrap =
-      IconData(0xe248, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData text_wrap = IconData(0xe248, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [theater] icon from the Lucide icon set.
   ///
@@ -19759,8 +18279,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData theater =
-      IconData(0xe522, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData theater = IconData(0xe522, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer] icon from the Lucide icon set.
   ///
@@ -19772,8 +18291,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData thermometer =
-      IconData(0xe186, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData thermometer = IconData(0xe186, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer_snowflake] icon from the Lucide icon set.
   ///
@@ -19785,8 +18303,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData thermometer_snowflake =
-      IconData(0xe187, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData thermometer_snowflake = IconData(0xe187, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thermometer_sun] icon from the Lucide icon set.
   ///
@@ -19798,8 +18315,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData thermometer_sun =
-      IconData(0xe188, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData thermometer_sun = IconData(0xe188, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thumbs_down] icon from the Lucide icon set.
   ///
@@ -19811,8 +18327,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData thumbs_down =
-      IconData(0xe189, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData thumbs_down = IconData(0xe189, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [thumbs_up] icon from the Lucide icon set.
   ///
@@ -19824,8 +18339,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData thumbs_up =
-      IconData(0xe18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData thumbs_up = IconData(0xe18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket] icon from the Lucide icon set.
   ///
@@ -19837,8 +18351,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData ticket =
-      IconData(0xe20f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket = IconData(0xe20f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_check] icon from the Lucide icon set.
   ///
@@ -19850,8 +18363,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_check =
-      IconData(0xe5ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_check = IconData(0xe5ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_minus] icon from the Lucide icon set.
   ///
@@ -19863,8 +18375,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_minus =
-      IconData(0xe5af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_minus = IconData(0xe5af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_percent] icon from the Lucide icon set.
   ///
@@ -19876,8 +18387,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_percent =
-      IconData(0xe5b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_percent = IconData(0xe5b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_plus] icon from the Lucide icon set.
   ///
@@ -19889,8 +18399,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_plus =
-      IconData(0xe5b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_plus = IconData(0xe5b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_slash] icon from the Lucide icon set.
   ///
@@ -19902,8 +18411,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_slash =
-      IconData(0xe5b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_slash = IconData(0xe5b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ticket_x] icon from the Lucide icon set.
   ///
@@ -19915,8 +18423,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ticket_x =
-      IconData(0xe5b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ticket_x = IconData(0xe5b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tickets] icon from the Lucide icon set.
   ///
@@ -19928,8 +18435,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData tickets =
-      IconData(0xe622, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tickets = IconData(0xe622, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tickets_plane] icon from the Lucide icon set.
   ///
@@ -19941,8 +18447,19 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData tickets_plane =
-      IconData(0xe623, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tickets_plane = IconData(0xe623, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Represents the [timeline] icon from the Lucide icon set.
+  ///
+  /// ![timeline](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTQgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik00IDIwaC4wMSIgLz4KICA8cGF0aCBkPSJNNCA0aC4wMSIgLz4KICA8cGF0aCBkPSJNNCA4aC4wMSIgLz4KICA8cGF0aCBkPSJNOS40MTQgMTMuNDE0YTIgMiAwIDAgMCAxLjQxNC41ODZIMTlhMSAxIDAgMCAwIDEtMXYtMmExIDEgMCAwIDAtMS0xaC04LjE3MmEyIDIgMCAwIDAtMS40MTQuNTg2TDggMTJ6IiAvPgogIDxwYXRoIGQ9Ik05LjQxNCAyMS40MTRhMiAyIDAgMCAwIDEuNDE0LjU4NkgxOWExIDEgMCAwIDAgMS0xdi0yYTEgMSAwIDAgMC0xLTFoLTguMTcyYTIgMiAwIDAgMC0xLjQxNC41ODZMOCAyMHoiIC8+CiAgPHBhdGggZD0iTTkuNDE0IDUuNDE0QTIgMiAwIDAgMCAxMC44MjggNkgxOWExIDEgMCAwIDAgMS0xVjNhMSAxIDAgMCAwLTEtMWgtOC4xNzJhMiAyIDAgMCAwLTEuNDE0LjU4Nkw4IDR6IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [timeline] icon is a graphical symbol that conveys a specific idea or functionality related to tags, history.
+  /// - It belongs to the categories: time
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData timeline = IconData(0xe6ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer] icon from the Lucide icon set.
   ///
@@ -19954,8 +18471,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData timer =
-      IconData(0xe1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData timer = IconData(0xe1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer_off] icon from the Lucide icon set.
   ///
@@ -19967,8 +18483,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData timer_off =
-      IconData(0xe249, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData timer_off = IconData(0xe249, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [timer_reset] icon from the Lucide icon set.
   ///
@@ -19980,8 +18495,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData timer_reset =
-      IconData(0xe236, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData timer_reset = IconData(0xe236, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toggle_left] icon from the Lucide icon set.
   ///
@@ -19993,8 +18507,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData toggle_left =
-      IconData(0xe18b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData toggle_left = IconData(0xe18b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toggle_right] icon from the Lucide icon set.
   ///
@@ -20006,8 +18519,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData toggle_right =
-      IconData(0xe18c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData toggle_right = IconData(0xe18c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toilet] icon from the Lucide icon set.
   ///
@@ -20019,8 +18531,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/staffanmowitz](https://github.com/staffanmowitz), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData toilet =
-      IconData(0xe635, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData toilet = IconData(0xe635, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tool_case] icon from the Lucide icon set.
   ///
@@ -20032,8 +18543,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AlexNaskida](https://github.com/AlexNaskida), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData tool_case =
-      IconData(0xe67d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tool_case = IconData(0xe67d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toolbox] icon from the Lucide icon set.
   ///
@@ -20045,8 +18555,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData toolbox =
-      IconData(0xe6b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData toolbox = IconData(0xe6b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tornado] icon from the Lucide icon set.
   ///
@@ -20058,8 +18567,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tornado =
-      IconData(0xe218, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tornado = IconData(0xe218, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [torus] icon from the Lucide icon set.
   ///
@@ -20071,8 +18579,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData torus =
-      IconData(0xe52f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData torus = IconData(0xe52f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [touchpad] icon from the Lucide icon set.
   ///
@@ -20084,8 +18591,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData touchpad =
-      IconData(0xe449, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData touchpad = IconData(0xe449, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [touchpad_off] icon from the Lucide icon set.
   ///
@@ -20097,8 +18603,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData touchpad_off =
-      IconData(0xe44a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData touchpad_off = IconData(0xe44a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [towel_rack] icon from the Lucide icon set.
   ///
@@ -20110,8 +18615,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData towel_rack =
-      IconData(0xe6c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData towel_rack = IconData(0xe6c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tower_control] icon from the Lucide icon set.
   ///
@@ -20123,8 +18627,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
-  static const IconData tower_control =
-      IconData(0xe3bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tower_control = IconData(0xe3bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [toy_brick] icon from the Lucide icon set.
   ///
@@ -20136,8 +18639,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData toy_brick =
-      IconData(0xe347, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData toy_brick = IconData(0xe347, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tractor] icon from the Lucide icon set.
   ///
@@ -20149,8 +18651,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData tractor =
-      IconData(0xe504, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tractor = IconData(0xe504, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [traffic_cone] icon from the Lucide icon set.
   ///
@@ -20162,8 +18663,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData traffic_cone =
-      IconData(0xe505, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData traffic_cone = IconData(0xe505, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_front] icon from the Lucide icon set.
   ///
@@ -20175,8 +18675,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData train_front =
-      IconData(0xe506, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData train_front = IconData(0xe506, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_front_tunnel] icon from the Lucide icon set.
   ///
@@ -20188,8 +18687,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData train_front_tunnel =
-      IconData(0xe507, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData train_front_tunnel = IconData(0xe507, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [train_track] icon from the Lucide icon set.
   ///
@@ -20201,8 +18699,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData train_track =
-      IconData(0xe508, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData train_track = IconData(0xe508, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tram_front] icon from the Lucide icon set.
   ///
@@ -20214,8 +18711,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData tram_front =
-      IconData(0xe2a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tram_front = IconData(0xe2a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [transgender] icon from the Lucide icon set.
   ///
@@ -20227,8 +18723,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData transgender =
-      IconData(0xe644, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData transgender = IconData(0xe644, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trash] icon from the Lucide icon set.
   ///
@@ -20240,8 +18735,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trash =
-      IconData(0xe18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trash = IconData(0xe18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trash_2] icon from the Lucide icon set.
   ///
@@ -20253,8 +18747,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trash_2 =
-      IconData(0xe18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trash_2 = IconData(0xe18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_deciduous] icon from the Lucide icon set.
   ///
@@ -20266,8 +18759,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tree_deciduous =
-      IconData(0xe2f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tree_deciduous = IconData(0xe2f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_palm] icon from the Lucide icon set.
   ///
@@ -20279,8 +18771,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tree_palm =
-      IconData(0xe281, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tree_palm = IconData(0xe281, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tree_pine] icon from the Lucide icon set.
   ///
@@ -20292,8 +18783,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData tree_pine =
-      IconData(0xe2f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tree_pine = IconData(0xe2f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trees] icon from the Lucide icon set.
   ///
@@ -20305,8 +18795,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trees =
-      IconData(0xe2f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trees = IconData(0xe2f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_down] icon from the Lucide icon set.
   ///
@@ -20318,8 +18807,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trending_down =
-      IconData(0xe190, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trending_down = IconData(0xe190, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_up] icon from the Lucide icon set.
   ///
@@ -20331,8 +18819,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trending_up =
-      IconData(0xe191, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trending_up = IconData(0xe191, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trending_up_down] icon from the Lucide icon set.
   ///
@@ -20344,8 +18831,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Alportan](https://github.com/Alportan)
-  static const IconData trending_up_down =
-      IconData(0xe625, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trending_up_down = IconData(0xe625, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle] icon from the Lucide icon set.
   ///
@@ -20357,8 +18843,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData triangle =
-      IconData(0xe192, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData triangle = IconData(0xe192, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle_alert] icon from the Lucide icon set.
   ///
@@ -20370,8 +18855,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData triangle_alert =
-      IconData(0xe193, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData triangle_alert = IconData(0xe193, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle_dashed] icon from the Lucide icon set.
   ///
@@ -20383,8 +18867,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Yohh](https://github.com/Yohh)
-  static const IconData triangle_dashed =
-      IconData(0xe63d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData triangle_dashed = IconData(0xe63d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [triangle_right] icon from the Lucide icon set.
   ///
@@ -20396,8 +18879,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData triangle_right =
-      IconData(0xe4ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData triangle_right = IconData(0xe4ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [trophy] icon from the Lucide icon set.
   ///
@@ -20409,8 +18891,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData trophy =
-      IconData(0xe373, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData trophy = IconData(0xe373, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [truck] icon from the Lucide icon set.
   ///
@@ -20422,8 +18903,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jordan808](https://github.com/jordan808)
-  static const IconData truck =
-      IconData(0xe194, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData truck = IconData(0xe194, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [truck_electric] icon from the Lucide icon set.
   ///
@@ -20435,8 +18915,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/LienMaas](https://github.com/LienMaas), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev)
-  static const IconData truck_electric =
-      IconData(0xe65f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData truck_electric = IconData(0xe65f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [turkish_lira] icon from the Lucide icon set.
   ///
@@ -20448,8 +18927,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData turkish_lira =
-      IconData(0xe680, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData turkish_lira = IconData(0xe680, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [turntable] icon from the Lucide icon set.
   ///
@@ -20461,8 +18939,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData turntable =
-      IconData(0xe68c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData turntable = IconData(0xe68c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [turtle] icon from the Lucide icon set.
   ///
@@ -20474,8 +18951,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData turtle =
-      IconData(0xe4f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData turtle = IconData(0xe4f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv] icon from the Lucide icon set.
   ///
@@ -20487,8 +18963,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tv =
-      IconData(0xe195, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tv = IconData(0xe195, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv_minimal] icon from the Lucide icon set.
   ///
@@ -20500,8 +18975,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tv_minimal =
-      IconData(0xe203, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tv_minimal = IconData(0xe203, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [tv_minimal_play] icon from the Lucide icon set.
   ///
@@ -20513,8 +18987,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData tv_minimal_play =
-      IconData(0xe5ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData tv_minimal_play = IconData(0xe5ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [type] icon from the Lucide icon set.
   ///
@@ -20526,8 +18999,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData type =
-      IconData(0xe198, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData type = IconData(0xe198, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [type_outline] icon from the Lucide icon set.
   ///
@@ -20539,8 +19011,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData type_outline =
-      IconData(0xe602, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData type_outline = IconData(0xe602, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [umbrella] icon from the Lucide icon set.
   ///
@@ -20552,8 +19023,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData umbrella =
-      IconData(0xe199, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData umbrella = IconData(0xe199, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [umbrella_off] icon from the Lucide icon set.
   ///
@@ -20565,8 +19035,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData umbrella_off =
-      IconData(0xe543, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData umbrella_off = IconData(0xe543, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [underline] icon from the Lucide icon set.
   ///
@@ -20578,8 +19047,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey)
-  static const IconData underline =
-      IconData(0xe19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData underline = IconData(0xe19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo] icon from the Lucide icon set.
   ///
@@ -20591,8 +19059,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/aelfric](https://github.com/aelfric), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData undo =
-      IconData(0xe19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData undo = IconData(0xe19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo_2] icon from the Lucide icon set.
   ///
@@ -20604,8 +19071,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData undo_2 =
-      IconData(0xe2a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData undo_2 = IconData(0xe2a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [undo_dot] icon from the Lucide icon set.
   ///
@@ -20617,8 +19083,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData undo_dot =
-      IconData(0xe451, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData undo_dot = IconData(0xe451, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unfold_horizontal] icon from the Lucide icon set.
   ///
@@ -20630,8 +19095,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData unfold_horizontal =
-      IconData(0xe43d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData unfold_horizontal = IconData(0xe43d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unfold_vertical] icon from the Lucide icon set.
   ///
@@ -20643,8 +19107,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData unfold_vertical =
-      IconData(0xe43e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData unfold_vertical = IconData(0xe43e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [ungroup] icon from the Lucide icon set.
   ///
@@ -20656,8 +19119,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData ungroup =
-      IconData(0xe467, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData ungroup = IconData(0xe467, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [university] icon from the Lucide icon set.
   ///
@@ -20669,8 +19131,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData university =
-      IconData(0xe3e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData university = IconData(0xe3e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unlink] icon from the Lucide icon set.
   ///
@@ -20682,8 +19143,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData unlink =
-      IconData(0xe19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData unlink = IconData(0xe19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unlink_2] icon from the Lucide icon set.
   ///
@@ -20695,8 +19155,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman)
-  static const IconData unlink_2 =
-      IconData(0xe19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData unlink_2 = IconData(0xe19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [unplug] icon from the Lucide icon set.
   ///
@@ -20708,8 +19167,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData unplug =
-      IconData(0xe45d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData unplug = IconData(0xe45d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [upload] icon from the Lucide icon set.
   ///
@@ -20721,8 +19179,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData upload =
-      IconData(0xe19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData upload = IconData(0xe19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [usb] icon from the Lucide icon set.
   ///
@@ -20734,8 +19191,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData usb =
-      IconData(0xe356, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData usb = IconData(0xe356, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user] icon from the Lucide icon set.
   ///
@@ -20747,8 +19203,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user =
-      IconData(0xe19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user = IconData(0xe19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_check] icon from the Lucide icon set.
   ///
@@ -20760,8 +19215,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_check =
-      IconData(0xe1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_check = IconData(0xe1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_cog] icon from the Lucide icon set.
   ///
@@ -20773,8 +19227,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData user_cog =
-      IconData(0xe342, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_cog = IconData(0xe342, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_key] icon from the Lucide icon set.
   ///
@@ -20786,8 +19239,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_key =
-      IconData(0xe6c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_key = IconData(0xe6c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_lock] icon from the Lucide icon set.
   ///
@@ -20799,8 +19251,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/anthony-mariotti](https://github.com/anthony-mariotti), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData user_lock =
-      IconData(0xe660, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_lock = IconData(0xe660, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_minus] icon from the Lucide icon set.
   ///
@@ -20812,8 +19263,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_minus =
-      IconData(0xe1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_minus = IconData(0xe1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_pen] icon from the Lucide icon set.
   ///
@@ -20825,8 +19275,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData user_pen =
-      IconData(0xe5fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_pen = IconData(0xe5fc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_plus] icon from the Lucide icon set.
   ///
@@ -20838,8 +19287,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_plus =
-      IconData(0xe1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_plus = IconData(0xe1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round] icon from the Lucide icon set.
   ///
@@ -20851,8 +19299,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round =
-      IconData(0xe468, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round = IconData(0xe468, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_check] icon from the Lucide icon set.
   ///
@@ -20864,8 +19311,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_check =
-      IconData(0xe469, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_check = IconData(0xe469, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_cog] icon from the Lucide icon set.
   ///
@@ -20877,8 +19323,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
-  static const IconData user_round_cog =
-      IconData(0xe46a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_cog = IconData(0xe46a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_key] icon from the Lucide icon set.
   ///
@@ -20890,8 +19335,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_key =
-      IconData(0xe6c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_key = IconData(0xe6c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_minus] icon from the Lucide icon set.
   ///
@@ -20903,8 +19347,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_minus =
-      IconData(0xe46b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_minus = IconData(0xe46b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_pen] icon from the Lucide icon set.
   ///
@@ -20916,8 +19359,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData user_round_pen =
-      IconData(0xe5fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_pen = IconData(0xe5fd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_plus] icon from the Lucide icon set.
   ///
@@ -20929,8 +19371,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_plus =
-      IconData(0xe46c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_plus = IconData(0xe46c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_search] icon from the Lucide icon set.
   ///
@@ -20942,8 +19383,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jmsv](https://github.com/jmsv), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_search =
-      IconData(0xe578, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_search = IconData(0xe578, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_round_x] icon from the Lucide icon set.
   ///
@@ -20955,8 +19395,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_round_x =
-      IconData(0xe46d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_round_x = IconData(0xe46d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_search] icon from the Lucide icon set.
   ///
@@ -20968,8 +19407,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jmsv](https://github.com/jmsv), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_search =
-      IconData(0xe579, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_search = IconData(0xe579, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_star] icon from the Lucide icon set.
   ///
@@ -20981,8 +19419,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/MArtytraM99](https://github.com/MArtytraM99)
-  static const IconData user_star =
-      IconData(0xe687, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_star = IconData(0xe687, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [user_x] icon from the Lucide icon set.
   ///
@@ -20994,8 +19431,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData user_x =
-      IconData(0xe1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData user_x = IconData(0xe1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [users] icon from the Lucide icon set.
   ///
@@ -21007,8 +19443,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData users =
-      IconData(0xe1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData users = IconData(0xe1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [users_round] icon from the Lucide icon set.
   ///
@@ -21020,8 +19455,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData users_round =
-      IconData(0xe46e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData users_round = IconData(0xe46e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utensils] icon from the Lucide icon set.
   ///
@@ -21033,8 +19467,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData utensils =
-      IconData(0xe2f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData utensils = IconData(0xe2f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utensils_crossed] icon from the Lucide icon set.
   ///
@@ -21046,8 +19479,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData utensils_crossed =
-      IconData(0xe2f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData utensils_crossed = IconData(0xe2f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [utility_pole] icon from the Lucide icon set.
   ///
@@ -21059,8 +19491,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData utility_pole =
-      IconData(0xe3c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData utility_pole = IconData(0xe3c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [van] icon from the Lucide icon set.
   ///
@@ -21072,8 +19503,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Ahmed-Dghaies](https://github.com/Ahmed-Dghaies), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData van =
-      IconData(0xe6ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData van = IconData(0xe6ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [variable] icon from the Lucide icon set.
   ///
@@ -21085,8 +19515,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData variable =
-      IconData(0xe473, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData variable = IconData(0xe473, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vault] icon from the Lucide icon set.
   ///
@@ -21098,8 +19527,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData vault =
-      IconData(0xe58f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vault = IconData(0xe58f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vector_square] icon from the Lucide icon set.
   ///
@@ -21111,8 +19539,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData vector_square =
-      IconData(0xe67c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vector_square = IconData(0xe67c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vegan] icon from the Lucide icon set.
   ///
@@ -21124,8 +19551,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData vegan =
-      IconData(0xe39d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vegan = IconData(0xe39d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [venetian_mask] icon from the Lucide icon set.
   ///
@@ -21137,8 +19563,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData venetian_mask =
-      IconData(0xe2aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData venetian_mask = IconData(0xe2aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [venus] icon from the Lucide icon set.
   ///
@@ -21150,8 +19575,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData venus =
-      IconData(0xe645, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData venus = IconData(0xe645, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [venus_and_mars] icon from the Lucide icon set.
   ///
@@ -21163,8 +19587,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData venus_and_mars =
-      IconData(0xe646, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData venus_and_mars = IconData(0xe646, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vibrate] icon from the Lucide icon set.
   ///
@@ -21176,8 +19599,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData vibrate =
-      IconData(0xe223, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vibrate = IconData(0xe223, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vibrate_off] icon from the Lucide icon set.
   ///
@@ -21189,8 +19611,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData vibrate_off =
-      IconData(0xe29d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vibrate_off = IconData(0xe29d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [video] icon from the Lucide icon set.
   ///
@@ -21202,8 +19623,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData video =
-      IconData(0xe1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData video = IconData(0xe1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [video_off] icon from the Lucide icon set.
   ///
@@ -21215,8 +19635,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData video_off =
-      IconData(0xe1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData video_off = IconData(0xe1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [videotape] icon from the Lucide icon set.
   ///
@@ -21228,8 +19647,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData videotape =
-      IconData(0xe4cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData videotape = IconData(0xe4cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [view] icon from the Lucide icon set.
   ///
@@ -21241,8 +19659,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData view =
-      IconData(0xe1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData view = IconData(0xe1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [voicemail] icon from the Lucide icon set.
   ///
@@ -21254,8 +19671,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData voicemail =
-      IconData(0xe1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData voicemail = IconData(0xe1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volleyball] icon from the Lucide icon set.
   ///
@@ -21267,8 +19683,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData volleyball =
-      IconData(0xe62f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volleyball = IconData(0xe62f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume] icon from the Lucide icon set.
   ///
@@ -21280,8 +19695,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
-  static const IconData volume =
-      IconData(0xe1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volume = IconData(0xe1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_1] icon from the Lucide icon set.
   ///
@@ -21293,8 +19707,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData volume_1 =
-      IconData(0xe1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volume_1 = IconData(0xe1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_2] icon from the Lucide icon set.
   ///
@@ -21306,8 +19719,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData volume_2 =
-      IconData(0xe1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volume_2 = IconData(0xe1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_off] icon from the Lucide icon set.
   ///
@@ -21319,8 +19731,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData volume_off =
-      IconData(0xe626, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volume_off = IconData(0xe626, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [volume_x] icon from the Lucide icon set.
   ///
@@ -21332,8 +19743,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData volume_x =
-      IconData(0xe1ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData volume_x = IconData(0xe1ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [vote] icon from the Lucide icon set.
   ///
@@ -21345,8 +19755,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ptrgast](https://github.com/ptrgast), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData vote =
-      IconData(0xe3ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData vote = IconData(0xe3ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet] icon from the Lucide icon set.
   ///
@@ -21358,8 +19767,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wallet =
-      IconData(0xe204, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wallet = IconData(0xe204, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet_cards] icon from the Lucide icon set.
   ///
@@ -21371,8 +19779,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData wallet_cards =
-      IconData(0xe4cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wallet_cards = IconData(0xe4cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallet_minimal] icon from the Lucide icon set.
   ///
@@ -21384,8 +19791,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData wallet_minimal =
-      IconData(0xe4cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wallet_minimal = IconData(0xe4cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wallpaper] icon from the Lucide icon set.
   ///
@@ -21397,8 +19803,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData wallpaper =
-      IconData(0xe44b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wallpaper = IconData(0xe44b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wand] icon from the Lucide icon set.
   ///
@@ -21410,8 +19815,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wand =
-      IconData(0xe246, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wand = IconData(0xe246, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wand_sparkles] icon from the Lucide icon set.
   ///
@@ -21423,8 +19827,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData wand_sparkles =
-      IconData(0xe357, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wand_sparkles = IconData(0xe357, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [warehouse] icon from the Lucide icon set.
   ///
@@ -21436,8 +19839,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData warehouse =
-      IconData(0xe3e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData warehouse = IconData(0xe3e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [washing_machine] icon from the Lucide icon set.
   ///
@@ -21449,8 +19851,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData washing_machine =
-      IconData(0xe590, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData washing_machine = IconData(0xe590, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [watch] icon from the Lucide icon set.
   ///
@@ -21462,8 +19863,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData watch =
-      IconData(0xe1ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData watch = IconData(0xe1ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waves] icon from the Lucide icon set.
   ///
@@ -21475,8 +19875,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData waves =
-      IconData(0xe283, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData waves = IconData(0xe283, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waves_arrow_down] icon from the Lucide icon set.
   ///
@@ -21488,8 +19887,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData waves_arrow_down =
-      IconData(0xe6a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData waves_arrow_down = IconData(0xe6a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waves_arrow_up] icon from the Lucide icon set.
   ///
@@ -21501,8 +19899,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData waves_arrow_up =
-      IconData(0xe6aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData waves_arrow_up = IconData(0xe6aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waves_ladder] icon from the Lucide icon set.
   ///
@@ -21514,8 +19911,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData waves_ladder =
-      IconData(0xe63b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData waves_ladder = IconData(0xe63b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [waypoints] icon from the Lucide icon set.
   ///
@@ -21527,8 +19923,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData waypoints =
-      IconData(0xe542, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData waypoints = IconData(0xe542, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webcam] icon from the Lucide icon set.
   ///
@@ -21540,8 +19935,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData webcam =
-      IconData(0xe205, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData webcam = IconData(0xe205, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webhook] icon from the Lucide icon set.
   ///
@@ -21553,8 +19947,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData webhook =
-      IconData(0xe374, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData webhook = IconData(0xe374, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [webhook_off] icon from the Lucide icon set.
   ///
@@ -21566,8 +19959,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData webhook_off =
-      IconData(0xe5b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData webhook_off = IconData(0xe5b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [weight] icon from the Lucide icon set.
   ///
@@ -21579,8 +19971,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData weight =
-      IconData(0xe530, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData weight = IconData(0xe530, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [weight_tilde] icon from the Lucide icon set.
   ///
@@ -21592,8 +19983,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
-  static const IconData weight_tilde =
-      IconData(0xe6ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData weight_tilde = IconData(0xe6ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wheat] icon from the Lucide icon set.
   ///
@@ -21605,8 +19995,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData wheat =
-      IconData(0xe39e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wheat = IconData(0xe39e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wheat_off] icon from the Lucide icon set.
   ///
@@ -21618,8 +20007,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wheat_off =
-      IconData(0xe39f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wheat_off = IconData(0xe39f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [whole_word] icon from the Lucide icon set.
   ///
@@ -21631,8 +20019,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData whole_word =
-      IconData(0xe3df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData whole_word = IconData(0xe3df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi] icon from the Lucide icon set.
   ///
@@ -21644,8 +20031,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData wifi =
-      IconData(0xe1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi = IconData(0xe1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_cog] icon from the Lucide icon set.
   ///
@@ -21657,8 +20043,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/luisdlopera](https://github.com/luisdlopera)
-  static const IconData wifi_cog =
-      IconData(0xe674, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_cog = IconData(0xe674, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_high] icon from the Lucide icon set.
   ///
@@ -21670,8 +20055,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/VirtCode](https://github.com/VirtCode)
-  static const IconData wifi_high =
-      IconData(0xe5f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_high = IconData(0xe5f7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_low] icon from the Lucide icon set.
   ///
@@ -21683,8 +20067,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/VirtCode](https://github.com/VirtCode)
-  static const IconData wifi_low =
-      IconData(0xe5f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_low = IconData(0xe5f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_off] icon from the Lucide icon set.
   ///
@@ -21696,8 +20079,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wifi_off =
-      IconData(0xe1af, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_off = IconData(0xe1af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_pen] icon from the Lucide icon set.
   ///
@@ -21709,8 +20091,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/luisdlopera](https://github.com/luisdlopera)
-  static const IconData wifi_pen =
-      IconData(0xe663, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_pen = IconData(0xe663, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_sync] icon from the Lucide icon set.
   ///
@@ -21722,8 +20103,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/luisdlopera](https://github.com/luisdlopera)
-  static const IconData wifi_sync =
-      IconData(0xe681, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_sync = IconData(0xe681, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wifi_zero] icon from the Lucide icon set.
   ///
@@ -21735,8 +20115,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/VirtCode](https://github.com/VirtCode)
-  static const IconData wifi_zero =
-      IconData(0xe5f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wifi_zero = IconData(0xe5f9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wind] icon from the Lucide icon set.
   ///
@@ -21748,8 +20127,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wind =
-      IconData(0xe1b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wind = IconData(0xe1b0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wind_arrow_down] icon from the Lucide icon set.
   ///
@@ -21761,8 +20139,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData wind_arrow_down =
-      IconData(0xe631, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wind_arrow_down = IconData(0xe631, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wine] icon from the Lucide icon set.
   ///
@@ -21774,8 +20151,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wine =
-      IconData(0xe2f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wine = IconData(0xe2f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wine_off] icon from the Lucide icon set.
   ///
@@ -21787,8 +20163,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData wine_off =
-      IconData(0xe3a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wine_off = IconData(0xe3a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [workflow] icon from the Lucide icon set.
   ///
@@ -21800,8 +20175,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData workflow =
-      IconData(0xe425, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData workflow = IconData(0xe425, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [worm] icon from the Lucide icon set.
   ///
@@ -21813,8 +20187,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData worm =
-      IconData(0xe5da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData worm = IconData(0xe5da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [wrench] icon from the Lucide icon set.
   ///
@@ -21826,8 +20199,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData wrench =
-      IconData(0xe1b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData wrench = IconData(0xe1b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [x] icon from the Lucide icon set.
   ///
@@ -21839,8 +20211,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData x =
-      IconData(0xe1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData x = IconData(0xe1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [x_line_top] icon from the Lucide icon set.
   ///
@@ -21852,34 +20223,31 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData x_line_top =
-      IconData(0xe6ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData x_line_top = IconData(0xe6ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zap] icon from the Lucide icon set.
   ///
   /// ![zap](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxNGExIDEgMCAwIDEtLjc4LTEuNjNsOS45LTEwLjJhLjUuNSAwIDAgMSAuODYuNDZsLTEuOTIgNi4wMkExIDEgMCAwIDAgMTMgMTBoN2ExIDEgMCAwIDEgLjc4IDEuNjNsLTkuOSAxMC4yYS41LjUgMCAwIDEtLjg2LS40NmwxLjkyLTYuMDJBMSAxIDAgMCAwIDExIDE0eiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [zap] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy.
+  /// - The [zap] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy, power, quick.
   /// - It belongs to the categories: connectivity, devices, photography, weather
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zap =
-      IconData(0xe1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zap = IconData(0xe1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zap_off] icon from the Lucide icon set.
   ///
   /// ![zap_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNTEzIDQuODU2IDEzLjEyIDIuMTdhLjUuNSAwIDAgMSAuODYuNDZsLTEuMzc3IDQuMzE3IiAvPgogIDxwYXRoIGQ9Ik0xNS42NTYgMTBIMjBhMSAxIDAgMCAxIC43OCAxLjYzbC0xLjcyIDEuNzczIiAvPgogIDxwYXRoIGQ9Ik0xNi4yNzMgMTYuMjczIDEwLjg4IDIxLjgzYS41LjUgMCAwIDEtLjg2LS40NmwxLjkyLTYuMDJBMSAxIDAgMCAwIDExIDE0SDRhMSAxIDAgMCAxLS43OC0xLjYzbDQuNTA3LTQuNjQzIiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [zap_off] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy.
+  /// - The [zap_off] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy, power.
   /// - It belongs to the categories: connectivity, devices, photography, weather
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData zap_off =
-      IconData(0xe1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zap_off = IconData(0xe1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_aquarius] icon from the Lucide icon set.
   ///
@@ -21891,8 +20259,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_aquarius =
-      IconData(0xe6cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_aquarius = IconData(0xe6cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_aries] icon from the Lucide icon set.
   ///
@@ -21904,8 +20271,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_aries =
-      IconData(0xe6cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_aries = IconData(0xe6cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_cancer] icon from the Lucide icon set.
   ///
@@ -21917,8 +20283,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_cancer =
-      IconData(0xe6cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_cancer = IconData(0xe6cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_capricorn] icon from the Lucide icon set.
   ///
@@ -21930,8 +20295,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_capricorn =
-      IconData(0xe6ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_capricorn = IconData(0xe6ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_gemini] icon from the Lucide icon set.
   ///
@@ -21943,8 +20307,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_gemini =
-      IconData(0xe6cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_gemini = IconData(0xe6cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_leo] icon from the Lucide icon set.
   ///
@@ -21956,8 +20319,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_leo =
-      IconData(0xe6d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_leo = IconData(0xe6d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_libra] icon from the Lucide icon set.
   ///
@@ -21969,8 +20331,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_libra =
-      IconData(0xe6d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_libra = IconData(0xe6d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_ophiuchus] icon from the Lucide icon set.
   ///
@@ -21982,8 +20343,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_ophiuchus =
-      IconData(0xe6d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_ophiuchus = IconData(0xe6d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_pisces] icon from the Lucide icon set.
   ///
@@ -21995,8 +20355,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_pisces =
-      IconData(0xe6d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_pisces = IconData(0xe6d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_sagittarius] icon from the Lucide icon set.
   ///
@@ -22008,8 +20367,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_sagittarius =
-      IconData(0xe6d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_sagittarius = IconData(0xe6d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_scorpio] icon from the Lucide icon set.
   ///
@@ -22021,8 +20379,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_scorpio =
-      IconData(0xe6d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_scorpio = IconData(0xe6d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_taurus] icon from the Lucide icon set.
   ///
@@ -22034,8 +20391,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData zodiac_taurus =
-      IconData(0xe6d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_taurus = IconData(0xe6d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zodiac_virgo] icon from the Lucide icon set.
   ///
@@ -22047,8 +20403,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData zodiac_virgo =
-      IconData(0xe6d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zodiac_virgo = IconData(0xe6d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zoom_in] icon from the Lucide icon set.
   ///
@@ -22060,8 +20415,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData zoom_in =
-      IconData(0xe1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const IconData zoom_in = IconData(0xe1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Represents the [zoom_out] icon from the Lucide icon set.
   ///
@@ -22073,6 +20427,7 @@ abstract final class LucideIcons {
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData zoom_out =
-      IconData(0xe1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
-}
+  static const IconData zoom_out = IconData(0xe1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  }
+  
