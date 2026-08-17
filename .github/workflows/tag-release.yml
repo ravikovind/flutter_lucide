@@ -1,0 +1,38 @@
+name: Tag release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - pubspec.yaml
+
+permissions:
+  contents: write
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check whether pubspec.yaml version changed in this push
+        id: check
+        run: |
+          set -euo pipefail
+          if git diff HEAD~1 HEAD -- pubspec.yaml | grep -q '^+version:'; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Tag the release commit
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag "v$V"
+          git push origin "v$V"
