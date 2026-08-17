@@ -98,14 +98,3 @@ class _MyHomePageState extends State<MyHomePage> {
     ),
   );
 }
-
-extension OfIconData on IconData {
-  IconData copyWith({
-    bool? matchTextDirection,
-    List<String>? fontFamilyFallback,
-  }) => IconData(
-    codePoint,
-    matchTextDirection: matchTextDirection ?? this.matchTextDirection,
-    fontFamilyFallback: fontFamilyFallback ?? this.fontFamilyFallback,
-  );
-}
