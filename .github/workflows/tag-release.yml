@@ -31,7 +31,7 @@ jobs:
         if: steps.check.outputs.changed == 'true'
         run: |
           set -euo pipefail
-          V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')
+          V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//' | tr -d '\r')
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git tag "v$V"
