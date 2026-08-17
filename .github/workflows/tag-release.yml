@@ -5,6 +5,12 @@ on:
     branches: [main]
     paths:
       - pubspec.yaml
+  workflow_dispatch:
+    inputs:
+      test_tag:
+        description: 'TESTING ONLY: push this literal tag instead of deriving one from pubspec.yaml. Use a name that does not match v[0-9]+.[0-9]+.[0-9]+* so it cannot trigger a real publish.'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -21,6 +27,10 @@ jobs:
         id: check
         run: |
           set -euo pipefail
+          if [ -n "${{ inputs.test_tag }}" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           if git diff HEAD~1 HEAD -- pubspec.yaml | grep -q '^+version:'; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
@@ -29,10 +39,17 @@ jobs:
 
       - name: Tag the release commit
         if: steps.check.outputs.changed == 'true'
+        env:
+          TEST_TAG: ${{ inputs.test_tag }}
         run: |
           set -euo pipefail
-          V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')
+          if [ -n "$TEST_TAG" ]; then
+            TAG="$TEST_TAG"
+          else
+            V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')
+            TAG="v$V"
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git tag "v$V"
-          git push origin "v$V"
+          git tag "$TAG"
+          git push origin "$TAG"
