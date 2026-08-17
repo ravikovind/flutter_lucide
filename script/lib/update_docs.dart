@@ -54,6 +54,12 @@ String updateReadme(String content,
     ),
     'Lucide $version](https://github.com/lucide-icons/lucide/releases/tag/$version)',
   );
+  content = content.replaceFirst(
+    RegExp(
+      r'flutter_lucide v[\d.]+\]\(https://github\.com/ravikovind/flutter_lucide/releases/tag/v[\d.]+\)',
+    ),
+    'flutter_lucide v$version](https://github.com/ravikovind/flutter_lucide/releases/tag/v$version)',
+  );
   return content;
 }
 

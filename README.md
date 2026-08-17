@@ -75,6 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)
 - **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
 - **Current Version**: [Lucide 1.31.0](https://github.com/lucide-icons/lucide/releases/tag/1.31.0)
+- **Release Notes**: [flutter_lucide v1.31.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.31.0)
 
 ## Maintainers & Contributors
 

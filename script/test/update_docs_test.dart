@@ -41,6 +41,7 @@ dependencies:
 Browse **[ICONS.md](https://github.com/ravikovind/flutter_lucide/blob/main/ICONS.md)** — a searchable reference of all 1,699+ icons with tags and categories.
 
 - **Current Version**: [Lucide 1.11.0](https://github.com/lucide-icons/lucide/releases/tag/1.11.0)
+- **Release Notes**: [flutter_lucide v1.11.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.11.0)
 ''';
 
     test('updates every version and icon-count reference', () {
@@ -57,6 +58,12 @@ Browse **[ICONS.md](https://github.com/ravikovind/flutter_lucide/blob/main/ICONS
         updated,
         contains(
           'Lucide 1.31.0](https://github.com/lucide-icons/lucide/releases/tag/1.31.0)',
+        ),
+      );
+      expect(
+        updated,
+        contains(
+          'flutter_lucide v1.31.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.31.0)',
         ),
       );
       expect(updated, isNot(contains('1.11.0')));
