@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # Required to dispatch publish.yml below
 
 jobs:
   tag:
@@ -29,6 +30,7 @@ jobs:
 
       - name: Tag the release commit
         if: steps.check.outputs.changed == 'true'
+        id: tag
         run: |
           set -euo pipefail
           V=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//' | tr -d '\r')
@@ -36,3 +38,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git tag "v$V"
           git push origin "v$V"
+          echo "tag=v$V" >> "$GITHUB_OUTPUT"
+
+      # A GITHUB_TOKEN-authored push cannot trigger another workflow's
+      # `push` event (GitHub's anti-recursion protection), so publish.yml
+      # is dispatched explicitly against the tag we just pushed.
+      - name: Trigger publish workflow
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --repo "$GITHUB_REPOSITORY" --ref "${{ steps.tag.outputs.tag }}"
