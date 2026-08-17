@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  flutter-analyze:
+    # lib/ depends on package:flutter, so this job needs the Flutter SDK.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Install dependencies (root package)
+        run: flutter pub get
+
+      - name: Install dependencies (script package)
+        working-directory: script
+        run: dart pub get
+
+      - name: Analyze
+        run: dart analyze .
+
+      - name: Check formatting
+        run: dart format --output=none --set-exit-if-changed .
+
+  script-test:
+    # script/ is a plain Dart package with no Flutter dependency, so this
+    # job runs on the standalone Dart SDK only — no Flutter install needed.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dart-lang/setup-dart@v1
+
+      - name: Install dependencies
+        working-directory: script
+        run: dart pub get
+
+      - name: Run tests
+        working-directory: script
+        run: dart test

@@ -1,0 +1,81 @@
+name: Publish to pub.dev
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run dart pub publish --dry-run only, without publishing'
+        required: false
+        type: boolean
+        default: true
+
+# Required for pub.dev's OIDC "Automated publishing".
+permissions:
+  id-token: write
+
+jobs:
+  check-version-bump:
+    runs-on: ubuntu-latest
+    outputs:
+      version_changed: ${{ steps.check.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check whether pubspec.yaml version changed in this push
+        id: check
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if git diff HEAD~1 HEAD -- pubspec.yaml | grep -q '^+version:'; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  publish:
+    needs: check-version-bump
+    if: needs.check-version-bump.outputs.version_changed == 'true'
+    runs-on: ubuntu-latest
+    environment: pub.dev
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - run: flutter pub get
+
+      - name: Dry-run validation
+        run: dart pub publish --dry-run
+
+      - name: Publish
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        run: dart pub publish --force
+
+      - name: Read version
+        id: pkg
+        run: |
+          echo "version=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')" >> "$GITHUB_OUTPUT"
+
+      - name: Tag and create GitHub release
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          V: ${{ steps.pkg.outputs.version }}
+        run: |
+          set -euo pipefail
+          git tag "v$V"
+          git push origin "v$V"
+          NOTES=$(awk '/^# /{if (p) exit; p=1; next} p' CHANGELOG.md)
+          gh release create "v$V" --repo "$GITHUB_REPOSITORY" \
+            --title "v$V" \
+            --notes "$NOTES"

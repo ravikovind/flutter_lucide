@@ -1,0 +1,169 @@
+name: Check for new Lucide release
+
+on:
+  schedule:
+    # Runs once a day at a time unlikely to collide with GitHub's cron load.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Lucide version to release (e.g. 1.32.0). Leave empty to auto-detect the latest.'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Determine target Lucide version
+        id: version
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INPUT_VERSION: ${{ inputs.version }}
+        run: |
+          set -euo pipefail
+
+          if [ -n "${INPUT_VERSION:-}" ]; then
+            TARGET_VERSION="$INPUT_VERSION"
+          else
+            TARGET_VERSION=$(gh release list --repo lucide-icons/lucide --limit 30 \
+              --json tagName -q '.[].tagName' \
+              | grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' \
+              | sort -V \
+              | tail -n1)
+          fi
+
+          if [ -z "$TARGET_VERSION" ]; then
+            echo "Could not determine a target Lucide version." >&2
+            exit 1
+          fi
+
+          CURRENT_VERSION=$(grep -m1 '^version:' pubspec.yaml | sed 's/version: *//')
+
+          if [ "$TARGET_VERSION" = "$CURRENT_VERSION" ]; then
+            echo "Already on latest Lucide version ($CURRENT_VERSION). Nothing to do."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          BRANCH="release/lucide-$TARGET_VERSION"
+          EXISTING_PR=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --json number -q '.[0].number' || true)
+          if [ -n "$EXISTING_PR" ]; then
+            echo "PR #$EXISTING_PR for $TARGET_VERSION is already open. Nothing to do."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "should_run=true" >> "$GITHUB_OUTPUT"
+          echo "target_version=$TARGET_VERSION" >> "$GITHUB_OUTPUT"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Download Lucide release assets
+        if: steps.version.outputs.should_run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          V: ${{ steps.version.outputs.target_version }}
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/lucide_release/font /tmp/lucide_release/icons
+          gh release download "$V" --repo lucide-icons/lucide \
+            --dir /tmp/lucide_release \
+            --pattern "lucide-font-$V.zip" \
+            --pattern "lucide-icons-$V.zip"
+          unzip -q "/tmp/lucide_release/lucide-font-$V.zip" -d /tmp/lucide_release/font
+          unzip -q "/tmp/lucide_release/lucide-icons-$V.zip" -d /tmp/lucide_release/icons
+
+      - name: Snapshot current icon file
+        if: steps.version.outputs.should_run == 'true'
+        run: cp lib/src/flutter_lucide.dart /tmp/old_flutter_lucide.dart
+
+      - name: Replace icon assets
+        if: steps.version.outputs.should_run == 'true'
+        run: |
+          set -euo pipefail
+          cp /tmp/lucide_release/font/lucide-font/info.json script/info.json
+          cp /tmp/lucide_release/font/lucide-font/lucide.ttf lib/fonts/lucide.ttf
+          rm -rf script/icons
+          cp -r /tmp/lucide_release/icons/icons script/icons
+
+      - name: Regenerate Dart icon file and ICONS.md
+        if: steps.version.outputs.should_run == 'true'
+        working-directory: script
+        run: |
+          set -euo pipefail
+          dart pub get
+          dart lib/script.dart
+          mv flutter_lucide_update.txt ../lib/src/flutter_lucide.dart
+
+      - name: Update pubspec, README, script/README and CHANGELOG
+        if: steps.version.outputs.should_run == 'true'
+        id: docs
+        working-directory: script
+        env:
+          V: ${{ steps.version.outputs.target_version }}
+        run: |
+          set -euo pipefail
+          dart run lib/update_docs.dart \
+            --version "$V" \
+            --old /tmp/old_flutter_lucide.dart \
+            --new ../lib/src/flutter_lucide.dart \
+            --icons icons \
+            --repo-root .. \
+            > /tmp/changelog_entry.md
+          {
+            echo 'body<<CHANGELOG_EOF'
+            cat /tmp/changelog_entry.md
+            echo 'CHANGELOG_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Format generated files
+        if: steps.version.outputs.should_run == 'true'
+        run: dart format .
+
+      - name: Verify the package still analyzes cleanly
+        if: steps.version.outputs.should_run == 'true'
+        run: |
+          flutter pub get
+          dart analyze .
+
+      - name: Commit and push release branch
+        if: steps.version.outputs.should_run == 'true'
+        env:
+          BRANCH: ${{ steps.version.outputs.branch }}
+          V: ${{ steps.version.outputs.target_version }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add -A
+          git commit -m "feat: bump to Lucide $V (v$V)"
+          git push origin "$BRANCH"
+
+      - name: Open pull request
+        if: steps.version.outputs.should_run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.version.outputs.branch }}
+          V: ${{ steps.version.outputs.target_version }}
+          BODY: ${{ steps.docs.outputs.body }}
+        run: |
+          set -euo pipefail
+          gh pr create --repo "$GITHUB_REPOSITORY" \
+            --base main --head "$BRANCH" \
+            --title "feat: bump to Lucide $V (v$V)" \
+            --body "$BODY"
