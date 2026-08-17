@@ -2,8 +2,8 @@ name: Check for new Lucide release
 
 on:
   schedule:
-    # Runs once a day at a time unlikely to collide with GitHub's cron load.
-    - cron: '17 6 * * *'
+    # 12:30 UTC = 6:00 PM IST
+    - cron: '30 12 * * *'
   workflow_dispatch:
     inputs:
       version:
