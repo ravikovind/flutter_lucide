@@ -1,3 +1,27 @@
+# 1.31.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.31.0
+- Total icon count increased from 1,699+ to 1,767+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- ad, angle, astroid, audio-lines-x, banknote-check, blender, bone-fracture, broccoli, broom, broom-sparkles, circle-euro, clock-arrow-left, clock-arrow-right, database-arrow-down, database-arrow-up, database-check, database-minus, database-plus, database-x, eject, eye-dashed, folder-bookmark, globe-check, layer-arrow-down, layer-arrow-up, layers-arrow-down, layers-arrow-up, layout-freeform, list-sort-ascending, list-sort-descending, mail-badge, mic-audio-lines, mosque, paper-bag, parasol, pencil-sparkles, phi, play-off, podium, repeat-off, rotate-cw-fading-clock, save-check, save-pen, save-plus, scan-box, scan-square, server-plus, shield-keyhole, shield-lock, square-off, star-check, star-minus, star-plus, star-x, sticky-note-check, sticky-note-minus, sticky-note-off, sticky-note-plus, sticky-note-x, sticky-notes, summary, tag-plus, tag-x, user-round-arrow-left, user-shield, waves-vertical, webcam-off, wrench-off
+
+## Renamed Icons ✏️
+- `angry` renamed to `face-angry`
+- `annoyed` renamed to `face-expressionless`
+- `frown` renamed to `face-slightly-frowning`
+- `history` renamed to `rotate-ccw-clock`
+- `laugh` renamed to `face-grinning`
+- `meh` renamed to `face-neutral`
+- `podcast` renamed to `mic-signal`
+- `smile` renamed to `face-slightly-smiling`
+- `smile-plus` renamed to `face-slightly-smiling-plus`
+- `waves` renamed to `waves-horizontal`
+
+---
+
 # 1.11.0
 
 ## Improvements 🚀

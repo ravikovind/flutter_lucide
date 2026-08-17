@@ -7,11 +7,7 @@ void main() {
 
   testWidgets('LucideIcons', (WidgetTester tester) async {
     await tester.pumpWidget(
-      const MaterialApp(
-        home: Scaffold(
-          body: Icon(LucideIcons.activity),
-        ),
-      ),
+      const MaterialApp(home: Scaffold(body: Icon(LucideIcons.activity))),
     );
 
     expect(find.byIcon(icon), findsOneWidget);
