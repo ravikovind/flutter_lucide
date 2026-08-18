@@ -1,3 +1,15 @@
+# 1.32.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.32.0
+- Total icon count increased from 1,767+ to 1,769+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- car-battery, square-text
+
+---
+
 # 1.31.0
 
 ## Improvements 🚀

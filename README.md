@@ -10,13 +10,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ravikovind/flutter_lucide)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ravikovind/flutter_lucide)
 
-A comprehensive Flutter package providing **1,767+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
+A comprehensive Flutter package providing **1,769+ beautiful, consistent icons** from the [Lucide](https://lucide.dev/) icon set. Lucide is a free, open-source icon library derived from the popular Feather icon set, featuring clean, modern designs perfect for enhancing your Flutter applications.
 
 ![Lucide](https://github.com/ravikovind/flutter_lucide/raw/main/screenshots/logo.png)
 
 ## ✨ Features
 
-- 🎨 **1,767+ Icons** - Comprehensive collection from Lucide 1.31.0
+- 🎨 **1,769+ Icons** - Comprehensive collection from Lucide 1.32.0
 - 🚀 **Tree Shaking** - Only include icons you actually use
 - 📱 **Cross Platform** - Works on Android, iOS, Web, macOS, Windows, and Linux
 - 📚 **Well Documented** - Each icon includes descriptions and categories
@@ -29,7 +29,7 @@ Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.31.0
+  flutter_lucide: ^1.32.0
 ```
 
 Then run:
@@ -40,7 +40,7 @@ flutter pub get
 
 ## 🔍 Looking for a specific icon?
 
-Browse **[ICONS.md](https://github.com/ravikovind/flutter_lucide/blob/main/ICONS.md)** — a searchable reference of all 1,767+ icons with tags and categories. Use `Ctrl+F` / `Cmd+F` to find what you need instantly. Dart usage: replace `-` with `_` in the name, e.g. `pin-x` → `LucideIcons.pin_x`.
+Browse **[ICONS.md](https://github.com/ravikovind/flutter_lucide/blob/main/ICONS.md)** — a searchable reference of all 1,769+ icons with tags and categories. Use `Ctrl+F` / `Cmd+F` to find what you need instantly. Dart usage: replace `-` with `_` in the name, e.g. `pin-x` → `LucideIcons.pin_x`.
 
 ## 🚀 Quick Start
 
@@ -74,8 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)
 - **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-- **Current Version**: [Lucide 1.31.0](https://github.com/lucide-icons/lucide/releases/tag/1.31.0)
-- **Release Notes**: [flutter_lucide v1.31.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.31.0)
+- **Current Version**: [Lucide 1.32.0](https://github.com/lucide-icons/lucide/releases/tag/1.32.0)
+- **Release Notes**: [flutter_lucide v1.32.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.32.0)
 
 ## Maintainers & Contributors
 
