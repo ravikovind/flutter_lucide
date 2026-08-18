@@ -4729,6 +4729,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [car_battery] icon from the Lucide icon set.
+  ///
+  /// ![car_battery](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTNoNCIgLz4KICA8cGF0aCBkPSJNMTYgMTV2LTQiIC8+CiAgPHBhdGggZD0iTTE4IDV2MiIgLz4KICA8cGF0aCBkPSJNNiAxM2g0IiAvPgogIDxwYXRoIGQ9Ik02IDV2MiIgLz4KICA8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [car_battery] icon is a graphical symbol that conveys a specific idea or functionality related to battery, automobile, powercell, electric, power, electricity, energy, accumulator, charge, transport, vehicle, car.
+  /// - It belongs to the categories: connectivity, transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/andreynaz4renko](https://github.com/andreynaz4renko)
+  static const IconData car_battery = IconData(
+    0xe735,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [car_front] icon from the Lucide icon set.
   ///
   /// ![car_front](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjEgOC0yIDItMS41LTMuN0EyIDIgMCAwIDAgMTUuNjQ2IDVIOC40YTIgMiAwIDAgMC0xLjkwMyAxLjI1N0w1IDEwIDMgOCIgLz4KICA8cGF0aCBkPSJNNyAxNGguMDEiIC8+CiAgPHBhdGggZD0iTTE3IDE0aC4wMSIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjEwIiByeD0iMiIgLz4KICA8cGF0aCBkPSJNNSAxOHYyIiAvPgogIDxwYXRoIGQ9Ik0xOSAxOHYyIiAvPgo8L3N2Zz4K)
@@ -23925,6 +23941,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData square_terminal = IconData(
     0xe20a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_text] icon from the Lucide icon set.
+  ///
+  /// ![square_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik03IDhoOCIgLz4KICA8cGF0aCBkPSJNNyAxMmgxMCIgLz4KICA8cGF0aCBkPSJNNyAxNmg2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_text] icon is a graphical symbol that conveys a specific idea or functionality related to text, paragraph, content, note, document, body, copy, article, square, container, block, card, placeholder, log, page, paper, sheet, list, script, code, editor.
+  /// - It belongs to the categories: text, shapes, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/samuelalake](https://github.com/samuelalake)
+  static const IconData square_text = IconData(
+    0xe736,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

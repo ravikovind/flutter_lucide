@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1767** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1769** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -303,6 +303,7 @@ All **1767** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `captions` | closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility | multimedia |
 | `captions-off` | closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility | multimedia |
 | `car` | vehicle, drive, trip, journey | transportation |
+| `car-battery` | battery, automobile, powercell, electric, power, electricity, energy, accumulator, charge, transport, vehicle, car | connectivity, transportation |
 | `car-front` | vehicle, drive, trip, journey | transportation |
 | `car-taxi-front` | cab, vehicle, drive, trip, journey | transportation |
 | `caravan` | trailer, tow, camping, campsite, mobile home, holiday, nomadic, wilderness, outdoors | transportation, travel, nature |
@@ -1503,6 +1504,7 @@ All **1767** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-star` | badge, medal, honour, decoration, order, pin, laurel, trophy, medallion, insignia, bronze, silver, gold | sports, gaming |
 | `square-stop` | media, music | multimedia |
 | `square-terminal` | code, command line, prompt, shell | development |
+| `square-text` | text, paragraph, content, note, document, body, copy, article, square, container, block, card, placeholder, log, page, paper, sheet, list, script, code, editor | text, shapes, development |
 | `square-user` | person, account, contact | account |
 | `square-user-round` | person, account, contact | account |
 | `square-x` | cancel, close, delete, remove, times, clear, math, multiply, multiplication | math, notifications |
@@ -1778,4 +1780,4 @@ All **1767** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1767 icons*
+*Total: 1769 icons*

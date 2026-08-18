@@ -2093,6 +2093,12 @@
     "className": "icon-captions",
     "unicode": "&#58276;"
   },
+  "car-battery": {
+    "encodedCode": "\\e735",
+    "prefix": "icon",
+    "className": "icon-car-battery",
+    "unicode": "&#59189;"
+  },
   "car-front": {
     "encodedCode": "\\e4fd",
     "prefix": "icon",
@@ -10300,6 +10306,12 @@
     "prefix": "icon",
     "className": "icon-square-terminal",
     "unicode": "&#57866;"
+  },
+  "square-text": {
+    "encodedCode": "\\e736",
+    "prefix": "icon",
+    "className": "icon-square-text",
+    "unicode": "&#59190;"
   },
   "square-user-round": {
     "encodedCode": "\\e466",
