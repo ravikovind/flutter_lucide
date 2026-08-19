@@ -1657,6 +1657,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [audio_lines_off] icon from the Lucide icon set.
+  ///
+  /// ![audio_lines_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTB2MTEiIC8+CiAgPHBhdGggZD0iTTEwIDN2MS4zNSIgLz4KICA8cGF0aCBkPSJNMTQgMTR2MSIgLz4KICA8cGF0aCBkPSJNMTQgOHYuMzUiIC8+CiAgPHBhdGggZD0iTTE4IDV2Ny4zNSIgLz4KICA8cGF0aCBkPSJNMiAxMHYzIiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0iTTIyIDEwdjMiIC8+CiAgPHBhdGggZD0iTTYgNnYxMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [audio_lines_off] icon is a graphical symbol that conveys a specific idea or functionality related to audio, sound, noise, mute, silence, off, disabled, inactive, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song.
+  /// - It belongs to the categories: multimedia, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData audio_lines_off = IconData(
+    0xe737,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [audio_lines_x] icon from the Lucide icon set.
   ///
   /// ![audio_lines_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM3YxOCIgLz4KICA8cGF0aCBkPSJNMTQgOHY2LjM1IiAvPgogIDxwYXRoIGQ9Im0xNyAxNyA1IDUiIC8+CiAgPHBhdGggZD0iTTE4IDV2OC4xIiAvPgogIDxwYXRoIGQ9Ik0yIDEwdjMiIC8+CiAgPHBhdGggZD0iTTIyIDEwdjMiIC8+CiAgPHBhdGggZD0ibTIyIDE3LTUgNSIgLz4KICA8cGF0aCBkPSJNNiA2djExIiAvPgo8L3N2Zz4K)
@@ -14825,6 +14841,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [list_clock] icon from the Lucide icon set.
+  ///
+  /// ![list_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTN2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Ik0zIDEyaDMuNDU4IiAvPgogIDxwYXRoIGQ9Ik0zIDE5aDMuODMyIiAvPgogIDxwYXRoIGQ9Ik0zIDVoMTgiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNSIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [list_clock] icon is a graphical symbol that conveys a specific idea or functionality related to history, log, clock, time, recent, updated, revision, activity, timestamp, audit, list.
+  /// - It belongs to the categories: text, time, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/kemie](https://github.com/kemie)
+  static const IconData list_clock = IconData(
+    0xe738,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [list_collapse] icon from the Lucide icon set.
   ///
   /// ![list_collapse](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgNWgxMSIgLz4KICA8cGF0aCBkPSJNMTAgMTJoMTEiIC8+CiAgPHBhdGggZD0iTTEwIDE5aDExIiAvPgogIDxwYXRoIGQ9Im0zIDEwIDMtMy0zLTMiIC8+CiAgPHBhdGggZD0ibTMgMjAgMy0zLTMtMyIgLz4KPC9zdmc+Cg==)
@@ -16633,6 +16665,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [midi_port] icon from the Lucide icon set.
+  ///
+  /// ![midi_port](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNSAyLjQ1OFY1YTEgMSAwIDAxLTEgMWgtNGExIDEgMCAwMS0xLTFWMi40NTgiIC8+CiAgPHBhdGggZD0iTTE2IDE2aC4wMSIgLz4KICA8cGF0aCBkPSJNMTggMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik02IDEyaC4wMSIgLz4KICA8cGF0aCBkPSJNOCAxNmguMDEiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [midi_port] icon is a graphical symbol that conveys a specific idea or functionality related to musical instrument digital interface, port, connector, socket, jack, din, 5-pin, audio, music, synthesizer, keyboard, controller, interface, input, output, io.
+  /// - It belongs to the categories: multimedia, connectivity, devices
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/simoncoudeville](https://github.com/simoncoudeville), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData midi_port = IconData(
+    0xe739,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [milestone] icon from the Lucide icon set.
   ///
   /// ![milestone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNMTIgM3YzIiAvPgogIDxwYXRoIGQ9Ik0xOC4xNzIgNmEyIDIgMCAwIDEgMS40MTQuNTg2bDIuMDYgMi4wNmExLjIwNyAxLjIwNyAwIDAgMSAwIDEuNzA4bC0yLjA2IDIuMDZhMiAyIDAgMCAxLTEuNDE0LjU4Nkg0YTEgMSAwIDAgMS0xLTFWN2ExIDEgMCAwIDEgMS0xeiIgLz4KPC9zdmc+Cg==)
@@ -17013,6 +17061,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData moon_star = IconData(
     0xe410,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [mop] icon from the Lucide icon set.
+  ///
+  /// ![mop](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjJjMi43NjEgMCA1LTEuNzkgNS00LTQuNDIgMC00LjA4LTUtOC41LTVhMSAxIDAgMTAwIDl6YTMgMyAwIDAxLTMtMyIgLz4KICA8cGF0aCBkPSJNMTIuNSAxMS41IDIyIDIiIC8+CiAgPHBhdGggZD0ibTYuOTggMTMuMDIgMi42NjUtMi42NjRhMS4yMSAxLjIxIDAgMDExLjcxIDBsMi4yOSAyLjI4OGExLjIxIDEuMjEgMCAwMTAgMS43MTJsLTIuMDg4IDIuMDg3IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [mop] icon is a graphical symbol that conveys a specific idea or functionality related to cleaning, sweeping, scrubbing, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, janitor, maintenance, wash, wipe, spotless, pristine, disinfect.
+  /// - It belongs to the categories: home, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData mop = IconData(
+    0xe73b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [mop_sparkles] icon from the Lucide icon set.
+  ///
+  /// ![mop_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjJhMyAzIDAgMDEtMy0zIiAvPgogIDxwYXRoIGQ9Ik0xMCAyMmMyLjc2MSAwIDUtMS43OSA1LTQtNC40MiAwLTQuMDgtNS04LjUtNWE0LjUwMSA0LjUwMSAwIDAwMCA5eiIgLz4KICA8cGF0aCBkPSJNMTAgM0g4IiAvPgogIDxwYXRoIGQ9Ik0xMi41IDExLjUgMjIgMiIgLz4KICA8cGF0aCBkPSJNMjAgMTN2NCIgLz4KICA8cGF0aCBkPSJNMjIgMTVoLTQiIC8+CiAgPHBhdGggZD0iTTQgNXY0IiAvPgogIDxwYXRoIGQ9Ik02IDdIMiIgLz4KICA8cGF0aCBkPSJtNi45OCAxMy4wMiAyLjY2NS0yLjY2NGExLjIxIDEuMjEgMCAwMTEuNzEgMGwyLjI5IDIuMjg4YTEuMjEgMS4yMSAwIDAxMCAxLjcxMmwtMi4wODggMi4wODciIC8+CiAgPHBhdGggZD0iTTkgMnYyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [mop_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to cleaning, scrubbing, sweeping, ai, magic, sparkle, smart, automation, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, spotless, pristine, polish, sanitize, disinfect.
+  /// - It belongs to the categories: home, tools, design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData mop_sparkles = IconData(
+    0xe73a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -23417,6 +23497,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_dimensions] icon from the Lucide icon set.
+  ///
+  /// ![square_dimensions](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMiA3SDd2NSIgLz4KICA8cGF0aCBkPSJNMTIgMTdoNXYtNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_dimensions] icon is a graphical symbol that conveys a specific idea or functionality related to ratio, size, width, height, resize, scale, frame, proportions, aspect, bounds, measurements, canvas.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/samuelalake](https://github.com/samuelalake)
+  static const IconData square_dimensions = IconData(
+    0xe73c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_divide] icon from the Lucide icon set.
   ///
   /// ![square_divide](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByeT0iMiIgLz4KICA8bGluZSB4MT0iOCIgeDI9IjE2IiB5MT0iMTIiIHkyPSIxMiIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjE2IiB5Mj0iMTYiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIiIHkxPSI4IiB5Mj0iOCIgLz4KPC9zdmc+Cg==)
@@ -26613,6 +26709,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData usb = IconData(
     0xe356,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [usb_c_port] icon from the Lucide icon set.
+  ///
+  /// ![usb_c_port](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmgxMiIgLz4KICA8cmVjdCB4PSIyIiB5PSI4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSI0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [usb_c_port] icon is a graphical symbol that conveys a specific idea or functionality related to universal, serial, bus, controller, connector, interface, socket, plug, slot, data, input, output.
+  /// - It belongs to the categories: devices, multimedia, home, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData usb_c_port = IconData(
+    0xe73d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
