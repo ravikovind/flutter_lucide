@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1769** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1776** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -111,6 +111,7 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `at-sign` | mention, at, email, message, @ | text, account |
 | `atom` | atomic, nuclear, physics, particle, element, molecule, electricity, energy, chemistry | science |
 | `audio-lines` | graphic equaliser, sound, noise, listen, hearing, hertz, frequency, wavelength, vibrate, sine, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
+| `audio-lines-off` | audio, sound, noise, mute, silence, off, disabled, inactive, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `audio-lines-x` | sound, noise, mute, silence, disabled, cancel, remove, unavailable, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `audio-waveform` | sound, noise, listen, hearing, hertz, frequency, wavelength, vibrate, sine, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `award` | achievement, badge, rosette, prize, winner | account, sports, gaming |
@@ -934,6 +935,7 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `list-checks` | todo, done, check, tick, complete, tasks, items, pending | text |
 | `list-chevrons-down-up` | options, items, collapse, expand, details, disclosure, show, hide, toggle, accordion, more, less, fold, unfold, vertical | text, arrows |
 | `list-chevrons-up-down` | options, items, collapse, expand, details, disclosure, show, hide, toggle, accordion, more, less, fold, unfold, vertical | text, arrows |
+| `list-clock` | history, log, clock, time, recent, updated, revision, activity, timestamp, audit, list | text, time, notifications |
 | `list-collapse` | items, collapse, expand, details, disclosure, show, hide, toggle, accordion, more, less, fold, unfold | text |
 | `list-end` | queue, bottom, end, playlist | multimedia, text |
 | `list-filter` | options | text |
@@ -1047,6 +1049,7 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `microchip` | processor, cores, technology, computer, chip, integrated circuit, memory, ram, specs, gpu, gigahertz, ghz | devices |
 | `microscope` | medical, education, science, imaging, research | science, medical |
 | `microwave` | oven, cooker, toaster oven, bake | food-beverage, home |
+| `midi-port` | musical instrument digital interface, port, connector, socket, jack, din, 5-pin, audio, music, synthesizer, keyboard, controller, interface, input, output, io | multimedia, connectivity, devices |
 | `milestone` | signpost, direction, right, east, forward, version control, waypoint | arrows, navigation, development, gaming |
 | `milk` | lactose, bottle, beverage, drink, water, diet | food-beverage |
 | `milk-off` | lactose free, bottle, beverage, drink, water, allergy, intolerance, diet | food-beverage |
@@ -1071,6 +1074,8 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `monitor-x` | tv, screen, display, desktop, virtual machine, vm, close, stop, suspend, remove, delete | connectivity, devices |
 | `moon` | dark, night | accessibility |
 | `moon-star` | dark, night, star | accessibility, weather |
+| `mop` | cleaning, sweeping, scrubbing, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, janitor, maintenance, wash, wipe, spotless, pristine, disinfect | home, tools |
+| `mop-sparkles` | cleaning, scrubbing, sweeping, ai, magic, sparkle, smart, automation, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, spotless, pristine, polish, sanitize, disinfect | home, tools, design |
 | `mosque` | mosque, masjid, islam, muslim, ramadan, eid, prayer, worship, building, minaret, dome, architecture, faith, religion, holy, sacred, landmark, community, spiritual, tourism, map, heritage | buildings, navigation, travel |
 | `motorbike` | moto, motorcycle, transport, vehicle, drive, ride, trip, race, racing, journey, delivery | transportation |
 | `mountain` | climb, hike, rock | nature, gaming |
@@ -1471,6 +1476,7 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-dashed-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | arrows, cursors, development, tools |
 | `square-dashed-text` | find, search, selection, dashed | text, cursors |
 | `square-dashed-top-solid` | square, border, width, layout, style, design, rectangular, marquee, dashed, box, rectangle, aspect ratio, 1:1 | design, development, layout |
+| `square-dimensions` | ratio, size, width, height, resize, scale, frame, proportions, aspect, bounds, measurements, canvas | design, layout |
 | `square-divide` | calculate, math, ÷, / | math |
 | `square-dot` | git, diff, modified, . | development |
 | `square-equal` | calculate, = | math |
@@ -1671,6 +1677,7 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `unplug` | electricity, energy, electronics, socket, outlet, disconnect | devices, development |
 | `upload` | file | arrows, files |
 | `usb` | universal, serial, bus, controller, connector, interface | devices, multimedia, home |
+| `usb-c-port` | universal, serial, bus, controller, connector, interface, socket, plug, slot, data, input, output | devices, multimedia, home, gaming |
 | `user` | person, account, contact | account |
 | `user-check` | followed, subscribed, done, todo, tick, complete, task | account |
 | `user-cog` | settings, edit, cog, gear | account |
@@ -1780,4 +1787,4 @@ All **1769** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1769 icons*
+*Total: 1776 icons*
