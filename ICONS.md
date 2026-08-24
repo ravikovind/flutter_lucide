@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1776** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1777** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -973,6 +973,7 @@ All **1776** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `mail` | email, message, letter, unread | text, account, mail |
 | `mail-badge` | email, message, letter, certified, registered, seal, stamp, verified, envelope, rosette, signed, official, delivery | mail, communication, security |
 | `mail-check` | email, message, letter, subscribe, delivered, success, read, done, todo, tick, complete, task | mail |
+| `mail-clock` | email, message, letter, unread, scheduled, delayed, sendlater, delivery, reminder, pending, outgoing, timer | text, account, mail, time, notifications, communication |
 | `mail-minus` | email, message, letter, remove, delete | mail |
 | `mail-open` | email, message, letter, read | mail |
 | `mail-plus` | email, message, letter, add, create, new, compose | mail |
@@ -1787,4 +1788,4 @@ All **1776** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1776 icons*
+*Total: 1777 icons*
