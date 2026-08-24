@@ -15449,6 +15449,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [mail_clock] icon from the Lucide icon set.
+  ///
+  /// ![mail_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Im0yMiA3LS43NTkuNDg0IiAvPgogIDxwYXRoIGQ9Ik02LjgzNSAyMEg0YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjIiIC8+CiAgPHBhdGggZD0iTTcuNjA1IDEwLjU2NyAyIDciIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [mail_clock] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, unread, scheduled, delayed, sendlater, delivery, reminder, pending, outgoing, timer.
+  /// - It belongs to the categories: text, account, mail, time, notifications, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData mail_clock = IconData(
+    0xe73e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [mail_minus] icon from the Lucide icon set.
   ///
   /// ![mail_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTVWNmEyIDIgMCAwIDAtMi0ySDRhMiAyIDAgMCAwLTIgMnYxMmMwIDEuMS45IDIgMiAyaDgiIC8+CiAgPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+Cjwvc3ZnPgo=)

@@ -1,3 +1,15 @@
+# 1.34.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.34.0
+- Total icon count increased from 1,776+ to 1,777+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- mail-clock
+
+---
+
 # 1.33.0
 
 ## Improvements 🚀

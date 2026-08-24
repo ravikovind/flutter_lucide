@@ -6731,6 +6731,12 @@
     "className": "icon-mail-check",
     "unicode": "&#58209;"
   },
+  "mail-clock": {
+    "encodedCode": "\\e73e",
+    "prefix": "icon",
+    "className": "icon-mail-clock",
+    "unicode": "&#59198;"
+  },
   "mail-minus": {
     "encodedCode": "\\e362",
     "prefix": "icon",
