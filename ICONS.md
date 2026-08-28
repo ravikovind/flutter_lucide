@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1777** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1781** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -596,7 +596,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
 | `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ... | layout |
 | `equal` | calculate, math, operator, assignment, code, = | math, development |
-| `equal-approximately` | about, calculate, math, operater | math |
+| `equal-approximately` | about, calculate, math, operator | math |
 | `equal-not` | calculate, off, math, operator, code, ≠ | math, development |
 | `eraser` | pencil, drawing, undo, delete, clear, trash, remove | text |
 | `ethernet-port` | internet, network, connection, cable, lan, port, router, switch, hub, modem, web, online, networking, communication, socket, plug, slot, controller, connector, interface, console, signal, data, input, output | communication, devices, multimedia, gaming |
@@ -745,6 +745,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `funnel` | filter, hopper | layout |
 | `funnel-plus` | filter, hopper, add, create, new | layout |
 | `funnel-x` | filter, hopper, remove, delete | layout |
+| `galaxy` | astronomy, space, stars, cosmos, universe, spiral, milky way, nebula, cosmology, interstellar, celestial, constellation, stargazing, spaceflight | science |
 | `gallery-horizontal` | carousel, pictures, images, scroll, swipe, album, portfolio | layout, design, development, photography, multimedia |
 | `gallery-horizontal-end` | carousel, pictures, images, scroll, swipe, album, portfolio, history, versions, backup, time machine | layout, design, development, photography, multimedia, files |
 | `gallery-thumbnails` | carousel, pictures, images, album, portfolio, preview | layout, design, development, photography, multimedia |
@@ -757,7 +758,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gavel` | justice, law, court, judgment, legal, hands, penalty, decision, authority, hammer, mallet | navigation, tools |
 | `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems | gaming, development, finance |
 | `georgian-lari` | currency, money, payment | finance |
-| `ghost` | pac-man, spooky | gaming |
+| `ghost` | spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky | gaming |
 | `gift` | present, box, birthday, party | gaming, account |
 | `git-branch` | code, version control, vcs, repository | development |
 | `git-branch-minus` | code, version control, vcs, repository, delete, remove, - | development |
@@ -1290,6 +1291,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rewind` | music | arrows, multimedia |
 | `ribbon` | awareness, strip, band, tape, strap, cordon | social, medical, emoji |
 | `road` | road, street, highway, route, path, transport, traffic, drive, map | transportation |
+| `robot-arm` | mechanical, automation, factory, manufacture, technology, cyborg, industrial, hardware, machinery | science, tools |
 | `rocket` | release, boost, launch, space, version | gaming, development |
 | `rocking-chair` | chair, furniture, seat, comfort, relax | home |
 | `roller-coaster` | attraction, entertainment, amusement park, theme park, funfair | navigation |
@@ -1388,6 +1390,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `shield-user` | shield, user, admin, protection, protected, safety, guard | account, security, development |
 | `shield-x` | unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, prevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, comprimised, data leak, audited, admin, verification, unverified, inactive, cancel, error, wrong, false, crest, bravery, attacked, damaged, injured, hit, dead, deceased, expired, eliminated, exterminated | account, security, development, gaming |
 | `ship` | boat, knots, nautical mile, maritime, sailing, yacht, cruise, ocean liner, tanker, vessel, navy, trip, releases | transportation, navigation, travel |
+| `ship-cargo` | boat, knots, nautical mile, maritime, sailing, cruise, ocean liner, tanker, vessel, navy, cargo, container, freighter, freight, shipping, port, harbor, dock, logistics, import, export | transportation, navigation, travel |
 | `ship-wheel` | steering, rudder, boat, knots, nautical mile, maritime, sailing, yacht, cruise, ocean liner, tanker, vessel, navy, trip | transportation, navigation, travel |
 | `shirt` | t-shirt, shopping, store, clothing, clothes | shopping |
 | `shopping-bag` | ecommerce, cart, purchase, store | shopping |
@@ -1634,6 +1637,7 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `toy-brick` | lego, block, addon, plugin, integration | gaming, development |
 | `tractor` | farming, farmer, ranch, harvest, equipment, vehicle | transportation, sustainability, food-beverage |
 | `traffic-cone` | roadworks, tarmac, safety, block | transportation |
+| `trailer` | tow, shipping, delivery, haulage, vehicle, equipment, freight | transportation |
 | `train-front` | railway, metro, subway, underground, high-speed, bullet, fast, track, line | transportation |
 | `train-front-tunnel` | railway, metro, subway, underground, speed, bullet, fast, track, line | transportation, navigation |
 | `train-track` | railway, line | transportation, navigation |
@@ -1788,4 +1792,4 @@ All **1777** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1777 icons*
+*Total: 1781 icons*

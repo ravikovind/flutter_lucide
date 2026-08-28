@@ -9422,7 +9422,7 @@ abstract final class LucideIcons {
   /// ![equal_approximately](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAxNWE2LjUgNi41IDAgMCAxIDcgMCA2LjUgNi41IDAgMCAwIDcgMCIgLz4KICA8cGF0aCBkPSJNNSA5YTYuNSA2LjUgMCAwIDEgNyAwIDYuNSA2LjUgMCAwIDAgNyAwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [equal_approximately] icon is a graphical symbol that conveys a specific idea or functionality related to about, calculate, math, operater.
+  /// - The [equal_approximately] icon is a graphical symbol that conveys a specific idea or functionality related to about, calculate, math, operator.
   /// - It belongs to the categories: math
   ///
   /// Acknowledgements:
@@ -11801,6 +11801,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [galaxy] icon from the Lucide icon set.
+  ///
+  /// ![galaxy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuMDA1IDE1LjEwOGE1LjA0MSA2LjUyIDI4LjI1IDAwLTguMDA4LTYuMjE3IDUuMDQxIDYuNTIgMjguMjUgMDA4LjAwOCA2LjIxN0ExMS44ODQgNy4yODgtNjAuNzYgMDE0LjAyOSA3LjAwMSIgLz4KICA8cGF0aCBkPSJNMTcgMjFoLjAxIiAvPgogIDxwYXRoIGQ9Ik03IDNoLjAxIiAvPgogIDxwYXRoIGQ9Ik03Ljk5NyA4Ljg5MWExMS44ODUgNy4yODgtNjAuNzU2IDAxMTEuOTc3IDguMTA3IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [galaxy] icon is a graphical symbol that conveys a specific idea or functionality related to astronomy, space, stars, cosmos, universe, spiral, milky way, nebula, cosmology, interstellar, celestial, constellation, stargazing, spaceflight.
+  /// - It belongs to the categories: science
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData galaxy = IconData(
+    0xe73f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [gallery_horizontal] icon from the Lucide icon set.
   ///
   /// ![gallery_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAzdjE4IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iNiIgeT0iMyIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTIyIDN2MTgiIC8+Cjwvc3ZnPgo=)
@@ -11995,14 +12011,14 @@ abstract final class LucideIcons {
 
   /// Represents the [ghost] icon from the Lucide icon set.
   ///
-  /// ![ghost](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMGguMDEiIC8+CiAgPHBhdGggZD0iTTE1IDEwaC4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMmE4IDggMCAwIDAtOCA4djEybDMtMyAyLjUgMi41TDEyIDE5bDIuNSAyLjVMMTcgMTlsMyAzVjEwYTggOCAwIDAgMC04LTh6IiAvPgo8L3N2Zz4K)
+  /// ![ghost](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTB2MSIgLz4KICA8cGF0aCBkPSJNNy41MjggMjAuNDcyYTEuNiAxLjYgMCAwMTIuMjc3IDBsMS4wNTcgMS4wNTZhMS42IDEuNiAwIDAwMi4yNzYgMGwxLjA1Ny0xLjA1NmExLjYgMS42IDAgMDEyLjI3NyAwbDEuMTE0IDEuMTE0YTEuNCAxLjQgMCAwMDIuNDE0LTFWMTBhOCA4IDAgMDAtMTYgMHYxMC41ODZhMS40IDEuNCAwIDAwMi40MTQgMXoiIC8+CiAgPHBhdGggZD0iTTkgMTB2MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [ghost] icon is a graphical symbol that conveys a specific idea or functionality related to pac-man, spooky.
+  /// - The [ghost] icon is a graphical symbol that conveys a specific idea or functionality related to spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky.
   /// - It belongs to the categories: gaming
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData ghost = IconData(
     0xe20e,
     fontFamily: _fontFamily,
@@ -20521,6 +20537,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [robot_arm] icon from the Lucide icon set.
+  ///
+  /// ![robot_arm](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjEgNy41IDguMzIyIiAvPgogIDxwYXRoIGQ9Im0xNCA3IDEuNzUtMy43NjdhLjUuNSAwIDAgMSAuNjYyLS4xNzJMMjAgNS4wMDUiIC8+CiAgPHBhdGggZD0ibTIwIDguOTk4LTMuNTg4IDEuOTQ0YS41LjUgMCAwIDEtLjY2Mi0uMTcyTDE0IDdIOCIgLz4KICA8cGF0aCBkPSJNMy40ODYgMjFoMTAiIC8+CiAgPHBhdGggZD0iTTUgMjFWOC43MzIiIC8+CiAgPGNpcmNsZSBjeD0iNiIgY3k9IjciIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [robot_arm] icon is a graphical symbol that conveys a specific idea or functionality related to mechanical, automation, factory, manufacture, technology, cyborg, industrial, hardware, machinery.
+  /// - It belongs to the categories: science, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/zoharma](https://github.com/zoharma), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData robot_arm = IconData(
+    0xe740,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [rocket] icon from the Lucide icon set.
   ///
   /// ![rocket](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTV2NXMzLjAzLS41NSA0LTJjMS4wOC0xLjYyIDAtNSAwLTUiIC8+CiAgPHBhdGggZD0iTTQuNSAxNi41Yy0xLjUgMS4yNi0yIDUtMiA1czMuNzQtLjUgNS0yYy43MS0uODQuNy0yLjEzLS4wOS0yLjkxYTIuMTggMi4xOCAwIDAgMC0yLjkxLS4wOSIgLz4KICA8cGF0aCBkPSJNOSAxMmEyMiAyMiAwIDAgMSAyLTMuOTVBMTIuODggMTIuODggMCAwIDEgMjIgMmMwIDIuNzItLjc4IDcuNS02IDExYTIyLjQgMjIuNCAwIDAgMS00IDJ6IiAvPgogIDxwYXRoIGQ9Ik05IDEySDRzLjU1LTMuMDMgMi00YzEuNjItMS4wOCA1IC4wNSA1IC4wNSIgLz4KPC9zdmc+Cg==)
@@ -22075,7 +22107,7 @@ abstract final class LucideIcons {
 
   /// Represents the [ship] icon from the Lucide icon set.
   ///
-  /// ![ship](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTAuMTg5VjE0IiAvPgogIDxwYXRoIGQ9Ik0xMiAydjMiIC8+CiAgPHBhdGggZD0iTTE5IDEzVjdhMiAyIDAgMCAwLTItMkg3YTIgMiAwIDAgMC0yIDJ2NiIgLz4KICA8cGF0aCBkPSJNMTkuMzggMjBBMTEuNiAxMS42IDAgMCAwIDIxIDE0bC04LjE4OC0zLjYzOWEyIDIgMCAwIDAtMS42MjQgMEwzIDE0YTExLjYgMTEuNiAwIDAgMCAyLjgxIDcuNzYiIC8+CiAgPHBhdGggZD0iTTIgMjFjLjYuNSAxLjIgMSAyLjUgMSAyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDFzMS4yIDEgMi41IDFjMi41IDAgMi41LTIgNS0yIDEuMyAwIDEuOS41IDIuNSAxIiAvPgo8L3N2Zz4K)
+  /// ![ship](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xMiA5LjE4OVYxMyIgLz4KICA8cGF0aCBkPSJNMTkgMTJWNmEyIDIgMCAwMC0yLTJIN2EyIDIgMCAwMC0yIDJ2NiIgLz4KICA8cGF0aCBkPSJNMTkuMzggMTlBMTEuNiAxMS42IDAgMDAyMSAxM2wtOC4xODgtMy42MzlhMiAyIDAgMDAtMS42MjQgMEwzIDEzLjAwMWExMS42IDExLjYgMCAwMDIuODEgNy43NiIgLz4KICA8cGF0aCBkPSJNMiAyMGMuNi41IDEuMiAxIDIuNSAxIDIuNSAwIDIuNS0yIDUtMiAxLjMgMCAxLjkuNSAyLjUgMXMxLjIgMSAyLjUgMWMyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [ship] icon is a graphical symbol that conveys a specific idea or functionality related to boat, knots, nautical mile, maritime, sailing, yacht, cruise, ocean liner, tanker, vessel, navy, trip, releases.
@@ -22085,6 +22117,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData ship = IconData(
     0xe3ba,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [ship_cargo] icon from the Lucide icon set.
+  ///
+  /// ![ship_cargo](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTV2LTMiIC8+CiAgPHBhdGggZD0iTTEyIDJ2MiIgLz4KICA8cGF0aCBkPSJNMTYuNSAxMlY5YTEgMSAwIDAxMS0xaDFhMSAxIDAgMDAxLTFWNWExIDEgMCAwMC0xLTFoLTEzYTEgMSAwIDAwLTEgMXYyYTEgMSAwIDAwMSAxaDFhMSAxIDAgMDExIDF2MyIgLz4KICA8cGF0aCBkPSJNMTkuMzggMTljMS4wNzYtMS44MTUgMS42MzYtNC44OSAxLjYyOC02LjAwOGExIDEgMCAwMC0xLS45OTJIMy45ODRhMSAxIDAgMDAtMSAuOTg0Yy0uMDMgMS44Ni45NyA1LjYyMSAyLjgyNiA3Ljc3NiIgLz4KICA8cGF0aCBkPSJNMiAyMGMuNi41IDEuMiAxIDIuNSAxIDIuNSAwIDIuNS0yIDUtMiAxLjMgMCAxLjkuNSAyLjUgMXMxLjIgMSAyLjUgMWMyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [ship_cargo] icon is a graphical symbol that conveys a specific idea or functionality related to boat, knots, nautical mile, maritime, sailing, cruise, ocean liner, tanker, vessel, navy, cargo, container, freighter, freight, shipping, port, harbor, dock, logistics, import, export.
+  /// - It belongs to the categories: transportation, navigation, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/l0uisgrange](https://github.com/l0uisgrange), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData ship_cargo = IconData(
+    0xe741,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -26021,6 +26069,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
   static const IconData traffic_cone = IconData(
     0xe505,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [trailer] icon from the Lucide icon set.
+  ///
+  /// ![trailer](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTEuMzQxVjEwIiAvPgogIDxwYXRoIGQ9Ik0xNCAxM3YtMyIgLz4KICA8cGF0aCBkPSJNMTggMTdWOGEyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2N2EyIDIgMCAwMDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yMiAxNXYxYTEgMSAwIDAxLTEgMUgxMCIgLz4KICA8cGF0aCBkPSJNNiAxMS4zNDFWMTAiIC8+CiAgPGNpcmNsZSBjeD0iOCIgY3k9IjE3IiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [trailer] icon is a graphical symbol that conveys a specific idea or functionality related to tow, shipping, delivery, haulage, vehicle, equipment, freight.
+  /// - It belongs to the categories: transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/MadsMadsDk](https://github.com/MadsMadsDk), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData trailer = IconData(
+    0xe742,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
