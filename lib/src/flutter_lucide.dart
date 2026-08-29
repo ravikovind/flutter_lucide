@@ -1579,14 +1579,14 @@ abstract final class LucideIcons {
 
   /// Represents the [asterisk] icon from the Lucide icon set.
   ///
-  /// ![asterisk](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnYxMiIgLz4KICA8cGF0aCBkPSJNMTcuMTk2IDkgNi44MDQgMTUiIC8+CiAgPHBhdGggZD0ibTYuODA0IDkgMTAuMzkyIDYiIC8+Cjwvc3ZnPgo=)
+  /// ![asterisk](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNXYxNCIgLz4KICA8cGF0aCBkPSJtMTguMDY1IDguNDk2LTEyLjEyNSA3IiAvPgogIDxwYXRoIGQ9Im01Ljk0IDguNTA0IDEyLjEyNSA3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
+  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to symbol, sterisk, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
   /// - It belongs to the categories: text, math, development
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData asterisk = IconData(
     0xe1ef,
     fontFamily: _fontFamily,
@@ -1835,7 +1835,7 @@ abstract final class LucideIcons {
 
   /// Represents the [badge_check] icon from the Lucide icon set.
   ///
-  /// ![badge_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0ibTkgMTIgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
+  /// ![badge_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0ibTE2IDktNS41IDUuNUw4IDEyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [badge_check] icon is a graphical symbol that conveys a specific idea or functionality related to verified, check.
@@ -2507,14 +2507,14 @@ abstract final class LucideIcons {
 
   /// Represents the [beef] icon from the Lucide icon set.
   ///
-  /// ![beef](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuNCAxMy43QTYuNSA2LjUgMCAxIDAgNi4yOCA2LjZjLTEuMSAzLjEzLS43OCAzLjktMy4xOCA2LjA4QTMgMyAwIDAgMCA1IDE4YzQgMCA4LjQtMS44IDExLjQtNC4zIiAvPgogIDxwYXRoIGQ9Im0xOC41IDYgMi4xOSA0LjVhNi40OCA2LjQ4IDAgMCAxLTIuMjkgNy4yQzE1LjQgMjAuMiAxMSAyMiA3IDIyYTMgMyAwIDAgMS0yLjY4LTEuNjZMMi40IDE2LjUiIC8+CiAgPGNpcmNsZSBjeD0iMTIuNSIgY3k9IjguNSIgcj0iMi41IiAvPgo8L3N2Zz4K)
+  /// ![beef](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuNCAxMy43QTYuNSA2LjUgMCAxIDAgNi4yOCA2LjZjLTEuMSAzLjEzLS43OCAzLjktMy4xOCA2LjA4QTMgMyAwIDAgMCA1IDE4YzQgMCA4LjQtMS44IDExLjQtNC4zIiAvPgogIDxwYXRoIGQ9Im0xOC41IDYgMS43NTQgMy41YTYuNDggNi40OCAwIDAgMS0xLjg1NCA4LjJDMTUuNCAyMC4yIDExIDIyIDcgMjJhMyAzIDAgMCAxLTIuNjgtMS42NkwyLjQgMTYuNSIgLz4KICA8Y2lyY2xlIGN4PSIxMi41IiBjeT0iOC41IiByPSIyLjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [beef] icon is a graphical symbol that conveys a specific idea or functionality related to food, dish, restaurant, course, meal, meat, bbq, steak.
   /// - It belongs to the categories: food-beverage
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData beef = IconData(
     0xe3a5,
     fontFamily: _fontFamily,
@@ -2891,14 +2891,14 @@ abstract final class LucideIcons {
 
   /// Represents the [blend] icon from the Lucide icon set.
   ///
-  /// ![blend](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI5IiBjeT0iOSIgcj0iNyIgLz4KICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSI3IiAvPgo8L3N2Zz4K)
+  /// ![blend](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjkiIHI9IjciIC8+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjE1IiByPSI3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [blend] icon is a graphical symbol that conveys a specific idea or functionality related to mode, overlay, multiply, screen, opacity, transparency, alpha, filters, lenses, mixed, shades, tints, hues, saturation, brightness, overlap, colors, colours.
+  /// - The [blend] icon is a graphical symbol that conveys a specific idea or functionality related to mode, overlay, multiply, screen, opacity, transparency, alpha, filters, lenses, mixed, shades, tints, hues, saturation, brightness, overlap, colors, colours, marriage, rings, couple, connection.
   /// - It belongs to the categories: design, photography, tools, development
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData blend = IconData(
     0xe59c,
     fontFamily: _fontFamily,
@@ -3499,7 +3499,7 @@ abstract final class LucideIcons {
 
   /// Represents the [book_x] icon from the Lucide icon set.
   ///
-  /// ![book_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuNSA3LTUgNSIgLz4KICA8cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIgLz4KICA8cGF0aCBkPSJtOS41IDcgNSA1IiAvPgo8L3N2Zz4K)
+  /// ![book_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuNSA3LjUtNSA1IiAvPgogIDxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJIMTlhMSAxIDAgMCAxIDEgMXYxOGExIDEgMCAwIDEtMSAxSDYuNWExIDEgMCAwIDEgMC01SDIwIiAvPgogIDxwYXRoIGQ9Im05LjUgNy41IDUgNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [book_x] icon is a graphical symbol that conveys a specific idea or functionality related to code, coding, version control, git, repository, remove, delete, reading, misinformation, disinformation, misinformed, charlatan, sophistry, false, lies, untruth, propaganda, censored, cancelled, forbidden, prohibited, banned, uneducated, re-education, unlearn.
@@ -5979,7 +5979,7 @@ abstract final class LucideIcons {
 
   /// Represents the [circle_check] icon from the Lucide icon set.
   ///
-  /// ![circle_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtOSAxMiAyIDIgNC00IiAvPgo8L3N2Zz4K)
+  /// ![circle_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtMTYgOS01LjUgNS41TDggMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [circle_check] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
@@ -6123,10 +6123,10 @@ abstract final class LucideIcons {
 
   /// Represents the [circle_dot] icon from the Lucide icon set.
   ///
-  /// ![circle_dot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIiAvPgo8L3N2Zz4K)
+  /// ![circle_dot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [circle_dot] icon is a graphical symbol that conveys a specific idea or functionality related to pending, dot, progress, issue, code, coding, version control, choices, multiple choice, choose.
+  /// - The [circle_dot] icon is a graphical symbol that conveys a specific idea or functionality related to pending, dot, progress, issue, code, coding, version control, choices, multiple choice, choose, album, music, songs, format, cd, dvd, vinyl, sleeve, cover, platinum, compilation, ep, recording, playback, spin, rotate, rpm, dj.
   /// - It belongs to the categories: development, shapes
   ///
   /// Acknowledgements:
@@ -6795,7 +6795,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clipboard_x] icon from the Lucide icon set.
   ///
-  /// ![clipboard_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiIC8+CiAgPHBhdGggZD0ibTE1IDExLTYgNiIgLz4KICA8cGF0aCBkPSJtOSAxMSA2IDYiIC8+Cjwvc3ZnPgo=)
+  /// ![clipboard_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiIC8+CiAgPHBhdGggZD0ibTE0LjUgMTEuNS01IDUiIC8+CiAgPHBhdGggZD0ibTkuNSAxMS41IDUgNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [clipboard_x] icon is a graphical symbol that conveys a specific idea or functionality related to copy, paste, discard, remove.
@@ -7099,7 +7099,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clock_check] icon from the Lucide icon set.
   ///
-  /// ![clock_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDQgMiIgLz4KICA8cGF0aCBkPSJNMjIgMTJhMTAgMTAgMCAxIDAtMTEgOS45NSIgLz4KICA8cGF0aCBkPSJtMjIgMTYtNS41IDUuNUwxNCAxOSIgLz4KPC9zdmc+Cg==)
+  /// ![clock_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuOTUgMTNhMTAgMTAgMCAxIDAtOC42ODUgOC45MiIgLz4KICA8cGF0aCBkPSJNMTIgNnY2bDQgMiIgLz4KICA8cGF0aCBkPSJtMTYgMTkgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [clock_check] icon is a graphical symbol that conveys a specific idea or functionality related to time, watch, alarm.
@@ -7979,7 +7979,7 @@ abstract final class LucideIcons {
 
   /// Represents the [copy_x] icon from the Lucide icon set.
   ///
-  /// ![copy_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8bGluZSB4MT0iMTIiIHgyPSIxOCIgeTE9IjEyIiB5Mj0iMTgiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTgiIHkxPSIxOCIgeTI9IjEyIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iOCIgeT0iOCIgcng9IjIiIHJ5PSIyIiAvPgogIDxwYXRoIGQ9Ik00IDE2Yy0xLjEgMC0yLS45LTItMlY0YzAtMS4xLjktMiAyLTJoMTBjMS4xIDAgMiAuOSAyIDIiIC8+Cjwvc3ZnPgo=)
+  /// ![copy_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxNmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAyIiAvPgogIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+CiAgPHBhdGggZD0ibTEyLjUgMTIuNSA1IDUiIC8+CiAgPHBhdGggZD0ibTEyLjUgMTcuNSA1LTUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [copy_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, clear, multiple, multiply, multiplication, times.
@@ -8197,6 +8197,70 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData credit_card = IconData(
     0xe0aa,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [credit_card_check] icon from the Lucide icon set.
+  ///
+  /// ![credit_card_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjQiIC8+CiAgPHBhdGggZD0ibTE2IDE3IDIgMiA0LTQiIC8+CiAgPHBhdGggZD0iTTIgMTBoMjAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [credit_card_check] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc.
+  /// - It belongs to the categories: account, finance, shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData credit_card_check = IconData(
+    0xe743,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [credit_card_minus] icon from the Lucide icon set.
+  ///
+  /// ![credit_card_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNMjIgMTBIMiIgLz4KICA8cGF0aCBkPSJNMjIgMTNWN2EyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAyIDJoOC41MzYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [credit_card_minus] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, remove, delete, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, purchase, checkout, subtract, minus, bank, cc.
+  /// - It belongs to the categories: account, finance, shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ameniti-mx](https://github.com/ameniti-mx)
+  static const IconData credit_card_minus = IconData(
+    0xe744,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [credit_card_plus] icon from the Lucide icon set.
+  ///
+  /// ![credit_card_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTR2NiIgLz4KICA8cGF0aCBkPSJNMjIgMTBIMiIgLz4KICA8cGF0aCBkPSJNMjIgMTEuMzU0VjdhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEwYTIgMiAwIDAwMiAyaDguNTM2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [credit_card_plus] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, add, new, link, save, method, plastic, bank, cc.
+  /// - It belongs to the categories: account, finance, shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ameniti-mx](https://github.com/ameniti-mx)
+  static const IconData credit_card_plus = IconData(
+    0xe74b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [credit_card_x] icon from the Lucide icon set.
+  ///
+  /// ![credit_card_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjMuNSIgLz4KICA8cGF0aCBkPSJtMTYuNSAxNC41IDUgNSIgLz4KICA8cGF0aCBkPSJNMiAxMGgyMCIgLz4KICA8cGF0aCBkPSJtMjEuNSAxNC41LTUgNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [credit_card_x] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, declined, rejected, failed, invalid, canceled, error, cancel, bank, cc.
+  /// - It belongs to the categories: account, finance, shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData credit_card_x = IconData(
+    0xe745,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -9611,7 +9675,7 @@ abstract final class LucideIcons {
 
   /// Represents the [face_angry] icon from the Lucide icon set.
   ///
-  /// ![face_angry](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTFWOS40MTYiIC8+CiAgPHBhdGggZD0iTTE3IDlhNSA1IDAgMDAtMyAxIiAvPgogIDxwYXRoIGQ9Ik03IDlhNSA1IDAgMDEzIDEiIC8+CiAgPHBhdGggZD0iTTkgMTFWOS40MTYiIC8+CiAgPHBhdGggZD0iTTkgMTZhNSA1IDAgMDE2LjAwMSAwIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  /// ![face_angry](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTJ2LTEuNTg0IiAvPgogIDxwYXRoIGQ9Ik0xNyAxMGE1IDUgMCAwMC0zIDEiIC8+CiAgPHBhdGggZD0iTTcgMTBhNSA1IDAgMDEzIDEiIC8+CiAgPHBhdGggZD0iTTkgMTJ2LTEuNTg0IiAvPgogIDxwYXRoIGQ9Ik05IDE3YTUgNSAwIDAxNi4wMDEgMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [face_angry] icon is a graphical symbol that conveys a specific idea or functionality related to anger, rage, fury, resentment, irritation, disgust, emoji, emotion.
@@ -12014,7 +12078,7 @@ abstract final class LucideIcons {
   /// ![ghost](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTB2MSIgLz4KICA8cGF0aCBkPSJNNy41MjggMjAuNDcyYTEuNiAxLjYgMCAwMTIuMjc3IDBsMS4wNTcgMS4wNTZhMS42IDEuNiAwIDAwMi4yNzYgMGwxLjA1Ny0xLjA1NmExLjYgMS42IDAgMDEyLjI3NyAwbDEuMTE0IDEuMTE0YTEuNCAxLjQgMCAwMDIuNDE0LTFWMTBhOCA4IDAgMDAtMTYgMHYxMC41ODZhMS40IDEuNCAwIDAwMi40MTQgMXoiIC8+CiAgPHBhdGggZD0iTTkgMTB2MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [ghost] icon is a graphical symbol that conveys a specific idea or functionality related to spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky.
+  /// - The [ghost] icon is a graphical symbol that conveys a specific idea or functionality related to spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky, halloween, haunted, invisible, hidden, empty, dead, obsolete, outdated.
   /// - It belongs to the categories: gaming
   ///
   /// Acknowledgements:
@@ -12203,7 +12267,7 @@ abstract final class LucideIcons {
 
   /// Represents the [git_merge_conflict] icon from the Lucide icon set.
   ///
-  /// ![git_merge_conflict](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNmg0YTIgMiAwIDAgMSAyIDJ2NyIgLz4KICA8cGF0aCBkPSJNNiAxMnY5IiAvPgogIDxwYXRoIGQ9Ik05IDMgMyA5IiAvPgogIDxwYXRoIGQ9Ik05IDkgMyAzIiAvPgogIDxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  /// ![git_merge_conflict](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNmg0YTIgMiAwIDAgMSAyIDJ2NyIgLz4KICA8cGF0aCBkPSJNNiAxMnY5IiAvPgogIDxwYXRoIGQ9Im04LjUgMy41LTUgNSIgLz4KICA8cGF0aCBkPSJtOC41IDguNS01LTUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [git_merge_conflict] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, commits, diff, error, conflict.
@@ -12251,7 +12315,7 @@ abstract final class LucideIcons {
 
   /// Represents the [git_pull_request_closed] icon from the Lucide icon set.
   ///
-  /// ![git_pull_request_closed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMyIgLz4KICA8cGF0aCBkPSJNNiA5djEyIiAvPgogIDxwYXRoIGQ9Im0yMSAzLTYgNiIgLz4KICA8cGF0aCBkPSJtMjEgOS02LTYiIC8+CiAgPHBhdGggZD0iTTE4IDExLjVWMTUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  /// ![git_pull_request_closed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuNSAzLjUgNSA1IiAvPgogIDxwYXRoIGQ9Im0xNS41IDguNSA1LTUiIC8+CiAgPHBhdGggZD0iTTE4IDExLjYyVjE1IiAvPgogIDxwYXRoIGQ9Ik02IDl2MTIiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [git_pull_request_closed] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, rejected, closed, cancelled, x.
@@ -12539,7 +12603,7 @@ abstract final class LucideIcons {
 
   /// Represents the [grid_2x2_x] icon from the Lucide icon set.
   ///
-  /// ![grid_2x2_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxN2ExIDEgMCAwIDEtMSAxSDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnY2YTEgMSAwIDAgMS0xIDFIMyIgLz4KICA8cGF0aCBkPSJtMTYgMTYgNSA1IiAvPgogIDxwYXRoIGQ9Im0xNiAyMSA1LTUiIC8+Cjwvc3ZnPgo=)
+  /// ![grid_2x2_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxN2ExIDEgMCAwIDEtMSAxSDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnY2YTEgMSAwIDAgMS0xIDFIMyIgLz4KICA8cGF0aCBkPSJtMTYuNSAxNi41IDUgNSIgLz4KICA8cGF0aCBkPSJtMTYuNSAyMS41IDUtNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [grid_2x2_x] icon is a graphical symbol that conveys a specific idea or functionality related to table, rows, columns, data, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre.
@@ -13947,7 +14011,7 @@ abstract final class LucideIcons {
 
   /// Represents the [key] icon from the Lucide icon set.
   ///
-  /// ![key](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuNSA3LjUgMi4zIDIuM2ExIDEgMCAwIDAgMS40IDBsMi4xLTIuMWExIDEgMCAwIDAgMC0xLjRMMTkgNCIgLz4KICA8cGF0aCBkPSJtMjEgMi05LjYgOS42IiAvPgogIDxjaXJjbGUgY3g9IjcuNSIgY3k9IjE1LjUiIHI9IjUuNSIgLz4KPC9zdmc+Cg==)
+  /// ![key](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMiAyMSA5LjYtOS42IiAvPgogIDxwYXRoIGQ9Im03LjUgMTUuNSAyLjMgMi4zYTEgMSAwIDAgMSAwIDEuNGwtMi4xIDIuMWExIDEgMCAwIDEtMS40IDBMNCAxOSIgLz4KICA8Y2lyY2xlIGN4PSIxNS41IiBjeT0iNy41IiByPSI1LjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [key] icon is a graphical symbol that conveys a specific idea or functionality related to password, login, authentication, secure, unlock, keychain, key ring, fob.
@@ -15579,7 +15643,7 @@ abstract final class LucideIcons {
 
   /// Represents the [mail_x] icon from the Lucide icon set.
   ///
-  /// ![mail_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTNWNmEyIDIgMCAwIDAtMi0ySDRhMiAyIDAgMCAwLTIgMnYxMmMwIDEuMS45IDIgMiAyaDkiIC8+CiAgPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciIC8+CiAgPHBhdGggZD0ibTE3IDE3IDQgNCIgLz4KICA8cGF0aCBkPSJtMjEgMTctNCA0IiAvPgo8L3N2Zz4K)
+  /// ![mail_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTIuNTMyVjZhMiAyIDAgMCAwLTItMkg0YTIgMiAwIDAgMC0yIDJ2MTJhMiAyIDAgMCAwIDIgMmg4Ljc5MiIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk5MSA1LjcyN2EyIDIgMCAwIDEtMi4wMDkgMEwyIDciIC8+CiAgPHBhdGggZD0ibTE2LjUgMTYuNSA1IDUiIC8+CiAgPHBhdGggZD0ibTIxLjUgMTYuNS01IDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [mail_x] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, remove, delete.
@@ -16091,7 +16155,7 @@ abstract final class LucideIcons {
 
   /// Represents the [message_circle_check] icon from the Lucide icon set.
   ///
-  /// ![message_circle_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0ibTkgMTIgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
+  /// ![message_circle_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0ibTE2IDktNS41IDUuNUw4IDEyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [message_circle_check] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, moderate, check, done, todo, complete.
@@ -16133,6 +16197,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData message_circle_dashed = IconData(
     0xe563,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [message_circle_dashed_check] icon from the Lucide icon set.
+  ///
+  /// ![message_circle_dashed_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4MmExMCAxMCAwIDAxMy44IDAiIC8+CiAgPHBhdGggZD0iTTEzLjkgMjEuODE4YTEwIDEwIDAgMDEtMy44IDAiIC8+CiAgPHBhdGggZD0iTTE3LjYwOSAzLjcyYTEwIDEwIDAgMDEyLjY5IDIuNyIgLz4KICA8cGF0aCBkPSJNMi4xODIgMTMuOWExMCAxMCAwIDAxMC0zLjgiIC8+CiAgPHBhdGggZD0iTTIwLjI4IDE3LjYxYTEwIDEwIDAgMDEtMi43IDIuNjkiIC8+CiAgPHBhdGggZD0iTTIxLjgxOCAxMC4xYTEwIDEwIDAgMDEwIDMuOCIgLz4KICA8cGF0aCBkPSJNMy43MjEgNi4zOTFhMTAgMTAgMCAwMTIuNy0yLjY5IiAvPgogIDxwYXRoIGQ9Im02LjE2MyAyMS4xMTctMi45MDYuODVhMSAxIDAgMDEtMS4yMzYtMS4xNjlsLjk2NS0yLjk4IiAvPgogIDxwYXRoIGQ9Im0xNiA5LTUuNSA1LjVMOCAxMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [message_circle_dashed_check] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubble, draft, pending, provisional, verification, confirmation, success, status, check, approval, moderate, resolved, done, complete.
+  /// - It belongs to the categories: social, account
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/aliyasirnac](https://github.com/aliyasirnac)
+  static const IconData message_circle_dashed_check = IconData(
+    0xe746,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18235,14 +18315,14 @@ abstract final class LucideIcons {
 
   /// Represents the [panda] icon from the Lucide icon set.
   ///
-  /// ![panda](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuMjUgMTcuMjVoMS41TDEyIDE4eiIgLz4KICA8cGF0aCBkPSJtMTUgMTIgMiAyIiAvPgogIDxwYXRoIGQ9Ik0xOCA2LjVhLjUuNSAwIDAgMC0uNS0uNSIgLz4KICA8cGF0aCBkPSJNMjAuNjkgOS42N2E0LjUgNC41IDAgMSAwLTcuMDQtNS41IDguMzUgOC4zNSAwIDAgMC0zLjMgMCA0LjUgNC41IDAgMSAwLTcuMDQgNS41QzIuNDkgMTEuMiAyIDEyLjg4IDIgMTQuNSAyIDE5LjQ3IDYuNDggMjIgMTIgMjJzMTAtMi41MyAxMC03LjVjMC0xLjYyLS40OC0zLjMtMS4zLTQuODMiIC8+CiAgPHBhdGggZD0iTTYgNi41YS40OTUuNDk1IDAgMCAxIC41LS41IiAvPgogIDxwYXRoIGQ9Im05IDEyLTIgMiIgLz4KPC9zdmc+Cg==)
+  /// ![panda](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuMjUgMTcuMjVoMS41TDEyIDE4eiIgLz4KICA8cGF0aCBkPSJtMTUgMTIgMiAyIiAvPgogIDxwYXRoIGQ9Ik0xNy45MDIgNi41OTlhOCA4IDAgMCAwLS41LS41IiAvPgogIDxwYXRoIGQ9Ik0yIDE0LjVDMiAxOS40NyA2LjQ4IDIyIDEyIDIyczEwLTIuNTMgMTAtNy41YTEwIDEwIDAgMCAwLTEuMy00LjgzIDQuNSA0LjUgMCAxIDAtNy4wNS01LjUgOCA4IDAgMCAwLTMuMyAwIDQuNSA0LjUgMCAxIDAtNy4wNCA1LjVBMTAgMTAgMCAwIDAgMiAxNC41IiAvPgogIDxwYXRoIGQ9Ik02LjA5OSA2LjU5OWE4IDggMCAwIDEgLjUtLjUiIC8+CiAgPHBhdGggZD0ibTkgMTItMiAyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [panda] icon is a graphical symbol that conveys a specific idea or functionality related to animal, wildlife, bear, zoo, bamboo.
   /// - It belongs to the categories: animals
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  /// - Contributors: [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData panda = IconData(
     0xe668,
     fontFamily: _fontFamily,
@@ -19083,7 +19163,7 @@ abstract final class LucideIcons {
 
   /// Represents the [piano] icon from the Lucide icon set.
   ///
-  /// ![piano](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTguNSA4Yy0xLjQgMC0yLjYtLjgtMy4yLTJBNi44NyA2Ljg3IDAgMCAwIDIgOXYxMWEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJ2LTguNUMyMiA5LjYgMjAuNCA4IDE4LjUgOCIgLz4KICA8cGF0aCBkPSJNMiAxNGgyMCIgLz4KICA8cGF0aCBkPSJNNiAxNHY0IiAvPgogIDxwYXRoIGQ9Ik0xMCAxNHY0IiAvPgogIDxwYXRoIGQ9Ik0xNCAxNHY0IiAvPgogIDxwYXRoIGQ9Ik0xOCAxNHY0IiAvPgo8L3N2Zz4K)
+  /// ![piano](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTN2NCIgLz4KICA8cGF0aCBkPSJNMTQgMTN2NCIgLz4KICA8cGF0aCBkPSJNMTggMTN2NCIgLz4KICA8cGF0aCBkPSJNMiAxM2gyMCIgLz4KICA8cGF0aCBkPSJNMjIgMTEuNUEzLjUgMy41IDAgMDAxOC41IDhhMy41MiAzLjUyIDAgMDEtMy4xNzMtMkE3IDcgMCAwMDIgOXYxMGEyIDIgMCAwMDIgMmgxNmEyIDIgMCAwMDItMnoiIC8+CiAgPHBhdGggZD0iTTYgMTN2NCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [piano] icon is a graphical symbol that conveys a specific idea or functionality related to music, audio, sound, noise, notes, chord, keys, octave, acoustic, instrument, play, pianist, performance, concert.
@@ -19381,6 +19461,54 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Ahmed-Dghaies](https://github.com/Ahmed-Dghaies)
   static const IconData play_off = IconData(
     0xe6fe,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [playing_card] icon from the Lucide icon set.
+  ///
+  /// ![playing_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuODMyIDguNDQ1YTEgMSAwIDAwLTEuNTg5LS4wOThsLTIuMDc1IDMuMDk4YTEgMSAwIDAwMCAxLjExbDIgM2ExIDEgMCAwMDEuNjY0IDBsMi0zYTEgMSAwIDAwMC0xLjExeiIgLz4KICA8cmVjdCB4PSI1IiB5PSIyIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [playing_card] icon is a graphical symbol that conveys a specific idea or functionality related to deck, draw, deal, shuffle, chance, random, selection, tabletop, flashcard, study, learning, prompt, icebreaker, conversation, collectible, trading, poker, casino, game, gambling, suit.
+  /// - It belongs to the categories: gaming, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Barakudum](https://github.com/Barakudum), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData playing_card = IconData(
+    0xe747,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [playing_cards] icon from the Lucide icon set.
+  ///
+  /// ![playing_cards](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQuODMyIDguNDQ1YTEgMSAwIDAwLTEuNTg5LS4wOThsLTIuMDc1IDMuMDk4YTEgMSAwIDAwMCAxLjExbDIgM2ExIDEgMCAwMDEuNjY0IDBsMi0zYTEgMSAwIDAwMC0xLjExeiIgLz4KICA8cGF0aCBkPSJtNy4xOCAyMC44MjctNS0xMWEyIDIgMCAwMS45OTMtMi42NDdMNyA1LjQ0IiAvPgogIDxyZWN0IHg9IjciIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [playing_cards] icon is a graphical symbol that conveys a specific idea or functionality related to deck, stack, shuffle, deal, draw, hand, tabletop, planning poker, scrum, agile, estimation, estimate, flashcards, study, learning, collectible, collection, trading, poker, casino, game, gambling, suit.
+  /// - It belongs to the categories: gaming, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Barakudum](https://github.com/Barakudum), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData playing_cards = IconData(
+    0xe749,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [playing_cards_fan] icon from the Lucide icon set.
+  ///
+  /// ![playing_cards_fan](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjUgNy42NWEyIDIgMCAwMTIuNjI5LTEuMDQ2bDUuNTEgMi4zNzRhMiAyIDAgMDExLjA0NiAyLjYyOGwtMy45NTcgOS4xODRhMiAyIDAgMDEtMi42MjggMS4wNDZsLTUuNTEtMi4zNzRhMiAyIDAgMDEtMS4wNDYtMi42Mjh6IiAvPgogIDxwYXRoIGQ9Ik0xOCA3Ljc3N1Y0YTIgMiAwIDAwLTItMmgtNmEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAxLjEzNyAxLjgwNSIgLz4KICA8cGF0aCBkPSJtOCA0LjM4OS00LjM2NC44MDlhMiAyIDAgMDAtMS42MDIgMi4zM2wxLjgyMiA5LjgzM2EyIDIgMCAwMDIuMzMxIDEuNjAybDIuNTQyLS40NyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [playing_cards_fan] icon is a graphical symbol that conveys a specific idea or functionality related to deck, fan, spread, hand, deal, dealt, draw, shuffle, tabletop, planning poker, scrum, agile, estimation, estimate, prompt, icebreaker, conversation, collectible, collection, trading, poker, casino, game, gambling, suit.
+  /// - It belongs to the categories: gaming, development, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Barakudum](https://github.com/Barakudum), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData playing_cards_fan = IconData(
+    0xe748,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -20549,6 +20677,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/zoharma](https://github.com/zoharma), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData robot_arm = IconData(
     0xe740,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [robot_vacuum] icon from the Lucide icon set.
+  ///
+  /// ![robot_vacuum](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTdoMiIgLz4KICA8cGF0aCBkPSJNMTIgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNyAxMmE1IDUgMCAwMC0xMCAwIiAvPgogIDxwYXRoIGQ9Ik0xOSAydjIuOCIgLz4KICA8cGF0aCBkPSJNMiA1aDIuOCIgLz4KICA8cGF0aCBkPSJNMjIgNWgtMi44IiAvPgogIDxwYXRoIGQ9Ik01IDJ2Mi44IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [robot_vacuum] icon is a graphical symbol that conveys a specific idea or functionality related to appliance, cleaning, household, housekeeping, tool, maintenance, smarthome, sweeping, hygiene, chores, automation, smart home, device, floor, dust, debris, navigation, sensor.
+  /// - It belongs to the categories: devices, home, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/benhaube](https://github.com/benhaube), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData robot_vacuum = IconData(
+    0xe74a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -22203,14 +22347,14 @@ abstract final class LucideIcons {
 
   /// Represents the [shopping_cart] icon from the Lucide icon set.
   ///
-  /// ![shopping_cart](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMjEiIHI9IjEiIC8+CiAgPGNpcmNsZSBjeD0iMTkiIGN5PSIyMSIgcj0iMSIgLz4KICA8cGF0aCBkPSJNMi4wNSAyLjA1aDJsMi42NiAxMi40MmEyIDIgMCAwIDAgMiAxLjU4aDkuNzhhMiAyIDAgMCAwIDEuOTUtMS41N2wxLjY1LTcuNDNINS4xMiIgLz4KPC9zdmc+Cg==)
+  /// ![shopping_cart](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMi4wNSAyLjA1IDEuMDk5LS4wMjhhMSAxIDAgMCAxIDEuMDA4LjgxNWwyLjY5IDE0LjM0N0ExIDEgMCAwIDAgNy44MyAxOEgxOCIgLz4KICA8cGF0aCBkPSJNNC41NjMgNWgxNi40MzVhMSAxIDAgMCAxIC45ODEgMS4yMDRsLTEuMDI2IDYuMjI2QTIgMiAwIDAgMSAxOC45NjIgMTRINi4yNSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjIwIiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjgiIGN5PSIyMCIgcj0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [shopping_cart] icon is a graphical symbol that conveys a specific idea or functionality related to trolley, cart, basket, e-commerce, store, purchase, products, items, ingredients.
   /// - It belongs to the categories: shopping
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData shopping_cart = IconData(
     0xe15c,
     fontFamily: _fontFamily,
@@ -22843,7 +22987,7 @@ abstract final class LucideIcons {
 
   /// Represents the [spell_check] icon from the Lucide icon set.
   ///
-  /// ![spell_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtNiAxNiA2LTEyIDYgMTIiIC8+CiAgPHBhdGggZD0iTTggMTJoOCIgLz4KICA8cGF0aCBkPSJtMTYgMjAgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
+  /// ![spell_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjAgMTUtNS41IDUuNUwxMiAxOCIgLz4KICA8cGF0aCBkPSJtNCAxNiA2LTEyIDUuMTE1IDEwLjIzIiAvPgogIDxwYXRoIGQ9Ik02IDEyaDgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [spell_check] icon is a graphical symbol that conveys a specific idea or functionality related to spelling, error, mistake, oversight, typo, correction, code, linter, a.
@@ -23339,7 +23483,7 @@ abstract final class LucideIcons {
 
   /// Represents the [square_check] icon from the Lucide icon set.
   ///
-  /// ![square_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Im05IDEyIDIgMiA0LTQiIC8+Cjwvc3ZnPgo=)
+  /// ![square_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Im0xNiA5LTUuNSA1LjVMOCAxMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [square_check] icon is a graphical symbol that conveys a specific idea or functionality related to done, todo, tick, complete, task.
@@ -23995,14 +24139,14 @@ abstract final class LucideIcons {
 
   /// Represents the [square_split_horizontal] icon from the Lucide icon set.
   ///
-  /// ![square_split_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxOUg1Yy0xIDAtMi0xLTItMlY3YzAtMSAxLTIgMi0yaDMiIC8+CiAgPHBhdGggZD0iTTE2IDVoM2MxIDAgMiAxIDIgMnYxMGMwIDEtMSAyLTIgMmgtMyIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjQiIHkyPSIyMCIgLz4KPC9zdmc+Cg==)
+  /// ![square_split_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYyMCIgLz4KICA8cGF0aCBkPSJNMTYgM2gzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMmgtMyIgLz4KICA8cGF0aCBkPSJNOCAyMUg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [square_split_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to split, divide.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData square_split_horizontal = IconData(
     0xe3b6,
     fontFamily: _fontFamily,
@@ -24011,14 +24155,14 @@ abstract final class LucideIcons {
 
   /// Represents the [square_split_vertical] icon from the Lucide icon set.
   ///
-  /// ![square_split_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSA4VjVjMC0xIDEtMiAyLTJoMTBjMSAwIDIgMSAyIDJ2MyIgLz4KICA8cGF0aCBkPSJNMTkgMTZ2M2MwIDEtMSAyLTIgMkg3Yy0xIDAtMi0xLTItMnYtMyIgLz4KICA8bGluZSB4MT0iNCIgeDI9IjIwIiB5MT0iMTIiIHkyPSIxMiIgLz4KPC9zdmc+Cg==)
+  /// ![square_split_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmgyMCIgLz4KICA8cGF0aCBkPSJNMjEgMTZ2M2EyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtMyIgLz4KICA8cGF0aCBkPSJNMyA4VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [square_split_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to split, divide.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/Patchethium](https://github.com/Patchethium), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData square_split_vertical = IconData(
     0xe3b7,
     fontFamily: _fontFamily,
@@ -24875,10 +25019,10 @@ abstract final class LucideIcons {
 
   /// Represents the [sword] icon from the Lucide icon set.
   ///
-  /// ![sword](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMTktNi02IiAvPgogIDxwYXRoIGQ9Im01IDIxLTItMiIgLz4KICA8cGF0aCBkPSJtOCAxNi00IDQiIC8+CiAgPHBhdGggZD0iTTkuNSAxNy41IDIxIDZWM2gtM0w2LjUgMTQuNSIgLz4KPC9zdmc+Cg==)
+  /// ![sword](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMTktNi02IiAvPgogIDxwYXRoIGQ9Im01IDIxLTItMiIgLz4KICA8cGF0aCBkPSJtOCAxNi00IDQiIC8+CiAgPHBhdGggZD0iTTkuNSAxNy41IDIwLjQxNCA2LjU4NkEyIDIgMCAwMDIxIDUuMTcyVjNoLTIuMTcyYTIgMiAwIDAwLTEuNDE0LjU4Nkw2LjUgMTQuNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [sword] icon is a graphical symbol that conveys a specific idea or functionality related to battle, challenge, game, war, weapon.
+  /// - The [sword] icon is a graphical symbol that conveys a specific idea or functionality related to battle, challenge, combat, duel, fantasy, game, knight, melee, medieval, offense, rpg, sharp, weapon, war, warrior.
   /// - It belongs to the categories: gaming, tools
   ///
   /// Acknowledgements:
@@ -24891,14 +25035,14 @@ abstract final class LucideIcons {
 
   /// Represents the [swords] icon from the Lucide icon set.
   ///
-  /// ![swords](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cG9seWxpbmUgcG9pbnRzPSIxNC41IDE3LjUgMyA2IDMgMyA2IDMgMTcuNSAxNC41IiAvPgogIDxsaW5lIHgxPSIxMyIgeDI9IjE5IiB5MT0iMTkiIHkyPSIxMyIgLz4KICA8bGluZSB4MT0iMTYiIHgyPSIyMCIgeTE9IjE2IiB5Mj0iMjAiIC8+CiAgPGxpbmUgeDE9IjE5IiB4Mj0iMjEiIHkxPSIyMSIgeTI9IjE5IiAvPgogIDxwb2x5bGluZSBwb2ludHM9IjE0LjUgNi41IDE4IDMgMjEgMyAyMSA2IDE3LjUgOS41IiAvPgogIDxsaW5lIHgxPSI1IiB4Mj0iOSIgeTE9IjE0IiB5Mj0iMTgiIC8+CiAgPGxpbmUgeDE9IjciIHgyPSI0IiB5MT0iMTciIHkyPSIyMCIgLz4KICA8bGluZSB4MT0iMyIgeDI9IjUiIHkxPSIxOSIgeTI9IjIxIiAvPgo8L3N2Zz4K)
+  /// ![swords](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgMTkgNi02IiAvPgogIDxwYXRoIGQ9Ik0xNC41IDE3LjUgMy41ODYgNi41ODZBMiAyIDAgMDEzIDUuMTcyVjNoMi4xNzJhMiAyIDAgMDExLjQxNC41ODZMMTcuNSAxNC41IiAvPgogIDxwYXRoIGQ9Im0xNC44MjggNi4xNzIgMi41ODYtMi41ODZBMiAyIDAgMDExOC44MjggM0gyMXYyLjE3MmEyIDIgMCAwMS0uNTg2IDEuNDE0bC0yLjU4NiAyLjU4NiIgLz4KICA8cGF0aCBkPSJtMTYgMTYgNCA0IiAvPgogIDxwYXRoIGQ9Im0xOSAyMSAyLTIiIC8+CiAgPHBhdGggZD0ibTUgMTQgNCA0IiAvPgogIDxwYXRoIGQ9Im01IDIxLTItMiIgLz4KICA8cGF0aCBkPSJNNy41IDE2LjUgNCAyMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [swords] icon is a graphical symbol that conveys a specific idea or functionality related to battle, challenge, game, war, weapon.
+  /// - The [swords] icon is a graphical symbol that conveys a specific idea or functionality related to battle, challenge, combat, conflict, crossed, duel, faction, fantasy, game, melee, medieval, opponent, rivalry, rpg, versus, weapon, war, warrior.
   /// - It belongs to the categories: gaming, tools
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData swords = IconData(
     0xe2b4,
     fontFamily: _fontFamily,
@@ -27083,7 +27227,7 @@ abstract final class LucideIcons {
 
   /// Represents the [user_round_x] icon from the Lucide icon set.
   ///
-  /// ![user_round_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMWE4IDggMCAwIDEgMTEuODczLTciIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSI4IiByPSI1IiAvPgogIDxwYXRoIGQ9Im0xNyAxNyA1IDUiIC8+CiAgPHBhdGggZD0ibTIyIDE3LTUgNSIgLz4KPC9zdmc+Cg==)
+  /// ![user_round_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYuNSAxNi41IDUgNSIgLz4KICA8cGF0aCBkPSJNMiAyMWE4IDggMCAwIDEgMTEuNTMxLTcuMTgiIC8+CiAgPHBhdGggZD0ibTIxLjUgMTYuNS01IDUiIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSI4IiByPSI1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [user_round_x] icon is a graphical symbol that conveys a specific idea or functionality related to delete, remove, unfollow, unsubscribe, unavailable.
@@ -27563,7 +27707,7 @@ abstract final class LucideIcons {
 
   /// Represents the [volume_x] icon from the Lucide icon set.
   ///
-  /// ![volume_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNC43MDJhLjcwNS43MDUgMCAwIDAtMS4yMDMtLjQ5OEw2LjQxMyA3LjU4N0ExLjQgMS40IDAgMCAxIDUuNDE2IDhIM2ExIDEgMCAwIDAtMSAxdjZhMSAxIDAgMCAwIDEgMWgyLjQxNmExLjQgMS40IDAgMCAxIC45OTcuNDEzbDMuMzgzIDMuMzg0QS43MDUuNzA1IDAgMCAwIDExIDE5LjI5OHoiIC8+CiAgPGxpbmUgeDE9IjIyIiB4Mj0iMTYiIHkxPSI5IiB5Mj0iMTUiIC8+CiAgPGxpbmUgeDE9IjE2IiB4Mj0iMjIiIHkxPSI5IiB5Mj0iMTUiIC8+Cjwvc3ZnPgo=)
+  /// ![volume_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNC43MDJhLjcuNyAwIDAgMC0xLjIwMy0uNDk4TDYuNDEzIDcuNTg3QTEuNCAxLjQgMCAwIDEgNS40MTYgOEgzYTEgMSAwIDAgMC0xIDF2NmExIDEgMCAwIDAgMSAxaDIuNDE2YTEuNCAxLjQgMCAwIDEgLjk5Ny40MTNsMy4zODMgMy4zODRBLjcuNyAwIDAgMCAxMSAxOS4yOTh6IiAvPgogIDxwYXRoIGQ9Im0xNi41IDE0LjUgNS01IiAvPgogIDxwYXRoIGQ9Im0xNi41IDkuNSA1IDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [volume_x] icon is a graphical symbol that conveys a specific idea or functionality related to music, sound, mute, speaker.
