@@ -5165,6 +5165,12 @@
     "className": "icon-funnel",
     "unicode": "&#57564;"
   },
+  "galaxy": {
+    "encodedCode": "\\e73f",
+    "prefix": "icon",
+    "className": "icon-galaxy",
+    "unicode": "&#59199;"
+  },
   "gallery-horizontal-end": {
     "encodedCode": "\\e4cf",
     "prefix": "icon",
@@ -8891,6 +8897,12 @@
     "className": "icon-road",
     "unicode": "&#59097;"
   },
+  "robot-arm": {
+    "encodedCode": "\\e740",
+    "prefix": "icon",
+    "className": "icon-robot-arm",
+    "unicode": "&#59200;"
+  },
   "rocket": {
     "encodedCode": "\\e286",
     "prefix": "icon",
@@ -9532,6 +9544,12 @@
     "prefix": "icon",
     "className": "icon-shield",
     "unicode": "&#57688;"
+  },
+  "ship-cargo": {
+    "encodedCode": "\\e741",
+    "prefix": "icon",
+    "className": "icon-ship-cargo",
+    "unicode": "&#59201;"
   },
   "ship-wheel": {
     "encodedCode": "\\e502",
@@ -11146,6 +11164,12 @@
     "prefix": "icon",
     "className": "icon-traffic-cone",
     "unicode": "&#58629;"
+  },
+  "trailer": {
+    "encodedCode": "\\e742",
+    "prefix": "icon",
+    "className": "icon-trailer",
+    "unicode": "&#59202;"
   },
   "train-front-tunnel": {
     "encodedCode": "\\e507",
