@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1781** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1790** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -106,7 +106,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-up-wide-narrow` | filter, sort, ascending, descending, increasing, decreasing, rising, falling | text, layout, arrows |
 | `arrow-up-z-a` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse | text, layout, arrows |
 | `arrows-up-from-line` | direction, orientation, this way up, vertical, package, box, fragile, postage, shipping | arrows, transportation, mail |
-| `asterisk` | reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, * | text, math, development |
+| `asterisk` | symbol, sterisk, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, * | text, math, development |
 | `astroid` | star, math, shape, curve, sharp, four-pointed, hypocycloid, ai, artificial intelligence | shapes, math |
 | `at-sign` | mention, at, email, message, @ | text, account |
 | `atom` | atomic, nuclear, physics, particle, element, molecule, electricity, energy, chemistry | science |
@@ -188,7 +188,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bird` | peace, freedom, wing, avian, tweet | animals |
 | `birdhouse` | birdhouse, bird, garden, home, house, woodwork | nature, animals, navigation, home |
 | `bitcoin` | cryptocurrency, digital, blockchain, finance, coin, market, decentralized, investment, crypto, currency, money, payment | development, finance |
-| `blend` | mode, overlay, multiply, screen, opacity, transparency, alpha, filters, lenses, mixed, shades, tints, hues, saturation, brightness, overlap, colors, colours | design, photography, tools, development |
+| `blend` | mode, overlay, multiply, screen, opacity, transparency, alpha, filters, lenses, mixed, shades, tints, hues, saturation, brightness, overlap, colors, colours, marriage, rings, couple, connection | design, photography, tools, development |
 | `blender` | mixer, appliances, food, liquid, juicer, vitamizer, mix, emulsify, smoothie, drink, blade, container, kitchen, milkshake, cocktail, beverage, culinary, shredder, processor, cooking, recipe, chef, restaurant | food-beverage, home |
 | `blinds` | shades, screen, curtain, shutter, roller blind, window, lighting, household, home | home |
 | `blocks` | addon, plugin, integration, extension, package, build, stack, toys, kids, children, learning, squares, corner | development, layout, shapes |
@@ -390,7 +390,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-dashed` | pending, dot, progress, issue, draft, code, coding, version control | development, shapes |
 | `circle-divide` | calculate, math, ÷, / | math |
 | `circle-dollar-sign` | monetization, marketing, currency, money, payment | finance |
-| `circle-dot` | pending, dot, progress, issue, code, coding, version control, choices, multiple choice, choose | development, shapes |
+| `circle-dot` | pending, dot, progress, issue, code, coding, version control, choices, multiple choice, choose, album, music, songs, format, cd, dvd, vinyl, sleeve, cover, platinum, compilation, ep, recording, playback, spin, rotate, rpm, dj | development, shapes |
 | `circle-dot-dashed` | pending, dot, progress, issue, draft, code, coding, version control | development, shapes |
 | `circle-ellipsis` | ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
 | `circle-equal` | calculate, shape, = | math |
@@ -520,6 +520,10 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cpu` | processor, cores, technology, computer, chip, circuit, memory, ram, specs, gigahertz, ghz | devices |
 | `creative-commons` | licence, license | text |
 | `credit-card` | bank, purchase, payment, cc | account, finance |
+| `credit-card-check` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc | account, finance, shopping |
+| `credit-card-minus` | debit, payment, remove, delete, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, purchase, checkout, subtract, minus, bank, cc | account, finance, shopping |
+| `credit-card-plus` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, add, new, link, save, method, plastic, bank, cc | account, finance, shopping |
+| `credit-card-x` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, declined, rejected, failed, invalid, canceled, error, cancel, bank, cc | account, finance, shopping |
 | `croissant` | bakery, cooking, food, pastry | food-beverage |
 | `crop` | photo, image | photography, design |
 | `cross` | healthcare, first aid | shapes |
@@ -758,7 +762,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gavel` | justice, law, court, judgment, legal, hands, penalty, decision, authority, hammer, mallet | navigation, tools |
 | `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems | gaming, development, finance |
 | `georgian-lari` | currency, money, payment | finance |
-| `ghost` | spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky | gaming |
+| `ghost` | spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky, halloween, haunted, invisible, hidden, empty, dead, obsolete, outdated | gaming |
 | `gift` | present, box, birthday, party | gaming, account |
 | `git-branch` | code, version control, vcs, repository | development |
 | `git-branch-minus` | code, version control, vcs, repository, delete, remove, - | development |
@@ -1016,6 +1020,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-circle-check` | comment, chat, conversation, dialog, feedback, speech bubble, moderate, check, done, todo, complete | social, account |
 | `message-circle-code` | comment, chat, conversation, dialog, feedback, speech bubble, code review, coding | development, social |
 | `message-circle-dashed` | comment, chat, conversation, dialog, feedback, speech bubble, draft | social |
+| `message-circle-dashed-check` | comment, chat, conversation, dialog, feedback, speech bubble, draft, pending, provisional, verification, confirmation, success, status, check, approval, moderate, resolved, done, complete | social, account |
 | `message-circle-heart` | comment, chat, conversation, dialog, feedback, positive, like, love, interest, valentine, dating, date, speech bubble | social |
 | `message-circle-more` | comment, chat, conversation, dialog, feedback, speech bubble, typing, writing, responding, ellipsis, etc, et cetera, ..., … | social |
 | `message-circle-off` | comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate | social |
@@ -1219,6 +1224,9 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `plane-takeoff` | departure, plane, trip, airplane, takeoff | transportation, travel |
 | `play` | music, audio, video, start, run | arrows, multimedia |
 | `play-off` | audio, video, music, start, run, off, disabled, blocked, forbidden | multimedia |
+| `playing-card` | deck, draw, deal, shuffle, chance, random, selection, tabletop, flashcard, study, learning, prompt, icebreaker, conversation, collectible, trading, poker, casino, game, gambling, suit | gaming, development |
+| `playing-cards` | deck, stack, shuffle, deal, draw, hand, tabletop, planning poker, scrum, agile, estimation, estimate, flashcards, study, learning, collectible, collection, trading, poker, casino, game, gambling, suit | gaming, development |
+| `playing-cards-fan` | deck, fan, spread, hand, deal, dealt, draw, shuffle, tabletop, planning poker, scrum, agile, estimation, estimate, prompt, icebreaker, conversation, collectible, collection, trading, poker, casino, game, gambling, suit | gaming, development, social |
 | `plug` | electricity, energy, electronics, socket, outlet, power, voltage, current, charger | devices, development |
 | `plug-2` | electricity, energy, socket, outlet | devices, development |
 | `plug-zap` | electricity, energy, electronics, charge, charging, battery, connect | devices |
@@ -1292,6 +1300,7 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ribbon` | awareness, strip, band, tape, strap, cordon | social, medical, emoji |
 | `road` | road, street, highway, route, path, transport, traffic, drive, map | transportation |
 | `robot-arm` | mechanical, automation, factory, manufacture, technology, cyborg, industrial, hardware, machinery | science, tools |
+| `robot-vacuum` | appliance, cleaning, household, housekeeping, tool, maintenance, smarthome, sweeping, hygiene, chores, automation, smart home, device, floor, dust, debris, navigation, sensor | devices, home, tools |
 | `rocket` | release, boost, launch, space, version | gaming, development |
 | `rocking-chair` | chair, furniture, seat, comfort, relax | home |
 | `roller-coaster` | attraction, entertainment, amusement park, theme park, funfair | navigation |
@@ -1562,8 +1571,8 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `swatch-book` | colors, colours, swatches, pantone, shades, tint, hue, saturation, brightness, theme, scheme, palette, samples, textile, carpet | design, home, photography |
 | `swiss-franc` | currency, money, payment | finance |
 | `switch-camera` | photo, selfie, front, back | communication, devices |
-| `sword` | battle, challenge, game, war, weapon | gaming, tools |
-| `swords` | battle, challenge, game, war, weapon | gaming, tools |
+| `sword` | battle, challenge, combat, duel, fantasy, game, knight, melee, medieval, offense, rpg, sharp, weapon, war, warrior | gaming, tools |
+| `swords` | battle, challenge, combat, conflict, crossed, duel, faction, fantasy, game, melee, medieval, opponent, rivalry, rpg, versus, weapon, war, warrior | gaming, tools |
 | `syringe` | medicine, medical, needle, pump, plunger, nozzle, blood | science, medical |
 | `table` | spreadsheet, grid | text, files |
 | `table-2` | spreadsheet, grid | text, files |
@@ -1792,4 +1801,4 @@ All **1781** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1781 icons*
+*Total: 1790 icons*

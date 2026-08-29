@@ -3521,6 +3521,30 @@
     "className": "icon-creative-commons",
     "unicode": "&#58290;"
   },
+  "credit-card-check": {
+    "encodedCode": "\\e743",
+    "prefix": "icon",
+    "className": "icon-credit-card-check",
+    "unicode": "&#59203;"
+  },
+  "credit-card-minus": {
+    "encodedCode": "\\e744",
+    "prefix": "icon",
+    "className": "icon-credit-card-minus",
+    "unicode": "&#59204;"
+  },
+  "credit-card-plus": {
+    "encodedCode": "\\e74b",
+    "prefix": "icon",
+    "className": "icon-credit-card-plus",
+    "unicode": "&#59211;"
+  },
+  "credit-card-x": {
+    "encodedCode": "\\e745",
+    "prefix": "icon",
+    "className": "icon-credit-card-x",
+    "unicode": "&#59205;"
+  },
   "credit-card": {
     "encodedCode": "\\e0aa",
     "prefix": "icon",
@@ -7001,6 +7025,12 @@
     "className": "icon-message-circle-code",
     "unicode": "&#58722;"
   },
+  "message-circle-dashed-check": {
+    "encodedCode": "\\e746",
+    "prefix": "icon",
+    "className": "icon-message-circle-dashed-check",
+    "unicode": "&#59206;"
+  },
   "message-circle-dashed": {
     "encodedCode": "\\e563",
     "prefix": "icon",
@@ -8429,6 +8459,24 @@
     "className": "icon-play",
     "unicode": "&#57660;"
   },
+  "playing-card": {
+    "encodedCode": "\\e747",
+    "prefix": "icon",
+    "className": "icon-playing-card",
+    "unicode": "&#59207;"
+  },
+  "playing-cards-fan": {
+    "encodedCode": "\\e748",
+    "prefix": "icon",
+    "className": "icon-playing-cards-fan",
+    "unicode": "&#59208;"
+  },
+  "playing-cards": {
+    "encodedCode": "\\e749",
+    "prefix": "icon",
+    "className": "icon-playing-cards",
+    "unicode": "&#59209;"
+  },
   "plug-2": {
     "encodedCode": "\\e380",
     "prefix": "icon",
@@ -8902,6 +8950,12 @@
     "prefix": "icon",
     "className": "icon-robot-arm",
     "unicode": "&#59200;"
+  },
+  "robot-vacuum": {
+    "encodedCode": "\\e74a",
+    "prefix": "icon",
+    "className": "icon-robot-vacuum",
+    "unicode": "&#59210;"
   },
   "rocket": {
     "encodedCode": "\\e286",

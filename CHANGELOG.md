@@ -1,3 +1,15 @@
+# 1.37.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.37.0
+- Total icon count increased from 1,781+ to 1,790+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- credit-card-check, credit-card-minus, credit-card-plus, credit-card-x, message-circle-dashed-check, playing-card, playing-cards, playing-cards-fan, robot-vacuum
+
+---
+
 # 1.35.0
 
 ## Improvements 🚀
