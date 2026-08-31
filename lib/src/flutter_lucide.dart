@@ -27433,9 +27433,25 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [vector_polygon] icon from the Lucide icon set.
+  ///
+  /// ![vector_polygon](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuODI4IDQuODEzIDUuMzQ0IDIuMzc1IiAvPgogIDxwYXRoIGQ9Im0xNS43NjkgMTguMTUzIDMuNDYxLTguMzA2IiAvPgogIDxwYXRoIGQ9Im01LjY4NyAxNC4wNzQgNy42MjUgNC44NTIiIC8+CiAgPHBhdGggZD0iTTkuNzcyIDUuNTc5IDUuMjI4IDExLjQyIiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNCIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjIwIiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iOCIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iMTMiIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [vector_polygon] icon is a graphical symbol that conveys a specific idea or functionality related to map, vector, geometry, coordinates, shape, location, boundary, area, region, gis, geospatial, vertices, points, outline, drawing, design, math.
+  /// - It belongs to the categories: design, math, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/daboudii](https://github.com/daboudii), [https://github.com/timmy471](https://github.com/timmy471), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData vector_polygon = IconData(
+    0xe74c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [vector_square] icon from the Lucide icon set.
   ///
-  /// ![vector_square](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuNSA3YTI0IDI0IDAgMCAxIDAgMTAiIC8+CiAgPHBhdGggZD0iTTQuNSA3YTI0IDI0IDAgMCAwIDAgMTAiIC8+CiAgPHBhdGggZD0iTTcgMTkuNWEyNCAyNCAwIDAgMCAxMCAwIiAvPgogIDxwYXRoIGQ9Ik03IDQuNWEyNCAyNCAwIDAgMSAxMCAwIiAvPgogIDxyZWN0IHg9IjE3IiB5PSIxNyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIxNyIgeT0iMiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIyIiB5PSIxNyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIyIiB5PSIyIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  /// ![vector_square](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcuMDU1IDQuNTMzYTI0IDI0IDAgMDAtMTAuMTEgMCIgLz4KICA8cGF0aCBkPSJNMTkuNDY3IDE3LjA1NWEyNCAyNCAwIDAwMC0xMC4xMSIgLz4KICA8cGF0aCBkPSJNNC41MzMgNi45NDVhMjQgMjQgMCAwMDAgMTAuMTEiIC8+CiAgPHBhdGggZD0iTTYuOTQ1IDE5LjQ2N2EyNCAyNCAwIDAwMTAuMTEgMCIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjE5IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [vector_square] icon is a graphical symbol that conveys a specific idea or functionality related to shape, geometry, art, width, height, size, calculate, measure, select, graphics, box.

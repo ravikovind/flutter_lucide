@@ -11771,6 +11771,12 @@
     "className": "icon-vault",
     "unicode": "&#58767;"
   },
+  "vector-polygon": {
+    "encodedCode": "\\e74c",
+    "prefix": "icon",
+    "className": "icon-vector-polygon",
+    "unicode": "&#59212;"
+  },
   "vector-square": {
     "encodedCode": "\\e67c",
     "prefix": "icon",
