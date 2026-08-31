@@ -1,3 +1,15 @@
+# 1.38.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.38.0
+- Total icon count increased from 1,790+ to 1,791+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- vector-polygon
+
+---
+
 # 1.37.0
 
 ## Improvements 🚀

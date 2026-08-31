@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1790** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1791** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -1722,6 +1722,7 @@ All **1790** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `van` | minivan, cart, wagon, truck, lorry, trailer, camper, vehicle, drive, trip, journey, van, transport, carriage, delivery, travel | transportation |
 | `variable` | code, coding, programming, symbol, calculate, algebra, x, parentheses, parenthesis, brackets, parameter, (, ) | development, math |
 | `vault` | safe, lockbox, deposit, locker, coffer, strongbox, safety, secure, storage, valuables, bank | security, travel, home |
+| `vector-polygon` | map, vector, geometry, coordinates, shape, location, boundary, area, region, gis, geospatial, vertices, points, outline, drawing, design, math | design, math, shapes |
 | `vector-square` | shape, geometry, art, width, height, size, calculate, measure, select, graphics, box | shapes, math, design, tools |
 | `vegan` | vegetarian, fruitarian, herbivorous, animal rights, diet | food-beverage, sustainability |
 | `venetian-mask` | mask, masquerade, impersonate, secret, incognito | account, gaming |
@@ -1801,4 +1802,4 @@ All **1790** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1790 icons*
+*Total: 1791 icons*
