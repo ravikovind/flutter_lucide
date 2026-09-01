@@ -6779,6 +6779,12 @@
     "className": "icon-mail-open",
     "unicode": "&#58211;"
   },
+  "mail-pen": {
+    "encodedCode": "\\e74e",
+    "prefix": "icon",
+    "className": "icon-mail-pen",
+    "unicode": "&#59214;"
+  },
   "mail-plus": {
     "encodedCode": "\\e364",
     "prefix": "icon",
@@ -12052,6 +12058,12 @@
     "prefix": "icon",
     "className": "icon-wheat",
     "unicode": "&#58270;"
+  },
+  "whistle": {
+    "encodedCode": "\\e74d",
+    "prefix": "icon",
+    "className": "icon-whistle",
+    "unicode": "&#59213;"
   },
   "whole-word": {
     "encodedCode": "\\e3df",

@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1791** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1793** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -981,6 +981,7 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `mail-clock` | email, message, letter, unread, scheduled, delayed, sendlater, delivery, reminder, pending, outgoing, timer | text, account, mail, time, notifications, communication |
 | `mail-minus` | email, message, letter, remove, delete | mail |
 | `mail-open` | email, message, letter, read | mail |
+| `mail-pen` | email, message, letter, pen, edit, compose, draft, write, writing, create, reply | mail |
 | `mail-plus` | email, message, letter, add, create, new, compose | mail |
 | `mail-question-mark` | email, message, letter, delivery, undelivered | mail |
 | `mail-search` | email, message, letter, search, lens | mail |
@@ -1065,20 +1066,20 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `minus` | subtract, remove, decrease, decrement, reduce, negative, calculate, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade | math, development, text, tools |
 | `mirror-rectangular` | reflection, optics, glass, surface, image, physics, science, bathroom, decor, cosmetic, shiny, periscope, vanity | science, home, tools |
 | `mirror-round` | reflection, optics, glass, surface, image, physics, science, bathroom, vanity, makeup, decor, cosmetic, shiny, periscope | science, home, tools |
-| `monitor` | tv, screen, display, virtual machine, vm | connectivity, devices |
-| `monitor-check` | tv, screen, display, desktop, running, active, virtual machine, vm | connectivity, devices |
-| `monitor-cloud` | virtual machine, virtual desktop, vm, vdi, computing, remote work, monitoring, infrastructure, software as a service, saas, workstation, environment, tv, screen, display | connectivity, devices, development |
-| `monitor-cog` | tv, screen, display, virtual machine, vm, executable, settings, cog, edit, gear, configuration, preferences, system, control panel, network, computing | connectivity, devices |
-| `monitor-dot` | tv, screen, display, desktop, running, active, virtual machine, vm | connectivity, devices |
-| `monitor-down` | tv, screen, display, desktop, download | connectivity, devices |
-| `monitor-off` | share | connectivity, devices |
-| `monitor-pause` | tv, screen, display, desktop, video, movie, film, suspend, hibernate, boot, virtual machine, vm | connectivity, devices, multimedia |
-| `monitor-play` | tv, screen, display, desktop, video, movie, film, running, start, boot, virtual machine, vm | connectivity, devices, multimedia |
-| `monitor-smartphone` | smartphone, phone, cellphone, device, mobile, desktop, monitor, responsive, screens | connectivity, devices |
-| `monitor-speaker` | devices, connect, cast | connectivity, devices |
-| `monitor-stop` | tv, screen, display, desktop, video, movie, film, stop, shutdown, virtual machine, vm | connectivity, devices, multimedia |
-| `monitor-up` | tv, screen, display, upload, connect, remote, screen share | connectivity, devices |
-| `monitor-x` | tv, screen, display, desktop, virtual machine, vm, close, stop, suspend, remove, delete | connectivity, devices |
+| `monitor` | tv, computer, desktop, screen, display, external display, screen sharing, virtual machine, vm | connectivity, devices |
+| `monitor-check` | tv, computer, screen, display, desktop, external display, screen sharing, connected, success, verified, running, active, virtual machine, vm | connectivity, devices |
+| `monitor-cloud` | tv, computer, screen, display, desktop, external display, virtual machine, virtual desktop, vm, vdi, computing, remote work, monitoring, infrastructure, software as a service, saas, workstation, environment | connectivity, devices, development |
+| `monitor-cog` | tv, computer, screen, display, desktop, external display, virtual machine, vm, executable, settings, edit, gear, configuration, preferences, system, control panel, network, computing | connectivity, devices |
+| `monitor-dot` | tv, computer, screen, display, desktop, external display, screen sharing, status, notification, indicator, running, active, virtual machine, vm | connectivity, devices |
+| `monitor-down` | tv, computer, screen, display, desktop, external display, screen sharing, download, remote, cast | connectivity, devices |
+| `monitor-off` | tv, computer, screen, display, desktop, external display, screen sharing, offline, disabled, disconnected, power | connectivity, devices |
+| `monitor-pause` | tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, pause, suspend, hibernate, boot, virtual machine, vm | connectivity, devices, multimedia |
+| `monitor-play` | tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, play, running, start, boot, virtual machine, vm | connectivity, devices, multimedia |
+| `monitor-smartphone` | phone, cellphone, device, mobile, desktop, screen, display, external display, screen sharing, responsive, screens, sync, cast | connectivity, devices |
+| `monitor-speaker` | tv, computer, screen, display, desktop, external display, connect, cast, audio, sound, volume, presentation | connectivity, devices |
+| `monitor-stop` | tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, stop, shutdown, virtual machine, vm | connectivity, devices, multimedia |
+| `monitor-up` | tv, computer, screen, display, desktop, external display, upload, connect, remote, screen sharing, cast | connectivity, devices |
+| `monitor-x` | tv, computer, screen, display, desktop, external display, screen sharing, virtual machine, vm, close, error, failed, disconnected, stop, suspend, remove, delete | connectivity, devices |
 | `moon` | dark, night | accessibility |
 | `moon-star` | dark, night, star | accessibility, weather |
 | `mop` | cleaning, sweeping, scrubbing, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, janitor, maintenance, wash, wipe, spotless, pristine, disinfect | home, tools |
@@ -1429,7 +1430,7 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `slice` | cutter, scalpel, knife | design |
 | `sliders-horizontal` | settings, filters, controls | account |
 | `sliders-vertical` | settings, controls | account |
-| `smartphone` | phone, cellphone, device, screen | connectivity, devices |
+| `smartphone` | phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive | connectivity, devices |
 | `smartphone-charging` | phone, cellphone, device, power, screen | connectivity, devices |
 | `smartphone-nfc` | contactless, payment, near-field communication, screen | communication, finance, devices |
 | `snail` | animal, insect, slow, speed, delicacy, spiral | animals, food-beverage |
@@ -1582,8 +1583,8 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `table-of-contents` | toc, outline, navigation, document structure, index, overview, sections, chapters, content, documentation, manual, knowledge base, faq | text |
 | `table-properties` | property list, plist, spreadsheet, grid, dictionary, object, hash | text, development, files |
 | `table-rows-split` | spreadsheet, grid, cut, break, divide, separate, segment | text, files |
-| `tablet` | device | devices |
-| `tablet-smartphone` | responsive, screens, browser, testing, mobile | devices, design, development, tools |
+| `tablet` | device, mobile, screen, display, touchscreen, portable, responsive | devices |
+| `tablet-smartphone` | phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive, screens, browser, testing | devices, design, development, tools |
 | `tablets` | medicine, medication, drug, prescription, pills, pharmacy | medical |
 | `tag` | label, badge, ticket, mark | account |
 | `tag-plus` | label, badge, ticket, mark, new, add, create, + | account |
@@ -1765,6 +1766,7 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `weight-tilde` | measure, scale, estimate, load, balance, size, measurement, quantity, mass | math |
 | `wheat` | corn, cereal, grain, gluten | food-beverage |
 | `wheat-off` | corn, cereal, grain, gluten free, allergy, intolerance, diet | food-beverage |
+| `whistle` | alert, signal, sound, blow, noise, coach, trainer, referee, gym, game, training, sports, traffic cops, police, lifeguard, safety, rescue, emergency | sports, notifications |
 | `whole-word` | text, selection, letters, characters, font, typography | text |
 | `wifi` | connection, signal, wireless | connectivity, devices |
 | `wifi-cog` | connection, signal, wireless, directory, settings, control, preferences, cog, edit, gear | connectivity, devices, files |
@@ -1802,4 +1804,4 @@ All **1791** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1791 icons*
+*Total: 1793 icons*
