@@ -15577,6 +15577,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [mail_pen] icon from the Lucide icon set.
+  ///
+  /// ![mail_pen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNTA2IDE3LjY0NkEyIDIgMCAwMDE1IDE4LjVsLS44MzcgMi44N2EuNS41IDAgMDAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAwLjg1NC0uNTA2bDMuMDEzLTMuMDA5YTEgMSAwIDAwLTMuMDA0LTMuMDA0eiIgLz4KICA8cGF0aCBkPSJNMjIgMTAuMzQ2VjZhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEyYTIgMiAwIDAwMiAyaDYuMzk2IiAvPgogIDxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAxLTIuMDA5IDBMMiA3IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [mail_pen] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, pen, edit, compose, draft, write, writing, create, reply.
+  /// - It belongs to the categories: mail
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jennieboops](https://github.com/jennieboops)
+  static const IconData mail_pen = IconData(
+    0xe74e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [mail_plus] icon from the Lucide icon set.
   ///
   /// ![mail_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTNWNmEyIDIgMCAwIDAtMi0ySDRhMiAyIDAgMCAwLTIgMnYxMmMwIDEuMS45IDIgMiAyaDgiIC8+CiAgPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciIC8+CiAgPHBhdGggZD0iTTE5IDE2djYiIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+Cjwvc3ZnPgo=)
@@ -16926,7 +16942,7 @@ abstract final class LucideIcons {
   /// ![monitor](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSI4IiB4Mj0iMTYiIHkxPSIyMSIgeTI9IjIxIiAvPgogIDxsaW5lIHgxPSIxMiIgeDI9IjEyIiB5MT0iMTciIHkyPSIyMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, virtual machine, vm.
+  /// - The [monitor] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, desktop, screen, display, external display, screen sharing, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -16942,7 +16958,7 @@ abstract final class LucideIcons {
   /// ![monitor_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSAxMCAyIDIgNC00IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMiIgeT0iMyIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTEyIDE3djQiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor_check] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, running, active, virtual machine, vm.
+  /// - The [monitor_check] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, connected, success, verified, running, active, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -16958,7 +16974,7 @@ abstract final class LucideIcons {
   /// ![monitor_cloud](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTNhMyAzIDAgMSAxIDIuODMtNEgxNGEyIDIgMCAwIDEgMCA0eiIgLz4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJNOCAyMWg4IiAvPgogIDxyZWN0IHg9IjIiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [monitor_cloud] icon is a graphical symbol that conveys a specific idea or functionality related to virtual machine, virtual desktop, vm, vdi, computing, remote work, monitoring, infrastructure, software as a service, saas, workstation, environment, tv, screen, display.
+  /// - The [monitor_cloud] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, virtual machine, virtual desktop, vm, vdi, computing, remote work, monitoring, infrastructure, software as a service, saas, workstation, environment.
   /// - It belongs to the categories: connectivity, devices, development
   ///
   /// Acknowledgements:
@@ -16974,7 +16990,7 @@ abstract final class LucideIcons {
   /// ![monitor_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJtMTQuMzA1IDcuNTMuOTIzLS4zODIiIC8+CiAgPHBhdGggZD0ibTE1LjIyOCA0Ljg1Mi0uOTIzLS4zODMiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiAzLjIyOC0uMzgzLS45MjQiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiA4Ljc3Mi0uMzgzLjkyMyIgLz4KICA8cGF0aCBkPSJtMTkuMTQ4IDMuMjI4LjM4My0uOTI0IiAvPgogIDxwYXRoIGQ9Im0xOS41MyA5LjY5Ni0uMzgyLS45MjQiIC8+CiAgPHBhdGggZD0ibTIwLjc3MiA0Ljg1Mi45MjQtLjM4MyIgLz4KICA8cGF0aCBkPSJtMjAuNzcyIDcuMTQ4LjkyNC4zODMiIC8+CiAgPHBhdGggZD0iTTIyIDEzdjJhMiAyIDAgMCAxLTIgMkg0YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDciIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjYiIHI9IjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [monitor_cog] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, virtual machine, vm, executable, settings, cog, edit, gear, configuration, preferences, system, control panel, network, computing.
+  /// - The [monitor_cog] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, virtual machine, vm, executable, settings, edit, gear, configuration, preferences, system, control panel, network, computing.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -16990,7 +17006,7 @@ abstract final class LucideIcons {
   /// ![monitor_dot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJNMjIgMTIuMzA3VjE1YTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmg4LjY5MyIgLz4KICA8cGF0aCBkPSJNOCAyMWg4IiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor_dot] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, running, active, virtual machine, vm.
+  /// - The [monitor_dot] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, status, notification, indicator, running, active, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17006,7 +17022,7 @@ abstract final class LucideIcons {
   /// ![monitor_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNWNyIgLz4KICA8cGF0aCBkPSJtMTUgMTAtMyAzLTMtMyIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMiAxN3Y0IiAvPgogIDxwYXRoIGQ9Ik04IDIxaDgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [monitor_down] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, download.
+  /// - The [monitor_down] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, download, remote, cast.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17022,7 +17038,7 @@ abstract final class LucideIcons {
   /// ![monitor_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJNMTcgMTdINGEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDEuMTg0LTEuODI2IiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KICA8cGF0aCBkPSJNOC42NTYgM0gyMGEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0uMjkzIDEuMDQyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [monitor_off] icon is a graphical symbol that conveys a specific idea or functionality related to share.
+  /// - The [monitor_off] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, offline, disabled, disconnected, power.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17038,7 +17054,7 @@ abstract final class LucideIcons {
   /// ![monitor_pause](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTNWNyIgLz4KICA8cGF0aCBkPSJNMTQgMTNWNyIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMiAxN3Y0IiAvPgogIDxwYXRoIGQ9Ik04IDIxaDgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [monitor_pause] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, suspend, hibernate, boot, virtual machine, vm.
+  /// - The [monitor_pause] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, pause, suspend, hibernate, boot, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices, multimedia
   ///
   /// Acknowledgements:
@@ -17054,7 +17070,7 @@ abstract final class LucideIcons {
   /// ![monitor_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMDMzIDkuNDRhLjY0Ny42NDcgMCAwIDEgMCAxLjEybC00LjA2NSAyLjM1MmEuNjQ1LjY0NSAwIDAgMS0uOTY4LS41NlY3LjY0OGEuNjQ1LjY0NSAwIDAgMSAuOTY3LS41NnoiIC8+CiAgPHBhdGggZD0iTTEyIDE3djQiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KICA8cmVjdCB4PSIyIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [monitor_play] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, running, start, boot, virtual machine, vm.
+  /// - The [monitor_play] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, play, running, start, boot, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices, multimedia
   ///
   /// Acknowledgements:
@@ -17070,7 +17086,7 @@ abstract final class LucideIcons {
   /// ![monitor_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggOFY2YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjdhMiAyIDAgMCAwIDIgMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMCAxOXYtMy45NiAzLjE1IiAvPgogIDxwYXRoIGQ9Ik03IDE5aDUiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNiIgeT0iMTIiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [monitor_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to smartphone, phone, cellphone, device, mobile, desktop, monitor, responsive, screens.
+  /// - The [monitor_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, mobile, desktop, screen, display, external display, screen sharing, responsive, screens, sync, cast.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17086,7 +17102,7 @@ abstract final class LucideIcons {
   /// ![monitor_speaker](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNS41IDIwSDgiIC8+CiAgPHBhdGggZD0iTTE3IDloLjAxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTIiIHk9IjQiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik04IDZINGEyIDIgMCAwIDAtMiAydjZhMiAyIDAgMCAwIDIgMmg0IiAvPgogIDxjaXJjbGUgY3g9IjE3IiBjeT0iMTUiIHI9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [monitor_speaker] icon is a graphical symbol that conveys a specific idea or functionality related to devices, connect, cast.
+  /// - The [monitor_speaker] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, connect, cast, audio, sound, volume, presentation.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17102,7 +17118,7 @@ abstract final class LucideIcons {
   /// ![monitor_stop](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJNOCAyMWg4IiAvPgogIDxyZWN0IHg9IjIiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+CiAgPHJlY3QgeD0iOSIgeT0iNyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor_stop] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, video, movie, film, stop, shutdown, virtual machine, vm.
+  /// - The [monitor_stop] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, stop, shutdown, virtual machine, vm.
   /// - It belongs to the categories: connectivity, devices, multimedia
   ///
   /// Acknowledgements:
@@ -17118,7 +17134,7 @@ abstract final class LucideIcons {
   /// ![monitor_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSAxMCAzLTMgMyAzIiAvPgogIDxwYXRoIGQ9Ik0xMiAxM1Y3IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMiIgeT0iMyIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTEyIDE3djQiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor_up] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, upload, connect, remote, screen share.
+  /// - The [monitor_up] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, upload, connect, remote, screen sharing, cast.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -17134,7 +17150,7 @@ abstract final class LucideIcons {
   /// ![monitor_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuNSAxMi41LTUtNSIgLz4KICA8cGF0aCBkPSJtOS41IDEyLjUgNS01IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMiIgeT0iMyIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTEyIDE3djQiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [monitor_x] icon is a graphical symbol that conveys a specific idea or functionality related to tv, screen, display, desktop, virtual machine, vm, close, stop, suspend, remove, delete.
+  /// - The [monitor_x] icon is a graphical symbol that conveys a specific idea or functionality related to tv, computer, screen, display, desktop, external display, screen sharing, virtual machine, vm, close, error, failed, disconnected, stop, suspend, remove, delete.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -22750,7 +22766,7 @@ abstract final class LucideIcons {
   /// ![smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjUiIHk9IjIiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNMTIgMThoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, screen.
+  /// - The [smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive.
   /// - It belongs to the categories: connectivity, devices
   ///
   /// Acknowledgements:
@@ -25198,7 +25214,7 @@ abstract final class LucideIcons {
   /// ![tablet](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjQiIHk9IjIiIHJ4PSIyIiByeT0iMiIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMi4wMSIgeTE9IjE4IiB5Mj0iMTgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [tablet] icon is a graphical symbol that conveys a specific idea or functionality related to device.
+  /// - The [tablet] icon is a graphical symbol that conveys a specific idea or functionality related to device, mobile, screen, display, touchscreen, portable, responsive.
   /// - It belongs to the categories: devices
   ///
   /// Acknowledgements:
@@ -25214,7 +25230,7 @@ abstract final class LucideIcons {
   /// ![tablet_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik01IDRhMiAyIDAgMCAxIDItMmgxMmEyIDIgMCAwIDEgMiAydjE2YTIgMiAwIDAgMS0yIDJoLTIuNCIgLz4KICA8cGF0aCBkPSJNOCAxOGguMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [tablet_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to responsive, screens, browser, testing, mobile.
+  /// - The [tablet_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive, screens, browser, testing.
   /// - It belongs to the categories: devices, design, development, tools
   ///
   /// Acknowledgements:
@@ -28117,6 +28133,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData wheat_off = IconData(
     0xe39f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [whistle] icon from the Lucide icon set.
+  ///
+  /// ![whistle](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgNnY0IiAvPgogIDxwYXRoIGQ9Ik0yMSA2YTEgMSAwIDAgMSAxIDF2MmExIDEgMCAwIDEtMSAxaC01LjY3NUE3IDcgMCAxIDEgOSA2eiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [whistle] icon is a graphical symbol that conveys a specific idea or functionality related to alert, signal, sound, blow, noise, coach, trainer, referee, gym, game, training, sports, traffic cops, police, lifeguard, safety, rescue, emergency.
+  /// - It belongs to the categories: sports, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/briz123](https://github.com/briz123), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/ajokt123](https://github.com/ajokt123), [https://github.com/timmy471](https://github.com/timmy471), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData whistle = IconData(
+    0xe74d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
