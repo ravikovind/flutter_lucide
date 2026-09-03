@@ -1769,6 +1769,12 @@
     "className": "icon-brick-wall",
     "unicode": "&#58753;"
   },
+  "bridge": {
+    "encodedCode": "\\e74f",
+    "prefix": "icon",
+    "className": "icon-bridge",
+    "unicode": "&#59215;"
+  },
   "briefcase-business": {
     "encodedCode": "\\e5d5",
     "prefix": "icon",
@@ -2050,6 +2056,12 @@
     "prefix": "icon",
     "className": "icon-camera",
     "unicode": "&#57444;"
+  },
+  "can": {
+    "encodedCode": "\\e750",
+    "prefix": "icon",
+    "className": "icon-can",
+    "unicode": "&#59216;"
   },
   "candlestick-chart": {
     "encodedCode": "\\e4a8",
@@ -6449,6 +6461,12 @@
     "className": "icon-lightbulb",
     "unicode": "&#57794;"
   },
+  "lighthouse": {
+    "encodedCode": "\\e751",
+    "prefix": "icon",
+    "className": "icon-lighthouse",
+    "unicode": "&#59217;"
+  },
   "line-chart": {
     "encodedCode": "\\e2a5",
     "prefix": "icon",
@@ -9641,6 +9659,18 @@
     "className": "icon-shopping-basket",
     "unicode": "&#58602;"
   },
+  "shopping-cart-minus": {
+    "encodedCode": "\\e752",
+    "prefix": "icon",
+    "className": "icon-shopping-cart-minus",
+    "unicode": "&#59218;"
+  },
+  "shopping-cart-plus": {
+    "encodedCode": "\\e753",
+    "prefix": "icon",
+    "className": "icon-shopping-cart-plus",
+    "unicode": "&#59219;"
+  },
   "shopping-cart": {
     "encodedCode": "\\e15c",
     "prefix": "icon",
@@ -9664,6 +9694,12 @@
     "prefix": "icon",
     "className": "icon-shredder",
     "unicode": "&#58971;"
+  },
+  "shrimp-off": {
+    "encodedCode": "\\e754",
+    "prefix": "icon",
+    "className": "icon-shrimp-off",
+    "unicode": "&#59220;"
   },
   "shrimp": {
     "encodedCode": "\\e649",

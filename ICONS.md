@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1793** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1799** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -249,6 +249,7 @@ All **1793** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `brick-wall` | bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone | buildings, home |
 | `brick-wall-fire` | firewall, security, bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone, campfire, camping, wilderness, outdoors, lit, warmth, wood, twigs, sticks | security, home, connectivity |
 | `brick-wall-shield` | firewall, security, bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone, cybersecurity, secure, safety, protection, guardian, armored, armoured, defense, defence, defender, block, threat, prevention, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout | security, home, connectivity |
+| `bridge` | overpass, cross over, traverse, viaduct, suspension, infrastructure, transportation, crossing, road, river, gate, golden, travel, landmark, route, maritime, clearance | travel, transportation, buildings |
 | `briefcase` | work, bag, baggage, folder | transportation |
 | `briefcase-business` | work, bag, baggage, folder, portfolio | transportation |
 | `briefcase-conveyor-belt` | baggage, luggage, travel, suitcase, conveyor, carousel | travel, transportation |
@@ -296,6 +297,7 @@ All **1793** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `calendars` | date, month, year, event, dates, months, years, events | time |
 | `camera` | photography, lens, focus, capture, shot, visual, image, device, equipment, photo, webcam, video | photography, devices, communication |
 | `camera-off` | photo, webcam, video | photography, devices, communication |
+| `can` | food, storage, groceries, tin, metal, recyclable, container, pantry, grocery, preserved | food-beverage |
 | `candy` | sugar, food, sweet | food-beverage |
 | `candy-cane` | sugar, food, sweet, christmas, xmas | food-beverage |
 | `candy-off` | sugar free, food, sweet, allergy, intolerance, diet | food-beverage |
@@ -929,6 +931,7 @@ All **1793** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ligature` | text, font, typography, alternates, alternatives | text |
 | `lightbulb` | idea, bright, lights | photography |
 | `lightbulb-off` | lights | photography |
+| `lighthouse` | lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, lightbeam, wayfinding, guidance, onboarding, help, landmark | buildings, navigation, travel |
 | `line-dot-right-horizontal` | code, version control, waypoint, stop, station, last, end | development, navigation |
 | `line-squiggle` | line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
 | `line-style` | line, stroke, style, dashed, border | design, tools |
@@ -1406,10 +1409,13 @@ All **1793** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `shopping-bag` | ecommerce, cart, purchase, store | shopping |
 | `shopping-basket` | cart, e-commerce, store, purchase, products, items, ingredients | shopping |
 | `shopping-cart` | trolley, cart, basket, e-commerce, store, purchase, products, items, ingredients | shopping |
+| `shopping-cart-minus` | trolley, cart, basket, e-commerce, ecommerce, store, purchase, products, items, checkout, order, retail, remove, decrease, quantity, subtract | shopping |
+| `shopping-cart-plus` | trolley, cart, basket, e-commerce, ecommerce, store, purchase, products, items, checkout, order, retail, add, increase, quantity, buy | shopping |
 | `shovel` | dig, spade, treasure | nature, tools, gaming |
 | `shower-head` | shower, bath, bathroom, amenities, services | home, travel |
 | `shredder` | file, paper, tear, cut, delete, destroy, remove, erase, document, destruction, secure, security, confidential, data, trash, dispose, disposal, information, waste, permanent | mail, files |
-| `shrimp` | seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, cherrystone | animals |
+| `shrimp` | seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, marine, creature, fisherman, ocean, fresh, cuisine, marine-life | animals, food-beverage |
+| `shrimp-off` | marine, creature, fisherman, ocean, fresh, cuisine, marine-life, seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, allergy, intolerance, diet | animals, food-beverage |
 | `shrink` | scale, fullscreen | layout, arrows |
 | `shrub` | forest, undergrowth, park, nature | nature |
 | `shuffle` | music, random, reorder | multimedia, arrows |
@@ -1804,4 +1810,4 @@ All **1793** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1793 icons*
+*Total: 1799 icons*
