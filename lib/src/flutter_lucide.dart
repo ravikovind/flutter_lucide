@@ -3865,6 +3865,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [bridge] icon from the Lucide icon set.
+  ///
+  /// ![bridge](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOS43MjhWMTYiIC8+CiAgPHBhdGggZD0iTTE0IDkuNzI4VjE2IiAvPgogIDxwYXRoIGQ9Ik0xOCAyMFY0IiAvPgogIDxwYXRoIGQ9Im0yMiAxMS00LTRBNy41IDcuNSAwIDAgMSA2IDdsLTQgNCIgLz4KICA8cGF0aCBkPSJNMjIgMTZIMiIgLz4KICA8cGF0aCBkPSJNNiAyMFY0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [bridge] icon is a graphical symbol that conveys a specific idea or functionality related to overpass, cross over, traverse, viaduct, suspension, infrastructure, transportation, crossing, road, river, gate, golden, travel, landmark, route, maritime, clearance.
+  /// - It belongs to the categories: travel, transportation, buildings
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Nykoula](https://github.com/Nykoula), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData bridge = IconData(
+    0xe74f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [briefcase] icon from the Lucide icon set.
   ///
   /// ![briefcase](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMjBWNGEyIDIgMCAwIDAtMi0yaC00YTIgMiAwIDAgMC0yIDJ2MTYiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIyIiB5PSI2IiByeD0iMiIgLz4KPC9zdmc+Cg==)
@@ -4613,6 +4629,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData camera_off = IconData(
     0xe065,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [can] icon from the Lucide icon set.
+  ///
+  /// ![can](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTAuNWE5IDIuNSAwIDAxLTE4IDB2OGE5IDIuNSAwIDAwMTggMHoiIC8+CiAgPHBhdGggZD0iTTIxIDEwLjVBOSAyLjUgMjUuMzIgMDA0LjU5IDMuNDcgOSAyLjUgMjUuMzIgMDAyMSAxMC41IiAvPgogIDxwYXRoIGQ9Ik0zIDEwLjVhOSAyLjUgMCAwMTYuNTI3LTIuNDA1IiAvPgogIDxwYXRoIGQ9Ik05IDE2Ljg1OGEzMSAzMSAwIDAwNiAwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [can] icon is a graphical symbol that conveys a specific idea or functionality related to food, storage, groceries, tin, metal, recyclable, container, pantry, grocery, preserved.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/l0uisgrange](https://github.com/l0uisgrange), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData can = IconData(
+    0xe750,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -14745,6 +14777,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [lighthouse] icon from the Lucide icon set.
+  ///
+  /// ![lighthouse](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM1YyIiAvPgogIDxwYXRoIGQ9Ik0xNi4wNjYgMTYuODY1IDcgMjJsMi0xMVY2YTMgMyAwIDAxNiAwdjVsMiAxMSIgLz4KICA8cGF0aCBkPSJtMTkuNzkyIDQuNS44NjYtLjUiIC8+CiAgPHBhdGggZD0ibTE5Ljc5NyAxMy41Ljg2Ni41IiAvPgogIDxwYXRoIGQ9Ik0yMSA5aDEiIC8+CiAgPHBhdGggZD0iTTMgOUgyIiAvPgogIDxwYXRoIGQ9Im00LjIwMyAxMy41LS44NjYuNSIgLz4KICA8cGF0aCBkPSJNNC4yMDggNC41IDMuMzQyIDQiIC8+CiAgPHBhdGggZD0iTTUuNSAyMmgxMyIgLz4KICA8cGF0aCBkPSJtNy45MzIgMTYuODc1IDcuMzc3LTQuMTc4IiAvPgogIDxwYXRoIGQ9Ik04IDExaDgiIC8+CiAgPHBhdGggZD0iTTggN2g4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [lighthouse] icon is a graphical symbol that conveys a specific idea or functionality related to lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, lightbeam, wayfinding, guidance, onboarding, help, landmark.
+  /// - It belongs to the categories: buildings, navigation, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/xougui](https://github.com/xougui), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData lighthouse = IconData(
+    0xe751,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [line_dot_right_horizontal] icon from the Lucide icon set.
   ///
   /// ![line_dot_right_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNIDMgMTIgTCAxNSAxMiIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjEyIiByPSIzIiAvPgo8L3N2Zz4K)
@@ -22377,6 +22425,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [shopping_cart_minus] icon from the Lucide icon set.
+  ///
+  /// ![shopping_cart_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgNWg2IiAvPgogIDxwYXRoIGQ9Im0yLjA1IDIuMDUgMS4wOTktLjAyOGExIDEgMCAwMTEuMDA4LjgxNWwyLjY5IDE0LjM0N0ExIDEgMCAwMDcuODMgMThIMTgiIC8+CiAgPHBhdGggZD0iTTQuNTY0IDVIMTIiIC8+CiAgPHBhdGggZD0iTTYuMjUgMTRoMTIuNzEyYTIgMiAwIDAwMS45OTEtMS41N2wuNTE0LTMuMTEzIiAvPgogIDxjaXJjbGUgY3g9IjE4IiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iOCIgY3k9IjIwIiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [shopping_cart_minus] icon is a graphical symbol that conveys a specific idea or functionality related to trolley, cart, basket, e-commerce, ecommerce, store, purchase, products, items, checkout, order, retail, remove, decrease, quantity, subtract.
+  /// - It belongs to the categories: shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ajay199210](https://github.com/ajay199210), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData shopping_cart_minus = IconData(
+    0xe752,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [shopping_cart_plus] icon from the Lucide icon set.
+  ///
+  /// ![shopping_cart_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgNWg2IiAvPgogIDxwYXRoIGQ9Ik0xOSAydjYiIC8+CiAgPHBhdGggZD0ibTIuMDUgMi4wNSAxLjA5OS0uMDI4YTEgMSAwIDAxMS4wMDguODE1bDIuNjkgMTQuMzQ3QTEgMSAwIDAwNy44MyAxOEgxOCIgLz4KICA8cGF0aCBkPSJNNC41NjQgNUgxMiIgLz4KICA8cGF0aCBkPSJNNi4yNSAxNGgxMi43MTJhMiAyIDAgMDAxLjk5MS0xLjU3bC4xNzItMS4wNDEiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIyMCIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMjAiIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [shopping_cart_plus] icon is a graphical symbol that conveys a specific idea or functionality related to trolley, cart, basket, e-commerce, ecommerce, store, purchase, products, items, checkout, order, retail, add, increase, quantity, buy.
+  /// - It belongs to the categories: shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ajay199210](https://github.com/ajay199210), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData shopping_cart_plus = IconData(
+    0xe753,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [shovel] icon from the Lucide icon set.
   ///
   /// ![shovel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuNTYgNC41NmExLjUgMS41IDAgMCAxIDAgMi4xMjJsLS40Ny40N2EzIDMgMCAwIDEtNC4yMTItLjAzIDMgMyAwIDAgMSAwLTQuMjQzbC40NC0uNDRhMS41IDEuNSAwIDAgMSAyLjEyMSAweiIgLz4KICA8cGF0aCBkPSJNMyAyMmExIDEgMCAwIDEtMS0xdi0zLjU4NmExIDEgMCAwIDEgLjI5My0uNzA3bDMuMzU1LTMuMzU1YTEuMjA1IDEuMjA1IDAgMCAxIDEuNzA0IDBsMy4yOTYgMy4yOTZhMS4yMDUgMS4yMDUgMCAwIDEgMCAxLjcwNGwtMy4zNTUgMy4zNTVhMSAxIDAgMCAxLS43MDcuMjkzeiIgLz4KICA8cGF0aCBkPSJtOSAxNSA3Ljg3OS03Ljg3OCIgLz4KPC9zdmc+Cg==)
@@ -22427,16 +22507,32 @@ abstract final class LucideIcons {
 
   /// Represents the [shrimp] icon from the Lucide icon set.
   ///
-  /// ![shrimp](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMyAyMmMuNS0uNSAxLjEyLTEgMi41LTEtMS4zOCAwLTItLjUtMi41LTEiIC8+CiAgPHBhdGggZD0iTTE0IDJhMy4yOCAzLjI4IDAgMCAxLTMuMjI3IDEuNzk4bC02LjE3LS41NjFBMi4zODcgMi4zODcgMCAxIDAgNC4zODcgOEgxNS41YTEgMSAwIDAgMSAwIDEzIDEgMSAwIDAgMCAwLTVIMTJhNyA3IDAgMCAxLTctN1Y4IiAvPgogIDxwYXRoIGQ9Ik0xNCA4YTguNSA4LjUgMCAwIDEgMCA4IiAvPgogIDxwYXRoIGQ9Ik0xNiAxNmMyIDAgNC41LTQgNC02IiAvPgo8L3N2Zz4K)
+  /// ![shrimp](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMmEzLjI4IDMuMjggMCAwMDMuMjI3IDEuNzk4bDYuMTctLjU2MUExIDEgMCAxMTE5LjYxNCA4SDguNWE2LjQ0IDYuNDQgMCAwMC01LjYzIDkuNzVBNi41IDYuNSAwIDAwOC41IDIxYzEuMzggMCAyLS41IDIuNS0xIiAvPgogIDxwYXRoIGQ9Ik0xMCA4YTguNSA4LjUgMCAwMDAgOCIgLz4KICA8cGF0aCBkPSJNMTEgMjJjLS41LS41LTEuMTItMS0yLjUtMWExIDEgMCAwMTAtNUgxMmE3IDcgMCAwMDctN1Y4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTggMTZjLTIgMC00LjUtNC00LTYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [shrimp] icon is a graphical symbol that conveys a specific idea or functionality related to seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, cherrystone.
-  /// - It belongs to the categories: animals
+  /// - The [shrimp] icon is a graphical symbol that conveys a specific idea or functionality related to seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, marine, creature, fisherman, ocean, fresh, cuisine, marine-life.
+  /// - It belongs to the categories: animals, food-beverage
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData shrimp = IconData(
     0xe649,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [shrimp_off] icon from the Lucide icon set.
+  ///
+  /// ![shrimp_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMmEzLjI4IDMuMjggMCAwMDMuMjI3IDEuNzk4bDYuMTctLjU2MUExIDEgMCAxMTE5LjYxNCA4SDEzLjUiIC8+CiAgPHBhdGggZD0iTTExIDIwYy0uNS41LTEuMTIgMS0yLjUgMWExIDEgMCAwMTAtNUgxMmE3IDcgMCAwMDMuMjgzLS44MTciIC8+CiAgPHBhdGggZD0iTTExIDIyYy0uNS0uNS0xLjEyLTEtMi41LTFhNi41IDYuNSAwIDAxLTUuNjMtMy4yNSA2LjQ0IDYuNDQgMCAwMTUuMjM2LTkuNzQ0IiAvPgogIDxwYXRoIGQ9Ik0xOC4wNCAxMi41NEE3IDcgMCAwMDE5IDlWOCIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik04IDE2Yy0yIDAtNC41LTQtNC02IiAvPgogIDxwYXRoIGQ9Ik05LjQzIDkuMzNBOC41IDguNSAwIDAwMTAgMTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [shrimp_off] icon is a graphical symbol that conveys a specific idea or functionality related to marine, creature, fisherman, ocean, fresh, cuisine, marine-life, seafood, shellfish, crustacean, prawn, scallop, whelk, arthropod, littleneck, quahog, allergy, intolerance, diet.
+  /// - It belongs to the categories: animals, food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData shrimp_off = IconData(
+    0xe754,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

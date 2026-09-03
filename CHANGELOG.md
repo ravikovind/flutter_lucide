@@ -1,3 +1,15 @@
+# 1.40.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.40.0
+- Total icon count increased from 1,793+ to 1,799+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- bridge, can, lighthouse, shopping-cart-minus, shopping-cart-plus, shrimp-off
+
+---
+
 # 1.39.0
 
 ## Improvements 🚀
