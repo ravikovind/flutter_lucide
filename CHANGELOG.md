@@ -1,3 +1,18 @@
+# 1.41.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.41.0
+- Total icon count increased from 1,799+ to 1,807+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- can-soda, credit-card-reader, door-stairwell, engine, germ, germ-off, square-exclamation-point, virus, virus-off
+
+## Removed Icons 🗑️
+- trash-2
+
+---
+
 # 1.40.0
 
 ## Improvements 🚀
