@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1799** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1807** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -298,6 +298,7 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `camera` | photography, lens, focus, capture, shot, visual, image, device, equipment, photo, webcam, video | photography, devices, communication |
 | `camera-off` | photo, webcam, video | photography, devices, communication |
 | `can` | food, storage, groceries, tin, metal, recyclable, container, pantry, grocery, preserved | food-beverage |
+| `can-soda` | beverage, drink, food, soda, tin, beer, alcohol, waste | food-beverage |
 | `candy` | sugar, food, sweet | food-beverage |
 | `candy-cane` | sugar, food, sweet, christmas, xmas | food-beverage |
 | `candy-off` | sugar free, food, sweet, allergy, intolerance, diet | food-beverage |
@@ -525,6 +526,7 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `credit-card-check` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc | account, finance, shopping |
 | `credit-card-minus` | debit, payment, remove, delete, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, purchase, checkout, subtract, minus, bank, cc | account, finance, shopping |
 | `credit-card-plus` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, add, new, link, save, method, plastic, bank, cc | account, finance, shopping |
+| `credit-card-reader` | bank, purchase, payment, cc, atm, terminal, checkout, kiosk, pos, point of sale, transaction, contactless, chip, swipe, tap, banking, finance, retail | finance, navigation, shopping |
 | `credit-card-x` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, declined, rejected, failed, invalid, canceled, error, cancel, bank, cc | account, finance, shopping |
 | `croissant` | bakery, cooking, food, pastry | food-beverage |
 | `crop` | photo, image | photography, design |
@@ -577,6 +579,7 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `door-closed` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
 | `door-closed-locked` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock | home, travel, security |
 | `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
+| `door-stairwell` | staircase, stairway, stairs, steps, ladder, transition, access, structure, espiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit | home, travel |
 | `dot` | interpunct, interpoint, middot, step, punctuation, period, full stop, end, finish, final, characters, font, typography, type, center, . | shapes, text |
 | `download` | import, export, save | arrows, files |
 | `drafting-compass` | geometry, trigonometry, radius, diameter, circumference, calculate, measure, arc, curve, draw, sketch | math, design, tools |
@@ -601,6 +604,7 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ellipse` | shape, geometry, rounded, smooth, outline, form, boundary, curve, shapes, ellipse, oval | shapes |
 | `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
 | `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ... | layout |
+| `engine` | vehicle, power, energy, drive, repair, car, motor, mechanical, diagnostics, maintenance, warning, dashboard, parts | transportation |
 | `equal` | calculate, math, operator, assignment, code, = | math, development |
 | `equal-approximately` | about, calculate, math, operator | math |
 | `equal-not` | calculate, off, math, operator, code, ≠ | math, development |
@@ -764,6 +768,8 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gavel` | justice, law, court, judgment, legal, hands, penalty, decision, authority, hammer, mallet | navigation, tools |
 | `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems | gaming, development, finance |
 | `georgian-lari` | currency, money, payment | finance |
+| `germ` | virus, microbe, bacterium, bacteria, germ, organism, cilia, pathogen, infection, disease, contagion, contamination, microbiology, health, medicine, biology, science, microorganism, pandemic, epidemic, outbreak, amoeba, flu, security, single cell, unicellular, vaccine, immunity, quarantine | medical, science, security |
+| `germ-off` | virus, microbe, bacterium, bacteria, germ, organism, cilia, pathogen, infection, disease, contagion, contamination, microbiology, health, medicine, biology, science, microorganism, pandemic, epidemic, outbreak, amoeba, flu, security, single cell, unicellular, vaccine, immunity, quarantine | medical, science, security |
 | `ghost` | spirit, haunt, specter, apparition, wraith, shade, phantom, entity, shadow, silhouette, pac-man, spooky, halloween, haunted, invisible, hidden, empty, dead, obsolete, outdated | gaming |
 | `gift` | present, box, birthday, party | gaming, account |
 | `git-branch` | code, version control, vcs, repository | development |
@@ -1500,6 +1506,7 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-divide` | calculate, math, ÷, / | math |
 | `square-dot` | git, diff, modified, . | development |
 | `square-equal` | calculate, = | math |
+| `square-exclamation-point` | warning, alert, danger, exclamation mark, rectangle, square, notification, attention, important, caution | notifications, shapes |
 | `square-function` | programming, code, automation, math | development, math |
 | `square-kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, code, coding, toolbar, button | charts, development, design |
 | `square-library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
@@ -1660,7 +1667,6 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tram-front` | railway, metro, subway, underground, track, line, tourism | transportation |
 | `transgender` | gender, inclusive | medical, accessibility |
 | `trash` | empty, deletion, cleanup, junk, clear, garbage, delete, remove, bin, waste, recycle, discard, binoculars, rubbish | files, mail |
-| `trash-2` | garbage, delete, remove, bin | files, mail |
 | `tree-deciduous` | tree, forest, park, nature | nature, sustainability |
 | `tree-palm` | vacation, leisure, island | nature, sustainability |
 | `tree-pine` | tree, pine, forest, park, nature | nature, sustainability |
@@ -1741,6 +1747,8 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `video-off` | camera, movie, film | devices, communication, connectivity, photography |
 | `videotape` | vhs, movie, film, recording, motion picture, showreel, cassette | devices, communication, connectivity, photography, files |
 | `view` | eye, look | design, photography |
+| `virus` | pathogen, infection, disease, illness, contagion, outbreak, pandemic, epidemic, covid, coronavirus, germ, microbe, microorganism, biology, medical, healthcare, malware, cybersecurity, threat | medical, science, security |
+| `virus-off` | pathogen, infection, disease, illness, contagion, outbreak, pandemic, epidemic, covid, coronavirus, germ, microbe, microorganism, biology, medical, healthcare, malware, cybersecurity, threat, antivirus, blocked, removed, clean, safe, prevention, quarantine | medical, science, security |
 | `voicemail` | phone, cassette, tape, reel, recording, audio | connectivity, devices, social |
 | `volleyball` | beach, sand, net, holiday, vacation, summer, soccer, football, futbol, kick, pitch, goal, score, bounce, leather, wool, yarn, knitting, sewing, thread, embroidery, textile | sports, gaming, travel |
 | `volume` | music, sound, mute, speaker | connectivity, communication, multimedia |
@@ -1810,4 +1818,4 @@ All **1799** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1799 icons*
+*Total: 1807 icons*

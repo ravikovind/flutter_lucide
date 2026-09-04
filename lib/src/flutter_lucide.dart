@@ -4649,6 +4649,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [can_soda] icon from the Lucide icon set.
+  ///
+  /// ![can_soda](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTcgMjIgMS42NjQtMi40OTZhMiAyIDAgMDAuMzM2LTEuMTFWNS42MDZhMiAyIDAgMDAtLjMzNi0xLjExTDE3IDIiIC8+CiAgPHBhdGggZD0iTTE4IDIySDYiIC8+CiAgPHBhdGggZD0iTTE4IDJINiIgLz4KICA8cGF0aCBkPSJNNSAxN2gxNCIgLz4KICA8cGF0aCBkPSJNNSA3aDE0IiAvPgogIDxwYXRoIGQ9Im03IDIyLTEuNjY0LTIuNDk2QTIgMiAwIDAxNSAxOC4zOTRWNS42MDZhMiAyIDAgMDEuMzM2LTEuMTFMNyAyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [can_soda] icon is a graphical symbol that conveys a specific idea or functionality related to beverage, drink, food, soda, tin, beer, alcohol, waste.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jaynewey](https://github.com/jaynewey)
+  static const IconData can_soda = IconData(
+    0xe755,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [candy] icon from the Lucide icon set.
   ///
   /// ![candy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgN3YxMC45IiAvPgogIDxwYXRoIGQ9Ik0xNCA2LjFWMTciIC8+CiAgPHBhdGggZD0iTTE2IDdWM2ExIDEgMCAwIDEgMS43MDctLjcwNyAyLjUgMi41IDAgMCAwIDIuMTUyLjcxNyAxIDEgMCAwIDEgMS4xMzEgMS4xMzEgMi41IDIuNSAwIDAgMCAuNzE3IDIuMTUyQTEgMSAwIDAgMSAyMSA4aC00IiAvPgogIDxwYXRoIGQ9Ik0xNi41MzYgNy40NjVhNSA1IDAgMCAwLTcuMDcyIDBsLTIgMmE1IDUgMCAwIDAgMCA3LjA3IDUgNSAwIDAgMCA3LjA3MiAwbDItMmE1IDUgMCAwIDAgMC03LjA3IiAvPgogIDxwYXRoIGQ9Ik04IDE3djRhMSAxIDAgMCAxLTEuNzA3LjcwNyAyLjUgMi41IDAgMCAwLTIuMTUyLS43MTcgMSAxIDAgMCAxLTEuMTMxLTEuMTMxIDIuNSAyLjUgMCAwIDAtLjcxNy0yLjE1MkExIDEgMCAwIDEgMyAxNmg0IiAvPgo8L3N2Zz4K)
@@ -8281,6 +8297,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [credit_card_reader] icon from the Lucide icon set.
+  ///
+  /// ![credit_card_reader](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTZ2MSIgLz4KICA8cGF0aCBkPSJNMTYuOTYzIDcuNzM0QTEgMSAwIDAwMTUuOTk5IDdIOC4wMDNhMSAxIDAgMDAtLjk2NC43MzRMNC4wNzMgMTguNDY3QTIgMiAwIDAwNiAyMWgxMmEyIDIgMCAwMDEuOTI3LTIuNTMyeiIgLz4KICA8cGF0aCBkPSJNMi42NzggOC41QTIgMiAwIDAxMiA3VjVhMiAyIDAgMDEyLTJoMTZhMiAyIDAgMDEyIDJ2MmEyIDIgMCAwMS0uNjc2IDEuNDk5IiAvPgogIDxwYXRoIGQ9Im05IDIxIDItMTQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [credit_card_reader] icon is a graphical symbol that conveys a specific idea or functionality related to bank, purchase, payment, cc, atm, terminal, checkout, kiosk, pos, point of sale, transaction, contactless, chip, swipe, tap, banking, finance, retail.
+  /// - It belongs to the categories: finance, navigation, shopping
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData credit_card_reader = IconData(
+    0xe756,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [credit_card_x] icon from the Lucide icon set.
   ///
   /// ![credit_card_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjMuNSIgLz4KICA8cGF0aCBkPSJtMTYuNSAxNC41IDUgNSIgLz4KICA8cGF0aCBkPSJNMiAxMGgyMCIgLz4KICA8cGF0aCBkPSJtMjEuNSAxNC41LTUgNSIgLz4KPC9zdmc+Cg==)
@@ -9067,7 +9099,7 @@ abstract final class LucideIcons {
 
   /// Represents the [door_closed] icon from the Lucide icon set.
   ///
-  /// ![door_closed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOCAyMFY2YTIgMiAwIDAgMC0yLTJIOGEyIDIgMCAwIDAtMiAydjE0IiAvPgogIDxwYXRoIGQ9Ik0yIDIwaDIwIiAvPgo8L3N2Zz4K)
+  /// ![door_closed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgMjFWNWEyIDIgMCAwMC0yLTJIN2EyIDIgMCAwMC0yIDJ2MTYiIC8+CiAgPHBhdGggZD0iTTIgMjFoMjAiIC8+CiAgPHBhdGggZD0iTTkgMTJoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [door_closed] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
@@ -9083,7 +9115,7 @@ abstract final class LucideIcons {
 
   /// Represents the [door_closed_locked] icon from the Lucide icon set.
   ///
-  /// ![door_closed_locked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOCA5VjZhMiAyIDAgMCAwLTItMkg4YTIgMiAwIDAgMC0yIDJ2MTQiIC8+CiAgPHBhdGggZD0iTTIgMjBoOCIgLz4KICA8cGF0aCBkPSJNMjAgMTd2LTJhMiAyIDAgMSAwLTQgMHYyIiAvPgogIDxyZWN0IHg9IjE0IiB5PSIxNyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
+  /// ![door_closed_locked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgOFY1YTIgMiAwIDAwLTItMkg3YTIgMiAwIDAwLTIgMnYxNiIgLz4KICA8cGF0aCBkPSJNMiAyMWg4IiAvPgogIDxwYXRoIGQ9Ik0yMCAxNnYtMmEyIDIgMCAwMC00IDB2MiIgLz4KICA8cGF0aCBkPSJNOSAxMmguMDEiIC8+CiAgPHJlY3QgeD0iMTQiIHk9IjE2IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [door_closed_locked] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock.
@@ -9099,7 +9131,7 @@ abstract final class LucideIcons {
 
   /// Represents the [door_open] icon from the Lucide icon set.
   ///
-  /// ![door_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjBIMiIgLz4KICA8cGF0aCBkPSJNMTEgNC41NjJ2MTYuMTU3YTEgMSAwIDAgMCAxLjI0Mi45N0wxOSAyMFY1LjU2MmEyIDIgMCAwIDAtMS41MTUtMS45NGwtNC0xQTIgMiAwIDAgMCAxMSA0LjU2MXoiIC8+CiAgPHBhdGggZD0iTTExIDRIOGEyIDIgMCAwIDAtMiAydjE0IiAvPgogIDxwYXRoIGQ9Ik0xNCAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTIyIDIwaC0zIiAvPgo8L3N2Zz4K)
+  /// ![door_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjFIMiIgLz4KICA8cGF0aCBkPSJNMTAgNGEyIDIgMCAwMTIuMzYtMS45NjhsNS40MS45OTJBMS41IDEuNSAwIDAxMTkgNC41VjIxbC03Ljg3Ni45OTJBMSAxIDAgMDExMCAyMXoiIC8+CiAgPHBhdGggZD0iTTEwLjI2OCAzSDdhMiAyIDAgMDAtMiAydjE2IiAvPgogIDxwYXRoIGQ9Ik0xNCAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTIyIDIxaC0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [door_open] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
@@ -9109,6 +9141,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData door_open = IconData(
     0xe3d6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [door_stairwell] icon from the Lucide icon set.
+  ///
+  /// ![door_stairwell](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2LTNhMSAxIDAgMDExLTFoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTdoLTlhMSAxIDAgMDAtMSAxdjMiIC8+CiAgPHBhdGggZD0iTTE5IDIxVjVhMiAyIDAgMDAtMi0ySDdhMiAyIDAgMDAtMiAydjE2IiAvPgogIDxwYXRoIGQ9Ik0xOSA5aC0zYTEgMSAwIDAwLTEgMXYzIiAvPgogIDxwYXRoIGQ9Ik0yMiAyMUgyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [door_stairwell] icon is a graphical symbol that conveys a specific idea or functionality related to staircase, stairway, stairs, steps, ladder, transition, access, structure, espiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit.
+  /// - It belongs to the categories: home, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData door_stairwell = IconData(
+    0xe757,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -9493,6 +9541,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis)
   static const IconData ellipsis_vertical = IconData(
     0xe0b7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [engine] icon from the Lucide icon set.
+  ///
+  /// ![engine](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM2g2IiAvPgogIDxwYXRoIGQ9Ik0xMyAzdjQiIC8+CiAgPHBhdGggZD0iTTIgMTB2NiIgLz4KICA8cGF0aCBkPSJNMiAxM2g0IiAvPgogIDxwYXRoIGQ9Ik02IDE2YTIgMiAwIDAwMiAyaDFhMiAyIDAgMDExLjYuOGwuMy40YTIgMiAwIDAwMS42LjhoMi4yNjRhMiAyIDAgMDAxLjc4OS0xLjEwNmwxLjY3LTMuMzQxYTEgMSAwIDAxLjg5NS0uNTUzSDIxYTEgMSAwIDAwMS0xdi00YTEgMSAwIDAwLTEtMWgtMy41YTEgMSAwIDAxLS44LS40bC0uOS0xLjJBMSAxIDAgMDAxNSA3aC00YTEgMSAwIDAwLS44LjRsLS45IDEuMmExIDEgMCAwMS0uOC40SDdhMSAxIDAgMDAtMSAxeiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [engine] icon is a graphical symbol that conveys a specific idea or functionality related to vehicle, power, energy, drive, repair, car, motor, mechanical, diagnostics, maintenance, warning, dashboard, parts.
+  /// - It belongs to the categories: transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/benhaube](https://github.com/benhaube), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData engine = IconData(
+    0xe758,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -12105,6 +12169,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [germ] icon from the Lucide icon set.
+  ///
+  /// ![germ](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMiAuOTI1IDEuODQ4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxNWguMDEiIC8+CiAgPHBhdGggZD0ibTE2IDIxLTEtMi40NzIiIC8+CiAgPHBhdGggZD0ibTE5IDItMSAxLjgwNCIgLz4KICA8cGF0aCBkPSJtMiAxOSAyLjc0Ni0xLjM3MyIgLz4KICA8cGF0aCBkPSJtMjIgMTYtMi40NzQtMi4xMyIgLz4KICA8cGF0aCBkPSJtMjIgNS0xLjgwNCAxIiAvPgogIDxwYXRoIGQ9Im0zIDEwIDIgMiIgLz4KICA8cGF0aCBkPSJNOSAxNmguMDEiIC8+CiAgPHBhdGggZD0iTTkgMjB2MiIgLz4KICA8cGF0aCBkPSJNOS4zMyA3LjAzNWMtLjUxIDEuNDc4LTEuNzg2IDIuOTMtMy4wOSAzLjc5NEE1IDUgMCAwMDkgMjBhMTIuMSAxMi4xIDAgMDAxMS45MDItOS45MTZBNiA2IDAgMDA5LjMzIDcuMDM1IiAvPgogIDxjaXJjbGUgY3g9IjE1IiBjeT0iOSIgcj0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [germ] icon is a graphical symbol that conveys a specific idea or functionality related to virus, microbe, bacterium, bacteria, germ, organism, cilia, pathogen, infection, disease, contagion, contamination, microbiology, health, medicine, biology, science, microorganism, pandemic, epidemic, outbreak, amoeba, flu, security, single cell, unicellular, vaccine, immunity, quarantine.
+  /// - It belongs to the categories: medical, science, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData germ = IconData(
+    0xe75a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [germ_off] icon from the Lucide icon set.
+  ///
+  /// ![germ_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMiAuOTI1IDEuODQ4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxNWguMDEiIC8+CiAgPHBhdGggZD0iTTEzLjQyNCA3Ljc2OGEyIDIgMCAxMTIuODA4IDIuODA4IiAvPgogIDxwYXRoIGQ9Im0xNiAyMS0xLTIuNDcyIiAvPgogIDxwYXRoIGQ9Ik0xNi45ODggMTYuOTg4QTEyIDEyIDAgMDE5IDIwYTUgNSAwIDAxLTIuNzU5LTkuMTcxIDguOCA4LjggMCAwMDIuMzA3LTIuMjgiIC8+CiAgPHBhdGggZD0ibTE5IDItMSAxLjgwNCIgLz4KICA8cGF0aCBkPSJtMiAxOSAyLjc0Ni0xLjM3MyIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Im0yMiAxNi0yLjQ3NC0yLjEzYTEyIDEyIDAgMDAxLjM3Ni0zLjc4NiA2IDYgMCAwMC0xMC4zMTMtNS4xNTEiIC8+CiAgPHBhdGggZD0ibTIyIDUtMS44MDQgMSIgLz4KICA8cGF0aCBkPSJtMyAxMCAyIDIiIC8+CiAgPHBhdGggZD0iTTkgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik05IDIwdjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [germ_off] icon is a graphical symbol that conveys a specific idea or functionality related to virus, microbe, bacterium, bacteria, germ, organism, cilia, pathogen, infection, disease, contagion, contamination, microbiology, health, medicine, biology, science, microorganism, pandemic, epidemic, outbreak, amoeba, flu, security, single cell, unicellular, vaccine, immunity, quarantine.
+  /// - It belongs to the categories: medical, science, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData germ_off = IconData(
+    0xe759,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [ghost] icon from the Lucide icon set.
   ///
   /// ![ghost](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTB2MSIgLz4KICA8cGF0aCBkPSJNNy41MjggMjAuNDcyYTEuNiAxLjYgMCAwMTIuMjc3IDBsMS4wNTcgMS4wNTZhMS42IDEuNiAwIDAwMi4yNzYgMGwxLjA1Ny0xLjA1NmExLjYgMS42IDAgMDEyLjI3NyAwbDEuMTE0IDEuMTE0YTEuNCAxLjQgMCAwMDIuNDE0LTFWMTBhOCA4IDAgMDAtMTYgMHYxMC41ODZhMS40IDEuNCAwIDAwMi40MTQgMXoiIC8+CiAgPHBhdGggZD0iTTkgMTB2MSIgLz4KPC9zdmc+Cg==)
@@ -14603,7 +14699,7 @@ abstract final class LucideIcons {
 
   /// Represents the [leaf] icon from the Lucide icon set.
   ///
-  /// ![leaf](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjBBNyA3IDAgMCAxIDkuOCA2LjFDMTUuNSA1IDE3IDQuNDggMTkgMmMxIDIgMiA0LjE4IDIgOCAwIDUuNS00Ljc4IDEwLTEwIDEwWiIgLz4KICA8cGF0aCBkPSJNMiAyMWMwLTMgMS44NS01LjM2IDUuMDgtNkM5LjUgMTQuNTIgMTIgMTMgMTMgMTIiIC8+Cjwvc3ZnPgo=)
+  /// ![leaf](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjBhMTAgMTAgMCAwMDEwLTEwIDI1LjkgMjUuOSAwIDAwLTEuMDQtNy4yODEgMSAxIDAgMDAtMS43NTUtLjMyNUMxNS44MzMgNS41IDEzIDUuNSA5LjggNi4xQTcgNyAwIDAwMTEgMjAiIC8+CiAgPHBhdGggZD0iTTIgMjFhNSA1IDAgMDEyLjkxMS00LjU0NEM3LjYxMyAxNS4yMTIgOC4zNTEgMTUuMjQgMTEgMTMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [leaf] icon is a graphical symbol that conveys a specific idea or functionality related to sustainability, nature, energy, plant, autumn.
@@ -23881,6 +23977,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![square_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSIxMiIgeDI9IjEyIiB5MT0iOCIgeTI9IjEyIiAvPgogIDxsaW5lIHgxPSIxMiIgeDI9IjEyLjAxIiB5MT0iMTYiIHkyPSIxNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to warning, alert, danger, exclamation mark, rectangle, square, notification, attention, important, caution.
+  /// - It belongs to the categories: notifications, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/viralcodex](https://github.com/viralcodex), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData square_exclamation_point = IconData(
+    0xe75b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_function] icon from the Lucide icon set.
   ///
   /// ![square_function](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNOSAxN2MyIDAgMi44LTEgMi44LTIuOFYxMGMwLTIgMS0zLjMgMy4yLTMiIC8+CiAgPHBhdGggZD0iTTkgMTEuMmg1LjciIC8+Cjwvc3ZnPgo=)
@@ -26427,7 +26539,7 @@ abstract final class LucideIcons {
 
   /// Represents the [trash] icon from the Lucide icon set.
   ///
-  /// ![trash](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgNnYxNGEyIDIgMCAwIDEtMiAySDdhMiAyIDAgMCAxLTItMlY2IiAvPgogIDxwYXRoIGQ9Ik0zIDZoMTgiIC8+CiAgPHBhdGggZD0iTTggNlY0YTIgMiAwIDAgMSAyLTJoNGEyIDIgMCAwIDEgMiAydjIiIC8+Cjwvc3ZnPgo=)
+  /// ![trash](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTQgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTkgNnYxNGEyIDIgMCAwIDEtMiAySDdhMiAyIDAgMCAxLTItMlY2IiAvPgogIDxwYXRoIGQ9Ik0zIDZoMTgiIC8+CiAgPHBhdGggZD0iTTggNlY0YTIgMiAwIDAgMSAyLTJoNGEyIDIgMCAwIDEgMiAydjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [trash] icon is a graphical symbol that conveys a specific idea or functionality related to empty, deletion, cleanup, junk, clear, garbage, delete, remove, bin, waste, recycle, discard, binoculars, rubbish.
@@ -26437,22 +26549,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData trash = IconData(
     0xe18d,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [trash_2] icon from the Lucide icon set.
-  ///
-  /// ![trash_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTQgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTkgNnYxNGEyIDIgMCAwIDEtMiAySDdhMiAyIDAgMCAxLTItMlY2IiAvPgogIDxwYXRoIGQ9Ik0zIDZoMTgiIC8+CiAgPHBhdGggZD0iTTggNlY0YTIgMiAwIDAgMSAyLTJoNGEyIDIgMCAwIDEgMiAydjIiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [trash_2] icon is a graphical symbol that conveys a specific idea or functionality related to garbage, delete, remove, bin.
-  /// - It belongs to the categories: files, mail
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData trash_2 = IconData(
-    0xe18e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -27733,6 +27829,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData view = IconData(
     0xe1a7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [virus] icon from the Lucide icon set.
+  ///
+  /// ![virus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTQuOTkxaC4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMjJ2LTMiIC8+CiAgPHBhdGggZD0iTTEyIDJ2MyIgLz4KICA8cGF0aCBkPSJNMTMgMjJoLTIiIC8+CiAgPHBhdGggZD0iTTEzIDJoLTIiIC8+CiAgPHBhdGggZD0iTTEzLjk5IDEwSDE0IiAvPgogIDxwYXRoIGQ9Im0xNi41IDE5Ljc5NC0xLTEuNzMzIiAvPgogIDxwYXRoIGQ9Im0xNi41IDQuMjA1LTEgMS43MzIiIC8+CiAgPHBhdGggZD0ibTE5Ljc5NCAxNi41LTEuNzMyLTEiIC8+CiAgPHBhdGggZD0ibTE5Ljc5NCA3LjUtMS43MzIgMSIgLz4KICA8cGF0aCBkPSJNMiAxMmgzIiAvPgogIDxwYXRoIGQ9Ik0yIDEzdi0yIiAvPgogIDxwYXRoIGQ9Ik0yMiAxMmgtMyIgLz4KICA8cGF0aCBkPSJNMjIgMTN2LTIiIC8+CiAgPHBhdGggZD0ibTQuMjA2IDE2LjUgMS43MzItMSIgLz4KICA8cGF0aCBkPSJtNC4yMDYgNy41IDEuNzMyIDEiIC8+CiAgPHBhdGggZD0ibTcuNSAxOS43OTQgMS0xLjczMyIgLz4KICA8cGF0aCBkPSJtNy41IDQuMjA1IDEgMS43MzIiIC8+CiAgPHBhdGggZD0iTTkgMTJoLjAxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjciIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [virus] icon is a graphical symbol that conveys a specific idea or functionality related to pathogen, infection, disease, illness, contagion, outbreak, pandemic, epidemic, covid, coronavirus, germ, microbe, microorganism, biology, medical, healthcare, malware, cybersecurity, threat.
+  /// - It belongs to the categories: medical, science, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData virus = IconData(
+    0xe75d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [virus_off] icon from the Lucide icon set.
+  ///
+  /// ![virus_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMDEgMTBoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiAxNC45OTFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiAyMnYtMyIgLz4KICA8cGF0aCBkPSJNMTIgMnYzIiAvPgogIDxwYXRoIGQ9Ik0xMyAyMmgtMiIgLz4KICA8cGF0aCBkPSJNMTMgMmgtMiIgLz4KICA8cGF0aCBkPSJtMTYuNSAxOS43OTQtMS0xLjczMyIgLz4KICA8cGF0aCBkPSJtMTYuNSA0LjIwNS0xIDEuNzMyIiAvPgogIDxwYXRoIGQ9Ik0xOC44OTEgMTMuMjM1YTcgNyAwIDAwLTguMTI2LTguMTI2IiAvPgogIDxwYXRoIGQ9Im0xOS43OTQgNy41LTEuNzMyIDEiIC8+CiAgPHBhdGggZD0iTTIgMTJoMyIgLz4KICA8cGF0aCBkPSJNMiAxM3YtMiIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik0yMiAxMmgtMyIgLz4KICA8cGF0aCBkPSJNMjIgMTN2LTIiIC8+CiAgPHBhdGggZD0ibTQuMjA2IDE2LjUgMS43MzItMSIgLz4KICA8cGF0aCBkPSJtNC4yMDYgNy41IDEuNzMyIDEiIC8+CiAgPHBhdGggZD0iTTcuMDUgNy4wNWE3IDcgMCAwMDkuOSA5LjkiIC8+CiAgPHBhdGggZD0ibTcuNSAxOS43OTQgMS0xLjczMyIgLz4KICA8cGF0aCBkPSJNOSAxMmguMDEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [virus_off] icon is a graphical symbol that conveys a specific idea or functionality related to pathogen, infection, disease, illness, contagion, outbreak, pandemic, epidemic, covid, coronavirus, germ, microbe, microorganism, biology, medical, healthcare, malware, cybersecurity, threat, antivirus, blocked, removed, clean, safe, prevention, quarantine.
+  /// - It belongs to the categories: medical, science, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData virus_off = IconData(
+    0xe75c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
