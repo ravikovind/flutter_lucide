@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1807** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1815** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -391,6 +391,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-chevron-right` | back, more than, greater, menu, > | arrows |
 | `circle-chevron-up` | caret, ahead, menu, ^ | arrows |
 | `circle-dashed` | pending, dot, progress, issue, draft, code, coding, version control | development, shapes |
+| `circle-dashed-check` | approved, pending, changes, revision, reapproval, published, schedule, assignment, request, review, progress, issue, draft, code, coding, version control | shapes, development, notifications |
 | `circle-divide` | calculate, math, ÷, / | math |
 | `circle-dollar-sign` | monetization, marketing, currency, money, payment | finance |
 | `circle-dot` | pending, dot, progress, issue, code, coding, version control, choices, multiple choice, choose, album, music, songs, format, cd, dvd, vinyl, sleeve, cover, platinum, compilation, ep, recording, playback, spin, rotate, rpm, dj | development, shapes |
@@ -575,6 +576,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `dock` | desktop, applications, launch, home, menu bar, bottom, line, macos, osx | layout, design, development, files |
 | `dog` | animal, pet, puppy, hound, canine | animals |
 | `dollar-sign` | currency, money, payment | finance |
+| `dome` | roof, cupola, rotunda, shelter, building, architecture, structure, church, christian, orthodox, byzantine, cathedral, basilica, chapel, monument, landmark, museum, observatory, heritage | buildings, navigation, travel |
 | `donut` | doughnut, sprinkles, topping, fast food, junk food, snack, treat, sweet, sugar, dessert, hollow, ring | food-beverage |
 | `door-closed` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
 | `door-closed-locked` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock | home, travel, security |
@@ -607,6 +609,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `engine` | vehicle, power, energy, drive, repair, car, motor, mechanical, diagnostics, maintenance, warning, dashboard, parts | transportation |
 | `equal` | calculate, math, operator, assignment, code, = | math, development |
 | `equal-approximately` | about, calculate, math, operator | math |
+| `equal-approximately-not` | calculate, math, operator, not, approximately, unequal, code, ≇, tolerance, threshold, mismatch, comparison, assertion, variance | math, development, charts, science |
 | `equal-not` | calculate, off, math, operator, code, ≠ | math, development |
 | `eraser` | pencil, drawing, undo, delete, clear, trash, remove | text |
 | `ethernet-port` | internet, network, connection, cable, lan, port, router, switch, hub, modem, web, online, networking, communication, socket, plug, slot, controller, connector, interface, console, signal, data, input, output | communication, devices, multimedia, gaming |
@@ -764,6 +767,8 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gamepad` | console | gaming, devices |
 | `gamepad-2` | console | gaming, devices |
 | `gamepad-directional` | direction, arrow, controller, navigation, button, move, pointer, arrowhead, console, game, gaming | gaming, devices |
+| `gap-horizontal` | gap, spacing, space, between, padding, margin, horizontal, auto layout, layout, distance, frame, distribute | design, layout |
+| `gap-vertical` | gap, spacing, space, between, padding, margin, vertical, auto layout, layout, distance, frame, distribute | design, layout |
 | `gauge` | dashboard, dial, meter, speed, pressure, measure, level | transportation, sports, science |
 | `gavel` | justice, law, court, judgment, legal, hands, penalty, decision, authority, hammer, mallet | navigation, tools |
 | `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems | gaming, development, finance |
@@ -1667,6 +1672,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tram-front` | railway, metro, subway, underground, track, line, tourism | transportation |
 | `transgender` | gender, inclusive | medical, accessibility |
 | `trash` | empty, deletion, cleanup, junk, clear, garbage, delete, remove, bin, waste, recycle, discard, binoculars, rubbish | files, mail |
+| `trash-off` | empty, deletion, cleanup, junk, clear, garbage, delete, remove, bin, trash, waste, recycle, discard, rubbish, disabled, off, prevent, locked, unavailable, protected | files, mail |
 | `tree-deciduous` | tree, forest, park, nature | nature, sustainability |
 | `tree-palm` | vacation, leisure, island | nature, sustainability |
 | `tree-pine` | tree, pine, forest, park, nature | nature, sustainability |
@@ -1708,6 +1714,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user` | person, account, contact | account |
 | `user-check` | followed, subscribed, done, todo, tick, complete, task | account |
 | `user-cog` | settings, edit, cog, gear | account |
+| `user-group` | group, people, team, members, community, membership, collaboration, organization, contacts, directory, staff, family, ancestry, ancestors, lineage, parents | account, people, social |
 | `user-key` | passkey, password, login, authentication, authorization, roles, permissions, private, public, security, person, account, contact | account |
 | `user-lock` | person, lock, locked, account, secure | account, security |
 | `user-minus` | delete, remove, unfollow, unsubscribe | account |
@@ -1717,6 +1724,7 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-round-arrow-left` | person, assign, move, give, setup, self, me, myself, profile, avatar, incoming, recipient, assignee, inbound | account, people, arrows |
 | `user-round-check` | followed, subscribed, done, todo, tick, complete, task | account |
 | `user-round-cog` | settings, edit, cog, gear | account |
+| `user-round-group` | group, people, team, members, community, membership, collaboration, organization, contacts, directory, staff, family, ancestry, ancestors, lineage, parents | account, people, social |
 | `user-round-key` | passkey, password, login, authentication, authorization, roles, permissions, private, public, security, person, account, contact | account |
 | `user-round-minus` | delete, remove, unfollow, unsubscribe | account |
 | `user-round-pen` | person, account, contact, profile, edit, change | account |
@@ -1818,4 +1826,4 @@ All **1807** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1807 icons*
+*Total: 1815 icons*
