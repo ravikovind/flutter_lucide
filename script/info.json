@@ -2687,6 +2687,12 @@
     "className": "icon-circle-chevron-up",
     "unicode": "&#58592;"
   },
+  "circle-dashed-check": {
+    "encodedCode": "\\e75e",
+    "prefix": "icon",
+    "className": "icon-circle-dashed-check",
+    "unicode": "&#59230;"
+  },
   "circle-dashed": {
     "encodedCode": "\\e4b0",
     "prefix": "icon",
@@ -3875,6 +3881,12 @@
     "className": "icon-dollar-sign",
     "unicode": "&#57521;"
   },
+  "dome": {
+    "encodedCode": "\\e75f",
+    "prefix": "icon",
+    "className": "icon-dome",
+    "unicode": "&#59231;"
+  },
   "donut": {
     "encodedCode": "\\e4bc",
     "prefix": "icon",
@@ -4084,6 +4096,12 @@
     "prefix": "icon",
     "className": "icon-engine",
     "unicode": "&#59224;"
+  },
+  "equal-approximately-not": {
+    "encodedCode": "\\e760",
+    "prefix": "icon",
+    "className": "icon-equal-approximately-not",
+    "unicode": "&#59232;"
   },
   "equal-approximately": {
     "encodedCode": "\\e634",
@@ -5290,6 +5308,18 @@
     "prefix": "icon",
     "className": "icon-gantt-chart",
     "unicode": "&#58564;"
+  },
+  "gap-horizontal": {
+    "encodedCode": "\\e761",
+    "prefix": "icon",
+    "className": "icon-gap-horizontal",
+    "unicode": "&#59233;"
+  },
+  "gap-vertical": {
+    "encodedCode": "\\e762",
+    "prefix": "icon",
+    "className": "icon-gap-vertical",
+    "unicode": "&#59234;"
   },
   "gauge-circle": {
     "encodedCode": "\\e4e1",
@@ -11351,6 +11381,12 @@
     "className": "icon-trash-2",
     "unicode": "&#57742;"
   },
+  "trash-off": {
+    "encodedCode": "\\e763",
+    "prefix": "icon",
+    "className": "icon-trash-off",
+    "unicode": "&#59235;"
+  },
   "trash": {
     "encodedCode": "\\e18d",
     "prefix": "icon",
@@ -11651,6 +11687,12 @@
     "className": "icon-user-cog",
     "unicode": "&#58178;"
   },
+  "user-group": {
+    "encodedCode": "\\e764",
+    "prefix": "icon",
+    "className": "icon-user-group",
+    "unicode": "&#59236;"
+  },
   "user-key": {
     "encodedCode": "\\e6c8",
     "prefix": "icon",
@@ -11710,6 +11752,12 @@
     "prefix": "icon",
     "className": "icon-user-round-cog",
     "unicode": "&#58474;"
+  },
+  "user-round-group": {
+    "encodedCode": "\\e765",
+    "prefix": "icon",
+    "className": "icon-user-round-group",
+    "unicode": "&#59237;"
   },
   "user-round-key": {
     "encodedCode": "\\e6c9",

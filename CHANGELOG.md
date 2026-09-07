@@ -1,3 +1,15 @@
+# 1.42.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.42.0
+- Total icon count increased from 1,807+ to 1,815+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- circle-dashed-check, dome, equal-approximately-not, gap-horizontal, gap-vertical, trash-off, user-group, user-round-group
+
+---
+
 # 1.41.0
 
 ## Improvements 🚀

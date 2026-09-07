@@ -6137,6 +6137,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_dashed_check] icon from the Lucide icon set.
+  ///
+  /// ![circle_dashed_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4MmExMCAxMCAwIDAxMy44IDAiIC8+CiAgPHBhdGggZD0iTTEzLjkgMjEuODE4YTEwIDEwIDAgMDEtMy44IDAiIC8+CiAgPHBhdGggZD0ibTE2IDktNS41IDUuNUw4IDEyIiAvPgogIDxwYXRoIGQ9Ik0xNy42MDkgMy43MjFhMTAgMTAgMCAwMTIuNjkgMi43IiAvPgogIDxwYXRoIGQ9Ik0yLjE4MiAxMy45YTEwIDEwIDAgMDEwLTMuOCIgLz4KICA8cGF0aCBkPSJNMjAuMjc5IDE3LjYwOWExMCAxMCAwIDAxLTIuNyAyLjY5IiAvPgogIDxwYXRoIGQ9Ik0yMS44MTggMTAuMWExMCAxMCAwIDAxMCAzLjgiIC8+CiAgPHBhdGggZD0iTTMuNzIxIDYuMzkxYTEwIDEwIDAgMDEyLjctMi42OSIgLz4KICA8cGF0aCBkPSJNNi4zOTEgMjAuMjc5YTEwIDEwIDAgMDEtMi42OS0yLjciIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_dashed_check] icon is a graphical symbol that conveys a specific idea or functionality related to approved, pending, changes, revision, reapproval, published, schedule, assignment, request, review, progress, issue, draft, code, coding, version control.
+  /// - It belongs to the categories: shapes, development, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_dashed_check = IconData(
+    0xe75e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_divide] icon from the Lucide icon set.
   ///
   /// ![circle_divide](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8bGluZSB4MT0iOCIgeDI9IjE2IiB5MT0iMTIiIHkyPSIxMiIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjE2IiB5Mj0iMTYiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIiIHkxPSI4IiB5Mj0iOCIgLz4KPC9zdmc+Cg==)
@@ -7787,14 +7803,14 @@ abstract final class LucideIcons {
 
   /// Represents the [computer] icon from the Lucide icon set.
   ///
-  /// ![computer](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjUiIHk9IjIiIHJ4PSIyIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMiIgeT0iMTQiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik02IDE4aDIiIC8+CiAgPHBhdGggZD0iTTEyIDE4aDYiIC8+Cjwvc3ZnPgo=)
+  /// ![computer](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThoNiIgLz4KICA8cGF0aCBkPSJNNiAxOGguMDEiIC8+CiAgPHBhdGggZD0iTTggNmgxIiAvPgogIDxyZWN0IHg9IjIiIHk9IjE0IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxyZWN0IHg9IjQiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [computer] icon is a graphical symbol that conveys a specific idea or functionality related to pc, chassis, codespaces.
   /// - It belongs to the categories: devices, development, gaming
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData computer = IconData(
     0xe4e4,
     fontFamily: _fontFamily,
@@ -9081,6 +9097,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [dome] icon from the Lucide icon set.
+  ///
+  /// ![dome](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjF2LTNhMiAyIDAgMDE0IDB2MyIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xOCAxMnY5IiAvPgogIDxwYXRoIGQ9Ik0yMiAxOWEyIDIgMCAwMS0yIDJINGEyIDIgMCAwMS0yLTJ2LTZhMSAxIDAgMDExLTFoMThhMSAxIDAgMDExIDF6IiAvPgogIDxwYXRoIGQ9Ik00IDEyYTggOCAwIDAxMTYgMCIgLz4KICA8cGF0aCBkPSJNNiAxMnY5IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [dome] icon is a graphical symbol that conveys a specific idea or functionality related to roof, cupola, rotunda, shelter, building, architecture, structure, church, christian, orthodox, byzantine, cathedral, basilica, chapel, monument, landmark, museum, observatory, heritage.
+  /// - It belongs to the categories: buildings, navigation, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/swastik7805](https://github.com/swastik7805), [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData dome = IconData(
+    0xe75f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [donut] icon from the Lucide icon set.
   ///
   /// ![donut](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAuNSAxMGEyLjUgMi41IDAgMCAxLTIuNC0zSDE4YTIuOTUgMi45NSAwIDAgMS0yLjYtNC40IDEwIDEwIDAgMSAwIDYuMyA3LjFjLS4zLjItLjguMy0xLjIuMyIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgo8L3N2Zz4K)
@@ -9589,6 +9621,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/ksk3110](https://github.com/ksk3110)
   static const IconData equal_approximately = IconData(
     0xe634,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [equal_approximately_not] icon from the Lucide icon set.
+  ///
+  /// ![equal_approximately_not](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAxNWE2LjUgNi41IDAgMCAxIDcgMCA2LjUgNi41IDAgMCAwIDcgMCIgLz4KICA8cGF0aCBkPSJNNSA5YTYuNSA2LjUgMCAwIDEgNyAwIDYuNSA2LjUgMCAwIDAgNyAwIiAvPgogIDxsaW5lIHgxPSIxOSIgeDI9IjUiIHkxPSI1IiB5Mj0iMTkiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [equal_approximately_not] icon is a graphical symbol that conveys a specific idea or functionality related to calculate, math, operator, not, approximately, unequal, code, ≇, tolerance, threshold, mismatch, comparison, assertion, variance.
+  /// - It belongs to the categories: math, development, charts, science
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ksk3110](https://github.com/ksk3110), [https://github.com/ryck](https://github.com/ryck)
+  static const IconData equal_approximately_not = IconData(
+    0xe760,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -12101,6 +12149,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/felipeajzanetti](https://github.com/felipeajzanetti), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData gamepad_directional = IconData(
     0xe69b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [gap_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![gap_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djIiIC8+CiAgPHBhdGggZD0iTTEyIDE0djIiIC8+CiAgPHBhdGggZD0iTTEyIDIwdjIiIC8+CiAgPHBhdGggZD0iTTIxIDNoLTNhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDMiIC8+CiAgPHBhdGggZD0iTTMgM2gzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkgzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [gap_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to gap, spacing, space, between, padding, margin, horizontal, auto layout, layout, distance, frame, distribute.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/samuelalake](https://github.com/samuelalake), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData gap_horizontal = IconData(
+    0xe761,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [gap_vertical] icon from the Lucide icon set.
+  ///
+  /// ![gap_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmgyIiAvPgogIDxwYXRoIGQ9Ik04IDEyaDIiIC8+CiAgPHBhdGggZD0iTTE0IDEyaDIiIC8+CiAgPHBhdGggZD0iTTIwIDEyaDIiIC8+CiAgPHBhdGggZD0iTTMgMjF2LTNhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjMiIC8+CiAgPHBhdGggZD0iTTMgM3YzYTIgMiAwIDAgMCAyIDJoMTRhMiAyIDAgMCAwIDItMlYzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [gap_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to gap, spacing, space, between, padding, margin, vertical, auto layout, layout, distance, frame, distribute.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/samuelalake](https://github.com/samuelalake), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData gap_vertical = IconData(
+    0xe762,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -25307,14 +25387,14 @@ abstract final class LucideIcons {
 
   /// Represents the [table_2] icon from the Lucide icon set.
   ///
-  /// ![table_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAzSDVhMiAyIDAgMCAwLTIgMnY0bTYtNmgxMGEyIDIgMCAwIDEgMiAydjRNOSAzdjE4bTAgMGgxMGEyIDIgMCAwIDAgMi0yVjlNOSAyMUg1YTIgMiAwIDAgMS0yLTJWOW0wIDBoMTgiIC8+Cjwvc3ZnPgo=)
+  /// ![table_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyA5aDE4IiAvPgogIDxwYXRoIGQ9Ik05IDN2MTgiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [table_2] icon is a graphical symbol that conveys a specific idea or functionality related to spreadsheet, grid.
   /// - It belongs to the categories: text, files
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/abejenaru](https://github.com/abejenaru), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/abejenaru](https://github.com/abejenaru), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData table_2 = IconData(
     0xe2f9,
     fontFamily: _fontFamily,
@@ -26553,6 +26633,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [trash_off] icon from the Lucide icon set.
+  ///
+  /// ![trash_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTQgMTd2LTMiIC8+CiAgPHBhdGggZD0iTTE2IDZWNGEyIDIgMCAwMC0yLTJoLTRhMiAyIDAgMDAtMS41NzYuNzY4IiAvPgogIDxwYXRoIGQ9Ik0xOSA2djcuMzQ0IiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0iTTIxIDZoLTkuMzQ0IiAvPgogIDxwYXRoIGQ9Ik0zIDZoMyIgLz4KICA8cGF0aCBkPSJNNSA2djE0YTIgMiAwIDAwMiAyaDEwYTIgMiAwIDAwMi0ydi0xIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [trash_off] icon is a graphical symbol that conveys a specific idea or functionality related to empty, deletion, cleanup, junk, clear, garbage, delete, remove, bin, trash, waste, recycle, discard, rubbish, disabled, off, prevent, locked, unavailable, protected.
+  /// - It belongs to the categories: files, mail
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/drewcobleRH](https://github.com/drewcobleRH)
+  static const IconData trash_off = IconData(
+    0xe763,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [tree_deciduous] icon from the Lucide icon set.
   ///
   /// ![tree_deciduous](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxOWE0IDQgMCAwIDEtMi4yNC03LjMyQTMuNSAzLjUgMCAwIDEgOSA2LjAzVjZhMyAzIDAgMSAxIDYgMHYuMDRhMy41IDMuNSAwIDAgMSAzLjI0IDUuNjVBNCA0IDAgMCAxIDE2IDE5WiIgLz4KICA8cGF0aCBkPSJNMTIgMTl2MyIgLz4KPC9zdmc+Cg==)
@@ -27209,6 +27305,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [user_group] icon from the Lucide icon set.
+  ///
+  /// ![user_group](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMjF2LTFhMiAyIDAgMDAtMi0ySDlhMiAyIDAgMDAtMiAydjEiIC8+CiAgPHBhdGggZD0iTTE5IDEwaDFhMiAyIDAgMDEyIDJ2MSIgLz4KICA8cGF0aCBkPSJNNSAxMEg0YTIgMiAwIDAwLTIgMnYxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTEiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjYiIGN5PSI0IiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [user_group] icon is a graphical symbol that conveys a specific idea or functionality related to group, people, team, members, community, membership, collaboration, organization, contacts, directory, staff, family, ancestry, ancestors, lineage, parents.
+  /// - It belongs to the categories: account, people, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData user_group = IconData(
+    0xe764,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [user_key] icon from the Lucide icon set.
   ///
   /// ![user_key](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTF2NiIgLz4KICA8cGF0aCBkPSJNMjAgMTNoMiIgLz4KICA8cGF0aCBkPSJNMyAyMXYtMmE0IDQgMCAwIDEgNC00aDZhNCA0IDAgMCAxIDIuMDcyLjU3OCIgLz4KICA8Y2lyY2xlIGN4PSIxMCIgY3k9IjciIHI9IjQiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxOSIgcj0iMiIgLz4KPC9zdmc+Cg==)
@@ -27349,6 +27461,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
   static const IconData user_round_cog = IconData(
     0xe46a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [user_round_group] icon from the Lucide icon set.
+  ///
+  /// ![user_round_group](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMjFhNSA1IDAgMDAtMTAgMCIgLz4KICA8cGF0aCBkPSJNMjIgMTAuNWEzLjUgMy41IDAgMDAtNS41MDctMi44NjgiIC8+CiAgPHBhdGggZD0iTTcuNTA3IDcuNjMyQTMuNSAzLjUgMCAwMDIgMTAuNSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEzIiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE4LjUiIGN5PSI0LjUiIHI9IjIuNSIgLz4KICA8Y2lyY2xlIGN4PSI1LjUiIGN5PSI0LjUiIHI9IjIuNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [user_round_group] icon is a graphical symbol that conveys a specific idea or functionality related to group, people, team, members, community, membership, collaboration, organization, contacts, directory, staff, family, ancestry, ancestors, lineage, parents.
+  /// - It belongs to the categories: account, people, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData user_round_group = IconData(
+    0xe765,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
