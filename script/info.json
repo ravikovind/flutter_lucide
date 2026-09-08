@@ -2159,6 +2159,18 @@
     "className": "icon-carrot",
     "unicode": "&#57946;"
   },
+  "carton-off": {
+    "encodedCode": "\\e766",
+    "prefix": "icon",
+    "className": "icon-carton-off",
+    "unicode": "&#59238;"
+  },
+  "carton": {
+    "encodedCode": "\\e767",
+    "prefix": "icon",
+    "className": "icon-carton",
+    "unicode": "&#59239;"
+  },
   "case-lower": {
     "encodedCode": "\\e3d8",
     "prefix": "icon",
@@ -11170,6 +11182,12 @@
     "prefix": "icon",
     "className": "icon-thumbs-up",
     "unicode": "&#57738;"
+  },
+  "tic-tac-toe": {
+    "encodedCode": "\\e768",
+    "prefix": "icon",
+    "className": "icon-tic-tac-toe",
+    "unicode": "&#59240;"
   },
   "ticket-check": {
     "encodedCode": "\\e5ae",
