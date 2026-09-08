@@ -4889,6 +4889,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [carton] icon from the Lucide icon set.
+  ///
+  /// ![carton](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMjJWMTBhMiAyIDAgMDEuNTM5LTEuMzY3TDE2IDZIOEw1LjUzOSA4LjYzM0EyIDIgMCAwMDUgMTB2MTBhMiAyIDAgMDAyIDJoMTBhMiAyIDAgMDAyLTJWMTBhMiAyIDAgMDAtLjUzOS0xLjM2N0wxNiA2VjNhMSAxIDAgMDAtMS0xSDlhMSAxIDAgMDAtMSAxdjMiIC8+CiAgPHBhdGggZD0iTTUgMTBoOCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [carton] icon is a graphical symbol that conveys a specific idea or functionality related to milk, dairy, beverage, drink, diet, lactose, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, grocery, juice, cream, cow.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData carton = IconData(
+    0xe767,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [carton_off] icon from the Lucide icon set.
+  ///
+  /// ![carton_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTBINXYxMGEyIDIgMCAwMDIgMmgxMGEyIDIgMCAwMDItMnYtMSIgLz4KICA8cGF0aCBkPSJNMTMgMjJ2LTkiIC8+CiAgPHBhdGggZD0iTTEzLjkwMiA4LjI0NSAxNiA2aC00LjM0MyIgLz4KICA8cGF0aCBkPSJNMTkgMTMuMzQzVjEwYTIgMiAwIDAwLS41MzktMS4zNjdMMTYgNlYzYTEgMSAwIDAwLTEtMUg5YTEgMSAwIDAwLS44NTcuNDg2IiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0iTTcuMDM0IDcuMDM0IDUuNTM5IDguNjMzQTIgMiAwIDAwNSAxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [carton_off] icon is a graphical symbol that conveys a specific idea or functionality related to milk, dairy, beverage, drink, diet, lactose free, non dairy, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, allergy, intolerance, vegan, unavailable.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData carton_off = IconData(
+    0xe766,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [case_lower] icon from the Lucide icon set.
   ///
   /// ![case_lower](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOXY3IiAvPgogIDxwYXRoIGQ9Ik0xNCA2djEwIiAvPgogIDxjaXJjbGUgY3g9IjE3LjUiIGN5PSIxMi41IiByPSIzLjUiIC8+CiAgPGNpcmNsZSBjeD0iNi41IiBjeT0iMTIuNSIgcj0iMy41IiAvPgo8L3N2Zz4K)
@@ -13835,7 +13867,7 @@ abstract final class LucideIcons {
 
   /// Represents the [id_card] icon from the Lucide icon set.
   ///
-  /// ![id_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTBoMiIgLz4KICA8cGF0aCBkPSJNMTYgMTRoMiIgLz4KICA8cGF0aCBkPSJNNi4xNyAxNWEzIDMgMCAwIDEgNS42NiAwIiAvPgogIDxjaXJjbGUgY3g9IjkiIGN5PSIxMSIgcj0iMiIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  /// ![id_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMTlhNCA0IDAgMDAtOCAwIiAvPgogIDxwYXRoIGQ9Ik0xNiAxMGgyIiAvPgogIDxwYXRoIGQ9Ik0xNiAxNGgyIiAvPgogIDxjaXJjbGUgY3g9IjkiIGN5PSIxMiIgcj0iMyIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [id_card] icon is a graphical symbol that conveys a specific idea or functionality related to card, badge, identity, authentication, secure.
@@ -13851,7 +13883,7 @@ abstract final class LucideIcons {
 
   /// Represents the [id_card_lanyard] icon from the Lucide icon set.
   ///
-  /// ![id_card_lanyard](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNSA4aC0zIiAvPgogIDxwYXRoIGQ9Im0xNSAyLTEgMmgzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg3YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDMiIC8+CiAgPHBhdGggZD0iTTE2Ljg5OSAyMkE1IDUgMCAwIDAgNy4xIDIyIiAvPgogIDxwYXRoIGQ9Im05IDIgMyA2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTUiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  /// ![id_card_lanyard](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNSA4aC0zIiAvPgogIDxwYXRoIGQ9Im0xNSAyLTEgMmgzYTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMkg3YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDMiIC8+CiAgPHBhdGggZD0iTTE2IDIyYTQgNCAwIDAwLTggMCIgLz4KICA8cGF0aCBkPSJtOSAyIDMgNiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE1IiByPSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [id_card_lanyard] icon is a graphical symbol that conveys a specific idea or functionality related to id-card, id-card-lanyard, identity, employee, gate-pass, badge.
@@ -26085,6 +26117,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData thumbs_up = IconData(
     0xe18a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [tic_tac_toe] icon from the Lucide icon set.
+  ///
+  /// ![tic_tac_toe](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYyMCIgLz4KICA8cGF0aCBkPSJtMjEgMTYtNSA1IiAvPgogIDxwYXRoIGQ9Im0yMSAyMS01LTUiIC8+CiAgPHBhdGggZD0iTTIyIDEySDIiIC8+CiAgPHBhdGggZD0iTTggMyAzIDgiIC8+CiAgPHBhdGggZD0iTTggOCAzIDMiIC8+CiAgPGNpcmNsZSBjeD0iMTguNSIgY3k9IjUuNSIgcj0iMi41IiAvPgogIDxjaXJjbGUgY3g9IjUuNSIgY3k9IjE4LjUiIHI9IjIuNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [tic_tac_toe] icon is a graphical symbol that conveys a specific idea or functionality related to game, board, grid, strategy, noughts and crosses.
+  /// - It belongs to the categories: gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData tic_tac_toe = IconData(
+    0xe768,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1815** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1818** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -313,6 +313,8 @@ All **1815** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `caravan` | trailer, tow, camping, campsite, mobile home, holiday, nomadic, wilderness, outdoors | transportation, travel, nature |
 | `card-sim` | cellphone, smartphone, mobile, network, cellular, service, provider, signal, coverage, disk, data, format, storage, flash, digital, contacts, phone book, contractual, circuit board, chip | connectivity, communication, multimedia, devices |
 | `carrot` | orange, healthy, nature, fresh, root, produce, organic, nutrition, vegetable, food, eat | food-beverage |
+| `carton` | milk, dairy, beverage, drink, diet, lactose, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, grocery, juice, cream, cow | food-beverage |
+| `carton-off` | milk, dairy, beverage, drink, diet, lactose free, non dairy, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, allergy, intolerance, vegan, unavailable | food-beverage |
 | `case-lower` | text, letters, characters, font, typography | text, development |
 | `case-sensitive` | text, letters, characters, font, typography | text |
 | `case-upper` | text, letters, characters, font, typography | text, development |
@@ -1638,6 +1640,7 @@ All **1815** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `thermometer-sun` | temperature, celsius, fahrenheit, weather, warm, hot | weather |
 | `thumbs-down` | dislike, bad, emotion | account, social, emoji |
 | `thumbs-up` | like, good, emotion | account, social, emoji |
+| `tic-tac-toe` | game, board, grid, strategy, noughts and crosses | gaming |
 | `ticket` | entry, pass, voucher, event, concert, show, perforated, dashed | account, transportation |
 | `ticket-check` | entry, pass, voucher, event, concert, show, booked, purchased, receipt, redeemed, validated, verified, certified, checked, used | transportation |
 | `ticket-minus` | entry, pass, voucher, event, concert, show, remove, cancel, unbook, subtract, decrease, - | transportation |
@@ -1826,4 +1829,4 @@ All **1815** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1815 icons*
+*Total: 1818 icons*

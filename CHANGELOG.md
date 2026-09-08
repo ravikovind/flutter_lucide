@@ -1,3 +1,15 @@
+# 1.43.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.43.0
+- Total icon count increased from 1,815+ to 1,818+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- carton, carton-off, tic-tac-toe
+
+---
+
 # 1.42.0
 
 ## Improvements 🚀
