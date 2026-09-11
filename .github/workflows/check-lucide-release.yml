@@ -156,6 +156,7 @@ jobs:
 
       - name: Open pull request
         if: steps.version.outputs.should_run == 'true'
+        id: pr
         env:
           GH_TOKEN: ${{ github.token }}
           BRANCH: ${{ steps.version.outputs.branch }}
@@ -163,7 +164,16 @@ jobs:
           BODY: ${{ steps.docs.outputs.body }}
         run: |
           set -euo pipefail
-          gh pr create --repo "$GITHUB_REPOSITORY" \
+          URL=$(gh pr create --repo "$GITHUB_REPOSITORY" \
             --base main --head "$BRANCH" \
             --title "feat: bump to Lucide $V (v$V)" \
-            --body "$BODY"
+            --body "$BODY")
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+
+      # Waits for the required status checks (flutter-analyze, script-test)
+      # to pass, then merges automatically -- no manual click needed.
+      - name: Enable auto-merge
+        if: steps.version.outputs.should_run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr merge --auto --merge "${{ steps.pr.outputs.url }}"
