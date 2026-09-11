@@ -1,10 +1,15 @@
 name: Tag release
 
+# Triggered on PR close (checked for merged: true below) rather than push
+# to main: a push authored by GITHUB_TOKEN -- including one performed by
+# GitHub's auto-merge on a bot-opened PR -- does not fire other workflows'
+# `push` events (GitHub's anti-recursion protection). pull_request events
+# aren't subject to that restriction, so this fires reliably regardless of
+# who or what performed the merge.
 on:
-  push:
+  pull_request:
+    types: [closed]
     branches: [main]
-    paths:
-      - pubspec.yaml
 
 permissions:
   contents: write
@@ -12,17 +17,21 @@ permissions:
 
 jobs:
   tag:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          ref: main
+          fetch-depth: 0
 
-      - name: Check whether pubspec.yaml version changed in this push
+      - name: Check whether pubspec.yaml version changed in this merge
         id: check
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: |
           set -euo pipefail
-          if git diff HEAD~1 HEAD -- pubspec.yaml | grep -q '^+version:'; then
+          if git diff "$BASE_SHA" HEAD -- pubspec.yaml | grep -q '^+version:'; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
