@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1820** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1834** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -14,7 +14,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `a-arrow-up` | letter, font size, text, formatting, larger, bigger | text, design |
 | `a-large-small` | letter, font size, text, formatting | text, design |
 | `accessibility` | disability, disabled, dda, wheelchair | accessibility, medical |
-| `activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, siesmic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, account, social, science, multimedia |
+| `activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, account, social, science, multimedia |
 | `ad` | advert, affiliate, brand, campaign, commercial, marketing, monetize, paid, partner, promo, sponsor, audio description, video description, described video, visual description | multimedia, accessibility, notifications |
 | `air-vent` | air conditioner, ac, central air, cooling, climate-control | home |
 | `airplay` | stream, cast, mirroring, screen, monitor, macos, osx | multimedia, connectivity |
@@ -24,7 +24,6 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `alarm-clock-off` | morning, turn-off | devices, notifications, time |
 | `alarm-clock-plus` | add | devices, notifications, time |
 | `alarm-smoke` | fire, alert, warning, detector, carbon monoxide, safety, equipment, amenities | home, devices, travel |
-| `album` | photo, book | photography, multimedia |
 | `align-center-horizontal` | items, flex, justify | layout |
 | `align-center-vertical` | items, flex, justify | layout |
 | `align-end-horizontal` | items, bottom, flex, justify | layout |
@@ -205,16 +204,16 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `book-a` | dictionary, define, definition, thesaurus, encyclopedia, encyclopaedia, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, alphabetical, a-z, ordered | text, gaming |
 | `book-alert` | reading, paperback, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, warning, alert, danger, exclamation mark | text, development, gaming |
 | `book-audio` | audiobook, reading, listening, sound, story, fiction, novel, information, knowledge, education, student, study, learning, research | multimedia, text |
+| `book-bookmark` | dictionary, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, saved, later, future, reference, index, code, coding, version control, git, repository | text, development, gaming |
 | `book-check` | read, booklet, magazine, leaflet, pamphlet, library, written, authored, published, informed, knowledgeable, educated, schooled, homework, examined, tested, marked, passed, graduated, studied, learned, lesson, researched, documented, revealed, blank, plain language, true, truth, verified, corrected, task, todo, done, completed, finished, ticked | text, development, gaming |
 | `book-copy` | code, coding, version control, git, repository, clone, fork, duplicate, multiple, books, library, copies, copied, plagiarism, plagiarised, plagiarized, reading list, information, informed, knowledge, knowledgeable, knowledgable, education, high school, university, college, academy, student, study, learning, research, smart, intelligent, intellectual | development, text, gaming |
 | `book-dashed` | code, coding, version control, git, repository, template, draft, script, screenplay, writing, writer, author, unwritten, unpublished, untold | development |
 | `book-down` | code, coding, version control, git, repository, pull | development |
 | `book-headphones` | audiobook, reading, listening, sound, story, fiction, novel, information, knowledge, education, student, study, learning, research | multimedia, text |
-| `book-heart` | diary, romance, novel, journal, entry, entries, personal, private, secret, crush, like, love, emotion, feminine, girls, teens, teenager, therapy, theraputic, therapist, planner, organizer, organiser, notes, notepad, stationery, sketchbook, writing, written, reading, favorite, favourite, high school | social, text, gaming |
+| `book-heart` | diary, romance, novel, journal, entry, entries, personal, private, secret, crush, like, love, emotion, feminine, girls, teens, teenager, therapy, therapeutic, therapist, planner, organizer, organiser, notes, notepad, stationery, sketchbook, writing, written, reading, favorite, favourite, high school | social, text, gaming |
 | `book-image` | images, pictures, photos, album, collection, event, magazine, catalog, catalogue, brochure, browse, gallery | photography, text, multimedia, files, social, shopping, travel |
 | `book-key` | code, coding, version control, git, repository, private, public, secret, unlocked, hidden, revealed, knowledge, learning | development, security, gaming |
 | `book-lock` | code, coding, version control, git, repository, private, secret, hidden, knowledge | development, security, gaming |
-| `book-marked` | dictionary, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, saved, later, future, reference, index, code, coding, version control, git, repository | text, development, gaming |
 | `book-minus` | code, coding, version control, git, repository, remove, delete, censor, cancel, forbid, prohibit, ban, uneducated, re-educate, unlearn, downgrade | development, text, gaming |
 | `book-open` | reading, pages, booklet, magazine, leaflet, pamphlet, library, writing, written, writer, author, story, script, screenplay, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, revealed, blank, plain | text, development, gaming |
 | `book-open-check` | read, pages, booklet, magazine, leaflet, pamphlet, library, written, authored, published, informed, knowledgeable, educated, schooled, homework, examined, tested, marked, passed, graduated, studied, learned, lesson, researched, documented, revealed, blank, plain language, true, truth, verified, corrected, task, todo, done, completed, finished, ticked | text, development, gaming |
@@ -265,7 +264,8 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bug-off` | issue, fixed, resolved, testing, debug, code, insect, kill, exterminate, pest control | development, animals |
 | `bug-play` | issue, testing, debug, reproduce, code, insect | development, animals |
 | `building` | organisation, organization | account, buildings |
-| `building-2` | business, company, enterprise, skyscraper, organisation, organization, city | account, buildings |
+| `building-complex` | business, company, enterprise, skyscraper, organisation, organization, city | account, buildings |
+| `building-complex-plus` | business, company, enterprise, skyscraper, organisation, organization, city, new, add, create, increase, office, headquarters, startup, registration, onboarding, realestate, property | account, buildings |
 | `bus` | bus, vehicle, transport, trip | transportation |
 | `bus-front` | coach, vehicle, trip, road | transportation |
 | `cable` | cord, wire, connector, connection, link, signal, console, computer, equipment, electricity, energy, electronics, recharging, charger, power, supply, disconnected, unplugged, plugs, interface, input, output, audio video, av, rca, scart, tv, television, optical | connectivity, devices, multimedia |
@@ -279,6 +279,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `calendar-arrow-up` | date, month, year, event, sort, order, ascending, descending, increasing, decreasing, rising, falling | time |
 | `calendar-check` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
 | `calendar-check-2` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
+| `calendar-chevrons-right` | navigation, arrow, right, chevron, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events, chevrons | time, arrows, navigation |
 | `calendar-clock` | date, day, month, year, event, clock, hour | time |
 | `calendar-cog` | date, day, month, year, events, settings, gear, cog | time |
 | `calendar-days` | date, month, year, event | time |
@@ -505,7 +506,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `contact-round` | user, person, family, friend, acquaintance, listing, networking | account, connectivity, communication, social |
 | `container` | storage, shipping, freight, supply chain, environment, devops, code, coding | development, transportation, mail |
 | `contrast` | display, accessibility | photography, accessibility, design |
-| `cookie` | biscuit, privacy, legal, food | account, food-beverage |
+| `cookie` | biscuit, snack, dessert, food, sweet, bakery, consent, privacy, legal, tracking, browser, website | account, food-beverage |
 | `cooking-pot` | pod, cooking, recipe, food, kitchen, chef, restaurant, dinner, lunch, breakfast, meal, eat | food-beverage, home |
 | `copy` | clone, duplicate, multiple | text |
 | `copy-check` | clone, duplicate, done, multiple | text, notifications |
@@ -583,7 +584,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `door-closed` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
 | `door-closed-locked` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock | home, travel, security |
 | `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
-| `door-stairwell` | staircase, stairway, stairs, steps, ladder, transition, access, structure, espiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit | home, travel |
+| `door-stairwell` | staircase, stairway, stairs, steps, ladder, transition, access, structure, spiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit | home, travel |
 | `dot` | interpunct, interpoint, middot, step, punctuation, period, full stop, end, finish, final, characters, font, typography, type, center, . | shapes, text |
 | `download` | import, export, save | arrows, files |
 | `drafting-compass` | geometry, trigonometry, radius, diameter, circumference, calculate, measure, arc, curve, draw, sketch | math, design, tools |
@@ -798,12 +799,13 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `glasses` | glasses, spectacles | accessibility |
 | `globe` | world, browser, language, translate | navigation |
 | `globe-check` | world, browser, language, translate, internet, web, check, verified, success, valid, available, online, status | navigation |
+| `globe-code` | website, internet, globe, connection, network, digital, access, global, link, world, browser, language, translate | navigation, development |
 | `globe-lock` | vpn, private, privacy, network, world, browser, security, encryption, protection, connection | security, development, devices |
 | `globe-off` | globe, earth, planet, disable, mute, off, hide, avoid, world, browser, language, translate, internet, offline, disconnected, network, connection, no connection, network failure, signal off | navigation, connectivity, devices |
 | `globe-x` | globe, internet, offline, disconnected, network, connection, world, no connection, network failure, signal off | connectivity, devices, navigation |
 | `goal` | flag, bullseye | gaming |
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
-| `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachlor's, master's, doctorate | buildings |
+| `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
 | `grape` | fruit, wine, food | food-beverage |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design, math |
 | `grid-2x2-check` | table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre | text, layout, math |
@@ -832,7 +834,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hard-drive` | computer, server, memory, data, ssd, disk, hard disk, storage, hardware, backup, media | development, devices |
 | `hard-drive-download` | computer, server, memory, data, ssd, disk, hard disk, save | development, devices, arrows, files |
 | `hard-drive-upload` | computer, server, memory, data, ssd, disk, hard disk, save | development, devices, arrows, files |
-| `hard-hat` | helmet, construction, safety, savety | tools |
+| `hard-hat` | helmet, construction, safety | tools |
 | `hash` | hashtag, number, pound | text, social |
 | `hat-glasses` | incognito, disguise, costume, masked, anonymous, anonymity, privacy, private browsing, stealth, hidden, undercover, cloak, invisible, ghost, spy, agent, detective, identity, cap, fedora, spectacles, shades, sunglasses, eyewear | social, account, security |
 | `haze` | mist, fog | weather |
@@ -865,11 +867,13 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet | medical, buildings, navigation, travel |
 | `hotel` | building, hostel, motel, inn | buildings, navigation, travel |
 | `hourglass` | timer, time, sandglass | time, gaming |
+| `hourglass-cog` | timer, time, sandglass, duration, settings, gear, cog, edit, configuration, countdown, timeout, expiration | time, tools |
 | `house` | home, living, building, residence, architecture | buildings, home, navigation |
 | `house-heart` | home sweet home, abode, building, residence, healthy living, lifestyle | home, buildings, medical |
 | `house-plug` | home, living, building, residence, architecture, autarky, energy | buildings, home, sustainability |
 | `house-plus` | home, living, medical, new, addition, building, residence, architecture | buildings, medical |
 | `house-wifi` | home, living, building, wifi, connectivity | home, buildings, connectivity |
+| `houses` | homes, housing, estate, living, buildings, development, residences, residential, village, neighbourhood, accommodation, community, dwellings, architecture | buildings, home |
 | `ice-cream-bowl` | gelato, food, dessert, dish, restaurant, course, meal | food-beverage |
 | `ice-cream-cone` | gelato, food | food-beverage |
 | `id-card` | card, badge, identity, authentication, secure | security, account |
@@ -892,6 +896,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `italic` | oblique, text, format | text |
 | `iteration-ccw` | arrow, right | arrows, design |
 | `iteration-cw` | arrow, left | arrows, design |
+| `iv-bag` | intravenous, therapy, infusion, medicine, medication, treatment, healthcare, hydration, vitamin, supplement, blood, donation, chemotherapy, clinic, feeding tube, administration, health, regeneration | medical |
 | `japanese-yen` | currency, money, payment | finance |
 | `joystick` | game, console, control stick | gaming, devices |
 | `kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, code, coding | charts, development, design |
@@ -924,6 +929,8 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `layers-arrow-up` | bring to front, bring forward, front, foreground, top, topmost, raise, lift, promote, reorder, arrange, stack, stacking, z-index, depth, graphics, design | design, layout, arrows |
 | `layers-minus` | stack, pile, pages, sheets, paperwork, copies, copy, layers, remove, delete | design, layout |
 | `layers-plus` | stack, layers, add, new, increase, create, positive, copy, upgrade | design, layout |
+| `layout-arrow-down` | layout, direction, flex, flexbox, flex-direction, column, auto layout, vertical, arrange, order, flow, stack | design, layout |
+| `layout-arrow-right` | layout, direction, flex, flexbox, flex-direction, row, auto layout, horizontal, arrange, order, flow, stack | design, layout |
 | `layout-dashboard` | masonry, brick | design, layout |
 | `layout-freeform` | layout, freeform, free, absolute, position, auto layout, unaligned, scattered, arrange, blocks, canvas, frame | design, layout |
 | `layout-grid` | app, home, start | design, layout |
@@ -1061,6 +1068,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-square-text` | comment, chat, conversation, dialog, feedback, speech bubble | social |
 | `message-square-warning` | comment, chat, conversation, dialog, feedback, speech bubble, report, abuse, offense, alert, danger, caution, protected, exclamation mark | social, notifications |
 | `message-square-x` | comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate | social |
+| `messages-circle` | comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple, discussion, interview, debate, group, groupchat, threads, unread, bubble, messaging | social, communication, notifications |
 | `messages-square` | comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple, discussion, interview, debate | social |
 | `metronome` | metronome, tempo, rhythm, beat, bpm, music, audio, sound, practice, timing, timer, time, pulse, sync, cadence, control, playback, studio, tool | multimedia, time |
 | `mic` | record, sound, listen, radio, podcast, microphone | devices, communication, connectivity, multimedia |
@@ -1111,6 +1119,8 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `mouse-pointer-ban` | wait, busy, loading, blocked, frozen, freeze | arrows, cursors |
 | `mouse-pointer-click` | click, select | arrows, cursors |
 | `mouse-right` | device, scroll, click | devices |
+| `mouth` | speech, voice, talk, speaking, taste, tasting, flavor, palate, tongue, gustatory, oral, dental, expression, communication, accessibility | medical, accessibility, communication |
+| `mouth-off` | speech, voice, talk, mute, silence, speechless, taste loss, flavor loss, ageusia, tasteless, gustatory, oral, dental, communication, accessibility | medical, accessibility, communication |
 | `move` | arrows | arrows, cursors |
 | `move-3d` | arrows, axis, gizmo, coordinates, transform, translate | design |
 | `move-diagonal` | double, arrow | arrows, cursors |
@@ -1138,6 +1148,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `nfc` | contactless, payment, near-field communication | communication, finance, devices |
 | `non-binary` | gender, nonbinary, enby | medical |
 | `notebook` | notepad, notes, stationery, sketchbook, moleskine, closure, strap, band, elastic, organizer, organiser, planner, diary, journal, writing, written, writer, reading, high school, university, college, academy, student, study, homework, research | text, communication, social, design |
+| `notebook-dot` | document, file, journal, page, paper, record, entry, notebook, notification, unread, note | communication |
 | `notebook-pen` | pencil, notepad, notes, noted, stationery, sketchbook, organizer, organiser, planner, diary, journal, writing, write, written, reading, high school, university, college, academy, student, study, research, homework, eraser, rubber | text, social |
 | `notebook-tabs` | notepad, notes, people, family, friends, acquaintances, contacts, details, addresses, phone numbers, directory, listing, networking, alphabetical, a-z, organizer, organiser, planner, diary, stationery | account, communication, social |
 | `notebook-text` | notepad, notes, pages, paper, stationery, sketchbook, organizer, organiser, planner, diary, journal, writing, write, written, reading, high school, university, college, academy, student, study, research, homework, lines, opened | text, social |
@@ -1193,6 +1204,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `paperclip` | attachment, file | text, design, files, mail |
 | `parasol` | umbrella, sunshade, beach, shade, sun, protection, cover, canopy, garden, outdoors, resort, travel, vacation, holiday, summer, apparel, accessory, sunbathing, relax, tropical | travel, weather |
 | `parentheses` | code, token, parenthesis, parens, brackets, parameters, arguments, args, input, call, math, formula, function, (, ) | development, files, math |
+| `park` | nature, green, trees, landscape, rest, walk, leisure, environment, tree, bench, outdoors, recreation | nature, navigation, travel |
 | `parking-meter` | driving, car park, pay, sidewalk, pavement | transportation, navigation |
 | `party-popper` | emoji, congratulations, celebration, party, tada, 🎉, 🎊, excitement, exciting, excites, confetti | emoji |
 | `pause` | music, stop | multimedia |
@@ -1237,6 +1249,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `plane` | plane, trip, airplane | transportation, travel, navigation |
 | `plane-landing` | arrival, plane, trip, airplane, landing | transportation, travel |
 | `plane-takeoff` | departure, plane, trip, airplane, takeoff | transportation, travel |
+| `plant-pot` | plant, leaf, nature, pot, houseplant, gardening, planter, decor, indoor | home, nature |
 | `play` | music, audio, video, start, run | arrows, multimedia |
 | `play-off` | audio, video, music, start, run, off, disabled, blocked, forbidden | multimedia |
 | `playing-card` | deck, draw, deal, shuffle, chance, random, selection, tabletop, flashcard, study, learning, prompt, icebreaker, conversation, collectible, trading, poker, casino, game, gambling, suit | gaming, development |
@@ -1473,7 +1486,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `spray-can` | paint, color, graffiti, decoration, aerosol, deodorant, shaving foam, air freshener | design, tools |
 | `sprout` | eco, green, growth, leaf, nature, plant, seed, spring, sustainability | nature, gaming, sustainability |
 | `square` | stop, playback, music, audio, video, rectangle, aspect ratio, 1:1, shape | shapes, multimedia |
-| `square-activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, siesmic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, social, science, multimedia |
+| `square-activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, social, science, multimedia |
 | `square-arrow-down` | backwards, reverse, direction, south, sign, keyboard, button | arrows, gaming |
 | `square-arrow-down-left` | direction, south-west, diagonal, sign, turn, keyboard, button | arrows, gaming |
 | `square-arrow-down-right` | direction, south-east, diagonal, sign, turn, keyboard, button | arrows, gaming |
@@ -1489,6 +1502,7 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-arrow-up-left` | direction, north-west, diagonal, sign, keyboard, button | arrows |
 | `square-arrow-up-right` | direction, north-east, diagonal, sign, keyboard, button, share | arrows, social |
 | `square-asterisk` | password, secret, access, key, multiply, multiplication, glob pattern, wildcard, * | text, security, math, development |
+| `square-bookmark` | photo, book | photography, multimedia |
 | `square-bottom-dashed-scissors` | cut, snippet, chop, stationery, crafts | text, design, tools, files, development |
 | `square-centerline-dashed-horizontal` | reflect, mirror, alignment, dashed | design, photography |
 | `square-centerline-dashed-vertical` | reflect, mirror, alignment, dashed | design, photography |
@@ -1831,4 +1845,4 @@ All **1820** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1820 icons*
+*Total: 1834 icons*

@@ -1,3 +1,20 @@
+# 1.45.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.45.0
+- Total icon count increased from 1,820+ to 1,834+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- building-complex-plus, calendar-chevrons-right, globe-code, hourglass-cog, houses, iv-bag, layout-arrow-down, layout-arrow-right, messages-circle, mouth, mouth-off, notebook-dot, park, plant-pot
+
+## Renamed Icons ✏️
+- `album` renamed to `square-bookmark`
+- `book-marked` renamed to `book-bookmark`
+- `building-2` renamed to `building-complex`
+
+---
+
 # 1.44.0
 
 ## Improvements 🚀
