@@ -1,3 +1,19 @@
+# 1.44.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.44.0
+- Total icon count increased from 1,818+ to 1,820+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- toothbrush, toothbrush-sparkles
+
+## Renamed Icons ✏️
+- `flip-horizontal-2` renamed to `triangles-centerline-dashed-horizontal`
+- `flip-vertical-2` renamed to `triangles-centerline-dashed-vertical`
+
+---
+
 # 1.43.0
 
 ## Improvements 🚀

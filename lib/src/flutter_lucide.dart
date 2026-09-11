@@ -8283,7 +8283,7 @@ abstract final class LucideIcons {
 
   /// Represents the [credit_card] icon from the Lucide icon set.
   ///
-  /// ![credit_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjUiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSIyIiB4Mj0iMjIiIHkxPSIxMCIgeTI9IjEwIiAvPgo8L3N2Zz4K)
+  /// ![credit_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjUiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSIyIiB4Mj0iMjIiIHkxPSIxMCIgeTI9IjEwIiAvPgogIDxwYXRoIGQ9Ik02IDE0aDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [credit_card] icon is a graphical symbol that conveys a specific idea or functionality related to bank, purchase, payment, cc.
@@ -8299,7 +8299,7 @@ abstract final class LucideIcons {
 
   /// Represents the [credit_card_check] icon from the Lucide icon set.
   ///
-  /// ![credit_card_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjQiIC8+CiAgPHBhdGggZD0ibTE2IDE3IDIgMiA0LTQiIC8+CiAgPHBhdGggZD0iTTIgMTBoMjAiIC8+Cjwvc3ZnPgo=)
+  /// ![credit_card_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjQiIC8+CiAgPHBhdGggZD0iTTIgMTBoMjAiIC8+CiAgPHBhdGggZD0iTTYgMTRoMiIgLz4KICA8cGF0aCBkPSJtMTYgMTcgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [credit_card_check] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc.
@@ -8315,7 +8315,7 @@ abstract final class LucideIcons {
 
   /// Represents the [credit_card_minus] icon from the Lucide icon set.
   ///
-  /// ![credit_card_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNMjIgMTBIMiIgLz4KICA8cGF0aCBkPSJNMjIgMTNWN2EyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAyIDJoOC41MzYiIC8+Cjwvc3ZnPgo=)
+  /// ![credit_card_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTNWN2EyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAyIDJoOC41MzYiIC8+CiAgPHBhdGggZD0iTTIyIDEwSDIiIC8+CiAgPHBhdGggZD0iTTYgMTRoMiIgLz4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [credit_card_minus] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, remove, delete, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, purchase, checkout, subtract, minus, bank, cc.
@@ -8331,7 +8331,7 @@ abstract final class LucideIcons {
 
   /// Represents the [credit_card_plus] icon from the Lucide icon set.
   ///
-  /// ![credit_card_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTR2NiIgLz4KICA8cGF0aCBkPSJNMjIgMTBIMiIgLz4KICA8cGF0aCBkPSJNMjIgMTEuMzU0VjdhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEwYTIgMiAwIDAwMiAyaDguNTM2IiAvPgo8L3N2Zz4K)
+  /// ![credit_card_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTEuMzU0VjdhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEwYTIgMiAwIDAwMiAyaDguNTM2IiAvPgogIDxwYXRoIGQ9Ik0yMiAxMEgyIiAvPgogIDxwYXRoIGQ9Ik02IDE0aDIiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [credit_card_plus] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, add, new, link, save, method, plastic, bank, cc.
@@ -8363,7 +8363,7 @@ abstract final class LucideIcons {
 
   /// Represents the [credit_card_x] icon from the Lucide icon set.
   ///
-  /// ![credit_card_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjMuNSIgLz4KICA8cGF0aCBkPSJtMTYuNSAxNC41IDUgNSIgLz4KICA8cGF0aCBkPSJNMiAxMGgyMCIgLz4KICA8cGF0aCBkPSJtMjEuNSAxNC41LTUgNSIgLz4KPC9zdmc+Cg==)
+  /// ![credit_card_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxOUg0YTIgMiAwIDAxLTItMlY3YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjMuNSIgLz4KICA8cGF0aCBkPSJNMiAxMGgyMCIgLz4KICA8cGF0aCBkPSJNNiAxNGgyIiAvPgogIDxwYXRoIGQ9Im0xNi41IDE0LjUgNSA1IiAvPgogIDxwYXRoIGQ9Im0yMS41IDE0LjUtNSA1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [credit_card_x] icon is a graphical symbol that conveys a specific idea or functionality related to debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, declined, rejected, failed, invalid, canceled, error, cancel, bank, cc.
@@ -9195,7 +9195,7 @@ abstract final class LucideIcons {
 
   /// Represents the [door_open] icon from the Lucide icon set.
   ///
-  /// ![door_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjFIMiIgLz4KICA8cGF0aCBkPSJNMTAgNGEyIDIgMCAwMTIuMzYtMS45NjhsNS40MS45OTJBMS41IDEuNSAwIDAxMTkgNC41VjIxbC03Ljg3Ni45OTJBMSAxIDAgMDExMCAyMXoiIC8+CiAgPHBhdGggZD0iTTEwLjI2OCAzSDdhMiAyIDAgMDAtMiAydjE2IiAvPgogIDxwYXRoIGQ9Ik0xNCAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTIyIDIxaC0zIiAvPgo8L3N2Zz4K)
+  /// ![door_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjFIMiIgLz4KICA8cGF0aCBkPSJNMTAgM0g3YTIgMiAwIDAwLTIgMnYxNiIgLz4KICA8cGF0aCBkPSJNMTQgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOSAyMVY1YTIgMiAwIDAwLTEuNjc1LTEuOTc0bC02LjE2My0xLjAxM0ExIDEgMCAwMDEwIDN2MThhMSAxIDAgMDAxLjEyNC45OTJ6IiAvPgogIDxwYXRoIGQ9Ik0yMiAyMWgtMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [door_open] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
@@ -11253,38 +11253,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
   static const IconData flask_round = IconData(
     0xe0d6,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [flip_horizontal_2] icon from the Lucide icon set.
-  ///
-  /// ![flip_horizontal_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMyA3IDUgNS01IDVWNyIgLz4KICA8cGF0aCBkPSJtMjEgNy01IDUgNSA1VjciIC8+CiAgPHBhdGggZD0iTTEyIDIwdjIiIC8+CiAgPHBhdGggZD0iTTEyIDE0djIiIC8+CiAgPHBhdGggZD0iTTEyIDh2MiIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [flip_horizontal_2] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
-  /// - It belongs to the categories: design, photography
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData flip_horizontal_2 = IconData(
-    0xe35e,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [flip_vertical_2] icon from the Lucide icon set.
-  ///
-  /// ![flip_vertical_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTcgMy01IDUtNS01aDEwIiAvPgogIDxwYXRoIGQ9Im0xNyAyMS01LTUtNSA1aDEwIiAvPgogIDxwYXRoIGQ9Ik00IDEySDIiIC8+CiAgPHBhdGggZD0iTTEwIDEySDgiIC8+CiAgPHBhdGggZD0iTTE2IDEyaC0yIiAvPgogIDxwYXRoIGQ9Ik0yMiAxMmgtMiIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [flip_vertical_2] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
-  /// - It belongs to the categories: design, photography
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData flip_vertical_2 = IconData(
-    0xe360,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -21387,10 +21355,10 @@ abstract final class LucideIcons {
 
   /// Represents the [satellite_dish] icon from the Lucide icon set.
   ///
-  /// ![satellite_dish](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxMGE3LjMxIDcuMzEgMCAwIDAgMTAgMTBaIiAvPgogIDxwYXRoIGQ9Im05IDE1IDMtMyIgLz4KICA8cGF0aCBkPSJNMTcgMTNhNiA2IDAgMCAwLTYtNiIgLz4KICA8cGF0aCBkPSJNMjEgMTNBMTAgMTAgMCAwIDAgMTEgMyIgLz4KPC9zdmc+Cg==)
+  /// ![satellite_dish](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMTJhNiA2IDAgMDAtNi02IiAvPgogIDxwYXRoIGQ9Ik0yLjgyNCAxMC40NTlhOCA4IDAgMDAxMC43MTcgMTAuNzE3Yy41NTgtLjI3Ni42MjMtMS4wMTIuMTgzLTEuNDUybC05LjQ0OC05LjQ0OGMtLjQ0LS40NC0xLjE3Ni0uMzc1LTEuNDUyLjE4MyIgLz4KICA8cGF0aCBkPSJNMjIgMTJBMTAgMTAgMCAwMDEyIDIiIC8+CiAgPHBhdGggZD0ibTkgMTUgNC00IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [satellite_dish] icon is a graphical symbol that conveys a specific idea or functionality related to antenna, receiver, dish aerial, saucer.
+  /// - The [satellite_dish] icon is a graphical symbol that conveys a specific idea or functionality related to antenna, receiver, dish aerial, saucer, communication, broadcast, signal.
   /// - It belongs to the categories: connectivity, devices, multimedia
   ///
   /// Acknowledgements:
@@ -22286,7 +22254,7 @@ abstract final class LucideIcons {
   /// ![shield_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [shield_alert] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, comprimised, data leak, audited, admin, verification, unverified, uncertified, warning, emergency, attention, urgent, alarm, crest, bravery, strength, tough, attacked, damaged, injured, hit, expired, disabled, inactive, error, exclamation mark, !.
+  /// - The [shield_alert] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, admin, verification, unverified, uncertified, warning, emergency, attention, urgent, alarm, crest, bravery, strength, tough, attacked, damaged, injured, hit, expired, disabled, inactive, error, exclamation mark, !.
   /// - It belongs to the categories: account, security, development, notifications, gaming
   ///
   /// Acknowledgements:
@@ -22302,7 +22270,7 @@ abstract final class LucideIcons {
   /// ![shield_ban](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0ibTQuMjQzIDUuMjEgMTQuMzkgMTIuNDcyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [shield_ban] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, comprimised, data leak, audited, admin, verification, unverified, uncertified, cancel, error, crest, bravery, attacked, damaged, injured, hit, expired, eliminated, disabled, inactive, /.
+  /// - The [shield_ban] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, admin, verification, unverified, uncertified, cancel, error, crest, bravery, attacked, damaged, injured, hit, expired, eliminated, disabled, inactive, /.
   /// - It belongs to the categories: account, security, development, gaming
   ///
   /// Acknowledgements:
@@ -22446,7 +22414,7 @@ abstract final class LucideIcons {
   /// ![shield_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik01IDVhMSAxIDAgMCAwLTEgMXY3YzAgNSAzLjUgNy41IDcuNjcgOC45NGExIDEgMCAwIDAgLjY3LjAxYzIuMzUtLjgyIDQuNDgtMS45NyA1LjktMy43MSIgLz4KICA8cGF0aCBkPSJNOS4zMDkgMy42NTJBMTIuMjUyIDEyLjI1MiAwIDAgMCAxMS4yNCAyLjI4YTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXY3YTkuNzg0IDkuNzg0IDAgMCAxLS4wOCAxLjI2NCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [shield_off] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, interception, threat, prevention, unprevented, antivirus, detection, undetected, exploit, vulnerability, vulnerable, weakness, infected, infection, comprimised, data leak, unaudited, admin, verification, unverified, inactive, cancelled, error, crest, bravery, damaged, injured, hit, expired, eliminated.
+  /// - The [shield_off] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, interception, threat, prevention, unprevented, antivirus, detection, undetected, exploit, vulnerability, vulnerable, weakness, infected, infection, compromised, data leak, unaudited, admin, verification, unverified, inactive, cancelled, error, crest, bravery, damaged, injured, hit, expired, eliminated.
   /// - It belongs to the categories: account, security, development, gaming
   ///
   /// Acknowledgements:
@@ -22478,7 +22446,7 @@ abstract final class LucideIcons {
   /// ![shield_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTkuMSA5YTMgMyAwIDAgMSA1LjgyIDFjMCAyLTMgMy0zIDMiIC8+CiAgPHBhdGggZD0iTTEyIDE3aC4wMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [shield_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, undetected, scan, find, exploit, vulnerability, vulnerable, weakness, infection, comprimised, data leak, audit, admin, verification, unverified, uncertified, uncertain, unknown, inactive, crest, question mark, ?.
+  /// - The [shield_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, threat, prevention, unprevented, antivirus, vigilance, vigilant, detection, undetected, scan, find, exploit, vulnerability, vulnerable, weakness, infection, compromised, data leak, audit, admin, verification, unverified, uncertified, uncertain, unknown, inactive, crest, question mark, ?.
   /// - It belongs to the categories: account, security, development, gaming
   ///
   /// Acknowledgements:
@@ -22510,7 +22478,7 @@ abstract final class LucideIcons {
   /// ![shield_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0ibTE0LjUgOS41LTUgNSIgLz4KICA8cGF0aCBkPSJtOS41IDkuNSA1IDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [shield_x] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, prevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, comprimised, data leak, audited, admin, verification, unverified, inactive, cancel, error, wrong, false, crest, bravery, attacked, damaged, injured, hit, dead, deceased, expired, eliminated, exterminated.
+  /// - The [shield_x] icon is a graphical symbol that conveys a specific idea or functionality related to unshielded, cybersecurity, insecure, unsecured, safety, unsafe, protection, unprotected, guardian, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, defender, blocked, stopped, intercepted, interception, saved, thwarted, threat, prevention, prevented, antivirus, vigilance, vigilant, detection, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, admin, verification, unverified, inactive, cancel, error, wrong, false, crest, bravery, attacked, damaged, injured, hit, dead, deceased, expired, eliminated, exterminated.
   /// - It belongs to the categories: account, security, development, gaming
   ///
   /// Acknowledgements:
@@ -26425,6 +26393,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [toothbrush] icon from the Lucide icon set.
+  ///
+  /// ![toothbrush](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTFjLTIgMi00IDItNiA0bC03IDciIC8+CiAgPHBhdGggZD0ibTIyIDQtNy40MTQgNy40MTQtMi0yQTIgMiAwIDAxMTQgNmMwLS41MTIuMTk2LTEuMDI0LjU4Ni0xLjQxNEEyIDIgMCAwMTE2IDRhMiAyIDAgMDEzLjI2Mi0xLjU1MmwyLjE1MiAyLjEzOCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [toothbrush] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, selfcare, grooming.
+  /// - It belongs to the categories: home, travel, tools, medical
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData toothbrush = IconData(
+    0xe76a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [toothbrush_sparkles] icon from the Lucide icon set.
+  ///
+  /// ![toothbrush_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM0g4IiAvPgogIDxwYXRoIGQ9Ik0xNC41ODYgMTEuNDE0IDIyIDQiIC8+CiAgPHBhdGggZD0iTTE1IDExYTggOCAwIDAxLS40MjkuNCIgLz4KICA8cGF0aCBkPSJtMiAyMiA3LTdjMS44NTctMS44NTcgMy43MTQtMS45OSA1LjU3MS0zLjZsLTEuOTg1LTEuOTg2QTIgMiAwIDAxMTQgNmEyIDIgMCAwMTItMiAyIDIgMCAwMTMuMjYyLTEuNTUybDIuMTUyIDIuMTM4IiAvPgogIDxwYXRoIGQ9Ik0yMCAxNXY0IiAvPgogIDxwYXRoIGQ9Ik0yMiAxN2gtNCIgLz4KICA8cGF0aCBkPSJNNCA1djQiIC8+CiAgPHBhdGggZD0iTTYgN0gyIiAvPgogIDxwYXRoIGQ9Ik05IDJ2MiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [toothbrush_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, selfcare, grooming, fresh, clean.
+  /// - It belongs to the categories: home, tools, medical, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData toothbrush_sparkles = IconData(
+    0xe769,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [tornado] icon from the Lucide icon set.
   ///
   /// ![tornado](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgNEgzIiAvPgogIDxwYXRoIGQ9Ik0xOCA4SDYiIC8+CiAgPHBhdGggZD0iTTE5IDEySDkiIC8+CiAgPHBhdGggZD0iTTE2IDE2aC02IiAvPgogIDxwYXRoIGQ9Ik0xMSAyMEg5IiAvPgo8L3N2Zz4K)
@@ -26869,6 +26869,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData triangle_right = IconData(
     0xe4ed,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [triangles_centerline_dashed_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![triangles_centerline_dashed_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJIOCIgLz4KICA8cGF0aCBkPSJNMTYgMTJoLTIiIC8+CiAgPHBhdGggZD0iTTIyIDEyaC0yIiAvPgogIDxwYXRoIGQ9Ik00IDEySDIiIC8+CiAgPHBhdGggZD0iTTcuMjk4IDIwLjI4OEExIDEgMCAwMDggMjJoOGExIDEgMCAwMC43MDMtMS43MTJsLTMuOTkxLTMuOTlhMSAxIDAgMDAtMS40MjQtLjAwMXoiIC8+CiAgPHBhdGggZD0iTTcuMjk4IDMuNzEyQTEgMSAwIDAxOCAyaDhhMSAxIDAgMDEuNzAzIDEuNzEybC0zLjk5MSAzLjk5YTEgMSAwIDAxLTEuNDI0LjAwMXoiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [triangles_centerline_dashed_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - It belongs to the categories: design, photography
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData triangles_centerline_dashed_horizontal = IconData(
+    0xe35e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [triangles_centerline_dashed_vertical] icon from the Lucide icon set.
+  ///
+  /// ![triangles_centerline_dashed_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTR2MiIgLz4KICA8cGF0aCBkPSJNMTIgMjB2MiIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djIiIC8+CiAgPHBhdGggZD0iTTIwLjI4OCAxNi43MDNBMSAxIDAgMDAyMiAxNlY4YTEgMSAwIDAwLTEuNzEyLS43MDNsLTMuOTkgMy45OTFhMSAxIDAgMDAtLjAwMSAxLjQyNHoiIC8+CiAgPHBhdGggZD0iTTMuNzEyIDE2LjcwM0ExIDEgMCAwMTIgMTZWOGExIDEgMCAwMTEuNzEyLS43MDNsMy45OSAzLjk5MWExIDEgMCAwMS4wMDEgMS40MjR6IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [triangles_centerline_dashed_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - It belongs to the categories: design, photography
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData triangles_centerline_dashed_vertical = IconData(
+    0xe360,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

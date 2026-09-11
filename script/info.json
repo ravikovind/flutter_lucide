@@ -11297,6 +11297,18 @@
     "className": "icon-toolbox",
     "unicode": "&#59056;"
   },
+  "toothbrush-sparkles": {
+    "encodedCode": "\\e769",
+    "prefix": "icon",
+    "className": "icon-toothbrush-sparkles",
+    "unicode": "&#59241;"
+  },
+  "toothbrush": {
+    "encodedCode": "\\e76a",
+    "prefix": "icon",
+    "className": "icon-toothbrush",
+    "unicode": "&#59242;"
+  },
   "tornado": {
     "encodedCode": "\\e218",
     "prefix": "icon",
@@ -11476,6 +11488,18 @@
     "prefix": "icon",
     "className": "icon-triangle",
     "unicode": "&#57746;"
+  },
+  "triangles-centerline-dashed-horizontal": {
+    "encodedCode": "\\e35e",
+    "prefix": "icon",
+    "className": "icon-triangles-centerline-dashed-horizontal",
+    "unicode": "&#58206;"
+  },
+  "triangles-centerline-dashed-vertical": {
+    "encodedCode": "\\e360",
+    "prefix": "icon",
+    "className": "icon-triangles-centerline-dashed-vertical",
+    "unicode": "&#58208;"
   },
   "trophy": {
     "encodedCode": "\\e373",
