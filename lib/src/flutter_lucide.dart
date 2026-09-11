@@ -110,7 +110,7 @@ abstract final class LucideIcons {
   /// ![activity](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTJoLTIuNDhhMiAyIDAgMCAwLTEuOTMgMS40NmwtMi4zNSA4LjM2YS4yNS4yNSAwIDAgMS0uNDggMEw5LjI0IDIuMThhLjI1LjI1IDAgMCAwLS40OCAwbC0yLjM1IDguMzZBMiAyIDAgMCAxIDQuNDkgMTJIMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [activity] icon is a graphical symbol that conveys a specific idea or functionality related to pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, siesmic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music.
+  /// - The [activity] icon is a graphical symbol that conveys a specific idea or functionality related to pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music.
   /// - It belongs to the categories: medical, account, social, science, multimedia
   ///
   /// Acknowledgements:
@@ -261,22 +261,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData alarm_smoke = IconData(
     0xe57b,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [album] icon from the Lucide icon set.
-  ///
-  /// ![album](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByeT0iMiIgLz4KICA8cG9seWxpbmUgcG9pbnRzPSIxMSAzIDExIDExIDE0IDggMTcgMTEgMTcgMyIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [album] icon is a graphical symbol that conveys a specific idea or functionality related to photo, book.
-  /// - It belongs to the categories: photography, multimedia
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu)
-  static const IconData album = IconData(
-    0xe03b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -3161,6 +3145,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [book_bookmark] icon from the Lucide icon set.
+  ///
+  /// ![book_bookmark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMnY3Ljc1MWEuMjUuMjUgMCAwMC40MDcuMTk1bDIuMjgtMS44MzRhLjUuNSAwIDAxLjYyNyAwbDIuMjggMS44MzRBLjI1LjI1IDAgMDAxNiA5Ljc1MVYyIiAvPgogIDxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwMTYuNSAySDE5YTEgMSAwIDAxMSAxdjE4YTEgMSAwIDAxLTEgMUg2LjVhMSAxIDAgMDEwLTVIMjAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [book_bookmark] icon is a graphical symbol that conveys a specific idea or functionality related to dictionary, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, saved, later, future, reference, index, code, coding, version control, git, repository.
+  /// - It belongs to the categories: text, development, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData book_bookmark = IconData(
+    0xe3f1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [book_check] icon from the Lucide icon set.
   ///
   /// ![book_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIgLz4KICA8cGF0aCBkPSJtOSA5LjUgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
@@ -3246,7 +3246,7 @@ abstract final class LucideIcons {
   /// ![book_heart](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIgLz4KICA8cGF0aCBkPSJNOC42MiA5LjhBMi4yNSAyLjI1IDAgMSAxIDEyIDYuODM2YTIuMjUgMi4yNSAwIDEgMSAzLjM4IDIuOTY2bC0yLjYyNiAyLjg1NmEuOTk4Ljk5OCAwIDAgMS0xLjUwNyAweiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [book_heart] icon is a graphical symbol that conveys a specific idea or functionality related to diary, romance, novel, journal, entry, entries, personal, private, secret, crush, like, love, emotion, feminine, girls, teens, teenager, therapy, theraputic, therapist, planner, organizer, organiser, notes, notepad, stationery, sketchbook, writing, written, reading, favorite, favourite, high school.
+  /// - The [book_heart] icon is a graphical symbol that conveys a specific idea or functionality related to diary, romance, novel, journal, entry, entries, personal, private, secret, crush, like, love, emotion, feminine, girls, teens, teenager, therapy, therapeutic, therapist, planner, organizer, organiser, notes, notepad, stationery, sketchbook, writing, written, reading, favorite, favourite, high school.
   /// - It belongs to the categories: social, text, gaming
   ///
   /// Acknowledgements:
@@ -3301,22 +3301,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData book_lock = IconData(
     0xe3f0,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [book_marked] icon from the Lucide icon set.
-  ///
-  /// ![book_marked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMnY4bDMtMyAzIDNWMiIgLz4KICA8cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [book_marked] icon is a graphical symbol that conveys a specific idea or functionality related to dictionary, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, saved, later, future, reference, index, code, coding, version control, git, repository.
-  /// - It belongs to the categories: text, development, gaming
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData book_marked = IconData(
-    0xe3f1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -4121,18 +4105,34 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [building_2] icon from the Lucide icon set.
+  /// Represents the [building_complex] icon from the Lucide icon set.
   ///
-  /// ![building_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoNCIgLz4KICA8cGF0aCBkPSJNMTAgOGg0IiAvPgogIDxwYXRoIGQ9Ik0xNCAyMXYtM2EyIDIgMCAwIDAtNCAwdjMiIC8+CiAgPHBhdGggZD0iTTYgMTBINGEyIDIgMCAwIDAtMiAydjdhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0yVjlhMiAyIDAgMCAwLTItMmgtMiIgLz4KICA8cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2IiAvPgo8L3N2Zz4K)
+  /// ![building_complex](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoNCIgLz4KICA8cGF0aCBkPSJNMTAgOGg0IiAvPgogIDxwYXRoIGQ9Ik0xNCAyMXYtM2EyIDIgMCAwIDAtNCAwdjMiIC8+CiAgPHBhdGggZD0iTTYgMTBINGEyIDIgMCAwIDAtMiAydjdhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0yVjlhMiAyIDAgMCAwLTItMmgtMiIgLz4KICA8cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [building_2] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city.
+  /// - The [building_complex] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city.
   /// - It belongs to the categories: account, buildings
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/maxim-s-barabash](https://github.com/maxim-s-barabash), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData building_2 = IconData(
+  static const IconData building_complex = IconData(
     0xe290,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [building_complex_plus] icon from the Lucide icon set.
+  ///
+  /// ![building_complex_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoNCIgLz4KICA8cGF0aCBkPSJNMTAgMjF2LTNhMiAyIDAgMDEzLjA1LTEuNzAyIiAvPgogIDxwYXRoIGQ9Ik0xMCA4aDQiIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+CiAgPHBhdGggZD0iTTE4IDdoMmEyIDIgMCAwMTIgMnY0LjM1NSIgLz4KICA8cGF0aCBkPSJNMTkgMTZ2NiIgLz4KICA8cGF0aCBkPSJNNiAxMEg0YTIgMiAwIDAwLTIgMnY3YTIgMiAwIDAwMiAyaDguNTM1IiAvPgogIDxwYXRoIGQ9Ik02IDIxVjVhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnY3LjEyNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [building_complex_plus] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city, new, add, create, increase, office, headquarters, startup, registration, onboarding, realestate, property.
+  /// - It belongs to the categories: account, buildings
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/maxim-s-barabash](https://github.com/maxim-s-barabash), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/tylerkade](https://github.com/tylerkade)
+  static const IconData building_complex_plus = IconData(
+    0xe76b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -4341,6 +4341,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData calendar_check_2 = IconData(
     0xe2b8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [calendar_chevrons_right] icon from the Lucide icon set.
+  ///
+  /// ![calendar_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgMjEgMy0zLTMtMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Im0xOSAyMSAzLTMtMy0zIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMS41VjUuMDVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyTDkgMjEiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [calendar_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to navigation, arrow, right, chevron, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events, chevrons.
+  /// - It belongs to the categories: time, arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData calendar_chevrons_right = IconData(
+    0xe76c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -7963,14 +7979,14 @@ abstract final class LucideIcons {
 
   /// Represents the [cookie] icon from the Lucide icon set.
   ///
-  /// ![cookie](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMmExMCAxMCAwIDEgMCAxMCAxMCA0IDQgMCAwIDEtNS01IDQgNCAwIDAgMS01LTUiIC8+CiAgPHBhdGggZD0iTTguNSA4LjV2LjAxIiAvPgogIDxwYXRoIGQ9Ik0xNiAxNS41di4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2LjAxIiAvPgogIDxwYXRoIGQ9Ik0xMSAxN3YuMDEiIC8+CiAgPHBhdGggZD0iTTcgMTR2LjAxIiAvPgo8L3N2Zz4K)
+  /// ![cookie](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTdoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMS40OTYgMmMuMzI0LS4wMTYuNTU4LjI5Mi41MjkuNjE1YTQgNCAwIDAwNC4yMzUgNC4zNjguNzEzLjcxMyAwIDAxLjc1OC43NTcgNCA0IDAgMDA0LjM2NiA0LjIzN2MuMzIzLS4wMy42My4yMDQuNjE0LjUyN2ExMCAxMCAwIDAxLTIuOTE1IDYuNTY2QTEgMSAwIDExNC45MyA0LjkxOCAxMCAxMCAwIDAxMTEuNDk2IDIiIC8+CiAgPHBhdGggZD0iTTEyIDEyaC4wMSIgLz4KICA8cGF0aCBkPSJNMTYgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNiAzaC4wMSIgLz4KICA8cGF0aCBkPSJNMjEgNGguMDEiIC8+CiAgPHBhdGggZD0iTTIxIDhoLjAxIiAvPgogIDxwYXRoIGQ9Ik03IDE0aC4wMSIgLz4KICA8cGF0aCBkPSJNOSA4aC4wMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [cookie] icon is a graphical symbol that conveys a specific idea or functionality related to biscuit, privacy, legal, food.
+  /// - The [cookie] icon is a graphical symbol that conveys a specific idea or functionality related to biscuit, snack, dessert, food, sweet, bakery, consent, privacy, legal, tracking, browser, website.
   /// - It belongs to the categories: account, food-beverage
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData cookie = IconData(
     0xe26b,
     fontFamily: _fontFamily,
@@ -9214,7 +9230,7 @@ abstract final class LucideIcons {
   /// ![door_stairwell](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2LTNhMSAxIDAgMDExLTFoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTdoLTlhMSAxIDAgMDAtMSAxdjMiIC8+CiAgPHBhdGggZD0iTTE5IDIxVjVhMiAyIDAgMDAtMi0ySDdhMiAyIDAgMDAtMiAydjE2IiAvPgogIDxwYXRoIGQ9Ik0xOSA5aC0zYTEgMSAwIDAwLTEgMXYzIiAvPgogIDxwYXRoIGQ9Ik0yMiAyMUgyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [door_stairwell] icon is a graphical symbol that conveys a specific idea or functionality related to staircase, stairway, stairs, steps, ladder, transition, access, structure, espiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit.
+  /// - The [door_stairwell] icon is a graphical symbol that conveys a specific idea or functionality related to staircase, stairway, stairs, steps, ladder, transition, access, structure, spiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit.
   /// - It belongs to the categories: home, travel
   ///
   /// Acknowledgements:
@@ -11371,7 +11387,7 @@ abstract final class LucideIcons {
 
   /// Represents the [folder_bookmark] icon from the Lucide icon set.
   ///
-  /// ![folder_bookmark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY4bDMtMyAzIDNWNiIgLz4KICA8cGF0aCBkPSJNMjAgMjBhMiAyIDAgMCAwIDItMlY4YTIgMiAwIDAgMC0yLTJoLTcuOWEyIDIgMCAwIDEtMS42OS0uOUw5LjYgMy45QTIgMiAwIDAgMCA3LjkzIDNINGEyIDIgMCAwIDAtMiAydjEzYTIgMiAwIDAgMCAyIDJ6IiAvPgo8L3N2Zz4K)
+  /// ![folder_bookmark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY3Ljc1MWEuMjUuMjUgMCAwMC40MDcuMTk1bDIuMjgtMS44MzRhLjUuNSAwIDAxLjYyNyAwbDIuMjggMS44MzRhLjI1LjI1IDAgMDAuNDA2LS4xOTVWNiIgLz4KICA8cGF0aCBkPSJNMjAgMjBhMiAyIDAgMDAyLTJWOGEyIDIgMCAwMC0yLTJoLTcuOWEyIDIgMCAwMS0xLjY5LS45TDkuNiAzLjlBMiAyIDAgMDA3LjkzIDNINGEyIDIgMCAwMC0yIDJ2MTNhMiAyIDAgMDAyIDJ6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [folder_bookmark] icon is a graphical symbol that conveys a specific idea or functionality related to folder, bookmark, file, mark, storage, archive, directory, project, favorite, save, read later.
@@ -12649,6 +12665,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [globe_code] icon from the Lucide icon set.
+  ///
+  /// ![globe_code](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNSAxMCAxMyA3LjUgMTUuNSA1IiAvPgogIDxwYXRoIGQ9Ik0xNS44NjEgMTRBMTQuNSAxNC41IDAgMDExMiAyMmExNC40OCAxNC40OCAwIDAxMC0yMCAxMCAxMCAwIDEwOS44ODggMTEuNSIgLz4KICA8cGF0aCBkPSJNMTkuNSA1IDIyIDcuNSAxOS41IDEwIiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDguNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [globe_code] icon is a graphical symbol that conveys a specific idea or functionality related to website, internet, globe, connection, network, digital, access, global, link, world, browser, language, translate.
+  /// - It belongs to the categories: navigation, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/AleksejDix](https://github.com/AleksejDix)
+  static const IconData globe_code = IconData(
+    0xe76d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [globe_lock] icon from the Lucide icon set.
   ///
   /// ![globe_lock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNjg2IDE1QTE0LjUgMTQuNSAwIDAgMSAxMiAyMmExNC41IDE0LjUgMCAwIDEgMC0yMCAxMCAxMCAwIDEgMCA5LjU0MiAxMyIgLz4KICA8cGF0aCBkPSJNMiAxMmg4LjUiIC8+CiAgPHBhdGggZD0iTTIwIDZWNGEyIDIgMCAxIDAtNCAwdjIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNCIgeT0iNiIgcng9IjEiIC8+Cjwvc3ZnPgo=)
@@ -12734,7 +12766,7 @@ abstract final class LucideIcons {
   /// ![graduation_cap](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuNDIgMTAuOTIyYTEgMSAwIDAgMC0uMDE5LTEuODM4TDEyLjgzIDUuMThhMiAyIDAgMCAwLTEuNjYgMEwyLjYgOS4wOGExIDEgMCAwIDAgMCAxLjgzMmw4LjU3IDMuOTA4YTIgMiAwIDAgMCAxLjY2IDB6IiAvPgogIDxwYXRoIGQ9Ik0yMiAxMHY2IiAvPgogIDxwYXRoIGQ9Ik02IDEyLjVWMTZhNiAzIDAgMCAwIDEyIDB2LTMuNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [graduation_cap] icon is a graphical symbol that conveys a specific idea or functionality related to school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachlor's, master's, doctorate.
+  /// - The [graduation_cap] icon is a graphical symbol that conveys a specific idea or functionality related to school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate.
   /// - It belongs to the categories: buildings
   ///
   /// Acknowledgements:
@@ -13198,7 +13230,7 @@ abstract final class LucideIcons {
   /// ![hard_hat](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTBWNWExIDEgMCAwIDEgMS0xaDJhMSAxIDAgMCAxIDEgMXY1IiAvPgogIDxwYXRoIGQ9Ik0xNCA2YTYgNiAwIDAgMSA2IDZ2MyIgLz4KICA8cGF0aCBkPSJNNCAxNXYtM2E2IDYgMCAwIDEgNi02IiAvPgogIDxyZWN0IHg9IjIiIHk9IjE1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [hard_hat] icon is a graphical symbol that conveys a specific idea or functionality related to helmet, construction, safety, savety.
+  /// - The [hard_hat] icon is a graphical symbol that conveys a specific idea or functionality related to helmet, construction, safety.
   /// - It belongs to the categories: tools
   ///
   /// Acknowledgements:
@@ -13721,6 +13753,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [hourglass_cog] icon from the Lucide icon set.
+  ///
+  /// ![hourglass_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuMzA1IDE5LjUzLjkyMy0uMzgyIiAvPgogIDxwYXRoIGQ9Im0xNS4yMjggMTYuODUyLS45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtMTYuODUyIDE1LjIyOC0uMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiAyMC43NzItLjM4My45MjQiIC8+CiAgPHBhdGggZD0iTTE3IDJ2NC4xNzJhMiAyIDAgMCAxLS41ODYgMS40MTRsLTguODI4IDguODI4QTIgMiAwIDAgMCA3IDE3LjgyOFYyMiIgLz4KICA8cGF0aCBkPSJtMTkuMTQ4IDE1LjIyOC4zODMtLjkyMyIgLz4KICA8cGF0aCBkPSJtMTkuNTMgMjEuNjk2LS4zODItLjkyNCIgLz4KICA8cGF0aCBkPSJtMjAuNzcyIDE2Ljg1Mi45MjQtLjM4MyIgLz4KICA8cGF0aCBkPSJtMjAuNzcyIDE5LjE0OC45MjQuMzgzIiAvPgogIDxwYXRoIGQ9Ik01IDIyaDYuMTU5IiAvPgogIDxwYXRoIGQ9Ik01IDJoMTQiIC8+CiAgPHBhdGggZD0iTTcgMnY0LjE3MmEyIDIgMCAwIDAgLjU4NiAxLjQxNGw1LjE4OCA1LjE4OCIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [hourglass_cog] icon is a graphical symbol that conveys a specific idea or functionality related to timer, time, sandglass, duration, settings, gear, cog, edit, configuration, countdown, timeout, expiration.
+  /// - It belongs to the categories: time, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData hourglass_cog = IconData(
+    0xe76e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [house] icon from the Lucide icon set.
   ///
   /// ![house](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMjF2LThhMSAxIDAgMCAwLTEtMWgtNGExIDEgMCAwIDAtMSAxdjgiIC8+CiAgPHBhdGggZD0iTTMgMTBhMiAyIDAgMCAxIC43MDktMS41MjhsNy02YTIgMiAwIDAgMSAyLjU4MiAwbDcgNkEyIDIgMCAwIDEgMjEgMTB2OWEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiIC8+Cjwvc3ZnPgo=)
@@ -13797,6 +13845,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/akshaymemane](https://github.com/akshaymemane), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData house_wifi = IconData(
     0xe63c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [houses] icon from the Lucide icon set.
+  ///
+  /// ![houses](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuNjgxIDQuMjQuODM0LS43MTVhMS40NSAxLjQ1IDAgMDExLjg4IDBsNS4wOSA0LjM2NEExLjQ1IDEuNDUgMCAwMTIxIDl2Ni41NDZhMS40NSAxLjQ1IDAgMDEtMSAxLjM4MSIgLz4KICA8cGF0aCBkPSJNMTUuNDg1IDExLjg4OUExLjQ1IDEuNDUgMCAwMTE2IDEzdjYuNTQ2QTEuNDU0IDEuNDU0IDAgMDExNC41NDYgMjFINC4zNjRhMS40NTQgMS40NTQgMCAwMS0xLjQ1NC0xLjQ1NFYxM2ExLjQ1IDEuNDUgMCAwMS41MTUtMS4xMTFsNS4wOS00LjM2NGExLjQ1IDEuNDUgMCAwMTEuODggMHoiIC8+CiAgPHBhdGggZD0iTTcuNDEgMjAuNTQ2di00YTEgMSAwIDAxMS0xaDJhMSAxIDAgMDExIDF2NCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [houses] icon is a graphical symbol that conveys a specific idea or functionality related to homes, housing, estate, living, buildings, development, residences, residential, village, neighbourhood, accommodation, community, dwellings, architecture.
+  /// - It belongs to the categories: buildings, home
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData houses = IconData(
+    0xe76f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -14149,6 +14213,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData iteration_cw = IconData(
     0xe424,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [iv_bag] icon from the Lucide icon set.
+  ///
+  /// ![iv_bag](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTh2MmEyIDIgMCAwMDIgMmg2IiAvPgogIDxwYXRoIGQ9Ik02IDExYy43Mi41IDEuNDQgMSAzIDEgMyAwIDMtMiA2LTIgMS41NiAwIDIuMjguNSAzIDEiIC8+CiAgPHBhdGggZD0iTTkuMjkzIDNjLjQ1MyAwIC44ODctLjE4IDEuMjA3LS41cy43NTQtLjUgMS4yMDctLjVoLjU4NmMuNDUzIDAgLjg4Ny4xOCAxLjIwNy41cy43NTQuNSAxLjIwNy41SDE2YTIgMiAwIDAxMiAydjExYTIgMiAwIDAxLTIgMkg4YTIgMiAwIDAxLTItMlY1YTIgMiAwIDAxMi0yeiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [iv_bag] icon is a graphical symbol that conveys a specific idea or functionality related to intravenous, therapy, infusion, medicine, medication, treatment, healthcare, hydration, vitamin, supplement, blood, donation, chemotherapy, clinic, feeding tube, administration, health, regeneration.
+  /// - It belongs to the categories: medical
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData iv_bag = IconData(
+    0xe770,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -14665,6 +14745,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [layout_arrow_down] icon from the Lucide icon set.
+  ///
+  /// ![layout_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMTQiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0xOCAzdjE4IiAvPgogIDxwYXRoIGQ9Im0yMSAxOC0zIDMtMy0zIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [layout_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to layout, direction, flex, flexbox, flex-direction, column, auto layout, vertical, arrange, order, flow, stack.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/samuelalake](https://github.com/samuelalake)
+  static const IconData layout_arrow_down = IconData(
+    0xe771,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [layout_arrow_right] icon from the Lucide icon set.
+  ///
+  /// ![layout_arrow_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0zIDE4aDE4IiAvPgogIDxwYXRoIGQ9Im0xOCAyMSAzLTMtMy0zIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [layout_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to layout, direction, flex, flexbox, flex-direction, row, auto layout, horizontal, arrange, order, flow, stack.
+  /// - It belongs to the categories: design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/samuelalake](https://github.com/samuelalake)
+  static const IconData layout_arrow_right = IconData(
+    0xe772,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [layout_dashboard] icon from the Lucide icon set.
   ///
   /// ![layout_dashboard](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjEyIiByeD0iMSIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjE2IiByeD0iMSIgLz4KPC9zdmc+Cg==)
@@ -14811,7 +14923,7 @@ abstract final class LucideIcons {
 
   /// Represents the [lectern] icon from the Lucide icon set.
   ///
-  /// ![lectern](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTJoM2EyIDIgMCAwIDAgMS45MDItMS4zOGwxLjA1Ni0zLjMzM0ExIDEgMCAwIDAgMjEgNkgzYTEgMSAwIDAgMC0uOTU4IDEuMjg3bDEuMDU2IDMuMzM0QTIgMiAwIDAgMCA1IDEyaDMiIC8+CiAgPHBhdGggZD0iTTE4IDZWM2ExIDEgMCAwIDAtMS0xaC0zIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iOCIgeT0iMTAiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  /// ![lectern](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTNoNGEyIDIgMCAwMDEuOTAxLTEuMzhsMS4wNTctNC4zMzNBMSAxIDAgMDAyMSA2SDNhMSAxIDAgMDAtLjk1OCAxLjI4N0wzLjEgMTEuNjIxQTIgMiAwIDAwNS4wMDEgMTNoNCIgLz4KICA8cGF0aCBkPSJNMTUgMjJWMTFhMSAxIDAgMDAtMS0xaC00YTEgMSAwIDAwLTEgMXYxMSIgLz4KICA8cGF0aCBkPSJNMTggMjJINiIgLz4KICA8cGF0aCBkPSJNMTggNlYzYTEgMSAwIDAwLTEtMWgtMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [lectern] icon is a graphical symbol that conveys a specific idea or functionality related to pulpit, podium, stand.
@@ -16857,6 +16969,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [messages_circle] icon from the Lucide icon set.
+  ///
+  /// ![messages_circle](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuOTUgMTAuMDVhNyA3IDAgMDExLjQxMiA3Ljg3MiAxIDEgMCAwMC0uMDU4Ljc4N2wuNjc1IDIuMDg5YTEgMSAwIDAxLTEuMjM2IDEuMTY4bC0yLjE1NS0uNjMxYTEgMSAwIDAwLS43NDUuMDYgNyA3IDAgMDEtNy43OTMtMS40NDUiIC8+CiAgPHBhdGggZD0iTTIuNjk2IDEyLjcwOGExIDEgMCAwMC0uMDU4LS43ODUgNyA3IDAgMTEzLjUxOCAzLjQ3MyAxIDEgMCAwMC0uNzQ0LS4wNjFsLTIuMTU1LjYzYTEgMSAwIDAxLTEuMjM2LTEuMTY3eiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [messages_circle] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple, discussion, interview, debate, group, groupchat, threads, unread, bubble, messaging.
+  /// - It belongs to the categories: social, communication, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Mirazstudio-offical](https://github.com/Mirazstudio-offical)
+  static const IconData messages_circle = IconData(
+    0xe773,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [messages_square] icon from the Lucide icon set.
   ///
   /// ![messages_square](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTBhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAxNC4yODZWNGEyIDIgMCAwIDEgMi0yaDEwYTIgMiAwIDAgMSAyIDJ6IiAvPgogIDxwYXRoIGQ9Ik0yMCA5YTIgMiAwIDAgMSAyIDJ2MTAuMjg2YS43MS43MSAwIDAgMS0xLjIxMi41MDJsLTIuMjAyLTIuMjAyQTIgMiAwIDAgMCAxNy4xNzIgMTlIMTBhMiAyIDAgMCAxLTItMnYtMSIgLz4KPC9zdmc+Cg==)
@@ -17657,6 +17785,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [mouth] icon from the Lucide icon set.
+  ///
+  /// ![mouth](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmE1MC41IDUwLjUgMCAwMDIwIDAgMSAxIDAgMDAtMS0xIiAvPgogIDxwYXRoIGQ9Ik0yLjQ1NyAxMS4xNTlhMSAxIDAgMDAtLjMwNyAxLjM2OSAxMS41OSAxMS41OSAwIDAwMTkuNyAwIDEgMSAwIDAwLS4zMDgtMS4zNjhjLTIuNDI2LTEuNTY4LTMuNjUtMi4yODQtNS40NzktMy42NDRhMi42IDIuNiAwIDAwLTMuMzczLjIwOCAxIDEgMCAwMS0xLjM4IDAgMi42MiAyLjYyIDAgMDAtMy4zNzMtLjIwOGMtMS44MyAxLjM2LTMuMDUzIDIuMDc2LTUuNDggMy42NDMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [mouth] icon is a graphical symbol that conveys a specific idea or functionality related to speech, voice, talk, speaking, taste, tasting, flavor, palate, tongue, gustatory, oral, dental, expression, communication, accessibility.
+  /// - It belongs to the categories: medical, accessibility, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/juliansolimando](https://github.com/juliansolimando), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData mouth = IconData(
+    0xe775,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [mouth_off] icon from the Lucide icon set.
+  ///
+  /// ![mouth_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuMDc0IDcuNDE3YTIuNiAyLjYgMCAwMTIuOTg5LjA5OWMxLjgyOSAxLjM2IDMuMDUzIDIuMDc2IDUuNDc5IDMuNjQ0YTEgMSAwIDAxLjMwOCAxLjM2OCAxMS42IDExLjYgMCAwMS0xLjYxNyAyLjA1IiAvPgogIDxwYXRoIGQ9Ik0yIDEyYTUwLjUgNTAuNSAwIDAwMTAuOTkuOTkiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMjEgMTFhMSAxIDAgMDExIDEgNTEgNTEgMCAwMS0zLjczNC42MSIgLz4KICA8cGF0aCBkPSJNNy42OTUgNy42OTVjLTEuNyAxLjI0Ny0yLjkyIDEuOTY3LTUuMjM4IDMuNDY0YTEgMSAwIDAwLS4zMDcgMS4zNjkgMTEuNiAxMS42IDAgMDAxNC43NjYgNC4zODgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [mouth_off] icon is a graphical symbol that conveys a specific idea or functionality related to speech, voice, talk, mute, silence, speechless, taste loss, flavor loss, ageusia, tasteless, gustatory, oral, dental, communication, accessibility.
+  /// - It belongs to the categories: medical, accessibility, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/juliansolimando](https://github.com/juliansolimando), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData mouth_off = IconData(
+    0xe774,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [move] icon from the Lucide icon set.
   ///
   /// ![move](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYyMCIgLz4KICA8cGF0aCBkPSJtMTUgMTktMyAzLTMtMyIgLz4KICA8cGF0aCBkPSJtMTkgOSAzIDMtMyAzIiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDIwIiAvPgogIDxwYXRoIGQ9Im01IDktMyAzIDMgMyIgLz4KICA8cGF0aCBkPSJtOSA1IDMtMyAzIDMiIC8+Cjwvc3ZnPgo=)
@@ -18085,6 +18245,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData notebook = IconData(
     0xe595,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [notebook_dot] icon from the Lucide icon set.
+  ///
+  /// ![notebook_dot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTEuNzVWMjIiIC8+CiAgPHBhdGggZD0iTTIgMTBoNCIgLz4KICA8cGF0aCBkPSJNMiAxNGg0IiAvPgogIDxwYXRoIGQ9Ik0yIDE4aDQiIC8+CiAgPHBhdGggZD0iTTIgNmg0IiAvPgogIDxwYXRoIGQ9Ik0yMCAxMS43NVYyMGEyIDIgMCAwIDEtMiAySDZhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoNS42NSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjUiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [notebook_dot] icon is a graphical symbol that conveys a specific idea or functionality related to document, file, journal, page, paper, record, entry, notebook, notification, unread, note.
+  /// - It belongs to the categories: communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/elenakovelskikh](https://github.com/elenakovelskikh)
+  static const IconData notebook_dot = IconData(
+    0xe776,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18969,6 +19145,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [park] icon from the Lucide icon set.
+  ///
+  /// ![park](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThoMTAiIC8+CiAgPHBhdGggZD0iTTEzLjI0OCA5Ljk5OEE0LjUgNC41IDAgMCAwIDExLjc1IDguNlY4YTEgMSAwIDAgMC03LjUgMCA0LjkgNC45IDAgMCAwIDIuMjUgOUg4IiAvPgogIDxwYXRoIGQ9Im0xNSAxNC0yIDYiIC8+CiAgPHBhdGggZD0ibTE5IDE0IDIgNiIgLz4KICA8cGF0aCBkPSJNMjEgMTRoLTgiIC8+CiAgPHBhdGggZD0iTTggMjB2LTUuOTIyYTIgMiAwIDAgMC0uNTg2LTEuNDE0TDYuNSAxMS43NSIgLz4KICA8cGF0aCBkPSJNOS4yMDUgMTIuNzk1IDggMTQiIC8+CiAgPGNpcmNsZSBjeD0iMTkiIGN5PSI2IiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [park] icon is a graphical symbol that conveys a specific idea or functionality related to nature, green, trees, landscape, rest, walk, leisure, environment, tree, bench, outdoors, recreation.
+  /// - It belongs to the categories: nature, navigation, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/skajosborn](https://github.com/skajosborn), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData park = IconData(
+    0xe777,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [parking_meter] icon from the Lucide icon set.
   ///
   /// ![parking_meter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTVoMiIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2MyIgLz4KICA8cGF0aCBkPSJNMTIgMTl2MyIgLz4KICA8cGF0aCBkPSJNMTUuMjgyIDE5YTEgMSAwIDAgMCAuOTQ4LS42OGwyLjM3LTYuOTg4YTcgNyAwIDEgMC0xMy4yIDBsMi4zNyA2Ljk4OGExIDEgMCAwIDAgLjk0OC42OHoiIC8+CiAgPHBhdGggZD0iTTkgOWEzIDMgMCAxIDEgNiAwIiAvPgo8L3N2Zz4K)
@@ -19669,6 +19861,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/it-is-not](https://github.com/it-is-not)
   static const IconData plane_takeoff = IconData(
     0xe3ce,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [plant_pot] icon from the Lucide icon set.
+  ///
+  /// ![plant_pot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgOC41MzZWNmE0IDQgMCAwMTQtNGgxLjVhLjUuNSAwIDAxLjUuNVY0YTQgNCAwIDAxLTQgNCA0IDQgMCAwMC00IDQgNSA1IDAgMDEtOC00IDUgNSAwIDAxOCA0YzAgMiAxIDMgMSA1IiAvPgogIDxwYXRoIGQ9Im0xOCAxNy0xLjA4NSAzLjU4QTIgMiAwIDAxMTUgMjJIOS4wMDJhMiAyIDAgMDEtMS45MTMtMS40MThMNiAxNyIgLz4KICA8cGF0aCBkPSJNNSAxN2gxNCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [plant_pot] icon is a graphical symbol that conveys a specific idea or functionality related to plant, leaf, nature, pot, houseplant, gardening, planter, decor, indoor.
+  /// - It belongs to the categories: home, nature
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData plant_pot = IconData(
+    0xe778,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -23454,7 +23662,7 @@ abstract final class LucideIcons {
   /// ![square_activity](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNyAxMmgtMmwtMiA1LTItMTAtMiA1SDciIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_activity] icon is a graphical symbol that conveys a specific idea or functionality related to pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, siesmic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music.
+  /// - The [square_activity] icon is a graphical symbol that conveys a specific idea or functionality related to pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music.
   /// - It belongs to the categories: medical, social, science, multimedia
   ///
   /// Acknowledgements:
@@ -23701,6 +23909,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData square_asterisk = IconData(
     0xe168,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_bookmark] icon from the Lucide icon set.
+  ///
+  /// ![square_bookmark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgM3Y3Ljc1MWEuMjUuMjUgMCAwMC40MDcuMTk1bDIuMjgtMS44MzRhLjUuNSAwIDAxLjYyNyAwbDIuMjggMS44MzRhLjI1LjI1IDAgMDAuNDA2LS4xOTVWMyIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_bookmark] icon is a graphical symbol that conveys a specific idea or functionality related to photo, book.
+  /// - It belongs to the categories: photography, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_bookmark = IconData(
+    0xe03b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
