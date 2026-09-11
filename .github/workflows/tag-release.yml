@@ -57,3 +57,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run publish.yml --repo "$GITHUB_REPOSITORY" --ref "${{ steps.tag.outputs.tag }}"
+
+      # repo-level delete_branch_on_merge doesn't reliably apply to
+      # auto-merge-performed merges, so the release branch is cleaned up
+      # explicitly here.
+      - name: Delete release branch
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+        run: gh api -X DELETE "repos/$GITHUB_REPOSITORY/git/refs/heads/$HEAD_REF"
