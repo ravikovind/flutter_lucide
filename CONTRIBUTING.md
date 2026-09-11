@@ -246,4 +246,3 @@ If you have questions about contributing:
 3. Contact maintainers
 
 Thank you for contributing to flutter_lucide! 🎉
-
