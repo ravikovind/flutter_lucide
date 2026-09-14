@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1834** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1838** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -428,6 +428,9 @@ All **1834** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circuit-board` | computing, electricity, electronics | science, development |
 | `citrus` | lemon, orange, grapefruit, fruit | food-beverage |
 | `clapperboard` | movie, film, video, camera, cinema, cut, action, television, tv, show, entertainment | multimedia |
+| `clef-alto` | do, c, music, note, key, soprano, mezzo, alto, staff, pitch, baritone, major, scale | multimedia |
+| `clef-bass` | fa, f, music, note, key, baritone, staff, pitch, bass, subbass, major, scale | multimedia |
+| `clef-treble` | sol, g, music, note, key, treble, staff, pitch, violin, solfege, major, scale | multimedia |
 | `clipboard` | copy, paste | text |
 | `clipboard-check` | copied, pasted, done, todo, tick, complete, task | text |
 | `clipboard-clock` | copy, paste, history, log, clock, time, watch, alarm, hour, minute, reminder, scheduled, deadline, pending, time tracking, timesheets, appointment, logbook | time, text |
@@ -1096,6 +1099,7 @@ All **1834** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `monitor-down` | tv, computer, screen, display, desktop, external display, screen sharing, download, remote, cast | connectivity, devices |
 | `monitor-off` | tv, computer, screen, display, desktop, external display, screen sharing, offline, disabled, disconnected, power | connectivity, devices |
 | `monitor-pause` | tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, pause, suspend, hibernate, boot, virtual machine, vm | connectivity, devices, multimedia |
+| `monitor-pc` | personal computer, desktop, screen, display, workstation, tower, chassis, hardware, setup, gaming | devices, development, gaming |
 | `monitor-play` | tv, computer, screen, display, desktop, external display, screen sharing, video, movie, film, play, running, start, boot, virtual machine, vm | connectivity, devices, multimedia |
 | `monitor-smartphone` | phone, cellphone, device, mobile, desktop, screen, display, external display, screen sharing, responsive, screens, sync, cast | connectivity, devices |
 | `monitor-speaker` | tv, computer, screen, display, desktop, external display, connect, cast, audio, sound, volume, presentation | connectivity, devices |
@@ -1845,4 +1849,4 @@ All **1834** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1834 icons*
+*Total: 1838 icons*

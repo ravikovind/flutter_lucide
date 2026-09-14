@@ -2951,6 +2951,24 @@
     "className": "icon-clapperboard",
     "unicode": "&#58011;"
   },
+  "clef-alto": {
+    "encodedCode": "\\e779",
+    "prefix": "icon",
+    "className": "icon-clef-alto",
+    "unicode": "&#59257;"
+  },
+  "clef-bass": {
+    "encodedCode": "\\e77a",
+    "prefix": "icon",
+    "className": "icon-clef-bass",
+    "unicode": "&#59258;"
+  },
+  "clef-treble": {
+    "encodedCode": "\\e77b",
+    "prefix": "icon",
+    "className": "icon-clef-treble",
+    "unicode": "&#59259;"
+  },
   "clipboard-check": {
     "encodedCode": "\\e219",
     "prefix": "icon",
@@ -7540,6 +7558,12 @@
     "prefix": "icon",
     "className": "icon-monitor-pause",
     "unicode": "&#58500;"
+  },
+  "monitor-pc": {
+    "encodedCode": "\\e77c",
+    "prefix": "icon",
+    "className": "icon-monitor-pc",
+    "unicode": "&#59260;"
   },
   "monitor-play": {
     "encodedCode": "\\e485",
