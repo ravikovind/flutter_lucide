@@ -1,3 +1,15 @@
+# 1.46.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.46.0
+- Total icon count increased from 1,834+ to 1,838+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- clef-alto, clef-bass, clef-treble, monitor-pc
+
+---
+
 # 1.45.0
 
 ## Improvements 🚀

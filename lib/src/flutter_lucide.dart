@@ -6729,6 +6729,54 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [clef_alto] icon from the Lucide icon set.
+  ///
+  /// ![clef_alto](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgNHYxNiIgLz4KICA8cGF0aCBkPSJNMTQgNC43NjRhMyAzIDAgMSAxLS4xNTIgNC4zMjdBNCA0IDAgMCAxIDEwIDEyYTQgNCAwIDAgMSAzLjg0OCAyLjkwOUEzIDMgMCAxIDEgMTQgMTkuMjM2IiAvPgogIDxwYXRoIGQ9Ik02IDR2MTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [clef_alto] icon is a graphical symbol that conveys a specific idea or functionality related to do, c, music, note, key, soprano, mezzo, alto, staff, pitch, baritone, major, scale.
+  /// - It belongs to the categories: multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData clef_alto = IconData(
+    0xe779,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [clef_bass] icon from the Lucide icon set.
+  ///
+  /// ![clef_bass](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgMTFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOSA2aC4wMSIgLz4KICA8cGF0aCBkPSJNNSA4YzAtNCA0LTQgNC00IDYgMCA2IDYgNiA2IDAgNy0xMCAxMS0xMCAxMSIgLz4KICA8Y2lyY2xlIGN4PSI3IiBjeT0iOCIgcj0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [clef_bass] icon is a graphical symbol that conveys a specific idea or functionality related to fa, f, music, note, key, baritone, staff, pitch, bass, subbass, major, scale.
+  /// - It belongs to the categories: multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData clef_bass = IconData(
+    0xe77a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [clef_treble] icon from the Lucide icon set.
+  ///
+  /// ![clef_treble](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNTg2IDIxLjQxNGEyIDIgMCAwIDAgMy4zNzgtMS43OTFMMTEuMDM2IDQuMzc3YTIgMiAwIDEgMSAzLjM3OCAxLjAzN0MxMi40MTQgNy40MTQgNyA4IDcgMTNhNSA1IDAgMCAwIDUgNSA1IDQgMCAwIDAgNS00IDMgMyAwIDAgMC0zLTMgMyAyIDAgMCAwLTMgMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [clef_treble] icon is a graphical symbol that conveys a specific idea or functionality related to sol, g, music, note, key, treble, staff, pitch, violin, solfege, major, scale.
+  /// - It belongs to the categories: multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData clef_treble = IconData(
+    0xe77b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [clipboard] icon from the Lucide icon set.
   ///
   /// ![clipboard](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiIC8+Cjwvc3ZnPgo=)
@@ -17413,6 +17461,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData monitor_pause = IconData(
     0xe484,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [monitor_pc] icon from the Lucide icon set.
+  ///
+  /// ![monitor_pc](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTVINGEyIDIgMCAwMS0yLTJWN2EyIDIgMCAwMTItMmg2IiAvPgogIDxwYXRoIGQ9Ik0xMCAxOUg1IiAvPgogIDxwYXRoIGQ9Ik0xNCAxMWg4IiAvPgogIDxwYXRoIGQ9Ik0xNCA3aDgiIC8+CiAgPHBhdGggZD0iTTE4IDE3aC4wMSIgLz4KICA8cGF0aCBkPSJNOSAxOXYtNCIgLz4KICA8cmVjdCB4PSIxNCIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [monitor_pc] icon is a graphical symbol that conveys a specific idea or functionality related to personal computer, desktop, screen, display, workstation, tower, chassis, hardware, setup, gaming.
+  /// - It belongs to the categories: devices, development, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData monitor_pc = IconData(
+    0xe77c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
