@@ -14,6 +14,8 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write # Required to dispatch publish.yml below
+  checks: read # Required to poll required-check status before merging
 
 jobs:
   release-pr:
@@ -170,10 +172,97 @@ jobs:
             --body "$BODY")
           echo "url=$URL" >> "$GITHUB_OUTPUT"
 
-      # Waits for the required status checks (flutter-analyze, script-test)
-      # to pass, then merges automatically -- no manual click needed.
-      - name: Enable auto-merge
+      # A merge performed by GitHub's native auto-merge (or anything else
+      # using GITHUB_TOKEN) is authored as github-actions[bot], and GitHub
+      # suppresses ANY event resulting from a GITHUB_TOKEN-driven action
+      # from triggering other workflows -- not just push, pull_request:closed
+      # too. tag-release.yml's trigger on that event silently never fired
+      # for auto-merged PRs (confirmed via v1.45.0 and v1.46.0 both needing
+      # a manual tag+publish to unblock). So instead of depending on a
+      # second workflow being triggered by an event, this job polls for the
+      # required checks itself and does the merge, tag, and publish dispatch
+      # inline -- workflow_dispatch (used below) is explicitly exempt from
+      # that suppression, which is why it has worked reliably every time.
+      - name: Wait for required checks and merge
         if: steps.version.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh pr merge --auto --merge "${{ steps.pr.outputs.url }}"
+          BRANCH: ${{ steps.version.outputs.branch }}
+        run: |
+          python3 - <<'PYEOF'
+          import json
+          import os
+          import subprocess
+          import sys
+          import time
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          branch = os.environ["BRANCH"]
+          required = {"flutter-analyze", "script-test"}
+
+          sha = subprocess.run(
+              ["git", "rev-parse", branch],
+              capture_output=True, text=True, check=True,
+          ).stdout.strip()
+
+          deadline = time.time() + 25 * 60
+          while time.time() < deadline:
+              out = subprocess.run(
+                  ["gh", "api", f"repos/{repo}/commits/{sha}/check-runs", "--method", "GET", "-f", "per_page=100"],
+                  capture_output=True, text=True, check=True,
+              ).stdout
+              runs = json.loads(out)["check_runs"]
+              by_name = {r["name"]: r for r in runs if r["name"] in required}
+
+              failed = [
+                  name for name, r in by_name.items()
+                  if r["status"] == "completed"
+                  and r["conclusion"] not in ("success", "neutral", "skipped")
+              ]
+              if failed:
+                  print(f"Required check(s) failed: {failed}", file=sys.stderr)
+                  sys.exit(1)
+
+              pending = required - {
+                  name for name, r in by_name.items() if r["status"] == "completed"
+              }
+              if not pending:
+                  print("All required checks passed.")
+                  break
+
+              print(f"Waiting on: {sorted(pending)}")
+              time.sleep(15)
+          else:
+              print("Timed out waiting for required checks.", file=sys.stderr)
+              sys.exit(1)
+
+          subprocess.run(
+              ["gh", "pr", "merge", branch, "--merge", "--delete-branch"],
+              check=True,
+          )
+          PYEOF
+
+      - name: Tag the release commit
+        if: steps.version.outputs.should_run == 'true'
+        id: tag
+        env:
+          V: ${{ steps.version.outputs.target_version }}
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag "v$V"
+          git push origin "v$V"
+          echo "tag=v$V" >> "$GITHUB_OUTPUT"
+
+      # A push of this tag is itself a GITHUB_TOKEN-driven action, so
+      # publish.yml's `push: tags:` trigger would be suppressed too --
+      # dispatched explicitly instead, which is exempt from that rule.
+      - name: Trigger publish workflow
+        if: steps.version.outputs.should_run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --repo "$GITHUB_REPOSITORY" --ref "${{ steps.tag.outputs.tag }}"
