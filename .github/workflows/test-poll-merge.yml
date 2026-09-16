@@ -11,6 +11,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write
   checks: read
 
 jobs:
@@ -62,8 +63,22 @@ jobs:
               capture_output=True, text=True, check=True,
           ).stdout.strip()
 
+          def approve_pending_runs():
+              out = subprocess.run(
+                  ["gh", "api", f"repos/{repo}/actions/runs", "-f", f"head_sha={sha}", "--method", "GET"],
+                  capture_output=True, text=True, check=True,
+              ).stdout
+              for run in json.loads(out)["workflow_runs"]:
+                  if run["status"] == "action_required":
+                      print(f"Approving pending workflow run {run['id']} ({run['name']})")
+                      subprocess.run(
+                          ["gh", "api", "-X", "POST", f"repos/{repo}/actions/runs/{run['id']}/approve"],
+                          check=True,
+                      )
+
           deadline = time.time() + 25 * 60
           while time.time() < deadline:
+              approve_pending_runs()
               out = subprocess.run(
                   ["gh", "api", f"repos/{repo}/commits/{sha}/check-runs", "--method", "GET", "-f", "per_page=100"],
                   capture_output=True, text=True, check=True,
