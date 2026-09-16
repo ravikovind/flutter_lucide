@@ -247,3 +247,4 @@ If you have questions about contributing:
 
 Thank you for contributing to flutter_lucide! 🎉
 
+
