@@ -3947,14 +3947,14 @@ abstract final class LucideIcons {
 
   /// Represents the [broccoli] icon from the Lucide icon set.
   ///
-  /// ![broccoli](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTNhMyAzIDAgMCAxLTIuMTIxLTUuMTIxIiAvPgogIDxwYXRoIGQ9Ik0xNS42MDYgMTQuMjA0Yy0zLjUgMS41LTUuODk5IDQuNTAzLTguODk5IDcuNTAzQTEgMSAwIDAgMSA2IDIyYy0yIDAtNC0yLTQtNGExIDEgMCAwIDEgLjI5My0uNzA3YzEuOTExLTEuOTExIDMuODIzLTMuNTc4IDUuMzQ3LTUuNDQxIiAvPgogIDxwYXRoIGQ9Ik0xNi41NzMgMTQuNzM3QTQgNCAwIDAgMSAxNCAxMSIgLz4KICA8cGF0aCBkPSJNNy4xNCAxMC45MDdhNCA0IDAgMSAxIDIuNzU2LTcuNDNBNCA0IDAgMCAxIDE2LjcgNC40OGEyIDIgMCAwIDEgMi44MiAyLjgyIDQgNCAwIDAgMSAxLjAwMiA2LjgwNUE0IDQgMCAxIDEgMTMgMTYiIC8+Cjwvc3ZnPgo=)
+  /// ![broccoli](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTNhMyAzIDAgMDEtMi4xMjEtNS4xMjEiIC8+CiAgPHBhdGggZD0iTTE1LjYwNiAxNC4yMDRjLTMuNSAxLjUtNS44OTkgNC41MDMtOC44OTkgNy41MDNBMSAxIDAgMDE2IDIyYy0yIDAtNC0yLTQtNGExIDEgMCAwMS4yOTMtLjcwN2MxLjkxMS0xLjkxMSAzLjgyMy0zLjU3OCA1LjM0Ny01LjQ0MSIgLz4KICA8cGF0aCBkPSJNMTYuNTczIDE0LjczN0E0IDQgMCAwMTE0IDExIiAvPgogIDxwYXRoIGQ9Ik03LjE0IDEwLjkwN2E0IDQgMCAxMTIuNzU2LTcuNDNBNCA0IDAgMDExNi43IDQuNDhhMiAyIDAgMDEyLjgyIDIuODIgNCA0IDAgMDExLjAwMiA2LjgwNSA0IDQgMCAxMS03LjUxIDEuNTkiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [broccoli] icon is a graphical symbol that conveys a specific idea or functionality related to leafy, crisp, fresh, culinary, vegetation, vegetable, food, healthy, vegan, vegetarian, nutrition, diet, plant, green, produce.
   /// - It belongs to the categories: food-beverage
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData broccoli = IconData(
     0xe6f5,
     fontFamily: _fontFamily,
@@ -4347,7 +4347,7 @@ abstract final class LucideIcons {
 
   /// Represents the [calendar_chevrons_right] icon from the Lucide icon set.
   ///
-  /// ![calendar_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgMjEgMy0zLTMtMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Im0xOSAyMSAzLTMtMy0zIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMS41VjUuMDVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyTDkgMjEiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
+  /// ![calendar_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgMjEgMy0zLTMtMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Im0xOSAyMSAzLTMtMy0zIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMS41VjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDQiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [calendar_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to navigation, arrow, right, chevron, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events, chevrons.
@@ -8553,6 +8553,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [cupcake] icon from the Lucide icon set.
+  ///
+  /// ![cupcake](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJ2LTkiIC8+CiAgPHBhdGggZD0iTTE0IDRoMWEzIDMgMCAwMTMgM2wtLjAwNC4xMjVBNCA0IDAgMDEyMSAxMXYyIiAvPgogIDxwYXRoIGQ9Im0xNS41IDIyIDEuNS05IiAvPgogIDxwYXRoIGQ9Ik0yMSAxM2ExIDEgMCAwMS45MTkgMS4zOTRsLTIuNzQgNi4zOTRBMiAyIDAgMDExNy4zNCAyMkg2LjY1OWEyIDIgMCAwMS0xLjgzOC0xLjIxMmwtMi43NC02LjM5NEExIDEgMCAwMTMgMTN6IiAvPgogIDxwYXRoIGQ9Ik0zIDEzdi0yYTQgNCAwIDAxMy4wMDMtMy44NzVMNiA3YTMgMyAwIDAxMy0zaDEiIC8+CiAgPHBhdGggZD0iTTguNSAyMiA3IDEzIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iNCIgcj0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [cupcake] icon is a graphical symbol that conveys a specific idea or functionality related to cake, dessert, food, celebration, sweet, baking, cooking.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/briz123](https://github.com/briz123), [https://github.com/ajokt123](https://github.com/ajokt123), [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData cupcake = IconData(
+    0xe77d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [currency] icon from the Lucide icon set.
   ///
   /// ![currency](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiAvPgogIDxsaW5lIHgxPSIzIiB4Mj0iNiIgeTE9IjMiIHkyPSI2IiAvPgogIDxsaW5lIHgxPSIyMSIgeDI9IjE4IiB5MT0iMyIgeTI9IjYiIC8+CiAgPGxpbmUgeDE9IjMiIHgyPSI2IiB5MT0iMjEiIHkyPSIxOCIgLz4KICA8bGluZSB4MT0iMjEiIHgyPSIxOCIgeTE9IjIxIiB5Mj0iMTgiIC8+Cjwvc3ZnPgo=)
@@ -9253,6 +9269,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lukedukeus](https://github.com/lukedukeus)
   static const IconData door_closed_locked = IconData(
     0xe664,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [door_closed_package] icon from the Lucide icon set.
+  ///
+  /// ![door_closed_package](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMTN2MyIgLz4KICA8cGF0aCBkPSJNMTkgOVY1YTIgMiAwIDAwLTItMkg3YTIgMiAwIDAwLTIgMnYxNiIgLz4KICA8cGF0aCBkPSJNMiAyMWg4IiAvPgogIDxwYXRoIGQ9Ik05IDEyaC4wMSIgLz4KICA8cmVjdCB4PSIxNCIgeT0iMTMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [door_closed_package] icon is a graphical symbol that conveys a specific idea or functionality related to delivery, parcel, doorstep, shipping, drop-off, courier.
+  /// - It belongs to the categories: home, food-beverage, transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData door_closed_package = IconData(
+    0xe77e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -10069,6 +10101,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData fast_forward = IconData(
     0xe0bd,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [faucet] icon from the Lucide icon set.
+  ///
+  /// ![faucet](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMDgzIDUuNDI4IDUuNTcgNC4wODNhMiAyIDAgMTAuMDAxIDMuODM0bDQuNTEyLTEuMzQ1IiAvPgogIDxwYXRoIGQ9Ik0xMiA4djMiIC8+CiAgPHBhdGggZD0ibTEzLjkxNyA1LjQyOCA0LjUxMS0xLjM0NWEyIDIgMCAxMTAgMy44MzRsLTQuNTEtMS4zNDUiIC8+CiAgPHBhdGggZD0iTTE4IDE3di00LjAwNiIgLz4KICA8cGF0aCBkPSJNMjIgMTF2OCIgLz4KICA8cGF0aCBkPSJNMjIgMTJoLTNhMSAxIDAgMDAtMSAuOTk0aC0yLjUzOWE0IDQgMCAwMC02LjkxNS0uMDEyTDcgMTNhNSA1IDAgMDAtNSA1djFhMSAxIDAgMDAxIDFoMmExIDEgMCAwMDEtMXYtMWExIDEgMCAwMS45OTUtMWwxLjU1Mi4wMThhNCA0IDAgMDA2LjkwNyAwTDE4IDE3YTEgMSAwIDAwMSAxaDMiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSI2IiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [faucet] icon is a graphical symbol that conveys a specific idea or functionality related to tap, spigot, water, drinking, fresh, source, pipes, plumbing, plumber, sink, basin, kitchen, bathroom, washroom, fixture, valve, flow, drinkable, potable, amenities, utilities, hydration.
+  /// - It belongs to the categories: food-beverage, home, navigation, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData faucet = IconData(
+    0xe77f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -14441,6 +14489,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [lambda] icon from the Lucide icon set.
+  ///
+  /// ![lambda](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuMzggMTAgNSAyMCIgLz4KICA8cGF0aCBkPSJNMTkgMThhMiAyIDAgMDEtMiAyYy00Ljg3LS4wMDMtNS4wNTItMTYtMTAtMTZhMiAyIDAgMDAtMiAyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [lambda] icon is a graphical symbol that conveys a specific idea or functionality related to greek, symbol, math, function, programming, serverless, anonymous, functional, cloud, wavelength, calculus, linear algebra.
+  /// - It belongs to the categories: development, math, science, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kaleidosium](https://github.com/kaleidosium), [https://github.com/UbaidUllah9962](https://github.com/UbaidUllah9962)
+  static const IconData lambda = IconData(
+    0xe780,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [lamp] icon from the Lucide icon set.
   ///
   /// ![lamp](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2NiIgLz4KICA8cGF0aCBkPSJNNC4wNzcgMTAuNjE1QTEgMSAwIDAgMCA1IDEyaDE0YTEgMSAwIDAgMCAuOTIzLTEuMzg1bC0zLjA3Ny03LjM4NEEyIDIgMCAwIDAgMTUgMkg5YTIgMiAwIDAgMC0xLjg0NiAxLjIzWiIgLz4KICA8cGF0aCBkPSJNOCAyMGEyIDIgMCAwIDEgMi0yaDRhMiAyIDAgMCAxIDIgMnYxYTEgMSAwIDAgMS0xIDFIOWExIDEgMCAwIDEtMS0xeiIgLz4KPC9zdmc+Cg==)
@@ -18233,6 +18297,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [nepali_rupee] icon from the Lucide icon set.
+  ///
+  /// ![nepali_rupee](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMTYuMTczIEE0Ljc0IDQuNzQgMCAwIDAgMTMuNDk2IDguMDA1IiAvPgogIDxwYXRoIGQ9Ik00IDMgTDIwIDMiIC8+CiAgPHBhdGggZD0iTTUgMTMgTDEzLjUgMjEiIC8+CiAgPHBhdGggZD0iTTUgMTMgTDkgMTMiIC8+CiAgPHBhdGggZD0iTTggMTMgQzE1LjUgMTMgMTQuNjY3IDMgOCAzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [nepali_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, nepal, rupee, npr.
+  /// - It belongs to the categories: finance, shopping, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/sarajdhakal](https://github.com/sarajdhakal)
+  static const IconData nepali_rupee = IconData(
+    0xe781,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [network] icon from the Lucide icon set.
   ///
   /// ![network](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+CiAgPHJlY3QgeD0iOSIgeT0iMiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cGF0aCBkPSJNNSAxNnYtM2ExIDEgMCAwIDEgMS0xaDEyYTEgMSAwIDAgMSAxIDF2MyIgLz4KICA8cGF0aCBkPSJNMTIgMTJWOCIgLz4KPC9zdmc+Cg==)
@@ -21369,6 +21449,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [rotate_cw_clock] icon from the Lucide icon set.
+  ///
+  /// ![rotate_cw_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgN3Y1bDQgMiIgLz4KICA8cGF0aCBkPSJNMTYgOGg1VjMiIC8+CiAgPHBhdGggZD0ibTIxIDgtMi4zLTIuM0E5LjcgOS43IDAgMDAxMiAzYTkgOSAwIDEwOSA5IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [rotate_cw_clock] icon is a graphical symbol that conveys a specific idea or functionality related to modify, edit, refresh, sync, renew, revision, settings, adjust, upgrade, time, timeline, version, time machine, backup, clockwise, arrow, reload, rerun, synchronize, circular, cycle, update.
+  /// - It belongs to the categories: arrows, time
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/gkkconan](https://github.com/gkkconan)
+  static const IconData rotate_cw_clock = IconData(
+    0xe782,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [rotate_cw_fading_clock] icon from the Lucide icon set.
   ///
   /// ![rotate_cw_fading_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM2E5Ljc1IDkuNzUgMCAwIDEgNi43NCAyLjc0IiAvPgogIDxwYXRoIGQ9Ik0xOC43NCA1Ljc0IDIxIDgiIC8+CiAgPHBhdGggZD0iTTIxIDhWMyIgLz4KICA8cGF0aCBkPSJNNy41IDE5Ljc5NGMtNi0zLjQ2NC02LTEyLjEyNCAwLTE1LjU4OCIgLz4KICA8cGF0aCBkPSJNNy41IDQuMjA2QTkgOSAwIDAgMSAxMiAzIiAvPgogIDxwYXRoIGQ9Ik0xMiA3djVsNCAyIiAvPgogIDxwYXRoIGQ9Ik0xNCAyMC43NzVBOSA5IDAgMCAxIDEyIDIxIiAvPgogIDxwYXRoIGQ9Ik0xOSAxNy42NTZhOSA5IDAgMCAxLTEuNSAxLjQ1NiIgLz4KICA8cGF0aCBkPSJNMjEgMTJhOSA5IDAgMCAxLS4yMjggMiIgLz4KICA8cGF0aCBkPSJNMjEgOGgtNSIgLz4KPC9zdmc+Cg==)
@@ -21707,7 +21803,7 @@ abstract final class LucideIcons {
 
   /// Represents the [save_off] icon from the Lucide icon set.
   ///
-  /// ![save_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMTNIOGExIDEgMCAwIDAtMSAxdjciIC8+CiAgPHBhdGggZD0iTTE0IDhoMSIgLz4KICA8cGF0aCBkPSJNMTcgMjF2LTQiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMjAuNDEgMjAuNDFBMiAyIDAgMCAxIDE5IDIxSDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAuNTktMS40MSIgLz4KICA8cGF0aCBkPSJNMjkuNSAxMS41czUgNSA0IDUiIC8+CiAgPHBhdGggZD0iTTkgM2g2LjJhMiAyIDAgMCAxIDEuNC42bDMuOCAzLjhhMiAyIDAgMCAxIC42IDEuNFYxNSIgLz4KPC9zdmc+Cg==)
+  /// ![save_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMTNIOGExIDEgMCAwIDAtMSAxdjciIC8+CiAgPHBhdGggZD0iTTE0IDhoMSIgLz4KICA8cGF0aCBkPSJNMTcgMjF2LTQiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMjAuNDEgMjAuNDFBMiAyIDAgMCAxIDE5IDIxSDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAuNTktMS40MSIgLz4KICA8cGF0aCBkPSJNOSAzaDYuMmEyIDIgMCAwIDEgMS40LjZsMy44IDMuOGEyIDIgMCAwIDEgLjYgMS40VjE1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [save_off] icon is a graphical symbol that conveys a specific idea or functionality related to floppy disk, unsalvageable.
@@ -24249,6 +24345,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_dashed_plus] icon from the Lucide icon set.
+  ///
+  /// ![square_dashed_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAzYTIgMiAwIDAgMC0yIDIiIC8+CiAgPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMiIgLz4KICA8cGF0aCBkPSJNMjEgMTlhMiAyIDAgMCAxLTIgMiIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik0xNCAzaDEiIC8+CiAgPHBhdGggZD0iTTE0IDIxaDEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgogIDxwYXRoIGQ9Ik0yMSA5djEiIC8+CiAgPHBhdGggZD0iTTMgMTR2MSIgLz4KICA8cGF0aCBkPSJNMjEgMTR2MSIgLz4KICA8cGF0aCBkPSJNOCAxMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMiA4djgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_dashed_plus] icon is a graphical symbol that conveys a specific idea or functionality related to selection, select, add, new, placeholder, marquee, box, dashed, plus, insert, frame, empty.
+  /// - It belongs to the categories: design, layout, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/psjdev](https://github.com/psjdev)
+  static const IconData square_dashed_plus = IconData(
+    0xe783,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_dashed_text] icon from the Lucide icon set.
   ///
   /// ![square_dashed_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMjFoMSIgLz4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDIiIC8+CiAgPHBhdGggZD0iTTIxIDE0djEiIC8+CiAgPHBhdGggZD0iTTIxIDE5YTIgMiAwIDAgMS0yIDIiIC8+CiAgPHBhdGggZD0iTTIxIDl2MSIgLz4KICA8cGF0aCBkPSJNMyAxNHYxIiAvPgogIDxwYXRoIGQ9Ik0zIDl2MSIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMiIgLz4KICA8cGF0aCBkPSJNNyAxMmgxMCIgLz4KICA8cGF0aCBkPSJNNyAxNmg2IiAvPgogIDxwYXRoIGQ9Ik03IDhoOCIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KPC9zdmc+Cg==)
@@ -24277,6 +24389,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/juanpablofernandez](https://github.com/juanpablofernandez)
   static const IconData square_dashed_top_solid = IconData(
     0xe66c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_dashed_x] icon from the Lucide icon set.
+  ///
+  /// ![square_dashed_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMjFoMSIgLz4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAxMiAyIiAvPgogIDxwYXRoIGQ9Ik0yMSAxNHYxIiAvPgogIDxwYXRoIGQ9Ik0yMSAxOWEyIDIgMCAwMS0yIDIiIC8+CiAgPHBhdGggZD0iTTIxIDl2MSIgLz4KICA8cGF0aCBkPSJNMyAxNHYxIiAvPgogIDxwYXRoIGQ9Ik0zIDl2MSIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwMS0yLTIiIC8+CiAgPHBhdGggZD0iTTUgM2EyIDIgMCAwMC0yIDIiIC8+CiAgPHBhdGggZD0ibTkgMTUgNi02IiAvPgogIDxwYXRoIGQ9Ik05IDIxaDEiIC8+CiAgPHBhdGggZD0iTTkgM2gxIiAvPgogIDxwYXRoIGQ9Im05IDkgNiA2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_dashed_x] icon is a graphical symbol that conveys a specific idea or functionality related to deselect, unselect, delete, select, selection, border, width, layout, style, design, rectangular, marquee, box, rectangle, aspect ratio, 1:1.
+  /// - It belongs to the categories: design, development, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/ethanhazel](https://github.com/ethanhazel)
+  static const IconData square_dashed_x = IconData(
+    0xe785,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_dashed_x_corner] icon from the Lucide icon set.
+  ///
+  /// ![square_dashed_x_corner](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Im0xNiAxNiA1IDUiIC8+CiAgPHBhdGggZD0iTTE5IDNhMiAyIDAgMDEyIDIiIC8+CiAgPHBhdGggZD0ibTIxIDE2LTUgNSIgLz4KICA8cGF0aCBkPSJNMjEgOXYxIiAvPgogIDxwYXRoIGQ9Ik0zIDE0djEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgogIDxwYXRoIGQ9Ik01IDIxYTIgMiAwIDAxLTItMiIgLz4KICA8cGF0aCBkPSJNNSAzYTIgMiAwIDAwLTIgMiIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_dashed_x_corner] icon is a graphical symbol that conveys a specific idea or functionality related to deselect, unselect, delete, select, selection, border, width, layout, style, design, rectangular, marquee, box, rectangle, aspect ratio, 1:1.
+  /// - It belongs to the categories: design, development, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/ethanhazel](https://github.com/ethanhazel)
+  static const IconData square_dashed_x_corner = IconData(
+    0xe784,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -27237,6 +27381,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/LienMaas](https://github.com/LienMaas), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev)
   static const IconData truck_electric = IconData(
     0xe65f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [tube_lotion] icon from the Lucide icon set.
+  ///
+  /// ![tube_lotion](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTh2M2ExIDEgMCAwIDEtMSAxaC00YTEgMSAwIDAgMS0xLTF2LTMiIC8+CiAgPHBhdGggZD0iTTE3IDJhMiAyIDAgMCAxIDEuNiAzLjJBOCA4IDAgMCAwIDE3IDEwdjZhMiAyIDAgMCAxLTIgMkg5YTIgMiAwIDAgMS0yLTJ2LTZhOCA4IDAgMCAwLTEuNi00LjhBMiAyIDAgMCAxIDcgMnoiIC8+CiAgPHBhdGggZD0iTTcgMTBhNi40NyA2LjQ3IDAgMCAxIDUgMCA2LjQ3IDYuNDcgMCAwIDAgNSAwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [tube_lotion] icon is a graphical symbol that conveys a specific idea or functionality related to sunscreen, sunblock, spf, uv, cream, skincare, toothpaste, ointment, bottle, toiletries, bathroom, beach, summer.
+  /// - It belongs to the categories: medical, home, shopping, travel, seasons
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/AlecRust](https://github.com/AlecRust), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData tube_lotion = IconData(
+    0xe786,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
