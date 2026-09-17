@@ -3677,6 +3677,12 @@
     "className": "icon-cup-soda",
     "unicode": "&#58065;"
   },
+  "cupcake": {
+    "encodedCode": "\\e77d",
+    "prefix": "icon",
+    "className": "icon-cupcake",
+    "unicode": "&#59261;"
+  },
   "curly-braces": {
     "encodedCode": "\\e36a",
     "prefix": "icon",
@@ -3952,6 +3958,12 @@
     "prefix": "icon",
     "className": "icon-door-closed-locked",
     "unicode": "&#58980;"
+  },
+  "door-closed-package": {
+    "encodedCode": "\\e77e",
+    "prefix": "icon",
+    "className": "icon-door-closed-package",
+    "unicode": "&#59262;"
   },
   "door-closed": {
     "encodedCode": "\\e3d5",
@@ -4300,6 +4312,12 @@
     "prefix": "icon",
     "className": "icon-fast-forward",
     "unicode": "&#57533;"
+  },
+  "faucet": {
+    "encodedCode": "\\e77f",
+    "prefix": "icon",
+    "className": "icon-faucet",
+    "unicode": "&#59263;"
   },
   "feather": {
     "encodedCode": "\\e0be",
@@ -6329,6 +6347,12 @@
     "className": "icon-keyboard",
     "unicode": "&#57988;"
   },
+  "lambda": {
+    "encodedCode": "\\e780",
+    "prefix": "icon",
+    "className": "icon-lambda",
+    "unicode": "&#59264;"
+  },
   "lamp-ceiling": {
     "encodedCode": "\\e2d9",
     "prefix": "icon",
@@ -7877,6 +7901,12 @@
     "className": "icon-navigation",
     "unicode": "&#57635;"
   },
+  "nepali-rupee": {
+    "encodedCode": "\\e781",
+    "prefix": "icon",
+    "className": "icon-nepali-rupee",
+    "unicode": "&#59265;"
+  },
   "network": {
     "encodedCode": "\\e125",
     "prefix": "icon",
@@ -9239,6 +9269,12 @@
     "className": "icon-rotate-ccw",
     "unicode": "&#57672;"
   },
+  "rotate-cw-clock": {
+    "encodedCode": "\\e782",
+    "prefix": "icon",
+    "className": "icon-rotate-cw-clock",
+    "unicode": "&#59266;"
+  },
   "rotate-cw-fading-clock": {
     "encodedCode": "\\e726",
     "prefix": "icon",
@@ -10439,6 +10475,12 @@
     "className": "icon-square-dashed-mouse-pointer",
     "unicode": "&#58633;"
   },
+  "square-dashed-plus": {
+    "encodedCode": "\\e783",
+    "prefix": "icon",
+    "className": "icon-square-dashed-plus",
+    "unicode": "&#59267;"
+  },
   "square-dashed-text": {
     "encodedCode": "\\e6ea",
     "prefix": "icon",
@@ -10450,6 +10492,18 @@
     "prefix": "icon",
     "className": "icon-square-dashed-top-solid",
     "unicode": "&#58988;"
+  },
+  "square-dashed-x-corner": {
+    "encodedCode": "\\e784",
+    "prefix": "icon",
+    "className": "icon-square-dashed-x-corner",
+    "unicode": "&#59268;"
+  },
+  "square-dashed-x": {
+    "encodedCode": "\\e785",
+    "prefix": "icon",
+    "className": "icon-square-dashed-x",
+    "unicode": "&#59269;"
   },
   "square-dashed": {
     "encodedCode": "\\e1cb",
@@ -11644,6 +11698,12 @@
     "prefix": "icon",
     "className": "icon-truck",
     "unicode": "&#57748;"
+  },
+  "tube-lotion": {
+    "encodedCode": "\\e786",
+    "prefix": "icon",
+    "className": "icon-tube-lotion",
+    "unicode": "&#59270;"
   },
   "turkish-lira": {
     "encodedCode": "\\e680",

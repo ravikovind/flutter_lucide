@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1838** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1848** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -542,6 +542,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `crown` | diadem, tiara, circlet, corona, king, ruler, winner, favourite | gaming |
 | `cuboid` | brick, block, box, 3d, solid, volume, container, storage, shipping, carton, geometry, rectangular, hexahedron, butter, tofu, soap, cheese, package, parcel, crate | shapes, math, food-beverage |
 | `cup-soda` | beverage, cup, drink, soda, straw, water | food-beverage |
+| `cupcake` | cake, dessert, food, celebration, sweet, baking, cooking | food-beverage |
 | `currency` | finance, money | finance |
 | `cylinder` | shape, elliptical, geometry, container, storage, tin, pot | shapes, design, math |
 | `dam` | electricity, energy, water | buildings, sustainability, navigation |
@@ -586,6 +587,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `donut` | doughnut, sprinkles, topping, fast food, junk food, snack, treat, sweet, sugar, dessert, hollow, ring | food-beverage |
 | `door-closed` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
 | `door-closed-locked` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock | home, travel, security |
+| `door-closed-package` | delivery, parcel, doorstep, shipping, drop-off, courier | home, food-beverage, transportation |
 | `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
 | `door-stairwell` | staircase, stairway, stairs, steps, ladder, transition, access, structure, spiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit | home, travel |
 | `dot` | interpunct, interpoint, middot, step, punctuation, period, full stop, end, finish, final, characters, font, typography, type, center, . | shapes, text |
@@ -637,6 +639,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `factory` | building, business, energy, industry, manufacture, sector | buildings, navigation |
 | `fan` | air, cooler, ventilation, ventilator, blower | home |
 | `fast-forward` | music | multimedia, arrows |
+| `faucet` | tap, spigot, water, drinking, fresh, source, pipes, plumbing, plumber, sink, basin, kitchen, bathroom, washroom, fixture, valve, flow, drinkable, potable, amenities, utilities, hydration | food-beverage, home, navigation, travel |
 | `feather` | quill, plume, writing, author, literature, poetry, manuscript, bird, plumage, lightweight, soft | nature, animals, gaming, text |
 | `fence` | picket, panels, woodwork, diy, materials, suburban, garden, property, territory | home, buildings |
 | `ferris-wheel` | big wheel, daisy wheel, observation, attraction, entertainment, amusement park, theme park, funfair | navigation |
@@ -910,6 +913,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `keyboard` | layout, spell, settings, mouse | text, devices, development |
 | `keyboard-music` | music, audio, sound, noise, notes, keys, chord, octave, midi, controller, instrument, electric, signal, digital, studio, production, producer, pianist, piano, play, performance, concert | multimedia, devices |
 | `keyboard-off` | unkeys, layout, spell, settings, mouse | devices, text, development |
+| `lambda` | greek, symbol, math, function, programming, serverless, anonymous, functional, cloud, wavelength, calculus, linear algebra | development, math, science, text |
 | `lamp` | lighting, household, home, furniture | home |
 | `lamp-ceiling` | lighting, household, home, furniture | home |
 | `lamp-desk` | lighting, household, office, desk, home, furniture | home |
@@ -1147,6 +1151,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `navigation-2` | location, travel | navigation |
 | `navigation-2-off` | location, travel | navigation |
 | `navigation-off` | location, travel | navigation |
+| `nepali-rupee` | currency, money, nepal, rupee, npr | finance, shopping, travel |
 | `network` | tree | development |
 | `newspaper` | news, feed, home, magazine, article, headline | multimedia, communication |
 | `nfc` | contactless, payment, near-field communication | communication, finance, devices |
@@ -1343,6 +1348,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rotate-ccw-key` | password, key, refresh, change | security, account |
 | `rotate-ccw-square` | left, counter-clockwise, rotate, image, 90, 45, degrees, ° | layout, design, photography, tools, arrows |
 | `rotate-cw` | arrow, right, clockwise, refresh, reload, rerun, redo | arrows, design, photography |
+| `rotate-cw-clock` | modify, edit, refresh, sync, renew, revision, settings, adjust, upgrade, time, timeline, version, time machine, backup, clockwise, arrow, reload, rerun, synchronize, circular, cycle, update | arrows, time |
 | `rotate-cw-fading-clock` | clock, waiting, schedule, hourglass, loading, pause, pending, time, watch | time |
 | `rotate-cw-square` | right, clockwise, rotate, image, 90, 45, degrees, ° | layout, design, photography, tools, arrows |
 | `route` | path, journey, planner, points, stops, stations | navigation |
@@ -1523,8 +1529,11 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-dashed-bottom-code` | rectangle, aspect ratio, 1:1, shape, snippet, code, coding | development, files |
 | `square-dashed-kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding | charts, development, design |
 | `square-dashed-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | arrows, cursors, development, tools |
+| `square-dashed-plus` | selection, select, add, new, placeholder, marquee, box, dashed, plus, insert, frame, empty | design, layout, shapes |
 | `square-dashed-text` | find, search, selection, dashed | text, cursors |
 | `square-dashed-top-solid` | square, border, width, layout, style, design, rectangular, marquee, dashed, box, rectangle, aspect ratio, 1:1 | design, development, layout |
+| `square-dashed-x` | deselect, unselect, delete, select, selection, border, width, layout, style, design, rectangular, marquee, box, rectangle, aspect ratio, 1:1 | design, development, layout |
+| `square-dashed-x-corner` | deselect, unselect, delete, select, selection, border, width, layout, style, design, rectangular, marquee, box, rectangle, aspect ratio, 1:1 | design, development, layout |
 | `square-dimensions` | ratio, size, width, height, resize, scale, frame, proportions, aspect, bounds, measurements, canvas | design, layout |
 | `square-divide` | calculate, math, ÷, / | math |
 | `square-dot` | git, diff, modified, . | development |
@@ -1710,6 +1719,7 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `trophy` | prize, sports, winner, achievement, award, champion, celebration, victory, competition, tournament, leaderboard, ranking, success, reward, cup, first, gold | sports, gaming |
 | `truck` | delivery, van, shipping, haulage, lorry | transportation |
 | `truck-electric` | delivery, van, shipping, haulage, lorry, electric | transportation |
+| `tube-lotion` | sunscreen, sunblock, spf, uv, cream, skincare, toothpaste, ointment, bottle, toiletries, bathroom, beach, summer | medical, home, shopping, travel, seasons |
 | `turkish-lira` | currency, money, payment | finance |
 | `turntable` | record player, gramophone, stereo, phonograph, vinyl, lp, disc, platter, cut, music, analog, retro, dj deck, disc jockey, scratch, spinning | multimedia, home |
 | `turtle` | animal, pet, tortoise, slow, speed | animals |
@@ -1849,4 +1859,4 @@ All **1838** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1838 icons*
+*Total: 1848 icons*

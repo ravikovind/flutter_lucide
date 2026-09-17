@@ -1,3 +1,15 @@
+# 1.47.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.47.0
+- Total icon count increased from 1,838+ to 1,848+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- cupcake, door-closed-package, faucet, lambda, nepali-rupee, rotate-cw-clock, square-dashed-plus, square-dashed-x, square-dashed-x-corner, tube-lotion
+
+---
+
 # 1.46.0
 
 ## Improvements 🚀
