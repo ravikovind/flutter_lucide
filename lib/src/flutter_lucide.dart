@@ -3929,6 +3929,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [briefcase_plus] icon from the Lucide icon set.
+  ///
+  /// ![briefcase_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuMzU0IDIwSDRhMiAyIDAgMDEtMi0yVjhhMiAyIDAgMDEyLTJoMTZhMiAyIDAgMDEyIDJ2My4zNTQiIC8+CiAgPHBhdGggZD0iTTE2IDExLjM1NFY0YTIgMiAwIDAwLTItMmgtNGEyIDIgMCAwMC0yIDJ2MTYiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [briefcase_plus] icon is a graphical symbol that conveys a specific idea or functionality related to work, bag, baggage, folder, new, add, create, increase, briefcase, portfolio, business, career, employment, professional, plus.
+  /// - It belongs to the categories: transportation, files, account
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/tylerkade](https://github.com/tylerkade), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData briefcase_plus = IconData(
+    0xe787,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [bring_to_front] icon from the Lucide icon set.
   ///
   /// ![bring_to_front](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI4IiB5PSI4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik00IDEwYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDRhMiAyIDAgMCAxIDIgMiIgLz4KICA8cGF0aCBkPSJNMTQgMjBhMiAyIDAgMCAwIDIgMmg0YTIgMiAwIDAgMCAyLTJ2LTRhMiAyIDAgMCAwLTItMiIgLz4KPC9zdmc+Cg==)
@@ -4875,7 +4891,7 @@ abstract final class LucideIcons {
 
   /// Represents the [card_sim] icon from the Lucide icon set.
   ///
-  /// ![card_sim](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTR2NCIgLz4KICA8cGF0aCBkPSJNMTQuMTcyIDJhMiAyIDAgMCAxIDEuNDE0LjU4NmwzLjgyOCAzLjgyOEEyIDIgMCAwIDEgMjAgNy44MjhWMjBhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yeiIgLz4KICA8cGF0aCBkPSJNOCAxNGg4IiAvPgogIDxyZWN0IHg9IjgiIHk9IjEwIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  /// ![card_sim](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTR2NCIgLz4KICA8cGF0aCBkPSJNMTQuMTcyIDJhMiAyIDAgMCAxIDEuNDE0LjU4NmwzLjgyOCAzLjgyOEEyIDIgMCAwIDEgMjAgNy44MjhWMjBhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yeiIgLz4KICA8cGF0aCBkPSJNOCAxNGg4IiAvPgogIDxyZWN0IHg9IjgiIHk9IjEwIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [card_sim] icon is a graphical symbol that conveys a specific idea or functionality related to cellphone, smartphone, mobile, network, cellular, service, provider, signal, coverage, disk, data, format, storage, flash, digital, contacts, phone book, contractual, circuit board, chip.
@@ -13881,6 +13897,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [house_cog] icon from the Lucide icon set.
+  ///
+  /// ![house_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNTg0IDIxSDVhMiAyIDAgMDEtMi0ydi05YTIgMiAwIDAxLjcwOS0xLjUyN2w3LTZhMiAyIDAgMDEyLjU4MiAwbDcgNkEyIDIgMCAwMTIxIDEwLjAwMXYuNTgzIiAvPgogIDxwYXRoIGQ9Ik0xNCAxMkgxMGExIDEgMCAwMC0xIDF2OCIgLz4KICA8cGF0aCBkPSJtMTQuMzA1IDE5LjUzLjkyMy0uMzgyIiAvPgogIDxwYXRoIGQ9Im0xNS4yMjkgMTYuODUyLS45MjQtLjM4MyIgLz4KICA8cGF0aCBkPSJtMTYuODUyIDE1LjIyOC0uMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiAyMC43NzMtLjM4My45MjQiIC8+CiAgPHBhdGggZD0ibTE5LjE0OCAxNS4yMjguMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE5LjUzIDIxLjY5Ny0uMzgyLS45MjQiIC8+CiAgPHBhdGggZD0ibTIwLjc3MyAxNi44NTIuOTIyLS4zODMiIC8+CiAgPHBhdGggZD0ibTIwLjc3MyAxOS4xNDguOTIyLjM4MyIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [house_cog] icon is a graphical symbol that conveys a specific idea or functionality related to home, building, residence, settings, gear, configuration, property, automation.
+  /// - It belongs to the categories: buildings, home
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/ajaxjiang96](https://github.com/ajaxjiang96)
+  static const IconData house_cog = IconData(
+    0xe788,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [house_heart] icon from the Lucide icon set.
   ///
   /// ![house_heart](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOC42MiAxMy44QTIuMjUgMi4yNSAwIDEgMSAxMiAxMC44MzZhMi4yNSAyLjI1IDAgMSAxIDMuMzggMi45NjZsLTIuNjI2IDIuODU2YS45OTguOTk4IDAgMCAxLTEuNTA3IDB6IiAvPgogIDxwYXRoIGQ9Ik0zIDEwYTIgMiAwIDAgMSAuNzA5LTEuNTI4bDctNmEyIDIgMCAwIDEgMi41ODIgMGw3IDZBMiAyIDAgMCAxIDIxIDEwdjlhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ6IiAvPgo8L3N2Zz4K)
@@ -15193,6 +15225,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [line_dot_bottom_vertical] icon from the Lucide icon set.
+  ///
+  /// ![line_dot_bottom_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxMiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE4IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [line_dot_bottom_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to code, version, control, station, waypoint, start, first.
+  /// - It belongs to the categories: development, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
+  static const IconData line_dot_bottom_vertical = IconData(
+    0xe789,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [line_dot_left_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![line_dot_left_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMmgxMiIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTIiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [line_dot_left_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to line, dot, left, horizontal, shape, symbol, navigation, arrow, pointer, code, version control, waypoint, stop, start, first, station.
+  /// - It belongs to the categories: development, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
+  static const IconData line_dot_left_horizontal = IconData(
+    0xe78a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [line_dot_right_horizontal] icon from the Lucide icon set.
   ///
   /// ![line_dot_right_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNIDMgMTIgTCAxNSAxMiIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjEyIiByPSIzIiAvPgo8L3N2Zz4K)
@@ -15205,6 +15269,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
   static const IconData line_dot_right_horizontal = IconData(
     0xe6b9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [line_dot_top_vertical] icon from the Lucide icon set.
+  ///
+  /// ![line_dot_top_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOXYxMiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjYiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [line_dot_top_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to arrow, pointer, direction, indicator, code, version, control, waypoint, stop, station, last, end.
+  /// - It belongs to the categories: development, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
+  static const IconData line_dot_top_vertical = IconData(
+    0xe78b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -16027,7 +16107,7 @@ abstract final class LucideIcons {
 
   /// Represents the [mail_pen] icon from the Lucide icon set.
   ///
-  /// ![mail_pen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNTA2IDE3LjY0NkEyIDIgMCAwMDE1IDE4LjVsLS44MzcgMi44N2EuNS41IDAgMDAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAwLjg1NC0uNTA2bDMuMDEzLTMuMDA5YTEgMSAwIDAwLTMuMDA0LTMuMDA0eiIgLz4KICA8cGF0aCBkPSJNMjIgMTAuMzQ2VjZhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEyYTIgMiAwIDAwMiAyaDYuMzk2IiAvPgogIDxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAxLTIuMDA5IDBMMiA3IiAvPgo8L3N2Zz4K)
+  /// ![mail_pen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMzYzIDE3LjYzNGEyIDIgMCAwMC0uNTA2Ljg1NGwtLjgzNyAyLjg3YS41LjUgMCAwMC42Mi42MmwyLjg3LS44MzdhMiAyIDAgMDAuODU0LS41MDZsMy4wMTMtMy4wMDlhMSAxIDAgMTAtMy4wMDQtMy4wMDR6IiAvPgogIDxwYXRoIGQ9Ik0yMiAxMC4zOFY2YTIgMiAwIDAwLTItMkg0YTIgMiAwIDAwLTIgMnYxMmEyIDIgMCAwMDIgMmg2LjI1IiAvPgogIDxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAxLTIuMDA5IDBMMiA3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [mail_pen] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, pen, edit, compose, draft, write, writing, create, reply.
@@ -16395,14 +16475,14 @@ abstract final class LucideIcons {
 
   /// Represents the [map_pinned] icon from the Lucide icon set.
   ///
-  /// ![map_pinned](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggOGMwIDMuNjEzLTMuODY5IDcuNDI5LTUuMzkzIDguNzk1YTEgMSAwIDAgMS0xLjIxNCAwQzkuODcgMTUuNDI5IDYgMTEuNjEzIDYgOGE2IDYgMCAwIDEgMTIgMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjIiIC8+CiAgPHBhdGggZD0iTTguNzE0IDE0aC0zLjcxYTEgMSAwIDAgMC0uOTQ4LjY4M2wtMi4wMDQgNkExIDEgMCAwIDAgMyAyMmgxOGExIDEgMCAwIDAgLjk0OC0xLjMxNmwtMi02YTEgMSAwIDAgMC0uOTQ5LS42ODRoLTMuNzEyIiAvPgo8L3N2Zz4K)
+  /// ![map_pinned](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggOGMwIDMuNjEzLTMuODY5IDcuNDI5LTUuMzkzIDguNzk1YTEgMSAwIDAxLTEuMjE0IDBDOS44NyAxNS40MjkgNiAxMS42MTMgNiA4YTYgNiAwIDAxMTIgMCIgLz4KICA8cGF0aCBkPSJNNC40NzQgMTVoLS4xOTdhMSAxIDAgMDAtLjk2OS43NTNsLTEuMDk3IDQuMzVhMS41IDEuNSAwIDAwMS40NDQgMS44OThMMjAuMzQ0IDIyYTEuNSAxLjUgMCAwMDEuNDQ2LTEuODk3bC0xLjA5OC00LjM1YTEgMSAwIDAwLS45NjktLjc1M2gtLjE5NyIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [map_pinned] icon is a graphical symbol that conveys a specific idea or functionality related to location, waypoint, marker, drop.
   /// - It belongs to the categories: navigation, travel, account
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData map_pinned = IconData(
     0xe53d,
     fontFamily: _fontFamily,
@@ -24869,6 +24949,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData square_slash = IconData(
     0xe174,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_sparkles] icon from the Lucide icon set.
+  ///
+  /// ![square_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTVINyIgLz4KICA8cGF0aCBkPSJNMTUuNDEgMi40OWEuNi42IDAgMDExLjE4IDBsLjYzIDMuMzM0YTEuMiAxLjIgMCAwMC45NTYuOTU1bDMuMzM0LjYzMWEuNi42IDAgMDEwIDEuMThsLTMuMzM0LjYzYTEuMiAxLjIgMCAwMC0uOTU1Ljk1NmwtLjYzMSAzLjMzNGEuNi42IDAgMDEtMS4xOCAwbC0uNjMtMy4zMzRhMS4yIDEuMiAwIDAwLS45NTYtLjk1NUwxMC40OSA4LjU5YS42LjYgMCAwMTAtMS4xOGwzLjMzNC0uNjNhMS4yIDEuMiAwIDAwLjk1NS0uOTU2eiIgLz4KICA8cGF0aCBkPSJNMjEgMTN2NmEyIDIgMCAwMS0yIDJINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmg2IiAvPgogIDxwYXRoIGQ9Ik05IDEzdjQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to picture, photo, sparkles.
+  /// - It belongs to the categories: photography, text, multimedia, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/nananecy](https://github.com/nananecy)
+  static const IconData square_sparkles = IconData(
+    0xe78c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1848** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1854** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -253,6 +253,7 @@ All **1848** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `briefcase-business` | work, bag, baggage, folder, portfolio | transportation |
 | `briefcase-conveyor-belt` | baggage, luggage, travel, suitcase, conveyor, carousel | travel, transportation |
 | `briefcase-medical` | doctor, medicine, first aid | medical, transportation |
+| `briefcase-plus` | work, bag, baggage, folder, new, add, create, increase, briefcase, portfolio, business, career, employment, professional, plus | transportation, files, account |
 | `bring-to-front` | bring, send, move, over, forward, front, overlap, layer, order | design, layout |
 | `broccoli` | leafy, crisp, fresh, culinary, vegetation, vegetable, food, healthy, vegan, vegetarian, nutrition, diet, plant, green, produce | food-beverage |
 | `broom` | broomstick, brush, sweep, sweeping, floor, cleaning, housekeeping, chores, tidy, spotless, dust, debris, bristles, handle, janitor, maintenance, witch, halloween | tools, home, gaming |
@@ -875,6 +876,7 @@ All **1848** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hourglass` | timer, time, sandglass | time, gaming |
 | `hourglass-cog` | timer, time, sandglass, duration, settings, gear, cog, edit, configuration, countdown, timeout, expiration | time, tools |
 | `house` | home, living, building, residence, architecture | buildings, home, navigation |
+| `house-cog` | home, building, residence, settings, gear, configuration, property, automation | buildings, home |
 | `house-heart` | home sweet home, abode, building, residence, healthy living, lifestyle | home, buildings, medical |
 | `house-plug` | home, living, building, residence, architecture, autarky, energy | buildings, home, sustainability |
 | `house-plus` | home, living, medical, new, addition, building, residence, architecture | buildings, medical |
@@ -957,7 +959,10 @@ All **1848** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lightbulb` | idea, bright, lights | photography |
 | `lightbulb-off` | lights | photography |
 | `lighthouse` | lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, lightbeam, wayfinding, guidance, onboarding, help, landmark | buildings, navigation, travel |
+| `line-dot-bottom-vertical` | code, version, control, station, waypoint, start, first | development, navigation |
+| `line-dot-left-horizontal` | line, dot, left, horizontal, shape, symbol, navigation, arrow, pointer, code, version control, waypoint, stop, start, first, station | development, navigation |
 | `line-dot-right-horizontal` | code, version control, waypoint, stop, station, last, end | development, navigation |
+| `line-dot-top-vertical` | arrow, pointer, direction, indicator, code, version, control, waypoint, stop, station, last, end | development, navigation |
 | `line-squiggle` | line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
 | `line-style` | line, stroke, style, dashed, border | design, tools |
 | `link` | chain, url | text, account |
@@ -1562,6 +1567,7 @@ All **1848** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-scissors` | cut, snippet, chop, stationery, crafts, toolbar, button | text, design, tools, files, development |
 | `square-sigma` | sum, calculate, formula, math, enumeration, enumerate | text, math |
 | `square-slash` | git, diff, ignored, divide, division, shortcut, or, / | development, math |
+| `square-sparkles` | picture, photo, sparkles | photography, text, multimedia, files |
 | `square-split-horizontal` | split, divide | layout |
 | `square-split-vertical` | split, divide | layout |
 | `square-square` | float, center, rectangle | layout |
@@ -1859,4 +1865,4 @@ All **1848** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1848 icons*
+*Total: 1854 icons*

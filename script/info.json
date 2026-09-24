@@ -1799,6 +1799,12 @@
     "className": "icon-briefcase-medical",
     "unicode": "&#58838;"
   },
+  "briefcase-plus": {
+    "encodedCode": "\\e787",
+    "prefix": "icon",
+    "className": "icon-briefcase-plus",
+    "unicode": "&#59271;"
+  },
   "briefcase": {
     "encodedCode": "\\e062",
     "prefix": "icon",
@@ -6065,6 +6071,12 @@
     "className": "icon-hourglass",
     "unicode": "&#58006;"
   },
+  "house-cog": {
+    "encodedCode": "\\e788",
+    "prefix": "icon",
+    "className": "icon-house-cog",
+    "unicode": "&#59272;"
+  },
   "house-heart": {
     "encodedCode": "\\e695",
     "prefix": "icon",
@@ -6653,11 +6665,29 @@
     "className": "icon-line-chart",
     "unicode": "&#58021;"
   },
+  "line-dot-bottom-vertical": {
+    "encodedCode": "\\e789",
+    "prefix": "icon",
+    "className": "icon-line-dot-bottom-vertical",
+    "unicode": "&#59273;"
+  },
+  "line-dot-left-horizontal": {
+    "encodedCode": "\\e78a",
+    "prefix": "icon",
+    "className": "icon-line-dot-left-horizontal",
+    "unicode": "&#59274;"
+  },
   "line-dot-right-horizontal": {
     "encodedCode": "\\e6b9",
     "prefix": "icon",
     "className": "icon-line-dot-right-horizontal",
     "unicode": "&#59065;"
+  },
+  "line-dot-top-vertical": {
+    "encodedCode": "\\e78b",
+    "prefix": "icon",
+    "className": "icon-line-dot-top-vertical",
+    "unicode": "&#59275;"
   },
   "line-squiggle": {
     "encodedCode": "\\e67a",
@@ -10684,6 +10714,12 @@
     "prefix": "icon",
     "className": "icon-square-slash",
     "unicode": "&#57716;"
+  },
+  "square-sparkles": {
+    "encodedCode": "\\e78c",
+    "prefix": "icon",
+    "className": "icon-square-sparkles",
+    "unicode": "&#59276;"
   },
   "square-split-horizontal": {
     "encodedCode": "\\e3b6",

@@ -1,3 +1,15 @@
+# 1.48.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.48.0
+- Total icon count increased from 1,848+ to 1,854+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- briefcase-plus, house-cog, line-dot-bottom-vertical, line-dot-left-horizontal, line-dot-top-vertical, square-sparkles
+
+---
+
 # 1.47.0
 
 ## Improvements 🚀
