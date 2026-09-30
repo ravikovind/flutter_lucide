@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1854** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1857** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -141,6 +141,7 @@ All **1854** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ban` | cancel, no, stop, forbidden, prohibited, error, incorrect, mistake, wrong, failure, circle, slash, null, void | account |
 | `banana` | fruit, food | food-beverage |
 | `bandage` | plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety, patch | medical |
+| `bangladeshi-taka` | currency, money, payment, bdt, ৳, currencysymbol, cash, banknote, price, remittance, ecommerce | finance, shopping, travel |
 | `banknote` | currency, money, payment | finance |
 | `banknote-arrow-down` | bill, currency, money, payment, funds, transaction, cash, finance, withdraw, expense, out, payout, refund, debit, spending, decrease | finance |
 | `banknote-arrow-up` | bill, currency, money, payment, funds, transaction, cash, finance, deposit, earnings, income, in, credit, prepaid, growth, increase | finance |
@@ -952,6 +953,7 @@ All **1854** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lectern` | pulpit, podium, stand | communication, multimedia |
 | `lens-concave` | concave, lens, optics, light, magnification, curved, focus, refraction, science, physics, eyeglass, telescope, microscope | science, tools, shapes |
 | `lens-convex` | convex, lens, optics, magnification, focus, light, refraction, physics, eyeglass, telescope, microscope, curved, science | science, tools, shapes |
+| `letters` | abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling | text |
 | `library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
 | `library-big` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
 | `life-buoy` | preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut | accessibility, medical |
@@ -1284,6 +1286,7 @@ All **1854** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `power-off` | on, off, device, switch | connectivity |
 | `presentation` | screen, whiteboard, marker pens, markers, blackboard, chalk, easel, school, learning, lesson, office, meeting, project, planning | multimedia, photography, devices, communication, design |
 | `printer` | fax, office, device | devices |
+| `printer-3d` | model, hardware, technology, device, factory, manufacturing, art, extruder, stl, obj, step, additive, fabrication, rapid prototype, layer, filament, nozzle, maker, machine | devices, tools |
 | `printer-check` | fax, office, device, success, printed | devices |
 | `printer-x` | fax, office, device, cross, cancel, remove, error | devices |
 | `projector` | cinema, film, movie, home video, presentation, slideshow, office, meeting, project, planning | multimedia, photography, devices, communication |
@@ -1865,4 +1868,4 @@ All **1854** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1854 icons*
+*Total: 1857 icons*
