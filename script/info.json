@@ -1061,6 +1061,12 @@
     "className": "icon-bandage",
     "unicode": "&#58909;"
   },
+  "bangladeshi-taka": {
+    "encodedCode": "\\e78d",
+    "prefix": "icon",
+    "className": "icon-bangladeshi-taka",
+    "unicode": "&#59277;"
+  },
   "banknote-arrow-down": {
     "encodedCode": "\\e64c",
     "prefix": "icon",
@@ -6611,6 +6617,12 @@
     "className": "icon-letter-text",
     "unicode": "&#58885;"
   },
+  "letters": {
+    "encodedCode": "\\e78e",
+    "prefix": "icon",
+    "className": "icon-letters",
+    "unicode": "&#59278;"
+  },
   "library-big": {
     "encodedCode": "\\e54e",
     "prefix": "icon",
@@ -8878,6 +8890,12 @@
     "prefix": "icon",
     "className": "icon-presentation",
     "unicode": "&#58542;"
+  },
+  "printer-3d": {
+    "encodedCode": "\\e78f",
+    "prefix": "icon",
+    "className": "icon-printer-3d",
+    "unicode": "&#59279;"
   },
   "printer-check": {
     "encodedCode": "\\e5f5",

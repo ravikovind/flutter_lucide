@@ -2137,6 +2137,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [bangladeshi_taka] icon from the Lucide icon set.
+  ///
+  /// ![bangladeshi_taka](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA1YTIgMiAwIDAgMSA0IDB2MTJhNCA0IDAgMCAwIDggMCAyIDIgMCAwIDAtNCAwIiAvPgogIDxwYXRoIGQ9Ik02IDloMTIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [bangladeshi_taka] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, bdt, ৳, currencysymbol, cash, banknote, price, remittance, ecommerce.
+  /// - It belongs to the categories: finance, shopping, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/TanvirMahin24](https://github.com/TanvirMahin24), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData bangladeshi_taka = IconData(
+    0xe78d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [banknote] icon from the Lucide icon set.
   ///
   /// ![banknote](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiIC8+CiAgPHBhdGggZD0iTTYgMTJoLjAxTTE4IDEyaC4wMSIgLz4KPC9zdmc+Cg==)
@@ -15113,6 +15129,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [letters] icon from the Lucide icon set.
+  ///
+  /// ![letters](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOEg5IiAvPgogIDxwYXRoIGQ9Ik0yMSAxNS4zNTRhNCA0IDAgMTAwIDUuMjkyIiAvPgogIDxwYXRoIGQ9Ik0zIDE4aDRhMiAyIDAgMDEwIDRIMy41YS41LjUgMCAwMS0uNS0uNXYtN2EuNS41IDAgMDEuNS0uNUg2YTIgMiAwIDAxMCA0IiAvPgogIDxwYXRoIGQ9Im04IDEwIDMuNDUzLTcuNjQ4YS42LjYgMCAwMTEuMDk0IDBMMTYgMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letters] icon is a graphical symbol that conveys a specific idea or functionality related to abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letters = IconData(
+    0xe78e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [library] icon from the Lucide icon set.
   ///
   /// ![library](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgNiA0IDE0IiAvPgogIDxwYXRoIGQ9Ik0xMiA2djE0IiAvPgogIDxwYXRoIGQ9Ik04IDh2MTIiIC8+CiAgPHBhdGggZD0iTTQgNHYxNiIgLz4KPC9zdmc+Cg==)
@@ -20421,6 +20453,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData printer = IconData(
     0xe141,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [printer_3d] icon from the Lucide icon set.
+  ///
+  /// ![printer_3d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2MSIgLz4KICA8cGF0aCBkPSJNMTIgOGg4IiAvPgogIDxwYXRoIGQ9Ik0xNSAyMHYtM2ExIDEgMCAwMC0xLTFIOWExIDEgMCAwMC0xIDF2MyIgLz4KICA8cGF0aCBkPSJNNCAyMGgxNiIgLz4KICA8cGF0aCBkPSJNNCAyMlY0YTIgMiAwIDAxMi0yaDEyYTIgMiAwIDAxMiAydjE4IiAvPgogIDxwYXRoIGQ9Ik00IDhoNCIgLz4KICA8cGF0aCBkPSJNOC42MzUgMTAuMDkzQTIgMiAwIDAxOCA4LjYzMVY3YTEgMSAwIDAxMS0xaDJhMSAxIDAgMDExIDF2MmExIDEgMCAwMS0uMjkzLjcwN2wtMSAxYTEgMSAwIDAxLTEuNDE0IDB6IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [printer_3d] icon is a graphical symbol that conveys a specific idea or functionality related to model, hardware, technology, device, factory, manufacturing, art, extruder, stl, obj, step, additive, fabrication, rapid prototype, layer, filament, nozzle, maker, machine.
+  /// - It belongs to the categories: devices, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Azuzula](https://github.com/Azuzula), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData printer_3d = IconData(
+    0xe78f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
