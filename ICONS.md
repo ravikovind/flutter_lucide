@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1857** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1858** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -944,6 +944,7 @@ All **1857** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `layout-dashboard` | masonry, brick | design, layout |
 | `layout-freeform` | layout, freeform, free, absolute, position, auto layout, unaligned, scattered, arrange, blocks, canvas, frame | design, layout |
 | `layout-grid` | app, home, start | design, layout |
+| `layout-grid-circles` | app, home, start, dot matrix, dots, menu, dashboard, collection, overview, tiles, grid, matrix, launcher, apps, widgets, ui, circles, shortcuts | design, layout |
 | `layout-list` | todo, tasks, items, pending, image, photo | design, layout, photography, text |
 | `layout-panel-left` | app, home, start, grid | design, layout |
 | `layout-panel-top` | window, webpage, block, section, grid, template, structure | layout |
@@ -1868,4 +1869,4 @@ All **1857** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1857 icons*
+*Total: 1858 icons*
