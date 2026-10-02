@@ -6545,6 +6545,12 @@
     "className": "icon-layout-freeform",
     "unicode": "&#59171;"
   },
+  "layout-grid-circles": {
+    "encodedCode": "\\e790",
+    "prefix": "icon",
+    "className": "icon-layout-grid-circles",
+    "unicode": "&#59280;"
+  },
   "layout-grid": {
     "encodedCode": "\\e0ff",
     "prefix": "icon",
