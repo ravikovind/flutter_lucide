@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1858** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1866** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -62,6 +62,7 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `archive-restore` | unarchive, index, backup, box, storage, records | files, mail |
 | `archive-x` | index, backup, box, storage, records, junk | files, mail |
 | `armchair` | sofa, furniture, leisure, lounge, loveseat, couch | home |
+| `armenian-dram` | finance, symbol, banking, economy, currency, money, payment | finance |
 | `arrow-big-down` | backwards, reverse, direction, south | arrows, gaming |
 | `arrow-big-down-dash` | backwards, reverse, slow, direction, south, download | arrows, gaming, files |
 | `arrow-big-left` | previous, back, direction, west, indicate turn | arrows, gaming |
@@ -588,6 +589,7 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `dome` | roof, cupola, rotunda, shelter, building, architecture, structure, church, christian, orthodox, byzantine, cathedral, basilica, chapel, monument, landmark, museum, observatory, heritage | buildings, navigation, travel |
 | `donut` | doughnut, sprinkles, topping, fast food, junk food, snack, treat, sweet, sugar, dessert, hollow, ring | food-beverage |
 | `door-closed` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
+| `door-closed-cog` | room, entrance, entry, settings, gear, access, automation | home, security |
 | `door-closed-locked` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, lock | home, travel, security |
 | `door-closed-package` | delivery, parcel, doorstep, shipping, drop-off, courier | home, food-beverage, transportation |
 | `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
@@ -910,6 +912,7 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `joystick` | game, console, control stick | gaming, devices |
 | `kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, code, coding | charts, development, design |
 | `kayak` | kayak, boat, paddle, water, sport, recreation, adventure, outdoors, equipment, lake, ocean | transportation |
+| `kazakh-tenge` | currency, money, payment, kazakhstan, currency-symbol, exchange, cash | finance |
 | `key` | password, login, authentication, secure, unlock, keychain, key ring, fob | security, account |
 | `key-round` | password, login, authentication, secure, unlock | security, account |
 | `key-square` | password, login, authentication, secure, unlock, car key | security, account |
@@ -1367,6 +1370,7 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rows-3` | lines, list, queue, preview, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawers | layout, design, text |
 | `rows-4` | lines, list, queue, preview, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawers, grill | layout, design, text |
 | `rss` | feed, subscribe, news, updates, notifications, content, blog, articles, broadcast, syndication, reader, channels, posts, publishing, digest, alert, following, inbox, newsletter, weblog, podcast | development, social |
+| `rugby-ball` | rugby, football, ball, goal, sport | sports |
 | `ruler` | measurements, centimeters, cm, millimeters, mm, metre, foot, feet, inches, units, size, length, width, height, dimensions, depth, breadth, extent, stationery | tools, design, layout |
 | `ruler-dimension-line` | measurements, centimeters, cm, millimeters, mm, metre, foot, feet, inches, units, size, length, width, height, dimensions, depth, breadth, extent, stationery | tools, design, layout |
 | `russian-ruble` | currency, money, payment | finance |
@@ -1662,6 +1666,9 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `text-align-center` | text, alignment, center | text |
 | `text-align-end` | text, alignment, right | text |
 | `text-align-justify` | text, alignment, justified, menu, list | text |
+| `text-align-justify-center` | paragraph, alignment, justified, center, middle, typography, editor, document | text |
+| `text-align-justify-end` | paragraph, alignment, justified, right, end, typography, editor, document | text |
+| `text-align-justify-start` | paragraph, alignment, justified, left, start, typography, editor, document | text |
 | `text-align-start` | text, alignment, left, list | text |
 | `text-cursor` | select, caret, type, typing, write, writing, edit, insert, input, textarea | text, cursors |
 | `text-cursor-input` | select | text, layout |
@@ -1843,6 +1850,7 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `wifi-zero` | connection, signal, wireless | connectivity, devices |
 | `wind` | weather, air, blow | weather, sustainability |
 | `wind-arrow-down` | weather, air, pressure, blow | weather, sustainability |
+| `wind-arrow-up` | weather, air, pressure, blow, gust, windy, sort, increase | weather, sustainability, arrows, navigation |
 | `wine` | alcohol, beverage, bar, drink, glass, sommelier, vineyard, winery | food-beverage |
 | `wine-off` | alcohol, beverage, drink, glass, alcohol free, abstinence, abstaining, teetotalism, allergy, intolerance | food-beverage |
 | `workflow` | action, continuous integration, ci, automation, devops, network, node, connection | development |
@@ -1869,4 +1877,4 @@ All **1858** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1858 icons*
+*Total: 1866 icons*
