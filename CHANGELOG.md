@@ -1,3 +1,15 @@
+# 1.51.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.51.0
+- Total icon count increased from 1,858+ to 1,866+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- armenian-dram, door-closed-cog, kazakh-tenge, rugby-ball, text-align-justify-center, text-align-justify-end, text-align-justify-start, wind-arrow-up
+
+---
+
 # 1.50.0
 
 ## Improvements 🚀

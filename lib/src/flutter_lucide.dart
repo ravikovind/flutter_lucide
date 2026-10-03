@@ -873,6 +873,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [armenian_dram] icon from the Lucide icon set.
+  ///
+  /// ![armenian_dram](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTBoOCIgLz4KICA8cGF0aCBkPSJNMTEgMTRoOCIgLz4KICA8cGF0aCBkPSJNMTcgMjBWMTBhNiA2IDAgMCAwLTEyIDAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [armenian_dram] icon is a graphical symbol that conveys a specific idea or functionality related to finance, symbol, banking, economy, currency, money, payment.
+  /// - It belongs to the categories: finance
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Elawphant](https://github.com/Elawphant)
+  static const IconData armenian_dram = IconData(
+    0xe791,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [arrow_big_down] icon from the Lucide icon set.
   ///
   /// ![arrow_big_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA1YTEgMSAwIDAgMSAxLTFoNGExIDEgMCAwIDEgMSAxdjZhMSAxIDAgMCAwIDEgMWgzLjI5M2EuNzA3LjcwNyAwIDAgMSAuNSAxLjIwN2wtNy4wODYgNy4wODZhMSAxIDAgMCAxLTEuNDE0IDBsLTcuMDg2LTcuMDg2YS43MDcuNzA3IDAgMCAxIC41LTEuMjA3SDhhMSAxIDAgMCAwIDEtMXoiIC8+Cjwvc3ZnPgo=)
@@ -9289,6 +9305,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [door_closed_cog] icon from the Lucide icon set.
+  ///
+  /// ![door_closed_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuMzA1IDE5LjUzLjkyMy0uMzgyIiAvPgogIDxwYXRoIGQ9Im0xNS4yMjkgMTYuODUyLS45MjQtLjM4MyIgLz4KICA8cGF0aCBkPSJtMTYuODUyIDE1LjIyOC0uMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiAyMC43NzMtLjM4My45MjQiIC8+CiAgPHBhdGggZD0iTTE5IDEwLjM1VjVhMiAyIDAgMDAtMi0ySDdhMiAyIDAgMDAtMiAydjE2IiAvPgogIDxwYXRoIGQ9Im0xOS4xNDggMTUuMjI4LjM4My0uOTIzIiAvPgogIDxwYXRoIGQ9Im0xOS41MyAyMS42OTctLjM4Mi0uOTI0IiAvPgogIDxwYXRoIGQ9Ik0yIDIxaDguNTgiIC8+CiAgPHBhdGggZD0ibTIwLjc3MyAxNi44NTIuOTIyLS4zODMiIC8+CiAgPHBhdGggZD0ibTIwLjc3MyAxOS4xNDguOTIyLjM4MyIgLz4KICA8cGF0aCBkPSJNOSAxMmguMDEiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [door_closed_cog] icon is a graphical symbol that conveys a specific idea or functionality related to room, entrance, entry, settings, gear, access, automation.
+  /// - It belongs to the categories: home, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lukedukeus](https://github.com/lukedukeus), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/UsamaKhan](https://github.com/UsamaKhan), [https://github.com/ajaxjiang96](https://github.com/ajaxjiang96)
+  static const IconData door_closed_cog = IconData(
+    0xe792,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [door_closed_locked] icon from the Lucide icon set.
   ///
   /// ![door_closed_locked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgOFY1YTIgMiAwIDAwLTItMkg3YTIgMiAwIDAwLTIgMnYxNiIgLz4KICA8cGF0aCBkPSJNMiAyMWg4IiAvPgogIDxwYXRoIGQ9Ik0yMCAxNnYtMmEyIDIgMCAwMC00IDB2MiIgLz4KICA8cGF0aCBkPSJNOSAxMmguMDEiIC8+CiAgPHJlY3QgeD0iMTQiIHk9IjE2IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
@@ -14437,6 +14469,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jpjacobpadilla](https://github.com/jpjacobpadilla)
   static const IconData kayak = IconData(
     0xe68f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [kazakh_tenge] icon from the Lucide icon set.
+  ///
+  /// ![kazakh_tenge](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOHYxMiIgLz4KICA8cGF0aCBkPSJNNiA0aDEyIiAvPgogIDxwYXRoIGQ9Ik02IDhoMTIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [kazakh_tenge] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, kazakhstan, currency-symbol, exchange, cash.
+  /// - It belongs to the categories: finance
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/hkayrad](https://github.com/hkayrad)
+  static const IconData kazakh_tenge = IconData(
+    0xe793,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -21753,6 +21801,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [rugby_ball] icon from the Lucide icon set.
+  ///
+  /// ![rugby_ball](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAgMTAgNCA0IiAvPgogIDxwYXRoIGQ9Im0xMyA3IDQgNCIgLz4KICA8cGF0aCBkPSJNMTUuMzQgMi4xMzhBMTUgMTUgMCAwMDIuMTM4IDE1LjM0Yy0uMzU3IDIuOTQuMDA0IDQuOTE5LjgwNSA1LjcxNy43OTguOCAyLjc3OCAxLjE2MiA1LjcxOC44MDVBMTUgMTUgMCAwMDIxLjg2MiA4LjY2MWMuMzU3LTIuOTQtLjAwNC00LjkyLS44MDUtNS43MTgtLjc5OC0uOC0yLjc3OC0xLjE2Mi01LjcxNy0uODA1IiAvPgogIDxwYXRoIGQ9Ik0xNyA3IDcgMTciIC8+CiAgPHBhdGggZD0ibTcgMTMgNCA0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [rugby_ball] icon is a graphical symbol that conveys a specific idea or functionality related to rugby, football, ball, goal, sport.
+  /// - It belongs to the categories: sports
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/dev-mralph](https://github.com/dev-mralph), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData rugby_ball = IconData(
+    0xe794,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [ruler] icon from the Lucide icon set.
   ///
   /// ![ruler](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuMyAxNS4zYTIuNCAyLjQgMCAwIDEgMCAzLjRsLTIuNiAyLjZhMi40IDIuNCAwIDAgMS0zLjQgMEwyLjcgOC43YTIuNDEgMi40MSAwIDAgMSAwLTMuNGwyLjYtMi42YTIuNDEgMi40MSAwIDAgMSAzLjQgMFoiIC8+CiAgPHBhdGggZD0ibTE0LjUgMTIuNSAyLTIiIC8+CiAgPHBhdGggZD0ibTExLjUgOS41IDItMiIgLz4KICA8cGF0aCBkPSJtOC41IDYuNSAyLTIiIC8+CiAgPHBhdGggZD0ibTE3LjUgMTUuNSAyLTIiIC8+Cjwvc3ZnPgo=)
@@ -26473,6 +26537,54 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [text_align_justify_center] icon from the Lucide icon set.
+  ///
+  /// ![text_align_justify_center](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyA1aDE4IiAvPgogIDxwYXRoIGQ9Ik0zIDEyaDE4IiAvPgogIDxwYXRoIGQ9Ik03IDE5aDEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [text_align_justify_center] icon is a graphical symbol that conveys a specific idea or functionality related to paragraph, alignment, justified, center, middle, typography, editor, document.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/HectorZaGa](https://github.com/HectorZaGa), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData text_align_justify_center = IconData(
+    0xe795,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [text_align_justify_end] icon from the Lucide icon set.
+  ///
+  /// ![text_align_justify_end](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyA1aDE4IiAvPgogIDxwYXRoIGQ9Ik0zIDEyaDE4IiAvPgogIDxwYXRoIGQ9Ik0xMSAxOWgxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [text_align_justify_end] icon is a graphical symbol that conveys a specific idea or functionality related to paragraph, alignment, justified, right, end, typography, editor, document.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/HectorZaGa](https://github.com/HectorZaGa), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData text_align_justify_end = IconData(
+    0xe796,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [text_align_justify_start] icon from the Lucide icon set.
+  ///
+  /// ![text_align_justify_start](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyA1aDE4IiAvPgogIDxwYXRoIGQ9Ik0zIDEyaDE4IiAvPgogIDxwYXRoIGQ9Ik0zIDE5aDEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [text_align_justify_start] icon is a graphical symbol that conveys a specific idea or functionality related to paragraph, alignment, justified, left, start, typography, editor, document.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/HectorZaGa](https://github.com/HectorZaGa), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData text_align_justify_start = IconData(
+    0xe797,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [text_align_start] icon from the Lucide icon set.
   ///
   /// ![text_align_start](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgNUgzIiAvPgogIDxwYXRoIGQ9Ik0xNSAxMkgzIiAvPgogIDxwYXRoIGQ9Ik0xNyAxOUgzIiAvPgo8L3N2Zz4K)
@@ -29365,6 +29477,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
   static const IconData wind_arrow_down = IconData(
     0xe631,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [wind_arrow_up] icon from the Lucide icon set.
+  ///
+  /// ![wind_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMnY4IiAvPgogIDxwYXRoIGQ9Ik0xMi44IDIxLjZBMiAyIDAgMSAwIDE0IDE4SDIiIC8+CiAgPHBhdGggZD0iTTE3LjUgMTBhMi41IDIuNSAwIDEgMSAyIDRIMiIgLz4KICA8cGF0aCBkPSJtNiA2IDQgLTQgNCA0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [wind_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to weather, air, pressure, blow, gust, windy, sort, increase.
+  /// - It belongs to the categories: weather, sustainability, arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jamesgpearce](https://github.com/jamesgpearce)
+  static const IconData wind_arrow_up = IconData(
+    0xe798,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
