@@ -1,3 +1,15 @@
+# 1.53.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.53.0
+- Total icon count increased from 1,866+ to 1,869+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- groceries, hiking-stick, scratch-blocks
+
+---
+
 # 1.52.0
 
 ## Improvements 🚀

@@ -13097,6 +13097,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [groceries] icon from the Lucide icon set.
+  ///
+  /// ![groceries](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTVoNCIgLz4KICA8cGF0aCBkPSJNMTkuNDI0IDExLjA5NWEyLjUgMi41IDAgMDAuNDcxLTIuMzA5IDIgMiAwIDAwLjQyNC0zLjI4NiAyIDIgMCAwMC0yLjE0My0zLjMyMiAyIDIgMCAwMC0uNjc2LjUwMiAyIDIgMCAwMC0zLjI4Ny40MjQgMi41IDIuNSAwIDAwLTMuMTg5IDIuMDZBMyAzIDAgMDAxMiAxMWw0LTQiIC8+CiAgPHBhdGggZD0iTTQgMTIuMDA2QTEgMSAwIDAxNC45OTQgMTFIMTlhMSAxIDAgMDExIDF2N2EyIDIgMCAwMS0yIDJINmEyIDIgMCAwMS0yLTJ6IiAvPgogIDxwYXRoIGQ9Ik03IDExYTQgNCAwIDAxLTQtNFY1YTEgMSAwIDAxMS0xaDJhNCA0IDAgMDEzLjU4NCAyLjIyMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [groceries] icon is a graphical symbol that conveys a specific idea or functionality related to food, vegetables, health, grocery, market, farmer, produce, pantry, paper bag, shop, supermarket, retail, delivery, larder, provisions, takeout.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/kemie](https://github.com/kemie), [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData groceries = IconData(
+    0xe799,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [group] icon from the Lucide icon set.
   ///
   /// ![group](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyA3VjVjMC0xLjEuOS0yIDItMmgyIiAvPgogIDxwYXRoIGQ9Ik0xNyAzaDJjMS4xIDAgMiAuOSAyIDJ2MiIgLz4KICA8cGF0aCBkPSJNMjEgMTd2MmMwIDEuMS0uOSAyLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNNyAyMUg1Yy0xLjEgMC0yLS45LTItMnYtMiIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjciIHk9IjciIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTAiIHk9IjEyIiByeD0iMSIgLz4KPC9zdmc+Cg==)
@@ -13829,6 +13845,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/Andreto](https://github.com/Andreto), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData highlighter = IconData(
     0xe0f4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [hiking_stick] icon from the Lucide icon set.
+  ///
+  /// ![hiking_stick](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNSAxMC41IDIgMjIiIC8+CiAgPHBhdGggZD0iTTE2LjM1MiAxMS42NDhhMS4yMDUgMS4yMDUgMCAwMS0xLjcwNCAwbC0yLjI5Ni0yLjI5NmExLjIwNSAxLjIwNSAwIDAxMC0xLjcwNGwuNzItLjcyYTIgMiAwIDAxMS4wMjItLjU0NmwuNTk5LS4xMmEyIDIgMCAwMDEuNTY5LTEuNTdsLjEyLS41OThhMiAyIDAgMDEuNTQ2LTEuMDIybC43Mi0uNzJhMS4yMDUgMS4yMDUgMCAwMTEuNzA0IDBsMi4yOTYgMi4yOTZhMS4yMDUgMS4yMDUgMCAwMTAgMS43MDRsLTYuMDIgNi4wMmExIDEgMCAxMDMgM2wuMjAxLS4yMDFBNy40IDcuNCAwIDAwMjEgOS45M1Y3IiAvPgogIDxwYXRoIGQ9Im02IDIxLTMtMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [hiking_stick] icon is a graphical symbol that conveys a specific idea or functionality related to hiking, walking, stick, trekking, trail, pole, backpacking, outdoors, mountains.
+  /// - It belongs to the categories: sports, travel, nature, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/kamilasw](https://github.com/kamilasw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData hiking_stick = IconData(
+    0xe79a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -19611,7 +19643,7 @@ abstract final class LucideIcons {
 
   /// Represents the [pen_tool] icon from the Lucide icon set.
   ///
-  /// ![pen_tool](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNzA3IDIxLjI5M2ExIDEgMCAwIDEtMS40MTQgMGwtMS41ODYtMS41ODZhMSAxIDAgMCAxIDAtMS40MTRsNS41ODYtNS41ODZhMSAxIDAgMCAxIDEuNDE0IDBsMS41ODYgMS41ODZhMSAxIDAgMCAxIDAgMS40MTR6IiAvPgogIDxwYXRoIGQ9Im0xOCAxMy0xLjM3NS02Ljg3NGExIDEgMCAwIDAtLjc0Ni0uNzc2TDMuMjM1IDIuMDI4YTEgMSAwIDAgMC0xLjIwNyAxLjIwN0w1LjM1IDE1Ljg3OWExIDEgMCAwIDAgLjc3Ni43NDZMMTMgMTgiIC8+CiAgPHBhdGggZD0ibTIuMyAyLjMgNy4yODYgNy4yODYiIC8+CiAgPGNpcmNsZSBjeD0iMTEiIGN5PSIxMSIgcj0iMiIgLz4KPC9zdmc+Cg==)
+  /// ![pen_tool](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTggMTMtLjY1NC00LjczNmE0IDQgMCAwMC0yLjc1Ni0zLjI2NmwtOS4xNjMtMi45YTIgMiAwIDAwLTIuMDE3LjQ5M2wtLjgyLjgxOWEyIDIgMCAwMC0uNDkyIDIuMDE3bDIuOSA5LjE2M2E0IDQgMCAwMDMuMjY2IDIuNzU2TDEzIDE4IiAvPgogIDxwYXRoIGQ9Ik0xOC42NDggMTIuMzUyYTEuMjA1IDEuMjA1IDAgMDExLjcwNCAwbDEuMjk2IDEuMjk2YTEuMjA1IDEuMjA1IDAgMDEwIDEuNzA0bC02LjI5NiA2LjI5NmExLjIwNSAxLjIwNSAwIDAxLTEuNzA0IDBsLTEuMjk2LTEuMjk2YTEuMjA1IDEuMjA1IDAgMDEwLTEuNzA0eiIgLz4KICA8cGF0aCBkPSJtMyAzIDYuNTg2IDYuNTg2IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [pen_tool] icon is a graphical symbol that conveys a specific idea or functionality related to vector, drawing, path.
@@ -21883,7 +21915,7 @@ abstract final class LucideIcons {
 
   /// Represents the [salad] icon from the Lucide icon set.
   ///
-  /// ![salad](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNyAyMWgxMCIgLz4KICA8cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDktOUgzYTkgOSAwIDAgMCA5IDlaIiAvPgogIDxwYXRoIGQ9Ik0xMS4zOCAxMmEyLjQgMi40IDAgMCAxLS40LTQuNzcgMi40IDIuNCAwIDAgMSAzLjItMi43NyAyLjQgMi40IDAgMCAxIDMuNDctLjYzIDIuNCAyLjQgMCAwIDEgMy4zNyAzLjM3IDIuNCAyLjQgMCAwIDEtMS4xIDMuNyAyLjUxIDIuNTEgMCAwIDEgLjAzIDEuMSIgLz4KICA8cGF0aCBkPSJtMTMgMTIgNC00IiAvPgogIDxwYXRoIGQ9Ik0xMC45IDcuMjVBMy45OSAzLjk5IDAgMCAwIDQgMTBjMCAuNzMuMiAxLjQxLjU0IDIiIC8+Cjwvc3ZnPgo=)
+  /// ![salad](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuNDk2IDEyYTIuNSAyLjUgMCAwMC4zOTktMi4yMTRBMiAyIDAgMDAyMC4zMiA2LjUgMiAyIDAgMDAxOSAzYTIgMiAwIDAwLTEuNS42OCAyIDIgMCAwMC0zLjI4Ny40MjQgMi41IDIuNSAwIDAwLTMuMTg5IDIuMDZBMyAzIDAgMDAxMiAxMmw0LTQiIC8+CiAgPHBhdGggZD0iTTQgMTJhMSAxIDAgMDAtLjk5IDEuMTMzQTkgOSAwIDAwMTIgMjFhOSA5IDAgMDA4Ljk5LTcuODY3QTEgMSAwIDAwMjAgMTJ6IiAvPgogIDxwYXRoIGQ9Ik03IDIxaDEwIiAvPgogIDxwYXRoIGQ9Ik05Ljg1IDYuOTA3QTMuNSAzLjUgMCAwMDUuMDUgMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [salad] icon is a graphical symbol that conveys a specific idea or functionality related to food, vegetarian, dish, restaurant, course, meal, side, vegetables, health.
@@ -22341,6 +22373,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/Ahmed-Dghaies](https://github.com/Ahmed-Dghaies), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData scooter = IconData(
     0xe6ac,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [scratch_blocks] icon from the Lucide icon set.
+  ///
+  /// ![scratch_blocks](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgNWEyIDIgMCAwMTIgMnYxMWEyIDIgMCAwMS0yIDJoLTUuNTg2YTEgMSAwIDAwLS43MDcuMjkzbC0xLjQxNCAxLjQxNGExIDEgMCAwMS0uNzA3LjI5M0g4LjQxNGExIDEgMCAwMS0uNzA3LS4yOTNsLTEuNDE0LTEuNDE0QTEgMSAwIDAwNS41ODYgMjBINWEyIDIgMCAwMS0yLTJWNS4yODZjMC0uMzk0LjExLS43ODUuMzYtMS4wOWE2IDYgMCAwMTkuMTY4LS4xMzNDMTIuOTk2IDQuNiAxMy42MzcgNSAxNC4zNSA1eiIgLz4KICA8cGF0aCBkPSJNMjEgMTJoLTcuNTg2YTEgMSAwIDAwLS43MDcuMjkzbC0xLjQxNCAxLjQxNGExIDEgMCAwMS0uNzA3LjI5M0g4LjQxNGExIDEgMCAwMS0uNzA3LS4yOTNsLTEuNDE0LTEuNDE0QTEgMSAwIDAwNS41ODYgMTJIMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [scratch_blocks] icon is a graphical symbol that conveys a specific idea or functionality related to code, blocks, scratch, turbowarp, mistwarp, visual programming, block-based, drag-and-drop, editor, education, learning, programming, kids, integration.
+  /// - It belongs to the categories: development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/mc20000-01](https://github.com/mc20000-01), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData scratch_blocks = IconData(
+    0xe79b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -23739,7 +23787,7 @@ abstract final class LucideIcons {
 
   /// Represents the [soup] icon from the Lucide icon set.
   ///
-  /// ![soup](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDktOUgzYTkgOSAwIDAgMCA5IDlaIiAvPgogIDxwYXRoIGQ9Ik03IDIxaDEwIiAvPgogIDxwYXRoIGQ9Ik0xOS41IDEyIDIyIDYiIC8+CiAgPHBhdGggZD0iTTE2LjI1IDNjLjI3LjEuOC41My43NSAxLjM2LS4wNi44My0uOTMgMS4yLTEgMi4wMi0uMDUuNzguMzQgMS4yNC43MyAxLjYyIiAvPgogIDxwYXRoIGQ9Ik0xMS4yNSAzYy4yNy4xLjguNTMuNzQgMS4zNi0uMDUuODMtLjkzIDEuMi0uOTggMi4wMi0uMDYuNzguMzMgMS4yNC43MiAxLjYyIiAvPgogIDxwYXRoIGQ9Ik02LjI1IDNjLjI3LjEuOC41My43NSAxLjM2LS4wNi44My0uOTMgMS4yLTEgMi4wMi0uMDUuNzguMzQgMS4yNC43NCAxLjYyIiAvPgo8L3N2Zz4K)
+  /// ![soup](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuMjQ4IDNjLjI3My4xLjgwOC41My43NDcgMS4zNi0uMDUuODMtLjkzOCAxLjItLjk4OSAyLjAyLS4wNi43OC4zMzMgMS4yNC43MjcgMS42MiIgLz4KICA8cGF0aCBkPSJNMTYuMjUyIDNjLjI2OC4xLjc5NC41My43NDUgMS4zNi0uMDYuODMtLjkyMyAxLjItLjk5MyAyLjAyLS4wNS43OC4zMzggMS4yNC43MjUgMS42MiIgLz4KICA8cGF0aCBkPSJNMTkuNSAxMiAyMiA2IiAvPgogIDxwYXRoIGQ9Ik00IDEyYTEgMSAwIDAwLS45OSAxLjEzM0E5IDkgMCAwMDEyIDIxYTkgOSAwIDAwOC45OS03Ljg2N0ExIDEgMCAwMDIwIDEyeiIgLz4KICA8cGF0aCBkPSJNNi4yNTIgM2MuMjY4LjEuNzk0LjUzLjc0NSAxLjM2LS4wNi44My0uOTIzIDEuMi0uOTkzIDIuMDItLjA1Ljc4LjMzOCAxLjI0LjczNSAxLjYyIiAvPgogIDxwYXRoIGQ9Ik03IDIxaDEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [soup] icon is a graphical symbol that conveys a specific idea or functionality related to food, dish, restaurant, course, meal, bowl, starter.
@@ -27067,7 +27115,7 @@ abstract final class LucideIcons {
 
   /// Represents the [tool_case] icon from the Lucide icon set.
   ///
-  /// ![tool_case](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTVoNCIgLz4KICA8cGF0aCBkPSJtMTQuODE3IDEwLjk5NS0uOTcxLTEuNDUgMS4wMzQtMS4yMzJhMiAyIDAgMCAwLTIuMDI1LTMuMjM4bC0xLjgyLjM2NEw5LjkxIDMuODg1YTIgMiAwIDAgMC0zLjYyNS43NDhMNi4xNDEgNi41NWwtMS43MjUuNDI2YTIgMiAwIDAgMC0uMTkgMy43NTZsLjY1Ny4yNyIgLz4KICA8cGF0aCBkPSJtMTguODIyIDEwLjk5NSAyLjI2LTUuMzhhMSAxIDAgMCAwLS41NTctMS4zMThMMTYuOTU0IDIuOWExIDEgMCAwIDAtMS4yODEuNTMzbC0uOTI0IDIuMTIyIiAvPgogIDxwYXRoIGQ9Ik00IDEyLjAwNkExIDEgMCAwIDEgNC45OTQgMTFIMTlhMSAxIDAgMCAxIDEgMXY3YTIgMiAwIDAgMS0yIDJINmEyIDIgMCAwIDEtMi0yeiIgLz4KPC9zdmc+Cg==)
+  /// ![tool_case](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTVoNCIgLz4KICA8cGF0aCBkPSJtMTQuNSA0LjA1OC41NzEtMS40MjlhMSAxIDAgMDExLjMtLjU1OGw1IDJhMSAxIDAgMDEuNTQ5LjUzNC44OC44OCAwIDAxLjAxLjc2NWwtMi4zMzIgNS44MyIgLz4KICA8cGF0aCBkPSJNMTUuNjM0IDExYTIgMiAwIDAwLS4xODYtLjM0bC0xLjE3LTEuNzU3IDEuMzEtMS42NTZhMiAyIDAgMDAtMi4xMDktMy4xNjVsLTIuMDMyLjU3LTEuMTctMS43NThhMiAyIDAgMDAtMy42NjQgMS4wMjhsLS4wODYgMi4xMS0yLjAzMi41NjhhMiAyIDAgMDAtLjE1NSAzLjhsMS42MTcuNiIgLz4KICA8cGF0aCBkPSJNNCAxMi4wMDZBMSAxIDAgMDE0Ljk5NCAxMUgxOWExIDEgMCAwMTEgMXY3YTIgMiAwIDAxLTIgMkg2YTIgMiAwIDAxLTItMnoiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [tool_case] icon is a graphical symbol that conveys a specific idea or functionality related to tools, maintenance, repair.
