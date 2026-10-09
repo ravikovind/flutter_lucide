@@ -15193,6 +15193,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [lens] icon from the Lucide icon set.
+  ///
+  /// ![lens](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNzI1IDcuMjk2aC4wMSIgLz4KICA8cGF0aCBkPSJNNiAxMmE2IDYgMCAwMTYtNiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [lens] icon is a graphical symbol that conveys a specific idea or functionality related to optics, reflection, camera, photography, focus, effect, shader, post-process, visual, contact lens, glass, magnify, translucent, transparent, orb, bubble, zoom.
+  /// - It belongs to the categories: photography, science, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData lens = IconData(
+    0xe79c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [lens_concave] icon from the Lucide icon set.
   ///
   /// ![lens_concave](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNyAyYTEgMSAwIDAgMC0uOCAxLjYgMTQgMTQgMCAwIDEgMCAxNi44QTEgMSAwIDAgMCA3IDIyaDEwYTEgMSAwIDAgMCAuOC0xLjYgMTQgMTQgMCAwIDEgMC0xNi44QTEgMSAwIDAgMCAxNyAyeiIgLz4KPC9zdmc+Cg==)

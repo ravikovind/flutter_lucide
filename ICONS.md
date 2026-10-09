@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1869** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1870** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -957,6 +957,7 @@ All **1869** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `leaf` | sustainability, nature, energy, plant, autumn | nature, sustainability, seasons |
 | `leafy-green` | salad, lettuce, vegetable, chard, cabbage, bok choy | food-beverage, emoji, sustainability |
 | `lectern` | pulpit, podium, stand | communication, multimedia |
+| `lens` | optics, reflection, camera, photography, focus, effect, shader, post-process, visual, contact lens, glass, magnify, translucent, transparent, orb, bubble, zoom | photography, science, tools |
 | `lens-concave` | concave, lens, optics, light, magnification, curved, focus, refraction, science, physics, eyeglass, telescope, microscope | science, tools, shapes |
 | `lens-convex` | convex, lens, optics, magnification, focus, light, refraction, physics, eyeglass, telescope, microscope, curved, science | science, tools, shapes |
 | `letters` | abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling | text |
@@ -1880,4 +1881,4 @@ All **1869** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1869 icons*
+*Total: 1870 icons*
