@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1866** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1869** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -826,6 +826,7 @@ All **1866** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `grip` | grab, dots, handle, move, drag | layout |
 | `grip-horizontal` | grab, dots, handle, move, drag | layout |
 | `grip-vertical` | grab, dots, handle, move, drag | layout |
+| `groceries` | food, vegetables, health, grocery, market, farmer, produce, pantry, paper bag, shop, supermarket, retail, delivery, larder, provisions, takeout | food-beverage |
 | `group` | cubes, packages, parts, units, collection, cluster, gather, dashed | files |
 | `guitar` | acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise | multimedia |
 | `ham` | food, pork, pig, meat, bone, hock, knuckle, gammon, cured | food-beverage |
@@ -872,6 +873,7 @@ All **1866** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `helicopter` | transport, flying, rotor, aviation, helipad, gear, flyer, technology, helicopter, aircraft, vehicle | transportation, travel |
 | `hexagon` | shape, node.js, logo | shapes, development |
 | `highlighter` | mark, text | text, design |
+| `hiking-stick` | hiking, walking, stick, trekking, trail, pole, backpacking, outdoors, mountains | sports, travel, nature, navigation |
 | `hop` | beer, brewery, drink | food-beverage |
 | `hop-off` | beer, brewery, drink, hop free, allergy, intolerance, diet | food-beverage |
 | `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet | medical, buildings, navigation, travel |
@@ -1404,6 +1406,7 @@ All **1866** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `scissors` | cut, snip, chop, stationery, crafts | text, design, tools |
 | `scissors-line-dashed` | cut here, along, snip, chop, stationery, crafts, instructions, diagram | design, tools |
 | `scooter` | vehicle, drive, trip, journey, transport, electric, ride, urban, commute, speed | transportation |
+| `scratch-blocks` | code, blocks, scratch, turbowarp, mistwarp, visual programming, block-based, drag-and-drop, editor, education, learning, programming, kids, integration | development |
 | `screen-share` | host, desktop, monitor | connectivity, devices, communication |
 | `screen-share-off` | desktop, disconnect, monitor | connectivity, devices, communication |
 | `scroll` | paper, log, scripture, document, notes, parchment, list, long, script, story, code, coding | gaming, development, text |
@@ -1877,4 +1880,4 @@ All **1866** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1866 icons*
+*Total: 1869 icons*
