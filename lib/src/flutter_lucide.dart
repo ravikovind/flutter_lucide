@@ -1582,7 +1582,7 @@ abstract final class LucideIcons {
   /// ![asterisk](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNXYxNCIgLz4KICA8cGF0aCBkPSJtMTguMDY1IDguNDk2LTEyLjEyNSA3IiAvPgogIDxwYXRoIGQ9Im01Ljk0IDguNTA0IDEyLjEyNSA3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to symbol, sterisk, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
+  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
   /// - It belongs to the categories: text, math, development
   ///
   /// Acknowledgements:
@@ -2158,7 +2158,7 @@ abstract final class LucideIcons {
   /// ![bangladeshi_taka](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA1YTIgMiAwIDAgMSA0IDB2MTJhNCA0IDAgMCAwIDggMCAyIDIgMCAwIDAtNCAwIiAvPgogIDxwYXRoIGQ9Ik02IDloMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [bangladeshi_taka] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, bdt, ৳, currencysymbol, cash, banknote, price, remittance, ecommerce.
+  /// - The [bangladeshi_taka] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, bdt, ৳, currency symbol, cash, banknote, price, remittance, ecommerce.
   /// - It belongs to the categories: finance, shopping, travel
   ///
   /// Acknowledgements:
@@ -4174,7 +4174,7 @@ abstract final class LucideIcons {
   /// ![building_complex_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoNCIgLz4KICA8cGF0aCBkPSJNMTAgMjF2LTNhMiAyIDAgMDEzLjA1LTEuNzAyIiAvPgogIDxwYXRoIGQ9Ik0xMCA4aDQiIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+CiAgPHBhdGggZD0iTTE4IDdoMmEyIDIgMCAwMTIgMnY0LjM1NSIgLz4KICA8cGF0aCBkPSJNMTkgMTZ2NiIgLz4KICA8cGF0aCBkPSJNNiAxMEg0YTIgMiAwIDAwLTIgMnY3YTIgMiAwIDAwMiAyaDguNTM1IiAvPgogIDxwYXRoIGQ9Ik02IDIxVjVhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnY3LjEyNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [building_complex_plus] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city, new, add, create, increase, office, headquarters, startup, registration, onboarding, realestate, property.
+  /// - The [building_complex_plus] icon is a graphical symbol that conveys a specific idea or functionality related to business, company, enterprise, skyscraper, organisation, organization, city, new, add, create, increase, office, headquarters, startup, registration, onboarding, real estate, property.
   /// - It belongs to the categories: account, buildings
   ///
   /// Acknowledgements:
@@ -4862,7 +4862,7 @@ abstract final class LucideIcons {
   /// ![car_battery](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTNoNCIgLz4KICA8cGF0aCBkPSJNMTYgMTV2LTQiIC8+CiAgPHBhdGggZD0iTTE4IDV2MiIgLz4KICA8cGF0aCBkPSJNNiAxM2g0IiAvPgogIDxwYXRoIGQ9Ik02IDV2MiIgLz4KICA8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [car_battery] icon is a graphical symbol that conveys a specific idea or functionality related to battery, automobile, powercell, electric, power, electricity, energy, accumulator, charge, transport, vehicle, car.
+  /// - The [car_battery] icon is a graphical symbol that conveys a specific idea or functionality related to battery, automobile, power cell, electric, power, electricity, energy, accumulator, charge, transport, vehicle, car.
   /// - It belongs to the categories: connectivity, transportation
   ///
   /// Acknowledgements:
@@ -7406,7 +7406,7 @@ abstract final class LucideIcons {
   /// ![cloud_backup](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTUuMjUxQTQuNSA0LjUgMCAwIDAgMTcuNSA4aC0xLjc5QTcgNyAwIDEgMCAzIDEzLjYwNyIgLz4KICA8cGF0aCBkPSJNNyAxMXY0aDQiIC8+CiAgPHBhdGggZD0iTTggMTlhNSA1IDAgMCAwIDktMyA0LjUgNC41IDAgMCAwLTQuNS00LjUgNC44MiA0LjgyIDAgMCAwLTMuNDEgMS40MUw3IDE1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [cloud_backup] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, bytes, servers, backup, timemachine, rotate, synchronize, synchronise, refresh, reconnect, transfer, data, security, upload, save, remote, safety.
+  /// - The [cloud_backup] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, bytes, servers, backup, time machine, rotate, synchronize, synchronise, refresh, reconnect, transfer, data, security, upload, save, remote, safety.
   /// - It belongs to the categories: arrows, files
   ///
   /// Acknowledgements:
@@ -8718,7 +8718,7 @@ abstract final class LucideIcons {
   /// ![database_backup](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiIC8+CiAgPHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDUgMi42OSIgLz4KICA8cGF0aCBkPSJNMjEgOS4zVjUiIC8+CiAgPHBhdGggZD0iTTMgNXYxNGE5IDMgMCAwIDAgNi40NyAyLjg4IiAvPgogIDxwYXRoIGQ9Ik0xMiAxMnY0aDQiIC8+CiAgPHBhdGggZD0iTTEzIDIwYTUgNSAwIDAgMCA5LTMgNC41IDQuNSAwIDAgMC00LjUtNC41Yy0xLjMzIDAtMi41NC41NC0zLjQxIDEuNDFMMTIgMTYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [database_backup] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, bytes, servers, backup, timemachine, rotate, arrow, left.
+  /// - The [database_backup] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, bytes, servers, backup, time machine, rotate, arrow, left.
   /// - It belongs to the categories: devices, arrows, design, development, photography
   ///
   /// Acknowledgements:
@@ -13337,6 +13337,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [handle_bottom_right] icon from the Lucide icon set.
+  ///
+  /// ![handle_bottom_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgOCA4IDIxIiAvPgogIDxwYXRoIGQ9Im0yMSAxNS02IDYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [handle_bottom_right] icon is a graphical symbol that conveys a specific idea or functionality related to mouse, grab, handle, move, drag, resize, corner.
+  /// - It belongs to the categories: design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ocavue](https://github.com/ocavue)
+  static const IconData handle_bottom_right = IconData(
+    0xe79d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [handshake] icon from the Lucide icon set.
   ///
   /// ![handshake](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMTcgMiAyYTEgMSAwIDEgMCAzLTMiIC8+CiAgPHBhdGggZD0ibTE0IDE0IDIuNSAyLjVhMSAxIDAgMSAwIDMtM2wtMy44OC0zLjg4YTMgMyAwIDAgMC00LjI0IDBsLS44OC44OGExIDEgMCAxIDEtMy0zbDIuODEtMi44MWE1Ljc5IDUuNzkgMCAwIDEgNy4wNi0uODdsLjQ3LjI4YTIgMiAwIDAgMCAxLjQyLjI1TDIxIDQiIC8+CiAgPHBhdGggZD0ibTIxIDMgMSAxMWgtMiIgLz4KICA8cGF0aCBkPSJNMyAzIDIgMTRsNi41IDYuNWExIDEgMCAxIDAgMy0zIiAvPgogIDxwYXRoIGQ9Ik0zIDRoOCIgLz4KPC9zdmc+Cg==)
@@ -15358,7 +15374,7 @@ abstract final class LucideIcons {
   /// ![lighthouse](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM1YyIiAvPgogIDxwYXRoIGQ9Ik0xNi4wNjYgMTYuODY1IDcgMjJsMi0xMVY2YTMgMyAwIDAxNiAwdjVsMiAxMSIgLz4KICA8cGF0aCBkPSJtMTkuNzkyIDQuNS44NjYtLjUiIC8+CiAgPHBhdGggZD0ibTE5Ljc5NyAxMy41Ljg2Ni41IiAvPgogIDxwYXRoIGQ9Ik0yMSA5aDEiIC8+CiAgPHBhdGggZD0iTTMgOUgyIiAvPgogIDxwYXRoIGQ9Im00LjIwMyAxMy41LS44NjYuNSIgLz4KICA8cGF0aCBkPSJNNC4yMDggNC41IDMuMzQyIDQiIC8+CiAgPHBhdGggZD0iTTUuNSAyMmgxMyIgLz4KICA8cGF0aCBkPSJtNy45MzIgMTYuODc1IDcuMzc3LTQuMTc4IiAvPgogIDxwYXRoIGQ9Ik04IDExaDgiIC8+CiAgPHBhdGggZD0iTTggN2g4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [lighthouse] icon is a graphical symbol that conveys a specific idea or functionality related to lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, lightbeam, wayfinding, guidance, onboarding, help, landmark.
+  /// - The [lighthouse] icon is a graphical symbol that conveys a specific idea or functionality related to lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, light beam, wayfinding, guidance, onboarding, help, landmark.
   /// - It belongs to the categories: buildings, navigation, travel
   ///
   /// Acknowledgements:
@@ -16206,13 +16222,29 @@ abstract final class LucideIcons {
   /// ![mail_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Im0yMiA3LS43NTkuNDg0IiAvPgogIDxwYXRoIGQ9Ik02LjgzNSAyMEg0YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjIiIC8+CiAgPHBhdGggZD0iTTcuNjA1IDEwLjU2NyAyIDciIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [mail_clock] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, unread, scheduled, delayed, sendlater, delivery, reminder, pending, outgoing, timer.
+  /// - The [mail_clock] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, letter, unread, scheduled, delayed, send later, delivery, reminder, pending, outgoing, timer.
   /// - It belongs to the categories: text, account, mail, time, notifications, communication
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData mail_clock = IconData(
     0xe73e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [mail_dot] icon from the Lucide icon set.
+  ///
+  /// ![mail_dot](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjc0IDRINGEyIDIgMCAwIDAtMiAydjEyYTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMnYtNC42NzUiIC8+CiAgPHBhdGggZD0ibTIgNyA5IDUuNzAxYTIgMiAwIDAgMCAyIDBsMS4wODQtLjY4NiIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjciIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [mail_dot] icon is a graphical symbol that conveys a specific idea or functionality related to mail, envelope, communication, post, send, address, notification, email, message, letter, unread, dot.
+  /// - It belongs to the categories: text, account, mail
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/elenakovelskikh](https://github.com/elenakovelskikh)
+  static const IconData mail_dot = IconData(
+    0xe79e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -17310,7 +17342,7 @@ abstract final class LucideIcons {
   /// ![messages_circle](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuOTUgMTAuMDVhNyA3IDAgMDExLjQxMiA3Ljg3MiAxIDEgMCAwMC0uMDU4Ljc4N2wuNjc1IDIuMDg5YTEgMSAwIDAxLTEuMjM2IDEuMTY4bC0yLjE1NS0uNjMxYTEgMSAwIDAwLS43NDUuMDYgNyA3IDAgMDEtNy43OTMtMS40NDUiIC8+CiAgPHBhdGggZD0iTTIuNjk2IDEyLjcwOGExIDEgMCAwMC0uMDU4LS43ODUgNyA3IDAgMTEzLjUxOCAzLjQ3MyAxIDEgMCAwMC0uNzQ0LS4wNjFsLTIuMTU1LjYzYTEgMSAwIDAxLTEuMjM2LTEuMTY3eiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [messages_circle] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple, discussion, interview, debate, group, groupchat, threads, unread, bubble, messaging.
+  /// - The [messages_circle] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech bubbles, copy, multiple, discussion, interview, debate, group, group chat, threads, unread, bubble, messaging.
   /// - It belongs to the categories: social, communication, notifications
   ///
   /// Acknowledgements:
@@ -19454,7 +19486,7 @@ abstract final class LucideIcons {
   /// ![paper_bag](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNS4zNjQgMy44NDhDNCA2IDMgOS42NTIgMyAxMi42NTJWMTlhMiAyIDAgMDAyIDJoMTRhMiAyIDAgMDAyLTJ2LTVjMC0yLjMzNC0xLjgxNi00LjY2OC0yLjYyMi03LjAwMiIgLz4KICA8cGF0aCBkPSJNNyAzaDExLjM3OWEyIDIgMCAwMTEuNzg5IDEuMTA2bC43MjMgMS40NDdBMSAxIDAgMDExOS45OTcgN2gtOC41MjVhMiAyIDAgMDEtMS43ODktMS4xMDZMOC43OSA0LjEwNWEyIDIgMCAxMC0zLjU3OSAxLjc4OWwyLjI2MSA0LjUyMkE1IDUgMCAwMTggMTIuNjUyVjIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [paper_bag] icon is a graphical symbol that conveys a specific idea or functionality related to storage, package, lunch, takeout, eco-friendly, kraft, retail, doggybag.
+  /// - The [paper_bag] icon is a graphical symbol that conveys a specific idea or functionality related to storage, package, lunch, takeout, eco-friendly, kraft, retail, doggy bag.
   /// - It belongs to the categories: food-beverage, shopping
   ///
   /// Acknowledgements:
@@ -19893,6 +19925,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
   static const IconData phone_incoming = IconData(
     0xe136,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [phone_log] icon from the Lucide icon set.
+  ///
+  /// ![phone_log](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuODMyIDE2LjU2OGExIDEgMCAwMDEuMjEzLS4zMDNsLjM1NS0uNDY1QTIgMiAwIDAxMTcgMTVoM2EyIDIgMCAwMTIgMnYzYTIgMiAwIDAxLTIgMkExOCAxOCAwIDAxMiA0YTIgMiAwIDAxMi0yaDNhMiAyIDAgMDEyIDJ2M2EyIDIgMCAwMS0uOCAxLjZsLS40NjguMzUxYTEgMSAwIDAwLS4yOTIgMS4yMzMgMTQgMTQgMCAwMDYuMzkyIDYuMzg0IiAvPgogIDxwYXRoIGQ9Ik0xNC4zOTYgNC4xNzFoNy4xNzEiIC8+CiAgPHBhdGggZD0iTTE3LjM0MyA4LjE3aDQuMjI0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [phone_log] icon is a graphical symbol that conveys a specific idea or functionality related to telephone, communication, mobile, device, contact, history, data, information, call.
+  /// - It belongs to the categories: communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/Levi-Bensley](https://github.com/Levi-Bensley)
+  static const IconData phone_log = IconData(
+    0xe79f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -21278,7 +21326,7 @@ abstract final class LucideIcons {
   /// ![refrigerator](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSA2YTQgNCAwIDAgMSA0LTRoNmE0IDQgMCAwIDEgNCA0djE0YTIgMiAwIDAgMS0yIDJIN2EyIDIgMCAwIDEtMi0yVjZaIiAvPgogIDxwYXRoIGQ9Ik01IDEwaDE0IiAvPgogIDxwYXRoIGQ9Ik0xNSA3djYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [refrigerator] icon is a graphical symbol that conveys a specific idea or functionality related to frigerator, fridge, freezer, cooler, icebox, chiller, cold storage.
+  /// - The [refrigerator] icon is a graphical symbol that conveys a specific idea or functionality related to fridge, freezer, cooler, icebox, chiller, cold storage.
   /// - It belongs to the categories: food-beverage, home
   ///
   /// Acknowledgements:
@@ -21518,7 +21566,7 @@ abstract final class LucideIcons {
   /// ![robot_vacuum](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTdoMiIgLz4KICA8cGF0aCBkPSJNMTIgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNyAxMmE1IDUgMCAwMC0xMCAwIiAvPgogIDxwYXRoIGQ9Ik0xOSAydjIuOCIgLz4KICA8cGF0aCBkPSJNMiA1aDIuOCIgLz4KICA8cGF0aCBkPSJNMjIgNWgtMi44IiAvPgogIDxwYXRoIGQ9Ik01IDJ2Mi44IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [robot_vacuum] icon is a graphical symbol that conveys a specific idea or functionality related to appliance, cleaning, household, housekeeping, tool, maintenance, smarthome, sweeping, hygiene, chores, automation, smart home, device, floor, dust, debris, navigation, sensor.
+  /// - The [robot_vacuum] icon is a graphical symbol that conveys a specific idea or functionality related to appliance, cleaning, household, housekeeping, tool, maintenance, sweeping, hygiene, chores, automation, smart home, device, floor, dust, debris, navigation, sensor.
   /// - It belongs to the categories: devices, home, tools
   ///
   /// Acknowledgements:
@@ -22270,7 +22318,7 @@ abstract final class LucideIcons {
   /// ![scan_qr_code](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMTJ2NGExIDEgMCAwIDEtMSAxaC00IiAvPgogIDxwYXRoIGQ9Ik0xNyAzaDJhMiAyIDAgMCAxIDIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xNyA4VjciIC8+CiAgPHBhdGggZD0iTTIxIDE3djJhMiAyIDAgMCAxLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIiAvPgogIDxwYXRoIGQ9Ik03IDE3aC4wMSIgLz4KICA8cGF0aCBkPSJNNyAyMUg1YTIgMiAwIDAgMS0yLTJ2LTIiIC8+CiAgPHJlY3QgeD0iNyIgeT0iNyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [scan_qr_code] icon is a graphical symbol that conveys a specific idea or functionality related to barcode, scan, qrcode, url, information, digital, scanner.
+  /// - The [scan_qr_code] icon is a graphical symbol that conveys a specific idea or functionality related to barcode, scan, qr code, url, information, digital, scanner.
   /// - It belongs to the categories: account, shopping, devices, security
   ///
   /// Acknowledgements:
@@ -22437,6 +22485,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey)
   static const IconData screen_share_off = IconData(
     0xe150,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [screw] icon from the Lucide icon set.
+  ///
+  /// ![screw](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOXYxMCIgLz4KICA8cGF0aCBkPSJNMTQgMTN2MiIgLz4KICA8cGF0aCBkPSJNMTYuNSAxMC41IDUuNzA2IDIxLjI5NEEyLjQgMi40IDAgMDE0LjAwMiAyMkgyLjVhLjUuNSAwIDAxLS41LS41di0xLjUwMmEyLjQgMi40IDAgMDEuNzA2LTEuNzA0TDEzLjUgNy41IiAvPgogIDxwYXRoIGQ9Ik0yMC44MTkgMTEuNTc1YTYgNiAwIDAwLjk2OS01LjE2Mi42LjYgMCAwMC0uOTgxLS4yMTlsLS40NTUuNDU0YTEuMiAxLjIgMCAwMS0xLjcwNCAwbC0xLjI5Ni0xLjI5NmExLjIgMS4yIDAgMDEwLTEuNzA0bC40NTQtLjQ1M2EuNTk1LjU5NSAwIDAwLS4yMTktLjk4IDYgNiAwIDAwLTUuMTYyLjk2NyAyIDIgMCAwMC0uMjIyIDMuMDE5bDUuNTk2IDUuNTk3YTIgMiAwIDAwMy4wMi0uMjIyIiAvPgogIDxwYXRoIGQ9Ik02IDEzdjgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [screw] icon is a graphical symbol that conveys a specific idea or functionality related to fastener, hardware, bolt, screwdriver, repair, assembly, diy, flathead.
+  /// - It belongs to the categories: tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/edik17](https://github.com/edik17), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData screw = IconData(
+    0xe7a0,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -22846,7 +22910,7 @@ abstract final class LucideIcons {
   /// ![shell](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTFhMiAyIDAgMSAxLTQgMCA0IDQgMCAwIDEgOCAwIDYgNiAwIDAgMS0xMiAwIDggOCAwIDAgMSAxNiAwIDEwIDEwIDAgMSAxLTIwIDAgMTEuOTMgMTEuOTMgMCAwIDEgMi40Mi03LjIyIDIgMiAwIDEgMSAzLjE2IDIuNDQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [shell] icon is a graphical symbol that conveys a specific idea or functionality related to beach, sand, holiday, sealife, fossil, ammonite, biology, ocean, terminal, command line, session, bash, zsh, roll, wrap, chewing gum, bubble gum, sweet, sugar, hosepipe, carpet, string, spiral, spinner, hypnotise, hypnosis.
+  /// - The [shell] icon is a graphical symbol that conveys a specific idea or functionality related to beach, sand, holiday, sea life, fossil, ammonite, biology, ocean, terminal, command line, session, bash, zsh, roll, wrap, chewing gum, bubble gum, sweet, sugar, hosepipe, carpet, string, spiral, spinner, hypnotise, hypnosis.
   /// - It belongs to the categories: animals, development, nature, science, travel, food-beverage, home
   ///
   /// Acknowledgements:
@@ -22958,7 +23022,7 @@ abstract final class LucideIcons {
   /// ![shield_cog_corner](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjJjLTMuODA2LTEuNDUtNy0zLjk2Ni03LTlWNmExIDEgMCAwIDEgMS0xYzIgMCA0LjUtMS4yIDYuMjQtMi43MmExLjE3IDEuMTcgMCAwIDEgMS41MiAwQzE0LjUxIDMuODEgMTcgNSAxOSA1YTEgMSAwIDAgMSAxIDF2NCIgLz4KICA8cGF0aCBkPSJNMTQuOTIzIDE2LjU0NyAxNCAxNi4xNjQiIC8+CiAgPHBhdGggZD0ibTE0LjkyMyAxOC44NDMtLjkyMy4zODMiIC8+CiAgPHBhdGggZD0iTTE2LjU0NyAxNC45MjMgMTYuMTY0IDE0IiAvPgogIDxwYXRoIGQ9Im0xNi41NDcgMjAuNDY3LS4zODMuOTI0IiAvPgogIDxwYXRoIGQ9Im0xOC44NDMgMTQuOTIzLjM4My0uOTIzIiAvPgogIDxwYXRoIGQ9Im0xOS4yMjUgMjEuMzkxLS4zODItLjkyNCIgLz4KICA8cGF0aCBkPSJtMjAuNDY3IDE2LjU0Ny45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtMjAuNDY3IDE4Ljg0My45MjMuMzgzIiAvPgogIDxjaXJjbGUgY3g9IjE3LjY5NSIgY3k9IjE3LjY5NSIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [shield_cog_corner] icon is a graphical symbol that conveys a specific idea or functionality related to cybersecurity, secure, safety, protection, guardian, armored, armoured, defense, defence, defender, block, threat, prevention, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, shieldcog, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout.
+  /// - The [shield_cog_corner] icon is a graphical symbol that conveys a specific idea or functionality related to cybersecurity, secure, safety, protection, guardian, armored, armoured, defense, defence, defender, block, threat, prevention, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, shield cog, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout.
   /// - It belongs to the categories: account, security, development, gaming, shapes
   ///
   /// Acknowledgements:
@@ -22997,6 +23061,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData shield_half = IconData(
     0xe517,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [shield_house] icon from the Lucide icon set.
+  ///
+  /// ![shield_house](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMjJhMSAxIDAgMDEtMS0xdi00YTEgMSAwIDAxLjQ0NS0uODMybDMtMmExIDEgMCAwMTEuMTEgMGwzIDJBMSAxIDAgMDEyMiAxN3Y0YTEgMSAwIDAxLTEgMXoiIC8+CiAgPHBhdGggZD0iTTE4IDIydi0zIiAvPgogIDxwYXRoIGQ9Ik0yMCAxMC40MThWNmExIDEgMCAwMC0xLTFjLTIgMC00LjQ5LTEuMTktNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAwLTEuNTIgMEM5LjUgMy44IDcgNSA1IDVhMSAxIDAgMDAtMSAxdjdjMCA0LjYwMiAyLjY3IDcuMSA2LjAzNyA4LjYwMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [shield_house] icon is a graphical symbol that conveys a specific idea or functionality related to cybersecurity, secure, safety, protection, guardian, armored, armoured, defense, defence, defender, block, threat, prevention, antivirus, vigilance, vigilant, detection, scan, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, property, household, connectivity, building, residence.
+  /// - It belongs to the categories: account, security, development, home, connectivity
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/benhaube](https://github.com/benhaube)
+  static const IconData shield_house = IconData(
+    0xe7a1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -24030,7 +24110,7 @@ abstract final class LucideIcons {
   /// ![spotlight](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMjk1IDE5LjU2MiAxNiAyMiIgLz4KICA8cGF0aCBkPSJtMTcgMTYgMy43NTggMi4wOTgiIC8+CiAgPHBhdGggZD0ibTE5IDEyLjUgMy4wMjYtLjU5OCIgLz4KICA8cGF0aCBkPSJNNy42MSA2LjNhMyAzIDAgMCAwLTMuOTIgMS4zbC0xLjM4IDIuNzlhMyAzIDAgMCAwIDEuMyAzLjkxbDYuODkgMy41OTdhMSAxIDAgMCAwIDEuMzQyLS40NDdsMy4xMDYtNi4yMTFhMSAxIDAgMCAwLS40NDctMS4zNDF6IiAvPgogIDxwYXRoIGQ9Ik04IDlWMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [spotlight] icon is a graphical symbol that conveys a specific idea or functionality related to winner, soapbox, stage, entertainment, drama, podium, actor, actress, singer, light, beam, play, theatre, show, focus, concert, performance, lens, leaderboard, followspot, best, highlight.
+  /// - The [spotlight] icon is a graphical symbol that conveys a specific idea or functionality related to winner, soapbox, stage, entertainment, drama, podium, actor, actress, singer, light, beam, play, theatre, show, focus, concert, performance, lens, leaderboard, follow spot, best, highlight.
   /// - It belongs to the categories: devices, photography, multimedia, communication
   ///
   /// Acknowledgements:
@@ -27166,7 +27246,7 @@ abstract final class LucideIcons {
   /// ![toothbrush](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTFjLTIgMi00IDItNiA0bC03IDciIC8+CiAgPHBhdGggZD0ibTIyIDQtNy40MTQgNy40MTQtMi0yQTIgMiAwIDAxMTQgNmMwLS41MTIuMTk2LTEuMDI0LjU4Ni0xLjQxNEEyIDIgMCAwMTE2IDRhMiAyIDAgMDEzLjI2Mi0xLjU1MmwyLjE1MiAyLjEzOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [toothbrush] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, selfcare, grooming.
+  /// - The [toothbrush] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, self care, grooming.
   /// - It belongs to the categories: home, travel, tools, medical
   ///
   /// Acknowledgements:
@@ -27182,7 +27262,7 @@ abstract final class LucideIcons {
   /// ![toothbrush_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM0g4IiAvPgogIDxwYXRoIGQ9Ik0xNC41ODYgMTEuNDE0IDIyIDQiIC8+CiAgPHBhdGggZD0iTTE1IDExYTggOCAwIDAxLS40MjkuNCIgLz4KICA8cGF0aCBkPSJtMiAyMiA3LTdjMS44NTctMS44NTcgMy43MTQtMS45OSA1LjU3MS0zLjZsLTEuOTg1LTEuOTg2QTIgMiAwIDAxMTQgNmEyIDIgMCAwMTItMiAyIDIgMCAwMTMuMjYyLTEuNTUybDIuMTUyIDIuMTM4IiAvPgogIDxwYXRoIGQ9Ik0yMCAxNXY0IiAvPgogIDxwYXRoIGQ9Ik0yMiAxN2gtNCIgLz4KICA8cGF0aCBkPSJNNCA1djQiIC8+CiAgPHBhdGggZD0iTTYgN0gyIiAvPgogIDxwYXRoIGQ9Ik05IDJ2MiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [toothbrush_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, selfcare, grooming, fresh, clean.
+  /// - The [toothbrush_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, self care, grooming, fresh, clean.
   /// - It belongs to the categories: home, tools, medical, travel
   ///
   /// Acknowledgements:
@@ -27806,7 +27886,7 @@ abstract final class LucideIcons {
   /// ![tv_minimal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNyAyMWgxMCIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [tv_minimal] icon is a graphical symbol that conveys a specific idea or functionality related to flatscreen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, home cinema, entertainment, showtime, channels, catchup.
+  /// - The [tv_minimal] icon is a graphical symbol that conveys a specific idea or functionality related to flat screen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, home cinema, entertainment, showtime, channels, catchup.
   /// - It belongs to the categories: devices, multimedia
   ///
   /// Acknowledgements:
@@ -27822,7 +27902,7 @@ abstract final class LucideIcons {
   /// ![tv_minimal_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMDMzIDkuNDRhLjY0Ny42NDcgMCAwIDEgMCAxLjEybC00LjA2NSAyLjM1MmEuNjQ1LjY0NSAwIDAgMS0uOTY4LS41NlY3LjY0OGEuNjQ1LjY0NSAwIDAgMSAuOTY3LS41NnoiIC8+CiAgPHBhdGggZD0iTTcgMjFoMTAiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIyIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [tv_minimal_play] icon is a graphical symbol that conveys a specific idea or functionality related to flatscreen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, movie, live, ott, running, start, film, home cinema, entertainment, showtime, channels, catchup.
+  /// - The [tv_minimal_play] icon is a graphical symbol that conveys a specific idea or functionality related to flat screen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, movie, live, ott, running, start, film, home cinema, entertainment, showtime, channels, catchup.
   /// - It belongs to the categories: devices, multimedia
   ///
   /// Acknowledgements:
@@ -28421,6 +28501,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/jmsv](https://github.com/jmsv), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData user_round_search = IconData(
     0xe578,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [user_round_star] icon from the Lucide icon set.
+  ///
+  /// ![user_round_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuMDUxIDEyLjYxNmExIDEgMCAwIDEgMS45MDkuMDI0bC43MzcgMS40NTJhMSAxIDAgMCAwIC43MzcuNTM1bDEuNjM0LjI1NmExIDEgMCAwIDEgLjU4OCAxLjgwNmwtMS4xNzIgMS4xNjhhMSAxIDAgMCAwLS4yODIuODY2bC4yNTkgMS42MTNhMSAxIDAgMCAxLTEuNTQxIDEuMTM0bC0xLjQ2NS0uNzVhMSAxIDAgMCAwLS45MTIgMGwtMS40NjUuNzVhMSAxIDAgMCAxLTEuNTM5LTEuMTMzbC4yNTgtMS42MTNhMSAxIDAgMCAwLS4yODItLjg2N2wtMS4xNTYtMS4xNTJhMSAxIDAgMCAxIC41NzItMS44MjJsMS42MzMtLjI1NmExIDEgMCAwIDAgLjczNy0uNTM1eiIgLz4KICA8cGF0aCBkPSJNMiAyMWE4IDggMCAwIDEgNi43NzgtNy45MDUiIC8+CiAgPHBhdGggZD0iTTguOTI3IDEyLjg4NWE1IDUgMCAxIDEgNi4wNjEtNC41MzUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [user_round_star] icon is a graphical symbol that conveys a specific idea or functionality related to person, account, favorite, contact, like, review, rating, admin, avatar, profile, featured, moderator, verified, badge, award, champion, starred.
+  /// - It belongs to the categories: account
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData user_round_star = IconData(
+    0xe7a2,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -29429,6 +29525,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/VirtCode](https://github.com/VirtCode)
   static const IconData wifi_high = IconData(
     0xe5f7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [wifi_lock] icon from the Lucide icon set.
+  ///
+  /// ![wifi_lock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA4LjgyYTE1IDE1IDAgMDEyMCAwIiAvPgogIDxwYXRoIGQ9Ik0yMCAxNnYtMmEyIDIgMCAwMC00IDB2MiIgLz4KICA8cGF0aCBkPSJNNSAxMi44NTlhMTAgMTAgMCAwMTguNDM2LTIuNzU2IiAvPgogIDxwYXRoIGQ9Ik04LjUgMTYuNDI5YTUgNSAwIDAxMS43OTQtMS4xMyIgLz4KICA8cmVjdCB4PSIxNCIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [wifi_lock] icon is a graphical symbol that conveys a specific idea or functionality related to admin, connection, secure, security, signal, network, password, wireless, hotspot, encrypted, locked, private, ssid, guest, router, access, authentication, protected.
+  /// - It belongs to the categories: connectivity, devices, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/benhaube](https://github.com/benhaube), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData wifi_lock = IconData(
+    0xe7a3,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

@@ -1,3 +1,15 @@
+# 1.55.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.55.0
+- Total icon count increased from 1,870+ to 1,877+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- handle-bottom-right, mail-dot, phone-log, screw, shield-house, user-round-star, wifi-lock
+
+---
+
 # 1.54.0
 
 ## Improvements 🚀

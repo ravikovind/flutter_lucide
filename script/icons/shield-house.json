@@ -1,11 +1,16 @@
 {
   "$schema": "../icon.schema.json",
   "contributors": [
-    "colebemis",
-    "karsa-mistmere",
-    "RajnishKMehta"
+    "benhaube"
   ],
-  "use-cases": [],
+  "use-cases": [
+    "Indicating a segregated IoT network in router firmware",
+    "Indicating an alarm armed in home mode",
+    "Indicating firewall protection for a home network",
+    "Showing home insurance coverage for a property",
+    "Representing secure smart-device groups in smart-home hubs",
+    "Showing monitored alarm enrollment on a dashboard"
+  ],
   "tags": [
     "cybersecurity",
     "secure",
@@ -25,7 +30,6 @@
     "vigilant",
     "detection",
     "scan",
-    "find",
     "strength",
     "strong",
     "tough",
@@ -35,27 +39,17 @@
     "undamaged",
     "audit",
     "admin",
-    "verification",
-    "crest",
-    "shield cog",
-    "bravery",
-    "knight",
-    "foot soldier",
-    "infantry",
-    "trooper",
-    "pawn",
-    "battle",
-    "war",
-    "military",
-    "army",
-    "cadet",
-    "scout"
+    "property",
+    "household",
+    "connectivity",
+    "building",
+    "residence"
   ],
   "categories": [
     "account",
     "security",
     "development",
-    "gaming",
-    "shapes"
+    "home",
+    "connectivity"
   ]
 }
