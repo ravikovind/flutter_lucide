@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1877** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1879** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -427,7 +427,7 @@ All **1877** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-stop` | media, music | multimedia |
 | `circle-user` | person, account, contact | account |
 | `circle-user-round` | person, account, contact | account |
-| `circle-x` | cancel, close, delete, remove, times, clear, error, incorrect, wrong, mistake, failure, linter, multiply, multiplication | math, development |
+| `circle-x` | cancel, close, cross, delete, remove, times, clear, error, incorrect, wrong, mistake, failure, linter, multiply, multiplication | math, development |
 | `circuit-board` | computing, electricity, electronics | science, development |
 | `citrus` | lemon, orange, grapefruit, fruit | food-beverage |
 | `clapperboard` | movie, film, video, camera, cinema, cut, action, television, tv, show, entertainment | multimedia |
@@ -1072,6 +1072,7 @@ All **1877** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-circle-plus` | comment, chat, conversation, dialog, feedback, speech bubble, add | social |
 | `message-circle-question-mark` | comment, chat, conversation, dialog, feedback, speech bubble, help | social |
 | `message-circle-reply` | comment, chat, conversation, dialog, feedback, speech bubble, reply, response | social |
+| `message-circle-text` | comment, chat, conversation, dialog, feedback, speech, bubble, sms, texting, messaging, dm, discussion, thread, transcript, written, writing, lines, support, chatbot | social |
 | `message-circle-warning` | comment, chat, conversation, dialog, feedback, speech bubble, report, abuse, offense, alert, danger, caution, protected, exclamation mark | social, notifications |
 | `message-circle-x` | comment, chat, conversation, dialog, feedback, speech bubble, clear, close, delete, remove, cancel, silence, mute, moderate | account, social |
 | `message-square` | comment, chat, conversation, dialog, feedback, speech bubble | social |
@@ -1431,6 +1432,7 @@ All **1877** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `server` | cloud, storage | development, devices |
 | `server-cog` | cloud, storage, computing, cog, gear | development, devices |
 | `server-crash` | cloud, storage, problem, error | development, devices |
+| `server-nas` | storage, network, server, backup, raid, files, sharing, disk, hardware, lan, cloud | devices, development |
 | `server-off` | cloud, storage | development, devices |
 | `server-plus` | add, create, new, cloud, storage, computing | development, devices |
 | `settings` | cog, edit, gear, preferences | account |
@@ -1888,4 +1890,4 @@ All **1877** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1877 icons*
+*Total: 1879 icons*
