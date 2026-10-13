@@ -6718,7 +6718,7 @@ abstract final class LucideIcons {
   /// ![circle_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtMTUgOS02IDYiIC8+CiAgPHBhdGggZD0ibTkgOSA2IDYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [circle_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, delete, remove, times, clear, error, incorrect, wrong, mistake, failure, linter, multiply, multiplication.
+  /// - The [circle_x] icon is a graphical symbol that conveys a specific idea or functionality related to cancel, close, cross, delete, remove, times, clear, error, incorrect, wrong, mistake, failure, linter, multiply, multiplication.
   /// - It belongs to the categories: math, development
   ///
   /// Acknowledgements:
@@ -17033,6 +17033,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [message_circle_text] icon from the Lucide icon set.
+  ///
+  /// ![message_circle_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy4wODYgMTcuNTA5YTIgMiAwIDAwLS4wOTQtMS4xNjcgMTAgMTAgMCAxMTQuNzc3IDQuNzE5IDIgMiAwIDAwLTEuMDk5LS4wOTJsLTMuNDEzLjk5OGExIDEgMCAwMS0xLjIzNi0xLjE2OHoiIC8+CiAgPHBhdGggZD0iTTggMTJoOSIgLz4KICA8cGF0aCBkPSJNOCAxNmg1IiAvPgogIDxwYXRoIGQ9Ik04IDhoNyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [message_circle_text] icon is a graphical symbol that conveys a specific idea or functionality related to comment, chat, conversation, dialog, feedback, speech, bubble, sms, texting, messaging, dm, discussion, thread, transcript, written, writing, lines, support, chatbot.
+  /// - It belongs to the categories: social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData message_circle_text = IconData(
+    0xe7a4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [message_circle_warning] icon from the Lucide icon set.
   ///
   /// ![message_circle_warning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
@@ -22773,6 +22789,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData server_crash = IconData(
     0xe1e9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [server_nas] icon from the Lucide icon set.
+  ///
+  /// ![server_nas](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTZWOCIgLz4KICA8cGF0aCBkPSJNMTQgMTZWOCIgLz4KICA8cGF0aCBkPSJNMTggMTZWOCIgLz4KICA8cGF0aCBkPSJNNiAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTYgMTZoLjAxIiAvPgogIDxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [server_nas] icon is a graphical symbol that conveys a specific idea or functionality related to storage, network, server, backup, raid, files, sharing, disk, hardware, lan, cloud.
+  /// - It belongs to the categories: devices, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/benhaube](https://github.com/benhaube)
+  static const IconData server_nas = IconData(
+    0xe7a5,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

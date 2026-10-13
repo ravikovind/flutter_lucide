@@ -7379,6 +7379,12 @@
     "className": "icon-message-circle-reply",
     "unicode": "&#58729;"
   },
+  "message-circle-text": {
+    "encodedCode": "\\e7a4",
+    "prefix": "icon",
+    "className": "icon-message-circle-text",
+    "unicode": "&#59300;"
+  },
   "message-circle-warning": {
     "encodedCode": "\\e56a",
     "prefix": "icon",
@@ -9808,6 +9814,12 @@
     "prefix": "icon",
     "className": "icon-server-crash",
     "unicode": "&#57833;"
+  },
+  "server-nas": {
+    "encodedCode": "\\e7a5",
+    "prefix": "icon",
+    "className": "icon-server-nas",
+    "unicode": "&#59301;"
   },
   "server-off": {
     "encodedCode": "\\e1ea",
