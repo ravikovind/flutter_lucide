@@ -2585,6 +2585,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [belarusian_ruble] icon from the Lucide icon set.
+  ///
+  /// ![belarusian_ruble](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAxNiBMMTMgMTYiIC8+CiAgPHBhdGggZD0iTTYgMTJoOWE0IDQgMCAwIDEgMCA4SDdhMSAxIDAgMCAxLTEtMVY1YTEgMSAwIDAgMSAxLTFoNyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [belarusian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, byn, iso4217, fiat, prices, localization, banking, checkout, wallet, exchange-rate.
+  /// - It belongs to the categories: finance, shopping, account
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/js-best](https://github.com/js-best)
+  static const IconData belarusian_ruble = IconData(
+    0xe7a6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [bell] icon from the Lucide icon set.
   ///
   /// ![bell](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMjY4IDIxYTIgMiAwIDAgMCAzLjQ2NCAwIiAvPgogIDxwYXRoIGQ9Ik0zLjI2MiAxNS4zMjZBMSAxIDAgMCAwIDQgMTdoMTZhMSAxIDAgMCAwIC43NC0xLjY3M0MxOS40MSAxMy45NTYgMTggMTIuNDk5IDE4IDhBNiA2IDAgMCAwIDYgOGMwIDQuNDk5LTEuNDExIDUuOTU2LTIuNzM4IDcuMzI2IiAvPgo8L3N2Zz4K)
@@ -4393,12 +4409,28 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [calendar_chevrons_left] icon from the Lucide icon set.
+  ///
+  /// ![calendar_chevrons_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMjEtMy0zIDMtMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0yMSA5SDMiIC8+CiAgPHBhdGggZD0iTTMgMTEuNVY1YTIgMiAwIDAxMi0yaDE0YTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMmgtNCIgLz4KICA8cGF0aCBkPSJtNSAyMS0zLTMgMy0zIiAvPgogIDxwYXRoIGQ9Ik04IDJ2MyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [calendar_chevrons_left] icon is a graphical symbol that conveys a specific idea or functionality related to navigation, arrow, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events.
+  /// - It belongs to the categories: time, arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData calendar_chevrons_left = IconData(
+    0xe7a7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [calendar_chevrons_right] icon from the Lucide icon set.
   ///
   /// ![calendar_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgMjEgMy0zLTMtMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Im0xOSAyMSAzLTMtMy0zIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMS41VjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDQiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [calendar_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to navigation, arrow, right, chevron, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events, chevrons.
+  /// - The [calendar_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to navigation, arrow, direction, symbol, pointer, indicator, previous, menu, date, day, month, year, events.
   /// - It belongs to the categories: time, arrows, navigation
   ///
   /// Acknowledgements:
@@ -6373,6 +6405,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mosch](https://github.com/mosch)
   static const IconData circle_fading_arrow_up = IconData(
     0xe618,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_fading_play] icon from the Lucide icon set.
+  ///
+  /// ![circle_fading_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMmExMCAxMCAwIDAgMSA3LjM4IDE2Ljc1IiAvPgogIDxwYXRoIGQ9Ik05IDkuMDAzYTEgMSAwIDAgMSAxLjUxNy0uODU5bDQuOTk3IDIuOTk3YTEgMSAwIDAgMSAwIDEuNzE4bC00Ljk5NyAyLjk5N0ExIDEgMCAwIDEgOSAxNC45OTZ6IiAvPgogIDxwYXRoIGQ9Ik0yLjUgOC44NzVhMTAgMTAgMCAwIDAtLjUgMyIgLz4KICA8cGF0aCBkPSJNMi44MyAxNmExMCAxMCAwIDAgMCAyLjQzIDMuNCIgLz4KICA8cGF0aCBkPSJNNC42MzYgNS4yMzVhMTAgMTAgMCAwIDEgLjg5MS0uODU3IiAvPgogIDxwYXRoIGQ9Ik04LjY0NCAyMS40MmExMCAxMCAwIDAgMCA3LjYzMS0uMzgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_fading_play] icon is a graphical symbol that conveys a specific idea or functionality related to short clips, shorts, reels, stories, video, highlights, social media, content, preview, teaser, clip, short form, vertical video.
+  /// - It belongs to the categories: multimedia, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/tatianatsiguleva](https://github.com/tatianatsiguleva), [https://github.com/jordan808](https://github.com/jordan808), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_fading_play = IconData(
+    0xe7a8,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -8373,6 +8421,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData cpu = IconData(
     0xe0a9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [cpu_ai] icon from the Lucide icon set.
+  ///
+  /// ![cpu_ai](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjB2MiIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xNiA5djYiIC8+CiAgPHBhdGggZD0iTTE3IDIwdjIiIC8+CiAgPHBhdGggZD0iTTE3IDJ2MiIgLz4KICA8cGF0aCBkPSJNMiAxMmgyIiAvPgogIDxwYXRoIGQ9Ik0yIDE3aDIiIC8+CiAgPHBhdGggZD0iTTIgN2gyIiAvPgogIDxwYXRoIGQ9Ik0yMCAxMmgyIiAvPgogIDxwYXRoIGQ9Ik0yMCAxN2gyIiAvPgogIDxwYXRoIGQ9Ik0yMCA3aDIiIC8+CiAgPHBhdGggZD0iTTcgMjB2MiIgLz4KICA8cGF0aCBkPSJNNyAydjIiIC8+CiAgPHBhdGggZD0iTTggMTNoNCIgLz4KICA8cGF0aCBkPSJNOCAxNXYtNGEyIDIgMCAwMTQgMHY0IiAvPgogIDxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [cpu_ai] icon is a graphical symbol that conveys a specific idea or functionality related to ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip.
+  /// - It belongs to the categories: devices, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/signalgridco](https://github.com/signalgridco)
+  static const IconData cpu_ai = IconData(
+    0xe7a9,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -11993,6 +12057,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [folder_user] icon from the Lucide icon set.
+  ///
+  /// ![folder_user](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMjU0IDIwSDRhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMy45YTIgMiAwIDAgMSAxLjY5LjlsLjgxIDEuMmEyIDIgMCAwIDAgMS42Ny45SDIwYTIgMiAwIDAgMSAyIDJWOS4yNTUiIC8+CiAgPHBhdGggZD0iTTIyIDIyYTQgNCAwIDAgMC04IDAiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxNSIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [folder_user] icon is a graphical symbol that conveys a specific idea or functionality related to directory, profile, person, personal, contact, document, account, individual, home folder, shared, access, owner.
+  /// - It belongs to the categories: files, account, social, people, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData folder_user = IconData(
+    0xe7aa,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [folder_users] icon from the Lucide icon set.
+  ///
+  /// ![folder_users](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNS4yNTQgMjBINGEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgzLjlhMiAyIDAgMCAxIDEuNjkuOWwuODEgMS4yYTIgMiAwIDAgMCAxLjY3LjlIMjBhMiAyIDAgMCAxIDIgMlY5LjI1NSIgLz4KICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjE1IiByPSIzIiAvPgogIDxwYXRoIGQ9Ik0xNyAyMmE0IDQgMCAwIDAtOCAwIiAvPgogIDxwYXRoIGQ9Ik0yMiAyMkE0IDQgMCAwIDAgMjAuMjQgMTguNjg2IDEgMSAwIDAgMSAyMC4xIDE3LjE0MyAzIDMgMCAwIDAgMTkuNSAxMi40MDIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [folder_users] icon is a graphical symbol that conveys a specific idea or functionality related to directory, profile, shared, people, document, accounts, group, team, permission, access, collaboration, organization.
+  /// - It belongs to the categories: files, account, social, people, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData folder_users = IconData(
+    0xe7ab,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [folder_x] icon from the Lucide icon set.
   ///
   /// ![folder_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMjBhMiAyIDAgMCAwIDItMlY4YTIgMiAwIDAgMC0yLTJoLTcuOWEyIDIgMCAwIDEtMS42OS0uOUw5LjYgMy45QTIgMiAwIDAgMCA3LjkzIDNINGEyIDIgMCAwIDAtMiAydjEzYTIgMiAwIDAgMCAyIDJaIiAvPgogIDxwYXRoIGQ9Im05LjUgMTAuNSA1IDUiIC8+CiAgPHBhdGggZD0ibTE0LjUgMTAuNS01IDUiIC8+Cjwvc3ZnPgo=)
@@ -12953,6 +13049,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [graph_star] icon from the Lucide icon set.
+  ///
+  /// ![graph_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuMzQyIDkuMzE2IDEuNzY0LTMuNTI3IiAvPgogIDxwYXRoIGQ9Im0xMi41OSAxNC41NDUgMi4zNSAzLjc1OSIgLz4KICA8cGF0aCBkPSJtMTMuOTgyIDEyLjMzMiA0LjAzLjQ0NyIgLz4KICA8cGF0aCBkPSJNNS40MTQgMTcuNTg2IDguODggMTQuMTIiIC8+CiAgPHBhdGggZD0iTTkuMDI1IDkuNzQyIDUuMzE3IDUuNTA1IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTIiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTUiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxMyIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [graph_star] icon is a graphical symbol that conveys a specific idea or functionality related to mind map, network, hub, nodes, links, connections, relationships, dependencies, bonds, structure, topology, cluster, thoughts, ideas, concepts, molecule.
+  /// - It belongs to the categories: development, charts
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData graph_star = IconData(
+    0xe7ac,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [grid_2x2] icon from the Lucide icon set.
   ///
   /// ![grid_2x2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyAxMmgxOCIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
@@ -13141,6 +13253,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData guitar = IconData(
     0xe55f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [guitar_electric] icon from the Lucide icon set.
+  ///
+  /// ![guitar_electric](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuMTcyIDExLjgyOCA0LjI0Mi00LjI0MiIgLz4KICA8cGF0aCBkPSJNMTYuNDE0IDcuNTg2QTIgMiAwIDAwMTcgNi4xNzJWNWEyIDIgMCAwMTEuMTc3LTEuODIzTDIwLjU5IDIuMDlhMSAxIDAgMDExLjMyIDEuMzJsLTEuMDg4IDIuNDEyQTIgMiAwIDAxMTkgN2gtMWEyIDIgMCAwMC0xLjU4Ni41ODYiIC8+CiAgPHBhdGggZD0ibTYgMTYgMiAyIiAvPgogIDxwYXRoIGQ9Ik04LjIzIDkuODVhMyAzIDAgMDExLjI4LTEuNDU0IDEgMSAwIDAxMS40OTYuODE1IDQgNCAwIDAwMy43ODMgMy43ODMgMSAxIDAgMDEuODE1IDEuNDk2IDMgMyAwIDAxLTEuNDU0IDEuMjhsLS45Mi4zOEEyIDIgMCAwMDEyIDE4YTQgNCAwIDAxLTQgNCA2IDYgMCAwMS02LTYgNCA0IDAgMDE0LTQgMiAyIDAgMDAxLjg1LTEuMjN6IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [guitar_electric] icon is a graphical symbol that conveys a specific idea or functionality related to acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise.
+  /// - It belongs to the categories: multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData guitar_electric = IconData(
+    0xe7ad,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -19829,6 +19957,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData percent = IconData(
     0xe132,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [perfume_bottle] icon from the Lucide icon set.
+  ///
+  /// ![perfume_bottle](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNIDUgMjIgSCAxMS4wNzIiIC8+CiAgPHBhdGggZD0iTTE1IDUgQyAyMyA0IDIzLjMyOCAxMi42NzYgMjAgMTQuNTM2IiAvPgogIDxwYXRoIGQ9Ik0xNS44MDIgMTAuMzA4IEMgMTQuNzc2IDkuNDY1IDE0IDguNDk2IDE0IDciIC8+CiAgPHBhdGggZD0iTTIgMmguMDEiIC8+CiAgPHBhdGggZD0iTTIgN2guMDEiIC8+CiAgPHBhdGggZD0iTTUgNC41aC4wMSIgLz4KICA8cGF0aCBkPSJNOC4xMjcgMjIgQSA4IDggMCAwIDEgNCAxNSAzIDMgMCAwIDEgNC44NzkgMTIuODc5QyA2Ljg3OSAxMC44NzkgMTAgMTAgMTAgNyIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSI0IiAvPgogIDxyZWN0IHg9IjkiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [perfume_bottle] icon is a graphical symbol that conveys a specific idea or functionality related to eau de parfum, eau de toilette, essence, aftershave, cologne, aroma, fragrance, smell, scent, bouquet, gift, duty free, spray, puff, atomizer, mist, beauty, skincare, cosmetics.
+  /// - It belongs to the categories: shopping, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData perfume_bottle = IconData(
+    0xe7ae,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -28649,6 +28793,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [users_collaboration] icon from the Lucide icon set.
+  ///
+  /// ![users_collaboration](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuOTI1IDMuMDQ3YTkgOSAwIDAxNy42MTYgNi4xMSIgLz4KICA8cGF0aCBkPSJNMTMgMjJhMiAyIDAgMDEyLTJoNGEyIDIgMCAwMTIgMiIgLz4KICA8cGF0aCBkPSJNMyAxMmEyIDIgMCAwMTItMmg0YTIgMiAwIDAxMiAyIiAvPgogIDxwYXRoIGQ9Ik0zLjg4OSAxNS45YTkgOSAwIDAwNS4yNDcgNC42MzIiIC8+CiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxNCIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI3IiBjeT0iNCIgcj0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [users_collaboration] icon is a graphical symbol that conveys a specific idea or functionality related to group, people, collaboration, users, team, communication, cooperative, workspace, peer-to-peer, p2p, shared, delegation, handoff, coauthor, profiles.
+  /// - It belongs to the categories: account, people, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData users_collaboration = IconData(
+    0xe7af,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [users_round] icon from the Lucide icon set.
   ///
   /// ![users_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMjFhOCA4IDAgMCAwLTE2IDAiIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSI4IiByPSI1IiAvPgogIDxwYXRoIGQ9Ik0yMiAyMGMwLTMuMzctMi02LjUtNC04YTUgNSAwIDAgMC0uNDUtOC4zIiAvPgo8L3N2Zz4K)
@@ -28661,6 +28821,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData users_round = IconData(
     0xe46e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [users_round_collaboration] icon from the Lucide icon set.
+  ///
+  /// ![users_round_collaboration](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAuNDUzIDguOTExYTkgOSAwIDAwLTYuNjk2LTUuNzM4IiAvPgogIDxwYXRoIGQ9Ik0yMSAyMmE0IDQgMCAwMC04IDAiIC8+CiAgPHBhdGggZD0iTTMgMTJhNCA0IDAgMDE3Ljk2My0uNTQzIiAvPgogIDxwYXRoIGQ9Ik0zLjg4OSAxNS45YTkgOSAwIDAwNS4yNDcgNC42MzIiIC8+CiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxNSIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI3IiBjeT0iNSIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [users_round_collaboration] icon is a graphical symbol that conveys a specific idea or functionality related to group, people, collaboration, users, team, communication, cooperative, workspace, peer-to-peer, p2p, shared, delegation, handoff, coauthor, profiles.
+  /// - It belongs to the categories: account, people, communication
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData users_round_collaboration = IconData(
+    0xe7b0,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

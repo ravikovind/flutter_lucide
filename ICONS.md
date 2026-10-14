@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1879** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1890** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -169,6 +169,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `beef-off` | food, dish, restaurant, course, meal, meat, bbq, steak, vegetarian | food-beverage |
 | `beer` | alcohol, bar, beverage, brewery, drink | food-beverage |
 | `beer-off` | alcohol, bar, beverage, brewery, drink | food-beverage |
+| `belarusian-ruble` | currency, money, payment, byn, iso4217, fiat, prices, localization, banking, checkout, wallet, exchange-rate | finance, shopping, account |
 | `bell` | alarm, notification, sound, reminder | account, notifications |
 | `bell-check` | alarm, notification, sound, reminder | account, notifications |
 | `bell-dot` | alarm, notification, sound, reminder, unread | account, notifications |
@@ -282,7 +283,8 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `calendar-arrow-up` | date, month, year, event, sort, order, ascending, descending, increasing, decreasing, rising, falling | time |
 | `calendar-check` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
 | `calendar-check-2` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
-| `calendar-chevrons-right` | navigation, arrow, right, chevron, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events, chevrons | time, arrows, navigation |
+| `calendar-chevrons-left` | navigation, arrow, direction, symbol, pointer, indicator, next, menu, date, day, month, year, events | time, arrows, navigation |
+| `calendar-chevrons-right` | navigation, arrow, direction, symbol, pointer, indicator, previous, menu, date, day, month, year, events | time, arrows, navigation |
 | `calendar-clock` | date, day, month, year, event, clock, hour | time |
 | `calendar-cog` | date, day, month, year, events, settings, gear, cog | time |
 | `calendar-days` | date, month, year, event | time |
@@ -406,6 +408,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-equal` | calculate, shape, = | math |
 | `circle-euro` | symbol, economy, banking, europe, €, euro, currency, money, payment, coin, finance, financial, exchange | shopping, finance |
 | `circle-fading-arrow-up` | north, up, upgrade, improve, circle, button | arrows, development |
+| `circle-fading-play` | short clips, shorts, reels, stories, video, highlights, social media, content, preview, teaser, clip, short form, vertical video | multimedia, social |
 | `circle-fading-plus` | stories, social media, sharing, content | communication, social |
 | `circle-gauge` | dashboard, dial, meter, speed, pressure, measure, level | transportation, sports, science |
 | `circle-minus` | subtract, remove, decrease, reduce, calculate, line, operator, code, coding, minimum, downgrade, - | math |
@@ -531,6 +534,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `corner-up-left` | arrow | arrows |
 | `corner-up-right` | arrow | arrows |
 | `cpu` | processor, cores, technology, computer, chip, circuit, memory, ram, specs, gigahertz, ghz | devices |
+| `cpu-ai` | ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip | devices, development |
 | `creative-commons` | licence, license | text |
 | `credit-card` | bank, purchase, payment, cc | account, finance |
 | `credit-card-check` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc | account, finance, shopping |
@@ -757,6 +761,8 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `folder-sync` | directory, synchronize, synchronise, refresh, reconnect, transfer, backup | files, arrows |
 | `folder-tree` | directory, tree, browser | files |
 | `folder-up` | directory, upload, import, export | files, arrows |
+| `folder-user` | directory, profile, person, personal, contact, document, account, individual, home folder, shared, access, owner | files, account, social, people, security |
+| `folder-users` | directory, profile, shared, people, document, accounts, group, team, permission, access, collaboration, organization | files, account, social, people, security |
 | `folder-x` | directory, remove, delete | files |
 | `folders` | multiple, copy, directories | files |
 | `footprints` | steps, walking, foot, feet, trail, shoe | navigation |
@@ -817,6 +823,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
 | `grape` | fruit, wine, food | food-beverage |
+| `graph-star` | mind map, network, hub, nodes, links, connections, relationships, dependencies, bonds, structure, topology, cluster, thoughts, ideas, concepts, molecule | development, charts |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design, math |
 | `grid-2x2-check` | table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre | text, layout, math |
 | `grid-2x2-plus` | table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre | text, layout, math |
@@ -829,6 +836,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `groceries` | food, vegetables, health, grocery, market, farmer, produce, pantry, paper bag, shop, supermarket, retail, delivery, larder, provisions, takeout | food-beverage |
 | `group` | cubes, packages, parts, units, collection, cluster, gather, dashed | files |
 | `guitar` | acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise | multimedia |
+| `guitar-electric` | acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise | multimedia |
 | `ham` | food, pork, pig, meat, bone, hock, knuckle, gammon, cured | food-beverage |
 | `hamburger` | burger, cheeseburger, meat, beef, patty, bun, fast food, junk food, takeaway, takeout, snack, dish, restaurant, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, lettuce, tomato, relish, pickles, onions, ketchup, mustard, mayonnaise | food-beverage |
 | `hammer` | mallet, nails, diy, toolbox, build, construction | tools, home |
@@ -1247,6 +1255,7 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `pencil-sparkles` | edit, ai, tools, smart, create, draw, sketch, draft, writer, writing, stationery, artist, magic, wizard, magician | design, cursors, tools, text, photography |
 | `pentagon` | shape | shapes |
 | `percent` | percentage, modulo, modulus, remainder, %, sale, discount, offer, marketing | math, development, finance, shopping |
+| `perfume-bottle` | eau de parfum, eau de toilette, essence, aftershave, cologne, aroma, fragrance, smell, scent, bouquet, gift, duty free, spray, puff, atomizer, mist, beauty, skincare, cosmetics | shopping, travel |
 | `person-standing` | people, human, accessibility, stick figure | accessibility, people |
 | `phi` | math, golden-ratio, symbol, greek, letter, typography, constant, flux, magnetic-flux | math, science |
 | `philippine-peso` | currency, peso, money, php | finance |
@@ -1798,7 +1807,9 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-star` | person, account, favorite, contact, like, review, rating, admin | account |
 | `user-x` | delete, remove, unfollow, unsubscribe, unavailable | account |
 | `users` | group, people | account |
+| `users-collaboration` | group, people, collaboration, users, team, communication, cooperative, workspace, peer-to-peer, p2p, shared, delegation, handoff, coauthor, profiles | account, people, communication |
 | `users-round` | group, people | account |
+| `users-round-collaboration` | group, people, collaboration, users, team, communication, cooperative, workspace, peer-to-peer, p2p, shared, delegation, handoff, coauthor, profiles | account, people, communication |
 | `utensils` | fork, knife, cutlery, flatware, tableware, silverware, food, restaurant, meal, breakfast, dinner, supper | food-beverage, travel, navigation |
 | `utensils-crossed` | fork, knife, cutlery, flatware, tableware, silverware, food, restaurant, meal, breakfast, dinner, supper | food-beverage, travel, navigation |
 | `utility-pole` | electricity, energy, transmission line, telegraph pole, power lines, phone | buildings, home, sustainability |
@@ -1890,4 +1901,4 @@ All **1879** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1879 icons*
+*Total: 1890 icons*

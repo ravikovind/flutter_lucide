@@ -1,3 +1,15 @@
+# 1.57.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.57.0
+- Total icon count increased from 1,879+ to 1,890+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- belarusian-ruble, calendar-chevrons-left, circle-fading-play, cpu-ai, folder-user, folder-users, graph-star, guitar-electric, perfume-bottle, users-collaboration, users-round-collaboration
+
+---
+
 # 1.56.0
 
 ## Improvements 🚀
