@@ -2267,7 +2267,7 @@ abstract final class LucideIcons {
 
   /// Represents the [barrel] icon from the Lucide icon set.
   ///
-  /// ![barrel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM2E0MSA0MSAwIDAwMCAxOCIgLz4KICA8cGF0aCBkPSJNMTQgM2E0MSA0MSAwIDAxMCAxOCIgLz4KICA8cGF0aCBkPSJNMTYuOTk3IDIxYTIgMiAwIDAwMS42OC0uOTIgMTUuMjUgMTUuMjUgMCAwMDAtMTYuMTYgMiAyIDAgMDAtMS42OC0uOTJoLTEwYTIgMiAwIDAwLTEuNjgxLjkyIDE1LjI1IDE1LjI1IDAgMDAwIDE2LjE2IDIgMiAwIDAwMS42ODEuOTJ6IiAvPgogIDxwYXRoIGQ9Ik0zLjU0IDE2aDE2LjkxNCIgLz4KICA8cGF0aCBkPSJNMy41NCA4aDE2LjkxNCIgLz4KPC9zdmc+Cg==)
+  /// ![barrel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNSAyYTM0LjUgMzQuNSAwIDAwMCAyMCIgLz4KICA8cGF0aCBkPSJNMTMuNSAyYTM0LjUgMzQuNSAwIDAxMCAyMCIgLz4KICA8cGF0aCBkPSJNNC42NyAxN2gxNC42NyIgLz4KICA8cGF0aCBkPSJNNC42NyA3aDE0LjY3IiAvPgogIDxwYXRoIGQ9Ik02LjIzIDMuMDZhMTkgMTkgMCAwMDAgMTcuODhBMiAyIDAgMDA4IDIyaDhhMiAyIDAgMDAxLjc3LTEuMDYgMTkgMTkgMCAwMDAtMTcuODhBMiAyIDAgMDAxNiAySDhhMiAyIDAgMDAtMS43NyAxLjA2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [barrel] icon is a graphical symbol that conveys a specific idea or functionality related to keg, drum, tank, wine, beer, oak, wood, firkin, hogshead, kilderkin, barrique, solera, aging, whiskey, brewery, distillery, winery, vineyard.
@@ -5157,6 +5157,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/rrod497](https://github.com/rrod497)
   static const IconData cctv_off = IconData(
     0xe6d8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [certificate] icon from the Lucide icon set.
+  ///
+  /// ![certificate](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTBINiIgLz4KICA8cGF0aCBkPSJtMjAuNjkgMTUuNDc5IDEuMjkgNC44OGEuNS41IDAgMDEtLjY5OC41OTFsLTEuODQzLS44NDlhMSAxIDAgMDAtLjg3OS4wMDFsLTEuODQ2Ljg1YS41LjUgMCAwMS0uNjkyLS41OTNsMS4yOS00Ljg4IiAvPgogIDxwYXRoIGQ9Ik0yMiA2LjY3NVY2YTIgMiAwIDAwLTItMkg0YTIgMiAwIDAwLTIgMnYxMmEyIDIgMCAwMDIgMmg4IiAvPgogIDxwYXRoIGQ9Ik02IDE0aDQiIC8+CiAgPGNpcmNsZSBjeD0iMTkiIGN5PSIxMyIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [certificate] icon is a graphical symbol that conveys a specific idea or functionality related to award, ribbon, medal, achievement, pinned, badge, recognition, laurel, commendation, diploma, official, proof, fact, verified, license, warrant, authorization, legal, ownership, credential, ssl, tls, security, trust, cybersecurity, authority, graduation, study.
+  /// - It belongs to the categories: connectivity, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData certificate = IconData(
+    0xe7b1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -9769,6 +9785,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [eighth_note] icon from the Lucide icon set.
+  ///
+  /// ![eighth_note](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTkgNi01LjItMy45YS41LjUgMCAwIDAtLjguNFYxOCIgLz4KICA8Y2lyY2xlIGN4PSI5IiBjeT0iMTgiIHI9IjQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [eighth_note] icon is a graphical symbol that conveys a specific idea or functionality related to audio, music, sound, note, quaver.
+  /// - It belongs to the categories: multimedia, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData eighth_note = IconData(
+    0xe34a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [eighth_notes] icon from the Lucide icon set.
+  ///
+  /// ![eighth_notes](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTZWM2ExIDEgMCAwIDAtMS4yOC0uOTZsLTEwIDIuOTE3YTEgMSAwIDAgMC0uNzIuOTZWMTkiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxNiIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTkiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [eighth_notes] icon is a graphical symbol that conveys a specific idea or functionality related to audio, music, sound, notes, quavers.
+  /// - It belongs to the categories: multimedia, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData eighth_notes = IconData(
+    0xe122,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [eject] icon from the Lucide icon set.
   ///
   /// ![eject](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxM2ExIDEgMCAwIDEtLjcyLTEuNjk1bDcuMjU3LTcuNjY4YTIgMiAwIDAgMSAyLjkyNiAwbDcuMjU2IDcuNjY4QTEgMSAwIDAgMSAyMCAxM3oiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMTciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
@@ -13269,6 +13317,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/rrod497](https://github.com/rrod497)
   static const IconData guitar_electric = IconData(
     0xe7ad,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [half_note] icon from the Lucide icon set.
+  ///
+  /// ![half_note](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE4IiByPSI0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxOFYyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [half_note] icon is a graphical symbol that conveys a specific idea or functionality related to audio, music, sound, note, crotchet, minim, quarter note.
+  /// - It belongs to the categories: multimedia, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData half_note = IconData(
+    0xe34b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18569,70 +18633,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [music] icon from the Lucide icon set.
-  ///
-  /// ![music](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxOFY1bDEyLTJ2MTMiIC8+CiAgPGNpcmNsZSBjeD0iNiIgY3k9IjE4IiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE4IiBjeT0iMTYiIHI9IjMiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [music] icon is a graphical symbol that conveys a specific idea or functionality related to note, quaver, eighth note.
-  /// - It belongs to the categories: multimedia, files
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData music = IconData(
-    0xe122,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [music_2] icon from the Lucide icon set.
-  ///
-  /// ![music_2](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMTgiIHI9IjQiIC8+CiAgPHBhdGggZD0iTTEyIDE4VjJsNyA0IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [music_2] icon is a graphical symbol that conveys a specific idea or functionality related to quaver, eighth note, note.
-  /// - It belongs to the categories: multimedia, files
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_2 = IconData(
-    0xe34a,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [music_3] icon from the Lucide icon set.
-  ///
-  /// ![music_3](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE4IiByPSI0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxOFYyIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [music_3] icon is a graphical symbol that conveys a specific idea or functionality related to crotchet, minim, quarter note, half note, note.
-  /// - It belongs to the categories: multimedia, files
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_3 = IconData(
-    0xe34b,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [music_4] icon from the Lucide icon set.
-  ///
-  /// ![music_4](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxOFY1bDEyLTJ2MTMiIC8+CiAgPHBhdGggZD0ibTkgOSAxMi0yIiAvPgogIDxjaXJjbGUgY3g9IjYiIGN5PSIxOCIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE2IiByPSIzIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [music_4] icon is a graphical symbol that conveys a specific idea or functionality related to semiquaver, sixteenth note, note.
-  /// - It belongs to the categories: multimedia, files
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData music_4 = IconData(
-    0xe34c,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [navigation] icon from the Lucide icon set.
   ///
   /// ![navigation](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cG9seWdvbiBwb2ludHM9IjMgMTEgMjIgMiAxMyAyMSAxMSAxMyAzIDExIiAvPgo8L3N2Zz4K)
@@ -23813,6 +23813,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData siren = IconData(
     0xe2ef,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [sixteenth_notes] icon from the Lucide icon set.
+  ///
+  /// ![sixteenth_notes](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTZWM2ExIDEgMCAwIDAtMS4yOC0uOTZsLTEwIDIuOTE3YTEgMSAwIDAgMC0uNzIuOTZWMTkiIC8+CiAgPHBhdGggZD0iTTIxIDYgOSA5LjUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxNiIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTkiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [sixteenth_notes] icon is a graphical symbol that conveys a specific idea or functionality related to audio, music, sound, notes, semiquavers.
+  /// - It belongs to the categories: multimedia, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData sixteenth_notes = IconData(
+    0xe34c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

@@ -2279,6 +2279,12 @@
     "className": "icon-cctv",
     "unicode": "&#58749;"
   },
+  "certificate": {
+    "encodedCode": "\\e7b1",
+    "prefix": "icon",
+    "className": "icon-certificate",
+    "unicode": "&#59313;"
+  },
   "chart-area": {
     "encodedCode": "\\e4d3",
     "prefix": "icon",
@@ -4181,6 +4187,18 @@
     "className": "icon-egg",
     "unicode": "&#57949;"
   },
+  "eighth-note": {
+    "encodedCode": "\\e34a",
+    "prefix": "icon",
+    "className": "icon-eighth-note",
+    "unicode": "&#58186;"
+  },
+  "eighth-notes": {
+    "encodedCode": "\\e122",
+    "prefix": "icon",
+    "className": "icon-eighth-notes",
+    "unicode": "&#57634;"
+  },
   "eject": {
     "encodedCode": "\\e733",
     "prefix": "icon",
@@ -5818,6 +5836,12 @@
     "prefix": "icon",
     "className": "icon-guitar",
     "unicode": "&#58719;"
+  },
+  "half-note": {
+    "encodedCode": "\\e34b",
+    "prefix": "icon",
+    "className": "icon-half-note",
+    "unicode": "&#58187;"
   },
   "ham": {
     "encodedCode": "\\e5d7",
@@ -10240,6 +10264,12 @@
     "prefix": "icon",
     "className": "icon-siren",
     "unicode": "&#58095;"
+  },
+  "sixteenth-notes": {
+    "encodedCode": "\\e34c",
+    "prefix": "icon",
+    "className": "icon-sixteenth-notes",
+    "unicode": "&#58188;"
   },
   "skip-back": {
     "encodedCode": "\\e15f",
