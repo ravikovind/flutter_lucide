@@ -1,3 +1,21 @@
+# 1.58.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.58.0
+- Total icon count increased from 1,890+ to 1,891+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- certificate
+
+## Renamed Icons ✏️
+- `music` renamed to `eighth-notes`
+- `music-2` renamed to `eighth-note`
+- `music-3` renamed to `half-note`
+- `music-4` renamed to `sixteenth-notes`
+
+---
+
 # 1.57.0
 
 ## Improvements 🚀

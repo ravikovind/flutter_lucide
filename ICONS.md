@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1890** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1891** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -330,6 +330,7 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cat` | animal, pet, kitten, feline | animals |
 | `cctv` | camera, surveillance, recording, film, videotape, crime, watching | security, devices, communication, connectivity, photography |
 | `cctv-off` | camera, surveillance, recording, film, videotape, crime, watching | security, devices, communication, connectivity, photography |
+| `certificate` | award, ribbon, medal, achievement, pinned, badge, recognition, laurel, commendation, diploma, official, proof, fact, verified, license, warrant, authorization, legal, ownership, credential, ssl, tls, security, trust, cybersecurity, authority, graduation, study | connectivity, security |
 | `chart-area` | statistics, analytics, diagram, graph, area | charts |
 | `chart-bar` | statistics, analytics, diagram, graph | charts |
 | `chart-bar-big` | statistics, analytics, diagram, graph | charts |
@@ -618,6 +619,8 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `egg` | bird, chicken, nest, hatch, shell, incubate, soft boiled, hard, breakfast, brunch, morning, easter | food-beverage, animals |
 | `egg-fried` | food, breakfast | food-beverage |
 | `egg-off` | egg free, vegan, hatched, bad egg | food-beverage |
+| `eighth-note` | audio, music, sound, note, quaver | multimedia, files |
+| `eighth-notes` | audio, music, sound, notes, quavers | multimedia, files |
 | `eject` | disc, drive, dvd, blu-ray, cd, media, optical, optical drive, removable media, storage, tray, unmount, usb | devices, files, multimedia |
 | `ellipse` | shape, geometry, rounded, smooth, outline, form, boundary, curve, shapes, ellipse, oval | shapes |
 | `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
@@ -837,6 +840,7 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `group` | cubes, packages, parts, units, collection, cluster, gather, dashed | files |
 | `guitar` | acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise | multimedia |
 | `guitar-electric` | acoustic, instrument, strings, riff, rock, band, country, concert, performance, play, lead, loud, music, audio, sound, noise | multimedia |
+| `half-note` | audio, music, sound, note, crotchet, minim, quarter note | multimedia, files |
 | `ham` | food, pork, pig, meat, bone, hock, knuckle, gammon, cured | food-beverage |
 | `hamburger` | burger, cheeseburger, meat, beef, patty, bun, fast food, junk food, takeaway, takeout, snack, dish, restaurant, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, lettuce, tomato, relish, pickles, onions, ketchup, mustard, mayonnaise | food-beverage |
 | `hammer` | mallet, nails, diy, toolbox, build, construction | tools, home |
@@ -1168,10 +1172,6 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `move-up-left` | arrow, direction | arrows |
 | `move-up-right` | arrow, direction | arrows |
 | `move-vertical` | double, arrow | arrows, cursors |
-| `music` | note, quaver, eighth note | multimedia, files |
-| `music-2` | quaver, eighth note, note | multimedia, files |
-| `music-3` | crotchet, minim, quarter note, half note, note | multimedia, files |
-| `music-4` | semiquaver, sixteenth note, note | multimedia, files |
 | `navigation` | location, travel | navigation |
 | `navigation-2` | location, travel | navigation |
 | `navigation-2-off` | location, travel | navigation |
@@ -1496,6 +1496,7 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `signpost` | navigation, direction, arrow, wayfinding, guide, location, pointer, route, indicator, marker, bidirectional, left, right, east, west | arrows, navigation, development, gaming |
 | `signpost-big` | bidirectional, left, right, east, west | arrows, navigation, development, gaming |
 | `siren` | police, ambulance, emergency, security, alert, alarm, light | medical |
+| `sixteenth-notes` | audio, music, sound, notes, semiquavers | multimedia, files |
 | `skip-back` | arrow, previous, music | multimedia, arrows |
 | `skip-forward` | arrow, skip, next, music | multimedia, arrows |
 | `skull` | death, danger, bone | gaming |
@@ -1901,4 +1902,4 @@ All **1890** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1890 icons*
+*Total: 1891 icons*
