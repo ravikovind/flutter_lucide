@@ -1,3 +1,13 @@
+# 1.59.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.59.0
+- Total icon count increased from 1,891+ to 1,891+ icons
+- Updated `README.md` with the latest information
+
+
+---
+
 # 1.58.0
 
 ## Improvements 🚀

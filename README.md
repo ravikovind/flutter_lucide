@@ -16,7 +16,7 @@ A comprehensive Flutter package providing **1,891+ beautiful, consistent icons**
 
 ## ✨ Features
 
-- 🎨 **1,891+ Icons** - Comprehensive collection from Lucide 1.58.0
+- 🎨 **1,891+ Icons** - Comprehensive collection from Lucide 1.59.0
 - 🚀 **Tree Shaking** - Only include icons you actually use
 - 📱 **Cross Platform** - Works on Android, iOS, Web, macOS, Windows, and Linux
 - 📚 **Well Documented** - Each icon includes descriptions and categories
@@ -29,7 +29,7 @@ Add `flutter_lucide` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_lucide: ^1.58.0
+  flutter_lucide: ^1.59.0
 ```
 
 Then run:
@@ -74,8 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)
 - **Lucide GitHub**: [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-- **Current Version**: [Lucide 1.58.0](https://github.com/lucide-icons/lucide/releases/tag/1.58.0)
-- **Release Notes**: [flutter_lucide v1.58.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.58.0)
+- **Current Version**: [Lucide 1.59.0](https://github.com/lucide-icons/lucide/releases/tag/1.59.0)
+- **Release Notes**: [flutter_lucide v1.59.0](https://github.com/ravikovind/flutter_lucide/releases/tag/v1.59.0)
 
 ## Maintainers & Contributors
 
