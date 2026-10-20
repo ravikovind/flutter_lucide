@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1891** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1899** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -114,11 +114,13 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `audio-lines-off` | audio, sound, noise, mute, silence, off, disabled, inactive, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `audio-lines-x` | sound, noise, mute, silence, disabled, cancel, remove, unavailable, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `audio-waveform` | sound, noise, listen, hearing, hertz, frequency, wavelength, vibrate, sine, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
+| `avocado` | fruit, snack, meal, lunch, ingredient, cooking, cookery, kitchen, cuisine, eating, healthy, nutrition, diet, guacamole, mexican, green, pit, seed, half, produce, vegetarian, vegan, grocery, supermarket, toast, superfood, plant based, ripe | food-beverage |
 | `award` | achievement, badge, rosette, prize, winner | account, sports, gaming |
 | `axe` | hatchet, weapon, chop, sharp, equipment, fireman, firefighter, brigade, lumberjack, woodcutter, logger, forestry | tools, gaming |
 | `axis-3d` | gizmo, coordinates | design |
 | `baby` | child, childproof, children | accessibility, people |
 | `backpack` | bag, hiking, travel, camping, school, childhood | gaming, photography, travel |
+| `bacon` | rashers, smoked, streaky, crispy, meat, fast food, junk food, snack, dish, restaurant, brunch, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, pig, pork, breakfast, cured, butcher, sandwich, protein, grocery, kitchen | food-beverage |
 | `badge` | check, verified, unverified | account, social, shapes |
 | `badge-alert` | check, verified, unverified, security, safety, issue | account, social |
 | `badge-cent` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, cents, dollar, usd, $, ¢ | shopping, finance |
@@ -248,6 +250,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart | medical, science |
 | `brain-circuit` | mind, intellect, artificial intelligence, ai, deep learning, machine learning, computing | science, development |
 | `brain-cog` | mind, intellect, artificial intelligence, ai, deep learning, machine learning, computing | science, development |
+| `brain-off` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, deep learning, machine learning, computing | medical, science, development |
 | `brick-wall` | bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone | buildings, home |
 | `brick-wall-fire` | firewall, security, bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone, campfire, camping, wilderness, outdoors, lit, warmth, wood, twigs, sticks | security, home, connectivity |
 | `brick-wall-shield` | firewall, security, bricks, mortar, cement, materials, construction, builder, labourer, quantity surveyor, blocks, stone, cybersecurity, secure, safety, protection, guardian, armored, armoured, defense, defence, defender, block, threat, prevention, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout | security, home, connectivity |
@@ -826,6 +829,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
 | `grape` | fruit, wine, food | food-beverage |
+| `graph-hub` | load balancer, distribute, traffic, network, nodes, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, topology, orchestration | connectivity, development |
 | `graph-star` | mind map, network, hub, nodes, links, connections, relationships, dependencies, bonds, structure, topology, cluster, thoughts, ideas, concepts, molecule | development, charts |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design, math |
 | `grid-2x2-check` | table, rows, columns, blocks, plot, land, geometry, measure, data, size, width, height, distance, surface area, square meter, acre | text, layout, math |
@@ -973,6 +977,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lens` | optics, reflection, camera, photography, focus, effect, shader, post-process, visual, contact lens, glass, magnify, translucent, transparent, orb, bubble, zoom | photography, science, tools |
 | `lens-concave` | concave, lens, optics, light, magnification, curved, focus, refraction, science, physics, eyeglass, telescope, microscope | science, tools, shapes |
 | `lens-convex` | convex, lens, optics, magnification, focus, light, refraction, physics, eyeglass, telescope, microscope, curved, science | science, tools, shapes |
+| `letter-spacing` | tracking, kerning, design, lettering, text, letters, characters, font, typography, formatting | text |
 | `letters` | abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling | text |
 | `library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
 | `library-big` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
@@ -985,6 +990,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `line-dot-left-horizontal` | line, dot, left, horizontal, shape, symbol, navigation, arrow, pointer, code, version control, waypoint, stop, start, first, station | development, navigation |
 | `line-dot-right-horizontal` | code, version control, waypoint, stop, station, last, end | development, navigation |
 | `line-dot-top-vertical` | arrow, pointer, direction, indicator, code, version, control, waypoint, stop, station, last, end | development, navigation |
+| `line-height` | leading, text, letters, characters, font, typography, spacing, paragraph, formatting, editor, readability, typesetting | text |
 | `line-squiggle` | line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
 | `line-style` | line, stroke, style, dashed, border | design, tools |
 | `link` | chain, url | text, account |
@@ -1507,6 +1513,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `smartphone` | phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive | connectivity, devices |
 | `smartphone-charging` | phone, cellphone, device, power, screen | connectivity, devices |
 | `smartphone-nfc` | contactless, payment, near-field communication, screen | communication, finance, devices |
+| `smartphone-user-round` | phone, cellphone, device, mobile, person, profile, account, avatar, contact, identity, owner, authentication | account, devices, people |
 | `snail` | animal, insect, slow, speed, delicacy, spiral | animals, food-beverage |
 | `snowflake` | cold, weather, freeze, snow, winter | weather, seasons |
 | `soap-dispenser-droplet` | wash, bath, water, liquid, fluid, wet, moisture, damp, bead, globule | home, travel |
@@ -1720,6 +1727,7 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `toggle-left` | on, off, switch, boolean | layout, account, development |
 | `toggle-right` | on, off, switch, boolean | layout, account, development |
 | `toilet` | toilet, potty, bathroom, washroom | devices, home |
+| `tombstone` | grave, gravestone, headstone, cemetery, graveyard, death, memorial, funeral, halloween, rip, obituary, deceased, epitaph, mourning, bereavement, condolence, deprecated, retired, archived, decommissioned | gaming, navigation, people, development |
 | `tool-case` | tools, maintenance, repair | tools, development, home |
 | `toolbox` | toolkit, tools, trunk, chest, box, storage, utility, utilities, container, kit, set, repair, fix, service, maintenance, mechanic, workshop, construction, hardware, equipment, gear, handyman, engineering, craft, diy | tools, home |
 | `toothbrush` | dental care, oral hygiene, brushing, teeth, dentist, bathroom, toiletries, personal care, cleaning, bristles, handle, plaque, toothpaste, self care, grooming | home, travel, tools, medical |
@@ -1902,4 +1910,4 @@ All **1891** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1891 icons*
+*Total: 1899 icons*

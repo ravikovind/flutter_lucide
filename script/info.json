@@ -887,6 +887,12 @@
     "className": "icon-audio-waveform",
     "unicode": "&#58715;"
   },
+  "avocado": {
+    "encodedCode": "\\e7b2",
+    "prefix": "icon",
+    "className": "icon-avocado",
+    "unicode": "&#59314;"
+  },
   "award": {
     "encodedCode": "\\e04f",
     "prefix": "icon",
@@ -922,6 +928,12 @@
     "prefix": "icon",
     "className": "icon-backpack",
     "unicode": "&#58056;"
+  },
+  "bacon": {
+    "encodedCode": "\\e7b3",
+    "prefix": "icon",
+    "className": "icon-bacon",
+    "unicode": "&#59315;"
   },
   "badge-alert": {
     "encodedCode": "\\e475",
@@ -1768,6 +1780,12 @@
     "prefix": "icon",
     "className": "icon-brain-cog",
     "unicode": "&#58312;"
+  },
+  "brain-off": {
+    "encodedCode": "\\e7b4",
+    "prefix": "icon",
+    "className": "icon-brain-off",
+    "unicode": "&#59316;"
   },
   "brain": {
     "encodedCode": "\\e3c6",
@@ -5717,6 +5735,12 @@
     "className": "icon-grape",
     "unicode": "&#58194;"
   },
+  "graph-hub": {
+    "encodedCode": "\\e7b5",
+    "prefix": "icon",
+    "className": "icon-graph-hub",
+    "unicode": "&#59317;"
+  },
   "graph-star": {
     "encodedCode": "\\e7ac",
     "prefix": "icon",
@@ -6731,6 +6755,12 @@
     "className": "icon-lens",
     "unicode": "&#59292;"
   },
+  "letter-spacing": {
+    "encodedCode": "\\e7b6",
+    "prefix": "icon",
+    "className": "icon-letter-spacing",
+    "unicode": "&#59318;"
+  },
   "letter-text": {
     "encodedCode": "\\e605",
     "prefix": "icon",
@@ -6820,6 +6850,12 @@
     "prefix": "icon",
     "className": "icon-line-dot-top-vertical",
     "unicode": "&#59275;"
+  },
+  "line-height": {
+    "encodedCode": "\\e7b7",
+    "prefix": "icon",
+    "className": "icon-line-height",
+    "unicode": "&#59319;"
   },
   "line-squiggle": {
     "encodedCode": "\\e67a",
@@ -10337,6 +10373,12 @@
     "className": "icon-smartphone-nfc",
     "unicode": "&#58308;"
   },
+  "smartphone-user-round": {
+    "encodedCode": "\\e7b8",
+    "prefix": "icon",
+    "className": "icon-smartphone-user-round",
+    "unicode": "&#59320;"
+  },
   "smartphone": {
     "encodedCode": "\\e163",
     "prefix": "icon",
@@ -11716,6 +11758,12 @@
     "prefix": "icon",
     "className": "icon-toilet",
     "unicode": "&#58933;"
+  },
+  "tombstone": {
+    "encodedCode": "\\e7b9",
+    "prefix": "icon",
+    "className": "icon-tombstone",
+    "unicode": "&#59321;"
   },
   "tool-case": {
     "encodedCode": "\\e67d",
