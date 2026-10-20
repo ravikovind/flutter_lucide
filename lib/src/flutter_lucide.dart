@@ -1705,6 +1705,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [avocado] icon from the Lucide icon set.
+  ///
+  /// ![avocado](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNDY1IDMuNDY0YTUgNSAwIDAxNy4wNyAwIDUgNSAwIDAxMCA3LjA3MmMtMS4yMDQgMS4yMDMtMi4zOCAyLjg5LTIuNjE0IDQuNTc3QTggOCAwIDExOC44ODYgNi4wOGMxLjY4Ny0uMjM1IDMuMzc1LTEuNDEgNC41NzktMi42MTUiIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSIxNCIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [avocado] icon is a graphical symbol that conveys a specific idea or functionality related to fruit, snack, meal, lunch, ingredient, cooking, cookery, kitchen, cuisine, eating, healthy, nutrition, diet, guacamole, mexican, green, pit, seed, half, produce, vegetarian, vegan, grocery, supermarket, toast, superfood, plant based, ripe.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/devkamani9313](https://github.com/devkamani9313), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData avocado = IconData(
+    0xe7b2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [award] icon from the Lucide icon set.
   ///
   /// ![award](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuNDc3IDEyLjg5IDEuNTE1IDguNTI2YS41LjUgMCAwIDEtLjgxLjQ3bC0zLjU4LTIuNjg3YTEgMSAwIDAgMC0xLjE5NyAwbC0zLjU4NiAyLjY4NmEuNS41IDAgMCAxLS44MS0uNDY5bDEuNTE0LTguNTI2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNiIgLz4KPC9zdmc+Cg==)
@@ -1781,6 +1797,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData backpack = IconData(
     0xe2c8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [bacon] icon from the Lucide icon set.
+  ///
+  /// ![bacon](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi43OTUgMTYuODA0Yy0uNzg5LS43OS0xLjA5LTIuMDE4LS40NDItMi45MjggMS45MzMtMi43MTMgNC40MTQtMS4wNSA2LjE0NS01LjM3OCAxLjg2OC00LjY3IDQuNjA4LTIuMzY2IDYuNTkyLTYuMTA3LjIxOC0uNDEyLjc4LS41MyAxLjExLS4ybDUuMDA1IDUuMDA1Yy43ODkuNzkgMS4wOSAyLjAxOC40NDIgMi45MjgtMS45MzMgMi43MTMtNC40MTQgMS4wNS02LjE0NSA1LjM3OC0xLjg2OCA0LjY3LTQuNjA4IDIuMzY2LTYuNTkxIDYuMTA3LS4yMi40MTItLjc4LjUzLTEuMTEuMnoiIC8+CiAgPHBhdGggZD0iTTQuNSAxOC41YzItNSA1LTIgNy03czUtMiA3LTciIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [bacon] icon is a graphical symbol that conveys a specific idea or functionality related to rashers, smoked, streaky, crispy, meat, fast food, junk food, snack, dish, restaurant, brunch, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, pig, pork, breakfast, cured, butcher, sandwich, protein, grocery, kitchen.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/devkamani9313](https://github.com/devkamani9313), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData bacon = IconData(
+    0xe7b3,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -3803,7 +3835,7 @@ abstract final class LucideIcons {
 
   /// Represents the [brain] icon from the Lucide icon set.
   ///
-  /// ![brain](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThWNSIgLz4KICA8cGF0aCBkPSJNMTUgMTNhNC4xNyA0LjE3IDAgMCAxLTMtNCA0LjE3IDQuMTcgMCAwIDEtMyA0IiAvPgogIDxwYXRoIGQ9Ik0xNy41OTggNi41QTMgMyAwIDEgMCAxMiA1YTMgMyAwIDEgMC01LjU5OCAxLjUiIC8+CiAgPHBhdGggZD0iTTE3Ljk5NyA1LjEyNWE0IDQgMCAwIDEgMi41MjYgNS43NyIgLz4KICA8cGF0aCBkPSJNMTggMThhNCA0IDAgMCAwIDItNy40NjQiIC8+CiAgPHBhdGggZD0iTTE5Ljk2NyAxNy40ODNBNCA0IDAgMSAxIDEyIDE4YTQgNCAwIDEgMS03Ljk2Ny0uNTE3IiAvPgogIDxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAgMS0yLTcuNDY0IiAvPgogIDxwYXRoIGQ9Ik02LjAwMyA1LjEyNWE0IDQgMCAwIDAtMi41MjYgNS43NyIgLz4KPC9zdmc+Cg==)
+  /// ![brain](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThWNSIgLz4KICA8cGF0aCBkPSJNMTUgMTNhNC4xNyA0LjE3IDAgMDEtMy00IDQuMTcgNC4xNyAwIDAxLTMgNCIgLz4KICA8cGF0aCBkPSJNMTcuNzA3IDYuMjk0QTMgMyAwIDEwMTIgNWEzIDMgMCAxMC01LjcwNyAxLjI5NCIgLz4KICA8cGF0aCBkPSJNMTcuOTk2IDUuMTI1YTQgNCAwIDAxMi41MjYgNS43NyIgLz4KICA8cGF0aCBkPSJNMTggMThhNCA0IDAgMDAyLTcuNDY1IiAvPgogIDxwYXRoIGQ9Ik0xOS45NjcgMTcuNDgyYTQgNCAwIDExLTcuOTY3LjUxNyA0IDQgMCAxMS03Ljk2Ny0uNTE3IiAvPgogIDxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAxLTItNy40NjUiIC8+CiAgPHBhdGggZD0iTTYuMDA0IDUuMTI1YTQgNCAwIDAwLTIuNTI2IDUuNzciIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [brain] icon is a graphical symbol that conveys a specific idea or functionality related to medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart.
@@ -3819,7 +3851,7 @@ abstract final class LucideIcons {
 
   /// Represents the [brain_circuit] icon from the Lucide icon set.
   ///
-  /// ![brain_circuit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNWEzIDMgMCAxIDAtNS45OTcuMTI1IDQgNCAwIDAgMC0yLjUyNiA1Ljc3IDQgNCAwIDAgMCAuNTU2IDYuNTg4QTQgNCAwIDEgMCAxMiAxOFoiIC8+CiAgPHBhdGggZD0iTTkgMTNhNC41IDQuNSAwIDAgMCAzLTQiIC8+CiAgPHBhdGggZD0iTTYuMDAzIDUuMTI1QTMgMyAwIDAgMCA2LjQwMSA2LjUiIC8+CiAgPHBhdGggZD0iTTMuNDc3IDEwLjg5NmE0IDQgMCAwIDEgLjU4NS0uMzk2IiAvPgogIDxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAgMS0xLjk2Ny0uNTE2IiAvPgogIDxwYXRoIGQ9Ik0xMiAxM2g0IiAvPgogIDxwYXRoIGQ9Ik0xMiAxOGg2YTIgMiAwIDAgMSAyIDJ2MSIgLz4KICA8cGF0aCBkPSJNMTIgOGg4IiAvPgogIDxwYXRoIGQ9Ik0xNiA4VjVhMiAyIDAgMCAxIDItMiIgLz4KICA8Y2lyY2xlIGN4PSIxNiIgY3k9IjEzIiByPSIuNSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjMiIHI9Ii41IiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9Ii41IiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iOCIgcj0iLjUiIC8+Cjwvc3ZnPgo=)
+  /// ![brain_circuit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNoNCIgLz4KICA8cGF0aCBkPSJNMTIgMThoNmEyIDIgMCAwMTIgMnYxIiAvPgogIDxwYXRoIGQ9Ik0xMiA4aDgiIC8+CiAgPHBhdGggZD0iTTEyIDlhNC4xNyA0LjE3IDAgMDEtMyA0IiAvPgogIDxwYXRoIGQ9Ik0xNiA4VjVhMiAyIDAgMDEyLTIiIC8+CiAgPHBhdGggZD0iTTYgMThhNCA0IDAgMDEtMi03LjQ2NSIgLz4KICA8cGF0aCBkPSJNNi4wMDQgNS4xMjVhNCA0IDAgMDAtMi41MjYgNS43NyIgLz4KICA8cGF0aCBkPSJNNi4yOTQgNi4yOTRBMyAzIDAgMTExMiA1djEzYTQgNCAwIDExLTcuOTY3LS41MTgiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxMyIgcj0iMC41IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIzIiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIxIiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjgiIHI9IjAuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [brain_circuit] icon is a graphical symbol that conveys a specific idea or functionality related to mind, intellect, artificial intelligence, ai, deep learning, machine learning, computing.
@@ -3835,7 +3867,7 @@ abstract final class LucideIcons {
 
   /// Represents the [brain_cog] icon from the Lucide icon set.
   ///
-  /// ![brain_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAuODUyIDE0Ljc3Mi0uMzgzLjkyMyIgLz4KICA8cGF0aCBkPSJtMTAuODUyIDkuMjI4LS4zODMtLjkyMyIgLz4KICA8cGF0aCBkPSJtMTMuMTQ4IDE0Ljc3Mi4zODIuOTI0IiAvPgogIDxwYXRoIGQ9Im0xMy41MzEgOC4zMDUtLjM4My45MjMiIC8+CiAgPHBhdGggZD0ibTE0Ljc3MiAxMC44NTIuOTIzLS4zODMiIC8+CiAgPHBhdGggZD0ibTE0Ljc3MiAxMy4xNDguOTIzLjM4MyIgLz4KICA8cGF0aCBkPSJNMTcuNTk4IDYuNUEzIDMgMCAxIDAgMTIgNWEzIDMgMCAwIDAtNS42My0xLjQ0NiAzIDMgMCAwIDAtLjM2OCAxLjU3MSA0IDQgMCAwIDAtMi41MjUgNS43NzEiIC8+CiAgPHBhdGggZD0iTTE3Ljk5OCA1LjEyNWE0IDQgMCAwIDEgMi41MjUgNS43NzEiIC8+CiAgPHBhdGggZD0iTTE5LjUwNSAxMC4yOTRhNCA0IDAgMCAxLTEuNSA3LjcwNiIgLz4KICA8cGF0aCBkPSJNNC4wMzIgMTcuNDgzQTQgNCAwIDAgMCAxMS40NjQgMjBjLjE4LS4zMTEuODkyLS4zMTEgMS4wNzIgMGE0IDQgMCAwIDAgNy40MzItMi41MTYiIC8+CiAgPHBhdGggZD0iTTQuNSAxMC4yOTFBNCA0IDAgMCAwIDYgMTgiIC8+CiAgPHBhdGggZD0iTTYuMDAyIDUuMTI1YTMgMyAwIDAgMCAuNCAxLjM3NSIgLz4KICA8cGF0aCBkPSJtOS4yMjggMTAuODUyLS45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtOS4yMjggMTMuMTQ4LS45MjMuMzgzIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  /// ![brain_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAuODUyIDE0Ljc3Mi0uMzgzLjkyMyIgLz4KICA8cGF0aCBkPSJtMTAuODUyIDkuMjI4LS4zODMtLjkyMyIgLz4KICA8cGF0aCBkPSJtMTMuMTQ4IDE0Ljc3Mi4zODIuOTI0IiAvPgogIDxwYXRoIGQ9Im0xMy41MyA4LjMwNS0uMzgyLjkyMyIgLz4KICA8cGF0aCBkPSJtMTQuNzcyIDEwLjg1Mi45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtMTQuNzcyIDEzLjE0OC45MjMuMzgzIiAvPgogIDxwYXRoIGQ9Ik0xNy45OTcgNS4xMjVhNCA0IDAgMDEyLjUyNiA1Ljc3IiAvPgogIDxwYXRoIGQ9Ik0xOCAxOGE0IDQgMCAwMDItNy40NjQiIC8+CiAgPHBhdGggZD0iTTQuMDMzIDE3LjQ4M0E0IDQgMCAwMDExLjQ2IDIwYy4xODQtLjMxLjg5Ni0uMzEgMS4wNzYgMGE0IDQgMCAwMDcuNDMtMi41MTciIC8+CiAgPHBhdGggZD0iTTYgMThhNCA0IDAgMDEtMi03LjQ2NCIgLz4KICA8cGF0aCBkPSJNNi4wMDIgNS4xMjVhNCA0IDAgMDAtMi41MjUgNS43NyIgLz4KICA8cGF0aCBkPSJNNi4yOTMgNi4yOTRhMyAzIDAgMDEtLjI4Ny0xLjA5OGwtLjAwNC0uMDdhMyAzIDAgMDE1Ljk2OC0uNTQzYy4wNS4wMi4wNTcuMDEuMDU5IDBhMyAzIDAgMDE1Ljk2OC41NDJsLS4wMDQuMDcxYTMgMyAwIDAxLS4yODcgMS4wOTgiIC8+CiAgPHBhdGggZD0ibTkuMjI4IDEwLjg1Mi0uOTIzLS4zODMiIC8+CiAgPHBhdGggZD0ibTkuMjI4IDEzLjE0OC0uOTIzLjM4MyIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [brain_cog] icon is a graphical symbol that conveys a specific idea or functionality related to mind, intellect, artificial intelligence, ai, deep learning, machine learning, computing.
@@ -3845,6 +3877,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
   static const IconData brain_cog = IconData(
     0xe3c8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [brain_off] icon from the Lucide icon set.
+  ///
+  /// ![brain_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTh2LTYiIC8+CiAgPHBhdGggZD0iTTEyIDV2MS4zNDQiIC8+CiAgPHBhdGggZD0iTTE3LjcwNyA2LjI5M0EzIDMgMCAxMDEyIDVhMyAzIDAgMDAtNC4xMjQtMi43ODEiIC8+CiAgPHBhdGggZD0iTTE3Ljk5NyA1LjEyNWE0IDQgMCAwMTIuNTI2IDUuNzciIC8+CiAgPHBhdGggZD0iTTE5LjY0NCAxOS42NDRBNCA0IDAgMDExMiAxOGE0IDQgMCAxMS03Ljk2Ny0uNTE3IiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0iTTIwIDEwLjUzNmE0IDQgMCAwMTEuNTMzIDUuMzQiIC8+CiAgPHBhdGggZD0iTTMuNDc3IDEwLjg5NWE0IDQgMCAwMTEuODc2LTUuNTQyIiAvPgogIDxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAxLTItNy40NjQiIC8+CiAgPHBhdGggZD0iTTkgMTNhNC4xNyA0LjE3IDAgMDAyLjE2Ni0xLjUgNCA0IDAgMDAuMTM4LS4xOTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [brain_off] icon is a graphical symbol that conveys a specific idea or functionality related to medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, deep learning, machine learning, computing.
+  /// - It belongs to the categories: medical, science, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/ej52](https://github.com/ej52)
+  static const IconData brain_off = IconData(
+    0xe7b4,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -13097,6 +13145,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [graph_hub] icon from the Lucide icon set.
+  ///
+  /// ![graph_hub](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjciIHI9IjQiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjE5IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxOSIgcj0iMiIgLz4KICA8cGF0aCBkPSJNOCA3YTQgNCAwIDAgMC00IDR2NiIgLz4KICA8cGF0aCBkPSJNMTIgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTYgN2E0IDQgMCAwIDEgNCA0djYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [graph_hub] icon is a graphical symbol that conveys a specific idea or functionality related to load balancer, distribute, traffic, network, nodes, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, topology, orchestration.
+  /// - It belongs to the categories: connectivity, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Carlito-la-banane](https://github.com/Carlito-la-banane)
+  static const IconData graph_hub = IconData(
+    0xe7b5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [graph_star] icon from the Lucide icon set.
   ///
   /// ![graph_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuMzQyIDkuMzE2IDEuNzY0LTMuNTI3IiAvPgogIDxwYXRoIGQ9Im0xMi41OSAxNC41NDUgMi4zNSAzLjc1OSIgLz4KICA8cGF0aCBkPSJtMTMuOTgyIDEyLjMzMiA0LjAzLjQ0NyIgLz4KICA8cGF0aCBkPSJNNS40MTQgMTcuNTg2IDguODggMTQuMTIiIC8+CiAgPHBhdGggZD0iTTkuMDI1IDkuNzQyIDUuMzE3IDUuNTA1IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTIiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTUiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxMyIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIC8+Cjwvc3ZnPgo=)
@@ -15449,6 +15513,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [letter_spacing] icon from the Lucide icon set.
+  ///
+  /// ![letter_spacing](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTRIOSIgLz4KICA8cGF0aCBkPSJNMjEgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyAzdjE4IiAvPgogIDxwYXRoIGQ9Im04IDE2IDMuNDUzLTcuNjQ4YS42LjYgMCAwMTEuMDk0LjAwMUwxNiAxNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_spacing] icon is a graphical symbol that conveys a specific idea or functionality related to tracking, kerning, design, lettering, text, letters, characters, font, typography, formatting.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/madebyoz](https://github.com/madebyoz)
+  static const IconData letter_spacing = IconData(
+    0xe7b6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [letters] icon from the Lucide icon set.
   ///
   /// ![letters](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOEg5IiAvPgogIDxwYXRoIGQ9Ik0yMSAxNS4zNTRhNCA0IDAgMTAwIDUuMjkyIiAvPgogIDxwYXRoIGQ9Ik0zIDE4aDRhMiAyIDAgMDEwIDRIMy41YS41LjUgMCAwMS0uNS0uNXYtN2EuNS41IDAgMDEuNS0uNUg2YTIgMiAwIDAxMCA0IiAvPgogIDxwYXRoIGQ9Im04IDEwIDMuNDUzLTcuNjQ4YS42LjYgMCAwMTEuMDk0IDBMMTYgMTAiIC8+Cjwvc3ZnPgo=)
@@ -15637,6 +15717,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/nathan-de-pachtere](https://github.com/nathan-de-pachtere)
   static const IconData line_dot_top_vertical = IconData(
     0xe78b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [line_height] icon from the Lucide icon set.
+  ///
+  /// ![line_height](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTRIOSIgLz4KICA8cGF0aCBkPSJNMjEgMjFIMyIgLz4KICA8cGF0aCBkPSJNMjEgM0gzIiAvPgogIDxwYXRoIGQ9Im04IDE2IDMuNDUzLTcuNjQ4YS42LjYgMCAwMTEuMDk0LjAwMUwxNiAxNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [line_height] icon is a graphical symbol that conveys a specific idea or functionality related to leading, text, letters, characters, font, typography, spacing, paragraph, formatting, editor, readability, typesetting.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/madebyoz](https://github.com/madebyoz)
+  static const IconData line_height = IconData(
+    0xe7b7,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -23993,6 +24089,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [smartphone_user_round] icon from the Lucide icon set.
+  ///
+  /// ![smartphone_user_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjJINmEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMmgxMGEyIDIgMCAwMTIgMnY0IiAvPgogIDxwYXRoIGQ9Ik0xMSAxOGguMDEiIC8+CiAgPHBhdGggZD0iTTIyIDIyYTQgNCAwIDAwLTggMCIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE1IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [smartphone_user_round] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, mobile, person, profile, account, avatar, contact, identity, owner, authentication.
+  /// - It belongs to the categories: account, devices, people
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/hitanshu-machhi](https://github.com/hitanshu-machhi), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/mittalyashu](https://github.com/mittalyashu)
+  static const IconData smartphone_user_round = IconData(
+    0xe7b8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [snail] icon from the Lucide icon set.
   ///
   /// ![snail](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxM2E2IDYgMCAxIDAgMTIgMCA0IDQgMCAxIDAtOCAwIDIgMiAwIDAgMCA0IDAiIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSIxMyIgcj0iOCIgLz4KICA8cGF0aCBkPSJNMiAyMWgxMmM0LjQgMCA4LTMuNiA4LThWN2EyIDIgMCAxIDAtNCAwdjYiIC8+CiAgPHBhdGggZD0iTTE4IDMgMTkuMSA1LjIiIC8+CiAgPHBhdGggZD0iTTIyIDMgMjAuOSA1LjIiIC8+Cjwvc3ZnPgo=)
@@ -27397,6 +27509,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/EthanHazel](https://github.com/EthanHazel), [https://github.com/staffanmowitz](https://github.com/staffanmowitz), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData toilet = IconData(
     0xe635,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [tombstone] icon from the Lucide icon set.
+  ///
+  /// ![tombstone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTBoMiIgLz4KICA8cGF0aCBkPSJNMTkgMjFWMTBhNyA3IDAgMDAtMTQgMHYxMSIgLz4KICA8cGF0aCBkPSJNMiAyMWgyMCIgLz4KICA8cGF0aCBkPSJNOSAxNGg2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [tombstone] icon is a graphical symbol that conveys a specific idea or functionality related to grave, gravestone, headstone, cemetery, graveyard, death, memorial, funeral, halloween, rip, obituary, deceased, epitaph, mourning, bereavement, condolence, deprecated, retired, archived, decommissioned.
+  /// - It belongs to the categories: gaming, navigation, people, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ryck](https://github.com/ryck)
+  static const IconData tombstone = IconData(
+    0xe7b9,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

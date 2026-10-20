@@ -1,3 +1,15 @@
+# 1.60.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.60.0
+- Total icon count increased from 1,891+ to 1,899+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- avocado, bacon, brain-off, graph-hub, letter-spacing, line-height, smartphone-user-round, tombstone
+
+---
+
 # 1.59.0
 
 ## Improvements 🚀
