@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1899** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1903** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -402,6 +402,10 @@ All **1899** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-chevron-left` | back, previous, less than, fewer, menu, < | arrows |
 | `circle-chevron-right` | back, more than, greater, menu, > | arrows |
 | `circle-chevron-up` | caret, ahead, menu, ^ | arrows |
+| `circle-chevrons-down` | bottom, descend, page, page down, scroll, jump, south, caret, button, skip, end, last page, latest, feed, chat, pagination, fast, media | arrows, navigation |
+| `circle-chevrons-left` | previous, rewind, backward, first, beginning, start, west, music, caret, button, pagination, skip, skip-back, seek-back, media-controls, player, playlist, track, chapter, jump, timeline, controls | arrows, navigation, multimedia |
+| `circle-chevrons-right` | next, forward, skip, fast forward, last, end, east, music, caret, button, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control | arrows, navigation, multimedia |
+| `circle-chevrons-up` | top, ascend, page, page up, back to top, scroll, jump, north, caret, button, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, timeline | arrows, navigation |
 | `circle-dashed` | pending, dot, progress, issue, draft, code, coding, version control | development, shapes |
 | `circle-dashed-check` | approved, pending, changes, revision, reapproval, published, schedule, assignment, request, review, progress, issue, draft, code, coding, version control | shapes, development, notifications |
 | `circle-divide` | calculate, math, ÷, / | math |
@@ -1910,4 +1914,4 @@ All **1899** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1899 icons*
+*Total: 1903 icons*

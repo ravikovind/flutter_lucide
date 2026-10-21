@@ -1,3 +1,15 @@
+# 1.61.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.61.0
+- Total icon count increased from 1,899+ to 1,903+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- circle-chevrons-down, circle-chevrons-left, circle-chevrons-right, circle-chevrons-up
+
+---
+
 # 1.60.0
 
 ## Improvements 🚀

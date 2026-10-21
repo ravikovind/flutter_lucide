@@ -2777,6 +2777,30 @@
     "className": "icon-circle-chevron-up",
     "unicode": "&#58592;"
   },
+  "circle-chevrons-down": {
+    "encodedCode": "\\e7ba",
+    "prefix": "icon",
+    "className": "icon-circle-chevrons-down",
+    "unicode": "&#59322;"
+  },
+  "circle-chevrons-left": {
+    "encodedCode": "\\e7bb",
+    "prefix": "icon",
+    "className": "icon-circle-chevrons-left",
+    "unicode": "&#59323;"
+  },
+  "circle-chevrons-right": {
+    "encodedCode": "\\e7bc",
+    "prefix": "icon",
+    "className": "icon-circle-chevrons-right",
+    "unicode": "&#59324;"
+  },
+  "circle-chevrons-up": {
+    "encodedCode": "\\e7bd",
+    "prefix": "icon",
+    "className": "icon-circle-chevrons-up",
+    "unicode": "&#59325;"
+  },
   "circle-dashed-check": {
     "encodedCode": "\\e75e",
     "prefix": "icon",
