@@ -6313,6 +6313,70 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_chevrons_down] icon from the Lucide icon set.
+  ///
+  /// ![circle_chevrons_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNEwxMiAxN0wxNSAxNCIgLz4KICA8cGF0aCBkPSJNOSA4TDEyIDExTDE1IDgiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_chevrons_down] icon is a graphical symbol that conveys a specific idea or functionality related to bottom, descend, page, page down, scroll, jump, south, caret, button, skip, end, last page, latest, feed, chat, pagination, fast, media.
+  /// - It belongs to the categories: arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ypotti](https://github.com/ypotti), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData circle_chevrons_down = IconData(
+    0xe7ba,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_chevrons_left] icon from the Lucide icon set.
+  ///
+  /// ![circle_chevrons_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOUw3IDEyTDEwIDE1IiAvPgogIDxwYXRoIGQ9Ik0xNiA5TDEzIDEyTDE2IDE1IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_chevrons_left] icon is a graphical symbol that conveys a specific idea or functionality related to previous, rewind, backward, first, beginning, start, west, music, caret, button, pagination, skip, skip-back, seek-back, media-controls, player, playlist, track, chapter, jump, timeline, controls.
+  /// - It belongs to the categories: arrows, navigation, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ypotti](https://github.com/ypotti), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData circle_chevrons_left = IconData(
+    0xe7bb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_chevrons_right] icon from the Lucide icon set.
+  ///
+  /// ![circle_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTVMMTcgMTJMMTQgOSIgLz4KICA8cGF0aCBkPSJNOCAxNUwxMSAxMkw4IDkiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to next, forward, skip, fast forward, last, end, east, music, caret, button, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control.
+  /// - It belongs to the categories: arrows, navigation, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ypotti](https://github.com/ypotti), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData circle_chevrons_right = IconData(
+    0xe7bc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_chevrons_up] icon from the Lucide icon set.
+  ///
+  /// ![circle_chevrons_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBMMTIgN0w5IDEwIiAvPgogIDxwYXRoIGQ9Ik0xNSAxNkwxMiAxM0w5IDE2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_chevrons_up] icon is a graphical symbol that conveys a specific idea or functionality related to top, ascend, page, page up, back to top, scroll, jump, north, caret, button, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, timeline.
+  /// - It belongs to the categories: arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ypotti](https://github.com/ypotti), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData circle_chevrons_up = IconData(
+    0xe7bd,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_dashed] icon from the Lucide icon set.
   ///
   /// ![circle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4MmExMCAxMCAwIDAgMSAzLjggMCIgLz4KICA8cGF0aCBkPSJNMTMuOSAyMS44MThhMTAgMTAgMCAwIDEtMy44IDAiIC8+CiAgPHBhdGggZD0iTTE3LjYwOSAzLjcyMWExMCAxMCAwIDAgMSAyLjY5IDIuNyIgLz4KICA8cGF0aCBkPSJNMi4xODIgMTMuOWExMCAxMCAwIDAgMSAwLTMuOCIgLz4KICA8cGF0aCBkPSJNMjAuMjc5IDE3LjYwOWExMCAxMCAwIDAgMS0yLjcgMi42OSIgLz4KICA8cGF0aCBkPSJNMjEuODE4IDEwLjFhMTAgMTAgMCAwIDEgMCAzLjgiIC8+CiAgPHBhdGggZD0iTTMuNzIxIDYuMzkxYTEwIDEwIDAgMCAxIDIuNy0yLjY5IiAvPgogIDxwYXRoIGQ9Ik02LjM5MSAyMC4yNzlhMTAgMTAgMCAwIDEtMi42OS0yLjciIC8+Cjwvc3ZnPgo=)
