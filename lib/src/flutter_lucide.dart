@@ -1769,6 +1769,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [azerbaijani_manat] icon from the Lucide icon set.
+  ///
+  /// ![azerbaijani_manat](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNHYxNiIgLz4KICA8cGF0aCBkPSJNMTggMjB2LThhNiA2IDAgMDAtMTIgMHY4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [azerbaijani_manat] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, azerbaijan, azn, exchange, banking, pricing, currency symbol.
+  /// - It belongs to the categories: finance
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData azerbaijani_manat = IconData(
+    0xe7be,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [baby] icon from the Lucide icon set.
   ///
   /// ![baby](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTZjLjUuMyAxLjIuNSAyIC41czEuNS0uMiAyLS41IiAvPgogIDxwYXRoIGQ9Ik0xNSAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTE5LjM4IDYuODEzQTkgOSAwIDAgMSAyMC44IDEwLjJhMiAyIDAgMCAxIDAgMy42IDkgOSAwIDAgMS0xNy42IDAgMiAyIDAgMCAxIDAtMy42QTkgOSAwIDAgMSAxMiAzYzIgMCAzLjUgMS4xIDMuNSAyLjVzLS45IDIuNS0yIDIuNWMtLjggMC0xLjUtLjQtMS41LTEiIC8+CiAgPHBhdGggZD0iTTkgMTJoLjAxIiAvPgo8L3N2Zz4K)
@@ -2117,6 +2133,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData baggage_claim = IconData(
     0xe2c9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [ball_wave] icon from the Lucide icon set.
+  ///
+  /// ![ball_wave](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMGMuNi41IDEuMiAxIDIuNSAxIDIuNSAwIDIuNS0yIDUtMiAyLjYgMCAyLjQgMiA1IDIgMi41IDAgMi41LTIgNS0yIDEuMyAwIDEuOS41IDIuNSAxIiAvPgogIDxwYXRoIGQ9Ik03Ljc1NyAxMy4yNDNhMiA2IDQ1IDEgMCA4LjQ4Ni04LjQ4NiAyIDYgNDUgMSAwLTguNDg2IDguNDg2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iOSIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [ball_wave] icon is a graphical symbol that conveys a specific idea or functionality related to polo, watercraft, athlete, feature, sport, ball, aquatic, swimming, pool, team, game, competition, olympic, water, match, aquatic sports, water polo, aquatics, water sports, pool sport, team sport, tournament, league.
+  /// - It belongs to the categories: sports, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/felipeajzanetti](https://github.com/felipeajzanetti), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData ball_wave = IconData(
+    0xe7bf,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -9993,6 +10025,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [emirati_dirham] icon from the Lucide icon set.
+  ///
+  /// ![emirati_dirham](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNGE4IDggMCAwIDEgMCAxNkg2LjQwNkEuNC40IDAgMCAxIDYgMTkuNTk0VjQuNDA2QS40LjQgMCAwIDEgNi40MDYgNHoiIC8+CiAgPHBhdGggZD0iTTQgMTBoMTciIC8+CiAgPHBhdGggZD0iTTQgMTRoMTciIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [emirati_dirham] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, finance, price, aed, arab emirates dirham, uae, United Arab Emirates, cash, currency symbol, middle east, gulf, banking, invoice, exchange rate.
+  /// - It belongs to the categories: finance
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/DrashtiC07](https://github.com/DrashtiC07)
+  static const IconData emirati_dirham = IconData(
+    0xe7c0,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [engine] icon from the Lucide icon set.
   ///
   /// ![engine](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgM2g2IiAvPgogIDxwYXRoIGQ9Ik0xMyAzdjQiIC8+CiAgPHBhdGggZD0iTTIgMTB2NiIgLz4KICA8cGF0aCBkPSJNMiAxM2g0IiAvPgogIDxwYXRoIGQ9Ik02IDE2YTIgMiAwIDAwMiAyaDFhMiAyIDAgMDExLjYuOGwuMy40YTIgMiAwIDAwMS42LjhoMi4yNjRhMiAyIDAgMDAxLjc4OS0xLjEwNmwxLjY3LTMuMzQxYTEgMSAwIDAxLjg5NS0uNTUzSDIxYTEgMSAwIDAwMS0xdi00YTEgMSAwIDAwLTEtMWgtMy41YTEgMSAwIDAxLS44LS40bC0uOS0xLjJBMSAxIDAgMDAxNSA3aC00YTEgMSAwIDAwLS44LjRsLS45IDEuMmExIDEgMCAwMS0uOC40SDdhMSAxIDAgMDAtMSAxeiIgLz4KPC9zdmc+Cg==)
@@ -14201,6 +14249,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [hockey_stick] icon from the Lucide icon set.
+  ///
+  /// ![hockey_stick](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNHY0YzAgMS4xLTIuMDI1IDItNC41IDJTMiA5LjEgMiA4VjQiIC8+CiAgPHBhdGggZD0iTTE4LjIxIDMuMTA2YTIgMiAwIDAxMy41NzkgMS43ODlsLTYuODk1IDEzLjc4OUE2IDYgMCAwMTkuNTI5IDIySDQuNWExIDEgMCAwMTAtNWg1LjUyOGEyIDIgMCAwMDEuNzg4LTEuMTA1eiIgLz4KICA8cGF0aCBkPSJtMTguNTkgMTEuMjk1LTMuNTc4LTEuNzg5IiAvPgogIDxwYXRoIGQ9Im0yMC43OSA2Ljg5NS0zLjU3OC0xLjc4OSIgLz4KICA8cGF0aCBkPSJNNyAxN3Y1IiAvPgogIDxlbGxpcHNlIGN4PSI2LjUiIGN5PSI0IiByeD0iNC41IiByeT0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [hockey_stick] icon is a graphical symbol that conveys a specific idea or functionality related to sport, campus, puck, athlete, ice, player, goal, cricket, bat, sports, game, equipment, stick, ball, match, play.
+  /// - It belongs to the categories: sports
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/joffx](https://github.com/joffx), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData hockey_stick = IconData(
+    0xe7c1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [hop] icon from the Lucide icon set.
   ///
   /// ![hop](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuODIgMTYuMTJjMS42OS42IDMuOTEuNzkgNS4xOC44NS41NS4wMyAxLS40Mi45Ny0uOTctLjA2LTEuMjctLjI2LTMuNS0uODUtNS4xOCIgLz4KICA8cGF0aCBkPSJNMTEuNSA2LjVjMS42NCAwIDUtLjM4IDYuNzEtMS4wNy41Mi0uMi41NS0uODIuMTItMS4xN0ExMCAxMCAwIDAgMCA0LjI2IDE4LjMzYy4zNS40My45Ni40IDEuMTctLjEyLjY5LTEuNzEgMS4wNy01LjA3IDEuMDctNi43MSAxLjM0LjQ1IDMuMS45IDQuODguNjJhLjg4Ljg4IDAgMCAwIC43My0uNzRjLjMtMi4xNC0uMTUtMy41LS42MS00Ljg4IiAvPgogIDxwYXRoIGQ9Ik0xNS42MiAxNi45NWMuMi44NS42MiAyLjc2LjUgNC4yOGEuNzcuNzcgMCAwIDEtLjkuNyAxNi42NCAxNi42NCAwIDAgMS00LjA4LTEuMzYiIC8+CiAgPHBhdGggZD0iTTE2LjEzIDIxLjA1YzEuNjUuNjMgMy42OC44NCA0Ljg3LjkxYS45LjkgMCAwIDAgLjk2LS45NiAxNy42OCAxNy42OCAwIDAgMC0uOS00Ljg3IiAvPgogIDxwYXRoIGQ9Ik0xNi45NCAxNS42MmMuODYuMiAyLjc3LjYyIDQuMjkuNWEuNzcuNzcgMCAwIDAgLjctLjkgMTYuNjQgMTYuNjQgMCAwIDAtMS4zNi00LjA4IiAvPgogIDxwYXRoIGQ9Ik0xNy45OSA1LjUyYTIwLjgyIDIwLjgyIDAgMCAxIDMuMTUgNC41LjguOCAwIDAgMS0uNjggMS4xM2MtMi4zMy4yLTUuMy0uMzItOC4yNy0xLjU3IiAvPgogIDxwYXRoIGQ9Ik00LjkzIDQuOTMgMyAzYS43LjcgMCAwIDEgMC0xIiAvPgogIDxwYXRoIGQ9Ik05LjU4IDEyLjE4YzEuMjQgMi45OCAxLjc3IDUuOTUgMS41NyA4LjI4YS44LjggMCAwIDEtMS4xMy42OCAyMC44MiAyMC44MiAwIDAgMS00LjUtMy4xNSIgLz4KPC9zdmc+Cg==)
@@ -14245,6 +14309,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData hospital = IconData(
     0xe5d8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [hot_air_balloon] icon from the Lucide icon set.
+  ///
+  /// ![hot_air_balloon](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuNSAxOEMxMCAxNSA5IDEyIDkgOWEzIDcgMCAwIDEgNiAwYzAgMy0xIDYtMi41IDkiIC8+CiAgPHBhdGggZD0iTTE1IDE4YzMtMyA1LTUgNS05QTggNyAwIDAgMCA0IDljMCA0IDIgNiA1IDkiIC8+CiAgPHBhdGggZD0iTTE1IDE4SDl2M2ExIDEgMCAwIDAgMSAxaDRhMSAxIDAgMCAwIDEtMXoiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [hot_air_balloon] icon is a graphical symbol that conveys a specific idea or functionality related to aircraft, flight, adventure, travel, sky, celebration, festive.
+  /// - It belongs to the categories: sports
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/roygommer](https://github.com/roygommer), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData hot_air_balloon = IconData(
+    0xe7c2,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

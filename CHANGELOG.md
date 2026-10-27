@@ -1,3 +1,15 @@
+# 1.62.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.62.0
+- Total icon count increased from 1,903+ to 1,908+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- azerbaijani-manat, ball-wave, emirati-dirham, hockey-stick, hot-air-balloon
+
+---
+
 # 1.61.0
 
 ## Improvements 🚀
