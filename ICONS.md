@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1903** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1908** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -118,6 +118,7 @@ All **1903** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `award` | achievement, badge, rosette, prize, winner | account, sports, gaming |
 | `axe` | hatchet, weapon, chop, sharp, equipment, fireman, firefighter, brigade, lumberjack, woodcutter, logger, forestry | tools, gaming |
 | `axis-3d` | gizmo, coordinates | design |
+| `azerbaijani-manat` | currency, money, payment, azerbaijan, azn, exchange, banking, pricing, currency symbol | finance |
 | `baby` | child, childproof, children | accessibility, people |
 | `backpack` | bag, hiking, travel, camping, school, childhood | gaming, photography, travel |
 | `bacon` | rashers, smoked, streaky, crispy, meat, fast food, junk food, snack, dish, restaurant, brunch, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, pig, pork, breakfast, cured, butcher, sandwich, protein, grocery, kitchen | food-beverage |
@@ -140,6 +141,7 @@ All **1903** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `badge-turkish-lira` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, try, ₺ | shopping, finance |
 | `badge-x` | verified, unverified, lost, delete, remove | social |
 | `baggage-claim` | baggage, luggage, travel, cart, trolley, suitcase | transportation, travel |
+| `ball-wave` | polo, watercraft, athlete, feature, sport, ball, aquatic, swimming, pool, team, game, competition, olympic, water, match, aquatic sports, water polo, aquatics, water sports, pool sport, team sport, tournament, league | sports, gaming |
 | `balloon` | party, festival, congratulations, celebration, decoration, colorful, floating, fun, birthday, event, entertainment | emoji |
 | `ban` | cancel, no, stop, forbidden, prohibited, error, incorrect, mistake, wrong, failure, circle, slash, null, void | account |
 | `banana` | fruit, food | food-beverage |
@@ -632,6 +634,7 @@ All **1903** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ellipse` | shape, geometry, rounded, smooth, outline, form, boundary, curve, shapes, ellipse, oval | shapes |
 | `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
 | `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ... | layout |
+| `emirati-dirham` | currency, money, payment, finance, price, aed, arab emirates dirham, uae, United Arab Emirates, cash, currency symbol, middle east, gulf, banking, invoice, exchange rate | finance |
 | `engine` | vehicle, power, energy, drive, repair, car, motor, mechanical, diagnostics, maintenance, warning, dashboard, parts | transportation |
 | `equal` | calculate, math, operator, assignment, code, = | math, development |
 | `equal-approximately` | about, calculate, math, operator | math |
@@ -895,9 +898,11 @@ All **1903** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hexagon` | shape, node.js, logo | shapes, development |
 | `highlighter` | mark, text | text, design |
 | `hiking-stick` | hiking, walking, stick, trekking, trail, pole, backpacking, outdoors, mountains | sports, travel, nature, navigation |
+| `hockey-stick` | sport, campus, puck, athlete, ice, player, goal, cricket, bat, sports, game, equipment, stick, ball, match, play | sports |
 | `hop` | beer, brewery, drink | food-beverage |
 | `hop-off` | beer, brewery, drink, hop free, allergy, intolerance, diet | food-beverage |
 | `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet | medical, buildings, navigation, travel |
+| `hot-air-balloon` | aircraft, flight, adventure, travel, sky, celebration, festive | sports |
 | `hotel` | building, hostel, motel, inn | buildings, navigation, travel |
 | `hourglass` | timer, time, sandglass | time, gaming |
 | `hourglass-cog` | timer, time, sandglass, duration, settings, gear, cog, edit, configuration, countdown, timeout, expiration | time, tools |
@@ -1914,4 +1919,4 @@ All **1903** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1903 icons*
+*Total: 1908 icons*

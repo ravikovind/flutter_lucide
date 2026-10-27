@@ -917,6 +917,12 @@
     "className": "icon-axis-3d",
     "unicode": "&#58110;"
   },
+  "azerbaijani-manat": {
+    "encodedCode": "\\e7be",
+    "prefix": "icon",
+    "className": "icon-azerbaijani-manat",
+    "unicode": "&#59326;"
+  },
   "baby": {
     "encodedCode": "\\e2ce",
     "prefix": "icon",
@@ -1054,6 +1060,12 @@
     "prefix": "icon",
     "className": "icon-baggage-claim",
     "unicode": "&#58057;"
+  },
+  "ball-wave": {
+    "encodedCode": "\\e7bf",
+    "prefix": "icon",
+    "className": "icon-ball-wave",
+    "unicode": "&#59327;"
   },
   "balloon": {
     "encodedCode": "\\e6af",
@@ -4265,6 +4277,12 @@
     "className": "icon-ellipsis",
     "unicode": "&#57526;"
   },
+  "emirati-dirham": {
+    "encodedCode": "\\e7c0",
+    "prefix": "icon",
+    "className": "icon-emirati-dirham",
+    "unicode": "&#59328;"
+  },
   "engine": {
     "encodedCode": "\\e758",
     "prefix": "icon",
@@ -6185,6 +6203,12 @@
     "className": "icon-history",
     "unicode": "&#57845;"
   },
+  "hockey-stick": {
+    "encodedCode": "\\e7c1",
+    "prefix": "icon",
+    "className": "icon-hockey-stick",
+    "unicode": "&#59329;"
+  },
   "home": {
     "encodedCode": "\\e0f5",
     "prefix": "icon",
@@ -6208,6 +6232,12 @@
     "prefix": "icon",
     "className": "icon-hospital",
     "unicode": "&#58840;"
+  },
+  "hot-air-balloon": {
+    "encodedCode": "\\e7c2",
+    "prefix": "icon",
+    "className": "icon-hot-air-balloon",
+    "unicode": "&#59330;"
   },
   "hotel": {
     "encodedCode": "\\e3e2",
