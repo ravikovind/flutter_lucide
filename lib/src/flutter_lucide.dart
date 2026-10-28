@@ -825,17 +825,33 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [archive_restore] icon from the Lucide icon set.
+  /// Represents the [archive_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![archive_restore](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik00IDh2MTFhMiAyIDAgMCAwIDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yMCA4djExYTIgMiAwIDAgMS0yIDJoLTIiIC8+CiAgPHBhdGggZD0ibTkgMTUgMy0zIDMgMyIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2OSIgLz4KPC9zdmc+Cg==)
+  /// ![archive_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik00IDh2MTFhMiAyIDAgMCAwIDIgMmguMzQzIiAvPgogIDxwYXRoIGQ9Ik0yMCA4djExYTIgMiAwIDAgMS0yIDJoLS4zNDMiIC8+CiAgPHBhdGggZD0ibTkgMTggMyAzIDMtMyIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2OSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [archive_restore] icon is a graphical symbol that conveys a specific idea or functionality related to unarchive, index, backup, box, storage, records.
+  /// - The [archive_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to index, backup, box, storage, records, email, download, save.
+  /// - It belongs to the categories: files, mail
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/bduffany](https://github.com/bduffany)
+  static const IconData archive_arrow_down = IconData(
+    0xe7c3,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [archive_arrow_up] icon from the Lucide icon set.
+  ///
+  /// ![archive_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik00IDh2MTFhMiAyIDAgMCAwIDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yMCA4djExYTIgMiAwIDAgMS0yIDJoLTIiIC8+CiAgPHBhdGggZD0ibTkgMTUgMy0zIDMgMyIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2OSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [archive_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to unarchive, index, backup, box, storage, records, restore, retrieve, recover, reactivate.
   /// - It belongs to the categories: files, mail
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData archive_restore = IconData(
+  static const IconData archive_arrow_up = IconData(
     0xe2cd,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
@@ -3833,6 +3849,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [boxes_linked] icon from the Lucide icon set.
+  ///
+  /// ![boxes_linked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgNmgyYTIgMiAwIDAgMSAyIDJ2NSIgLz4KICA8cGF0aCBkPSJNMTQuMjEgMTUuMjAyIDE4IDE3LjRWMjIiIC8+CiAgPHBhdGggZD0iTTE0Ljc5NiAxNC42MTFBMS42IDEuNiAwIDAgMCAxNCAxNS45OTV2My4wMTNhMS42IDEuNiAwIDAgMCAuNzk3IDEuMzg0bDIuNCAxLjM5MmExLjYgMS42IDAgMCAwIDEuNjA2IDBsMi40LTEuMzkyQTEuNiAxLjYgMCAwIDAgMjIgMTkuMDA4di0zLjAxM2ExLjYgMS42IDAgMCAwLS43OTYtMS4zODRsLTIuNC0xLjM5NGExLjYgMS42IDAgMCAwLTEuNTE0LS4wNTF6IiAvPgogIDxwYXRoIGQ9Im0xOCAxNy40IDMuNzktMi4xOTgiIC8+CiAgPHBhdGggZD0iTTIuMjEgNC4yMDIgNiA2LjRWMTZhMiAyIDAgMCAwIDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yLjc5NiAzLjYxMUExLjYgMS42IDAgMCAwIDIgNC45OTV2My4wMTNhMS42IDEuNiAwIDAgMCAuNzk3IDEuMzg0bDIuNCAxLjM5MmExLjYgMS42IDAgMCAwIDEuNjA2IDBsMi40LTEuMzkyQTEuNiAxLjYgMCAwIDAgMTAgOC4wMDhWNC45OTVhMS42IDEuNiAwIDAgMC0uNzk2LTEuMzg0bC0yLjQtMS4zOTRhMS42IDEuNiAwIDAgMC0xLjUxNC0uMDUyeiIgLz4KICA8cGF0aCBkPSJtNiA2LjQgMy43OS0yLjE5OCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [boxes_linked] icon is a graphical symbol that conveys a specific idea or functionality related to cubes, package, module, dependencies, link, chain, blockchain, network, nodes, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory.
+  /// - It belongs to the categories: development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData boxes_linked = IconData(
+    0xe7c4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [braces] icon from the Lucide icon set.
   ///
   /// ![braces](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAzSDdhMiAyIDAgMCAwLTIgMnY1YTIgMiAwIDAgMS0yIDIgMiAyIDAgMCAxIDIgMnY1YzAgMS4xLjkgMiAyIDJoMSIgLz4KICA8cGF0aCBkPSJNMTYgMjFoMWEyIDIgMCAwIDAgMi0ydi01YzAtMS4xLjktMiAyLTJhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMC0yLTJoLTEiIC8+Cjwvc3ZnPgo=)
@@ -4437,6 +4469,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData calendar_arrow_down = IconData(
     0xe5fe,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [calendar_arrow_left] icon from the Lucide icon set.
+  ///
+  /// ![calendar_arrow_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0yMSA5SDMiIC8+CiAgPHBhdGggZD0iTTMgMTIuMzRWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJoLTcuMzUiIC8+CiAgPHBhdGggZD0iTTMgMThoNiIgLz4KICA8cGF0aCBkPSJtNiAyMS0zLTMgMy0zIiAvPgogIDxwYXRoIGQ9Ik04IDJ2MyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [calendar_arrow_left] icon is a graphical symbol that conveys a specific idea or functionality related to date, day, month, year, event, arrow, direction, navigation, previous, back, backward, past, earlier, reschedule, postpone, schedule, timeline, date picker.
+  /// - It belongs to the categories: time, arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ryck](https://github.com/ryck), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData calendar_arrow_left = IconData(
+    0xe7c5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [calendar_arrow_right] icon from the Lucide icon set.
+  ///
+  /// ![calendar_arrow_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Im0xOCAyMSAzLTNoLTYiIC8+CiAgPHBhdGggZD0iTTIxIDEyLjM0VjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDcuMzUiIC8+CiAgPHBhdGggZD0ibTIxIDE4LTMtMyIgLz4KICA8cGF0aCBkPSJNMyA5aDE4IiAvPgogIDxwYXRoIGQ9Ik04IDJ2MyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [calendar_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to date, day, month, year, event, arrow, direction, navigation, next, forward, future, upcoming, later, reschedule, postpone, defer, schedule, timeline, appointment.
+  /// - It belongs to the categories: time, arrows, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ryck](https://github.com/ryck), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+  static const IconData calendar_arrow_right = IconData(
+    0xe7c6,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -5589,6 +5653,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData chart_pie = IconData(
     0xe06b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [chart_quadrant] icon from the Lucide icon set.
+  ///
+  /// ![chart_quadrant](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyAxMmgxOCIgLz4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAwMiAyaDE2IiAvPgogIDxjaXJjbGUgY3g9IjE3LjUiIGN5PSI1LjUiIHI9IjAuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgogIDxjaXJjbGUgY3g9IjE5LjUiIGN5PSIxNi41IiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSIxNi41IiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSI3LjUiIHI9IjAuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [chart_quadrant] icon is a graphical symbol that conveys a specific idea or functionality related to quadrant, chart, diagram, statistics, analytics, graph, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering.
+  /// - It belongs to the categories: charts, science, math
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/nito](https://github.com/nito)
+  static const IconData chart_quadrant = IconData(
+    0xe7c7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [chart_radar] icon from the Lucide icon set.
+  ///
+  /// ![chart_radar](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYxMCIgLz4KICA8cGF0aCBkPSJtMTYgMTggMy4wODUtOC4xMjVMMTIgNC4xMDMgMy40NzMgOS40NDJsMy4xOTYgMTAuNTU0eiIgLz4KICA8cGF0aCBkPSJtMiA5IDEwIDMgNiA5IiAvPgogIDxwYXRoIGQ9Im02IDIxIDYtOSAxMC0zIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [chart_radar] icon is a graphical symbol that conveys a specific idea or functionality related to radar, chart, diagram, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, analytics, visualization, attributes.
+  /// - It belongs to the categories: charts, shapes, science
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/nito](https://github.com/nito), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/congemcd](https://github.com/congemcd), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData chart_radar = IconData(
+    0xe7c8,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -8969,6 +9065,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [database_cog] icon from the Lucide icon set.
+  ///
+  /// ![database_cog](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQuMzA1IDE5LjUzLjkyMy0uMzgyIiAvPgogIDxwYXRoIGQ9Im0xNS4yMjggMTYuODUyLS45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtMTYuODUyIDE1LjIyOC0uMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE2Ljg1MiAyMC43NzItLjM4My45MjQiIC8+CiAgPHBhdGggZD0ibTE5LjE0OCAxNS4yMjguMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTE5LjUzIDIxLjY5Ni0uMzgyLS45MjQiIC8+CiAgPHBhdGggZD0ibTIwLjc3MiAxNi44NTIuOTI0LS4zODMiIC8+CiAgPHBhdGggZD0ibTIwLjc3MiAxOS4xNDguOTI0LjM4MyIgLz4KICA8cGF0aCBkPSJNMjEgMTAuNVY1IiAvPgogIDxwYXRoIGQ9Ik0zIDEyYTkgMyAwIDAgMCA3LjU5OSAyLjk2MyIgLz4KICA8cGF0aCBkPSJNMyA1djE0YTkgMyAwIDAgMCA4LjE0OCAyLjk4NyIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIzIiAvPgogIDxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [database_cog] icon is a graphical symbol that conveys a specific idea or functionality related to db, settings, configuration, preferences, gear, admin, sql, storage, server, maintenance, schema, query, relational.
+  /// - It belongs to the categories: development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/PrimeTestLab](https://github.com/PrimeTestLab)
+  static const IconData database_cog = IconData(
+    0xe7c9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [database_minus] icon from the Lucide icon set.
   ///
   /// ![database_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTVWNSIgLz4KICA8cGF0aCBkPSJNMjIgMTloLTYiIC8+CiAgPHBhdGggZD0iTTMgMTJBOSAzIDAgMCAwIDIxIDEyIiAvPgogIDxwYXRoIGQ9Ik0zIDVWMTlBOSAzIDAgMCAwIDEzLjMxOCAyMS45NjgiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIiAvPgo8L3N2Zz4K)
@@ -9829,6 +9941,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData ear_off = IconData(
     0xe383,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [earbuds] icon from the Lucide icon set.
+  ///
+  /// ![earbuds](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggM2E0IDQgOTAgMDAtNCA0djEyYTIgMiA5MCAwMDQgMHYtOGE1IDUgOTAgMDAzLjc1LTEuNjkzIDEgMSA5MCAwMC4yNS0uNjYxVjUuMzU0YTEgMSA5MCAwMC0uMjUtLjY2MUE1IDUgOTAgMDAxOCAzIiAvPgogIDxwYXRoIGQ9Ik02IDNhNCA0IDAgMDE0IDR2MTJhMiAyIDAgMDEtNCAwdi04YTUgNSAwIDAxLTMuNzUtMS42OTNBMSAxIDAgMDEyIDguNjQ2VjUuMzU0YTEgMSAwIDAxLjI1LS42NjFBNSA1IDAgMDE2IDMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [earbuds] icon is a graphical symbol that conveys a specific idea or functionality related to earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume.
+  /// - It belongs to the categories: devices
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData earbuds = IconData(
+    0xe7cb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [earbuds_off] icon from the Lucide icon set.
+  ///
+  /// ![earbuds_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTB2OWEyIDIgMCAwMS00IDB2LThhNSA1IDAgMDEtMy43NS0xLjY5M0ExIDEgMCAwMTIgOC42NDZWNS4zNTRhMSAxIDAgMDEuMjUtLjY2MSA1IDUgMCAwMTEuMzU5LTEuMDg0IiAvPgogIDxwYXRoIGQ9Ik0xNCAxNHY1YTIgMiA5MCAwMDQgMHYtMSIgLz4KICA8cGF0aCBkPSJNMTggMTIuMzQzVjExYTUgNSA5MCAwMDMuNzUtMS42OTMgMSAxIDkwIDAwLjI1LS42NjFWNS4zNTRhMSAxIDkwIDAwLS4yNS0uNjYxQTUgNSA5MCAwMDE4IDNhNCA0IDkwIDAwLTQgNHYxLjM0MyIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [earbuds_off] icon is a graphical symbol that conveys a specific idea or functionality related to earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume, disconnected, disabled, inactive.
+  /// - It belongs to the categories: devices
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData earbuds_off = IconData(
+    0xe7ca,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -15237,6 +15381,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData laptop_minimal_check = IconData(
     0xe632,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [laser] icon from the Lucide icon set.
+  ///
+  /// ![laser](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMgOCAuOTUtLjk1IiAvPgogIDxwYXRoIGQ9Ik0xMy45NSAxNi45NSAxMyAxNiIgLz4KICA8cGF0aCBkPSJNMjIgMTJoLTkiIC8+CiAgPHBhdGggZD0iTTQgMTJIMiIgLz4KICA8cGF0aCBkPSJNNC4wNSAxNi45NSA1IDE2IiAvPgogIDxwYXRoIGQ9Im01IDgtLjk1LS45NSIgLz4KICA8cGF0aCBkPSJNOSAxMmguMDEiIC8+CiAgPHBhdGggZD0iTTkgMTl2LTIiIC8+CiAgPHBhdGggZD0iTTkgN1Y1IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [laser] icon is a graphical symbol that conveys a specific idea or functionality related to annotation, beam, draw, guide, highlight, pointer, presentation, screen, spotlight, pointer device, projection.
+  /// - It belongs to the categories: tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kotaindah55](https://github.com/kotaindah55)
+  static const IconData laser = IconData(
+    0xe7cc,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -24057,6 +24217,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [siren_off] icon from the Lucide icon set.
+  ///
+  /// ![siren_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2NiIgLz4KICA8cGF0aCBkPSJNMTIgMnYxIiAvPgogIDxwYXRoIGQ9Ik0xMi43MDcgNy4wNWE1IDUgMCAwIDEgNC4yNDMgNC4yNDMiIC8+CiAgPHBhdGggZD0iTTE3IDE3djFIN2EyIDIgMCAwIDAtMiAydjFhMSAxIDAgMCAwIDEgMWgxMmExIDEgMCAwIDAgMS0xdi0xYTIgMiAwIDAgMC0yLTIiIC8+CiAgPHBhdGggZD0iTTE4LjUgNC41IDE4IDUiIC8+CiAgPHBhdGggZD0iTTIgMTJoMSIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMmgxIiAvPgogIDxwYXRoIGQ9Ik03IDE4di02YTUgNSAwIDAgMSAxLjQ2NC0zLjUzNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [siren_off] icon is a graphical symbol that conveys a specific idea or functionality related to police, ambulance, emergency, security, alert, alarm, light, disabled, mute, silent, silence, inactive.
+  /// - It belongs to the categories: medical
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/xougui](https://github.com/xougui), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData siren_off = IconData(
+    0xe7cd,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [sixteenth_notes] icon from the Lucide icon set.
   ///
   /// ![sixteenth_notes](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTZWM2ExIDEgMCAwIDAtMS4yOC0uOTZsLTEwIDIuOTE3YTEgMSAwIDAgMC0uNzIuOTZWMTkiIC8+CiAgPHBhdGggZD0iTTIxIDYgOSA5LjUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxNiIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTkiIHI9IjMiIC8+Cjwvc3ZnPgo=)
@@ -25045,6 +25221,70 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData square_chevron_up = IconData(
     0xe3d2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_chevrons_down] icon from the Lucide icon set.
+  ///
+  /// ![square_chevrons_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNEwxMiAxN0wxNSAxNCIgLz4KICA8cGF0aCBkPSJNOSA4TDEyIDExTDE1IDgiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_chevrons_down] icon is a graphical symbol that conveys a specific idea or functionality related to bottom, descend, page, page down, scroll, jump, south, caret, button, keyboard, skip, end, last page, latest, feed, chat, pagination, fast, media, menu, panel, double-arrow, outlined, border, seek, rewind, controls, fast-forward.
+  /// - It belongs to the categories: arrows, navigation, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ypotti](https://github.com/ypotti)
+  static const IconData square_chevrons_down = IconData(
+    0xe7ce,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_chevrons_left] icon from the Lucide icon set.
+  ///
+  /// ![square_chevrons_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOUw3IDEyTDEwIDE1IiAvPgogIDxwYXRoIGQ9Ik0xNiA5TDEzIDEyTDE2IDE1IiAvPgogIDxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_chevrons_left] icon is a graphical symbol that conveys a specific idea or functionality related to previous, back, rewind, backward, first, beginning, start, west, music, caret, button, keyboard, menu, panel, pagination, skip, skip-back, seek-back, media-controls, player, playlist, track, chapter, jump, timeline, controls, seek, media.
+  /// - It belongs to the categories: arrows, navigation, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ypotti](https://github.com/ypotti)
+  static const IconData square_chevrons_left = IconData(
+    0xe7cf,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_chevrons_right] icon from the Lucide icon set.
+  ///
+  /// ![square_chevrons_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTVMMTcgMTJMMTQgOSIgLz4KICA8cGF0aCBkPSJNOCAxNUwxMSAxMkw4IDkiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_chevrons_right] icon is a graphical symbol that conveys a specific idea or functionality related to next, forward, skip, fast forward, last, end, east, music, caret, button, keyboard, menu, panel, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control, double arrow, media controls, toolbar, keyboard shortcut, skip-to-end, end-of-list.
+  /// - It belongs to the categories: arrows, navigation, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ypotti](https://github.com/ypotti)
+  static const IconData square_chevrons_right = IconData(
+    0xe7d0,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_chevrons_up] icon from the Lucide icon set.
+  ///
+  /// ![square_chevrons_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBMMTIgN0w5IDEwIiAvPgogIDxwYXRoIGQ9Ik0xNSAxNkwxMiAxM0w5IDE2IiAvPgogIDxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_chevrons_up] icon is a graphical symbol that conveys a specific idea or functionality related to top, ascend, page, page up, back to top, scroll, jump, north, caret, button, keyboard, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, mac, control, ctrl, menu, panel, timeline, start, first, return, double arrow, seek, playlist, floating action.
+  /// - It belongs to the categories: arrows, navigation, multimedia, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/AlexandrePhilibert](https://github.com/AlexandrePhilibert), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ypotti](https://github.com/ypotti)
+  static const IconData square_chevrons_up = IconData(
+    0xe7d1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -28965,6 +29205,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/jmsv](https://github.com/jmsv), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData user_round_search = IconData(
     0xe578,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [user_round_shield] icon from the Lucide icon set.
+  ///
+  /// ![user_round_shield](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMWE4IDggMCAwIDEgOC04IDUgNSAwIDEgMSA0Ljg0NS0zLjc1OSIgLz4KICA8cGF0aCBkPSJNMjIgMTcuNWMwIDIuNS0xLjc1IDMuNzUtMy44MyA0LjQ3NGEuNS41IDAgMCAxLS4zMzUtLjAwNUMxNS43NSAyMS4yNSAxNCAyMCAxNCAxNy41VjE0YS41LjUgMCAwIDEgLjUtLjQ5OWMxIDAgMi4yNS0uNiAzLjEyLTEuMzZhLjYuNiAwIDAgMSAuNzYtLjAwMWMuODc1Ljc2NSAyLjEyIDEuMzYgMy4xMiAxLjM2YS41LjUgMCAwIDEgLjUuNXoiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [user_round_shield] icon is a graphical symbol that conveys a specific idea or functionality related to security, protection, admin, guard, privacy, account, role, permissions, profile, identity, trusted.
+  /// - It belongs to the categories: account, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/MArtytraM99](https://github.com/MArtytraM99), [https://github.com/DrashtiC07](https://github.com/DrashtiC07)
+  static const IconData user_round_shield = IconData(
+    0xe7d2,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
