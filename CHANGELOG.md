@@ -1,3 +1,25 @@
+# 1.64.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.64.0
+- Total icon count increased from 1,924+ to 1,999+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- circle-letter-a, circle-letter-b, circle-letter-c, circle-letter-d, circle-letter-e, circle-letter-f, circle-letter-g, circle-letter-h, circle-letter-i, circle-letter-j, circle-letter-k, circle-letter-l, circle-letter-m, circle-letter-n, circle-letter-o, circle-letter-q, circle-letter-r, circle-letter-s, circle-letter-t, circle-letter-u, circle-letter-v, circle-letter-w, circle-letter-x, circle-letter-y, circle-letter-z, letter-a, letter-b, letter-c, letter-d, letter-e, letter-f, letter-g, letter-h, letter-i, letter-j, letter-k, letter-l, letter-m, letter-n, letter-o, letter-p, letter-q, letter-r, letter-s, letter-t, letter-u, letter-v, letter-w, letter-x, letter-y, letter-z, numbers, square-kanban-plus, square-letter-a, square-letter-b, square-letter-c, square-letter-d, square-letter-e, square-letter-f, square-letter-g, square-letter-h, square-letter-i, square-letter-j, square-letter-k, square-letter-l, square-letter-n, square-letter-o, square-letter-q, square-letter-r, square-letter-s, square-letter-t, square-letter-u, square-letter-v, square-letter-w, square-letter-x, square-letter-y, square-letter-z
+
+## Renamed Icons ✏️
+- `circle-parking` renamed to `circle-letter-p`
+- `circle-parking-off` renamed to `circle-letter-p-off`
+- `square-m` renamed to `square-letter-m`
+- `square-parking` renamed to `square-letter-p`
+- `square-parking-off` renamed to `square-letter-p-off`
+
+## Removed Icons 🗑️
+- bold, heading
+
+---
+
 # 1.63.0
 
 ## Improvements 🚀

@@ -47,7 +47,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [a_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to letter, font size, text, formatting, smaller.
-  /// - It belongs to the categories: text, design
+  /// - It belongs to the categories: letters-digits, text, design
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -63,7 +63,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [a_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to letter, font size, text, formatting, larger, bigger.
-  /// - It belongs to the categories: text, design
+  /// - It belongs to the categories: letters-digits, text, design
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -79,7 +79,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [a_large_small] icon is a graphical symbol that conveys a specific idea or functionality related to letter, font size, text, formatting.
-  /// - It belongs to the categories: text, design
+  /// - It belongs to the categories: letters-digits, text, design
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -127,7 +127,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [ad] icon is a graphical symbol that conveys a specific idea or functionality related to advert, affiliate, brand, campaign, commercial, marketing, monetize, paid, partner, promo, sponsor, audio description, video description, described video, visual description.
-  /// - It belongs to the categories: multimedia, accessibility, notifications
+  /// - It belongs to the categories: letters-digits, multimedia, accessibility, notifications
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
@@ -1055,7 +1055,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_down_0_1] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1071,7 +1071,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_down_1_0] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1087,7 +1087,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_down_a_z] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1231,7 +1231,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_down_z_a] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1391,7 +1391,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_up_0_1] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1407,7 +1407,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_up_1_0] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1423,7 +1423,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_up_a_z] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1567,7 +1567,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [arrow_up_z_a] icon is a graphical symbol that conveys a specific idea or functionality related to filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse.
-  /// - It belongs to the categories: text, layout, arrows
+  /// - It belongs to the categories: letters-digits, text, layout, arrows
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1631,7 +1631,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [at_sign] icon is a graphical symbol that conveys a specific idea or functionality related to mention, at, email, message, @.
-  /// - It belongs to the categories: text, account
+  /// - It belongs to the categories: letters-digits, text, account
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -1967,7 +1967,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [badge_info] icon is a graphical symbol that conveys a specific idea or functionality related to verified, unverified, help.
-  /// - It belongs to the categories: account, accessibility, social
+  /// - It belongs to the categories: letters-digits, account, accessibility, social
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
@@ -2367,7 +2367,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [baseline] icon is a graphical symbol that conveys a specific idea or functionality related to text, format, color.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -2911,7 +2911,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [binary] icon is a graphical symbol that conveys a specific idea or functionality related to code, digits, computer, zero, one, boolean.
-  /// - It belongs to the categories: text, development
+  /// - It belongs to the categories: letters-digits, text, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -3129,22 +3129,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [bold] icon from the Lucide icon set.
-  ///
-  /// ![bold](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmg5YTQgNCAwIDAgMSAwIDhIN2ExIDEgMCAwIDEtMS0xVjVhMSAxIDAgMCAxIDEtMWg3YTQgNCAwIDAgMSAwIDgiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [bold] icon is a graphical symbol that conveys a specific idea or functionality related to text, strong, format.
-  /// - It belongs to the categories: text
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData bold = IconData(
-    0xe05d,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [bolt] icon from the Lucide icon set.
   ///
   /// ![bolt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTZWOGEyIDIgMCAwIDAtMS0xLjczbC03LTRhMiAyIDAgMCAwLTIgMGwtNyA0QTIgMiAwIDAgMCAzIDh2OGEyIDIgMCAwIDAgMSAxLjczbDcgNGEyIDIgMCAwIDAgMiAwbDctNEEyIDIgMCAwIDAgMjEgMTZ6IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQiIC8+Cjwvc3ZnPgo=)
@@ -3231,7 +3215,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [book_a] icon is a graphical symbol that conveys a specific idea or functionality related to dictionary, define, definition, thesaurus, encyclopedia, encyclopaedia, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, alphabetical, a-z, ordered.
-  /// - It belongs to the categories: text, gaming
+  /// - It belongs to the categories: letters-digits, text, gaming
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -3551,7 +3535,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [book_type] icon is a graphical symbol that conveys a specific idea or functionality related to thesaurus, synonym, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, typography, fonts, collection.
-  /// - It belongs to the categories: text, design, gaming
+  /// - It belongs to the categories: letters-digits, text, design, gaming
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -4447,7 +4431,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [calendar_1] icon is a graphical symbol that conveys a specific idea or functionality related to date, month, year, event, single, singular, once, 1, first.
-  /// - It belongs to the categories: time
+  /// - It belongs to the categories: letters-digits, time
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/peteruithoven](https://github.com/peteruithoven)
@@ -5167,7 +5151,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [case_lower] icon is a graphical symbol that conveys a specific idea or functionality related to text, letters, characters, font, typography.
-  /// - It belongs to the categories: text, development
+  /// - It belongs to the categories: letters-digits, text, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -5183,7 +5167,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [case_sensitive] icon is a graphical symbol that conveys a specific idea or functionality related to text, letters, characters, font, typography.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -5199,7 +5183,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [case_upper] icon is a graphical symbol that conveys a specific idea or functionality related to text, letters, characters, font, typography.
-  /// - It belongs to the categories: text, development
+  /// - It belongs to the categories: letters-digits, text, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/vichotech](https://github.com/vichotech), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -6713,6 +6697,438 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_letter_a] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_a](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTRIOSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtOCAxNiAzLjQ1My03LjY0OGEuNi42IDAgMCAxIDEuMDk0IDBMMTYgMTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_a] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_a = IconData(
+    0xe7d3,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_b] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_b](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMmg0Ljg0NmEyLjI0IDIuMjQgMCAwMTEuNTIzLjU4NiAyIDIgMCAwMS4wMDEgMi44MjggMi4yNCAyLjI0IDAgMDEtMS41MjQuNTg2SDkuNWEuNS41IDAgMDEtLjUtLjV2LTdhLjUuNSAwIDAxLjUtLjVIMTNhMiAyIDAgMDEwIDQiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_b] icon is a graphical symbol that conveys a specific idea or functionality related to strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_b = IconData(
+    0xe7d4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_c] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_c](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOS4zNTRhNCA0IDAgMSAwIDAgNS4yOTIiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_c] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_c = IconData(
+    0xe7d5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_d] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOGE0IDQgMCAwMTAgOEg5LjQxMkEuNDEuNDEgMCAwMTkgMTUuNTg4VjguNDEyQS40MS40MSAwIDAxOS40MTIgOHoiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_d] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_d = IconData(
+    0xe7d6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_e] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_e](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOEg5LjVhLjUuNSAwIDAgMC0uNS41djdhLjUuNSAwIDAgMCAuNS41SDE1IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDQiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_e] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_e = IconData(
+    0xe7d7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_f] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_f](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4LjVhLjUuNSAwIDAgMSAuNS0uNUgxNSIgLz4KICA8cGF0aCBkPSJNOSAxMmg0IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_f] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_f = IconData(
+    0xe7d8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_g] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_g](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxMkgxNXYyLjI2OGEuODguODggMCAwMS0uMjYzLjY1QTQgNCAwIDExMTIgOGgyLjUiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_g] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_g = IconData(
+    0xe7d9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_h] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_h](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4IiAvPgogIDxwYXRoIGQ9Ik0xNSAxNlY4IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDYiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_h] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_h = IconData(
+    0xe7da,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_i] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_i](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZWOCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_letter_i] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_i = IconData(
+    0xe7db,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_j] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDAiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_j] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_j = IconData(
+    0xe7dc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_k] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_k](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4IiAvPgogIDxwYXRoIGQ9Im0xMSAxMiA0IDQiIC8+CiAgPHBhdGggZD0ibTE1IDgtNiA2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_k] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_k = IconData(
+    0xe7dd,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_l] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_l](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA4djcuNWEuNS41IDAgMCAwIC41LjVIMTUiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_l] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_l = IconData(
+    0xe7de,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_m] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_m](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxNi4wMDF2LTcuNWEuNS41IDAgMCAxIC45LS4zbDIuNyAzLjU5OWEuNS41IDAgMCAwIC44IDBsMi43LTMuNmEuNS41IDAgMCAxIC45LjN2Ny41MDEiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_m] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_m = IconData(
+    0xe7df,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_n] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_n](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4LjU3NmEuNDk2LjQ5NiAwIDAxLjkzNy0uMjQzbDQuMTI2IDcuNDNBLjQ5Ni40OTYgMCAwMDE1IDE1LjUyVjgiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_n] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_n = IconData(
+    0xe7e0,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_o] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_o](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_o] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_o = IconData(
+    0xe7e1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_p] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_p](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMmg0YTIgMiAwIDAgMCAwLTRIOS41YS41LjUgMCAwIDAtLjUuNVYxNiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_letter_p] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_p = IconData(
+    0xe3c9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_p_off] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjU2IDdIMTNhMyAzIDAgMCAxIDIuOTg0IDMuMzA3IiAvPgogIDxwYXRoIGQ9Ik0xMyAxM0g5IiAvPgogIDxwYXRoIGQ9Ik0xOS4wNzEgMTkuMDcxQTEgMSAwIDAgMSA0LjkzIDQuOTMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNOC4zNTcgMi42ODdhMTAgMTAgMCAwIDEgMTIuOTU2IDEyLjk1NiIgLz4KICA8cGF0aCBkPSJNOSAxN1Y5IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_p_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
+  /// - It belongs to the categories: letters-digits, transportation, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData circle_letter_p_off = IconData(
+    0xe3ca,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_q] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_q](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiAvPgogIDxwYXRoIGQ9Im0xNiAxNi0yLjUtMi41IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_q] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_q = IconData(
+    0xe7e2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_r] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_r](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMTIgNCA0IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDRhMiAyIDAgMCAwIDAtNEg5LjVhLjUuNSAwIDAgMC0uNS41VjE2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_r] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_r = IconData(
+    0xe7e3,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_s] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_s](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQuNSA4SDExYTIgMiAwIDEwMCA0aDJhMiAyIDAgMTEwIDRIOSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_letter_s] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_s = IconData(
+    0xe7e4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_t] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_t](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZWOCIgLz4KICA8cGF0aCBkPSJNOSA4aDYiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_t] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_t = IconData(
+    0xe7e5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_u] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_u](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDBWOCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_letter_u] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_u = IconData(
+    0xe7e6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_v] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_v](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSA4IDIuNTI1IDcuNjZhLjUuNSAwIDAgMCAuOTUgMEwxNSA4IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_v] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_v = IconData(
+    0xe7e7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_w] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_w](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgOC0xLjU5MSA3LjU5OGEuNDk3LjQ5NyAwIDAxLS45Ny4wMzhsLS45Ni0zLjI3NmEuNS41IDAgMDAtLjk1OSAwbC0uOTYgMy4yNzZhLjQ5Ni40OTYgMCAwMS0uOTY5LS4wMzhMOCA4IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_letter_w] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_w = IconData(
+    0xe7e8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_x] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSAxNiA2LTgiIC8+CiAgPHBhdGggZD0ibTkgOCA2IDgiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_x] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_x = IconData(
+    0xe7e9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_y] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_y](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSA4IDMgNCAzLTQiIC8+CiAgPHBhdGggZD0iTTEyIDEydjQiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_letter_y] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_y = IconData(
+    0xe7ea,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_letter_z] icon from the Lucide icon set.
+  ///
+  /// ![circle_letter_z](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA4aDUuNTAxYS41LjUgMCAwIDEgLjM3LjgzNkw5LjEzIDE1LjE2NEEuNS41IDAgMCAwIDkuNSAxNkgxNSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_letter_z] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData circle_letter_z = IconData(
+    0xe7eb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_minus] icon from the Lucide icon set.
   ///
   /// ![circle_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNOCAxMmg4IiAvPgo8L3N2Zz4K)
@@ -6741,38 +7157,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData circle_off = IconData(
     0xe401,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_parking] icon from the Lucide icon set.
-  ///
-  /// ![circle_parking](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNOSAxN1Y3aDRhMyAzIDAgMCAxIDAgNkg5IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [circle_parking] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park.
-  /// - It belongs to the categories: transportation, navigation
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData circle_parking = IconData(
-    0xe3c9,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_parking_off] icon from the Lucide icon set.
-  ///
-  /// ![circle_parking_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjU2IDdIMTNhMyAzIDAgMCAxIDIuOTg0IDMuMzA3IiAvPgogIDxwYXRoIGQ9Ik0xMyAxM0g5IiAvPgogIDxwYXRoIGQ9Ik0xOS4wNzEgMTkuMDcxQTEgMSAwIDAgMSA0LjkzIDQuOTMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNOC4zNTcgMi42ODdhMTAgMTAgMCAwIDEgMTIuOTU2IDEyLjk1NiIgLz4KICA8cGF0aCBkPSJNOSAxN1Y5IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [circle_parking_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
-  /// - It belongs to the categories: transportation, navigation
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_parking_off = IconData(
-    0xe3ca,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -7295,7 +7679,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [clipboard_type] icon is a graphical symbol that conveys a specific idea or functionality related to paste, format, text.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -7663,7 +8047,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [closed_caption] icon is a graphical symbol that conveys a specific idea or functionality related to tv, movie, video, closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility.
-  /// - It belongs to the categories: accessibility, multimedia
+  /// - It belongs to the categories: letters-digits, accessibility, multimedia
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
@@ -8511,7 +8895,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [copyleft] icon is a graphical symbol that conveys a specific idea or functionality related to licence.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
@@ -8527,7 +8911,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [copyright] icon is a graphical symbol that conveys a specific idea or functionality related to licence, license.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
@@ -8687,7 +9071,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [cpu_ai] icon is a graphical symbol that conveys a specific idea or functionality related to ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip.
-  /// - It belongs to the categories: devices, development
+  /// - It belongs to the categories: letters-digits, devices, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/signalgridco](https://github.com/signalgridco)
@@ -8703,7 +9087,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [creative_commons] icon is a graphical symbol that conveys a specific idea or functionality related to licence, license.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -9167,7 +9551,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [decimals_arrow_left] icon is a graphical symbol that conveys a specific idea or functionality related to numerical, decimal, decrease, less, fewer, precision, rounding, digits, fraction, float, number.
-  /// - It belongs to the categories: design, text, arrows, math
+  /// - It belongs to the categories: letters-digits, design, text, arrows, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -9183,7 +9567,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [decimals_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to numerical, decimal, increase, more, precision, rounding, digits, fraction, float, number.
-  /// - It belongs to the categories: design, text, arrows, math
+  /// - It belongs to the categories: letters-digits, design, text, arrows, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/AnnaSasDev](https://github.com/AnnaSasDev), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -9579,7 +9963,7 @@ abstract final class LucideIcons {
 
   /// Represents the [dollar_sign] icon from the Lucide icon set.
   ///
-  /// ![dollar_sign](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjIiIHkyPSIyMiIgLz4KICA8cGF0aCBkPSJNMTcgNUg5LjVhMy41IDMuNSAwIDAgMCAwIDdoNWEzLjUgMy41IDAgMCAxIDAgN0g2IiAvPgo8L3N2Zz4K)
+  /// ![dollar_sign](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxOCIgLz4KICA8cGF0aCBkPSJNMTcgNUg5LjVhMSAxIDAgMDAwIDdoNWExIDEgMCAwMTAgN0g2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [dollar_sign] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -10943,7 +11327,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [file_digit] icon is a graphical symbol that conveys a specific idea or functionality related to number, document.
-  /// - It belongs to the categories: files, development
+  /// - It belongs to the categories: letters-digits, files, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -11407,7 +11791,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [file_type] icon is a graphical symbol that conveys a specific idea or functionality related to font, text, typography, type.
-  /// - It belongs to the categories: files, text
+  /// - It belongs to the categories: letters-digits, files, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -11423,7 +11807,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [file_type_corner] icon is a graphical symbol that conveys a specific idea or functionality related to font, text, typography, type.
-  /// - It belongs to the categories: files, text
+  /// - It belongs to the categories: letters-digits, files, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -12859,7 +13243,7 @@ abstract final class LucideIcons {
 
   /// Represents the [georgian_lari] icon from the Lucide icon set.
   ///
-  /// ![georgian_lari](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuNSAyMWE3LjUgNy41IDAgMSAxIDcuMzUtOSIgLz4KICA8cGF0aCBkPSJNMTMgMTJWMyIgLz4KICA8cGF0aCBkPSJNNCAyMWgxNiIgLz4KICA8cGF0aCBkPSJNOSAxMlYzIiAvPgo8L3N2Zz4K)
+  /// ![georgian_lari](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTBWMyIgLz4KICA8cGF0aCBkPSJNMTQgMTBWMyIgLz4KICA8cGF0aCBkPSJNMTkgMTNhNyA3IDAgMTAtNyA3IiAvPgogIDxwYXRoIGQ9Ik01IDIwaDE0IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [georgian_lari] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -13999,7 +14383,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [hd] icon is a graphical symbol that conveys a specific idea or functionality related to tv, resolution, video, high definition, 720p, 1080p.
-  /// - It belongs to the categories: devices, multimedia
+  /// - It belongs to the categories: letters-digits, devices, multimedia
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
@@ -14025,29 +14409,13 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [heading] icon from the Lucide icon set.
-  ///
-  /// ![heading](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmgxMiIgLz4KICA8cGF0aCBkPSJNNiAyMFY0IiAvPgogIDxwYXRoIGQ9Ik0xOCAyMFY0IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [heading] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown.
-  /// - It belongs to the categories: text
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData heading = IconData(
-    0xe384,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [heading_1] icon from the Lucide icon set.
   ///
   /// ![heading_1](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxMmg4IiAvPgogIDxwYXRoIGQ9Ik00IDE4VjYiIC8+CiAgPHBhdGggZD0iTTEyIDE4VjYiIC8+CiAgPHBhdGggZD0ibTE3IDEyIDMtMnY4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [heading_1] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -14063,7 +14431,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [heading_2] icon is a graphical symbol that conveys a specific idea or functionality related to h2, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -14079,7 +14447,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [heading_3] icon is a graphical symbol that conveys a specific idea or functionality related to h3, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
@@ -14095,7 +14463,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [heading_4] icon is a graphical symbol that conveys a specific idea or functionality related to h4, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
@@ -14111,7 +14479,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [heading_5] icon is a graphical symbol that conveys a specific idea or functionality related to h5, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
@@ -14127,7 +14495,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [heading_6] icon is a graphical symbol that conveys a specific idea or functionality related to h6, html, markup, markdown.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -14875,7 +15243,7 @@ abstract final class LucideIcons {
 
   /// Represents the [indian_rupee] icon from the Lucide icon set.
   ///
-  /// ![indian_rupee](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAzaDEyIiAvPgogIDxwYXRoIGQ9Ik02IDhoMTIiIC8+CiAgPHBhdGggZD0ibTYgMTMgOC41IDgiIC8+CiAgPHBhdGggZD0iTTYgMTNoMyIgLz4KICA8cGF0aCBkPSJNOSAxM2M2LjY2NyAwIDYuNjY3LTEwIDAtMTAiIC8+Cjwvc3ZnPgo=)
+  /// ![indian_rupee](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMjAtOC04aDRjNS4zMzMgMCA1LjMzMy04IDAtOCIgLz4KICA8cGF0aCBkPSJNNiA0aDEyIiAvPgogIDxwYXRoIGQ9Ik02IDhoMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -14911,7 +15279,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [info] icon is a graphical symbol that conveys a specific idea or functionality related to about, advice, clue, details, help, hint, indicator, information, knowledge, notice, status, support, tooltip.
-  /// - It belongs to the categories: accessibility, notifications
+  /// - It belongs to the categories: letters-digits, accessibility, notifications
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -14943,7 +15311,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [italic] icon is a graphical symbol that conveys a specific idea or functionality related to oblique, text, format.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -15003,7 +15371,7 @@ abstract final class LucideIcons {
 
   /// Represents the [japanese_yen] icon from the Lucide icon set.
   ///
-  /// ![japanese_yen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOS41VjIxbTAtMTEuNUw2IDNtNiA2LjVMMTggMyIgLz4KICA8cGF0aCBkPSJNNiAxNWgxMiIgLz4KICA8cGF0aCBkPSJNNiAxMWgxMiIgLz4KPC9zdmc+Cg==)
+  /// ![japanese_yen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2OCIgLz4KICA8cGF0aCBkPSJtNiA0IDYgOCA2LTgiIC8+CiAgPHBhdGggZD0iTTggMTNoOCIgLz4KICA8cGF0aCBkPSJNOCAxN2g4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -15183,7 +15551,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [lambda] icon is a graphical symbol that conveys a specific idea or functionality related to greek, symbol, math, function, programming, serverless, anonymous, functional, cloud, wavelength, calculus, linear algebra.
-  /// - It belongs to the categories: development, math, science, text
+  /// - It belongs to the categories: letters-digits, development, math, science, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kaleidosium](https://github.com/kaleidosium), [https://github.com/UbaidUllah9962](https://github.com/UbaidUllah9962)
@@ -15327,7 +15695,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [languages] icon is a graphical symbol that conveys a specific idea or functionality related to translate.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/johnletey](https://github.com/johnletey)
@@ -15817,18 +16185,434 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [letter_a] icon from the Lucide icon set.
+  ///
+  /// ![letter_a](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcuMTE3IDE0SDYuODgzIiAvPgogIDxwYXRoIGQ9Im00IDIwIDcuNTUtMTUuNzEyYS41LjUgMCAwMS45IDBMMjAgMjAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_a] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography.
+  /// - It belongs to the categories: letters-digits, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_a = IconData(
+    0xe7ec,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_b] icon from the Lucide icon set.
+  ///
+  /// ![letter_b](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmg5YTQgNCAwIDAxMCA4SDdhMSAxIDAgMDEtMS0xVjVhMSAxIDAgMDExLTFoN2E0IDQgMCAwMTAgOCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_b] icon is a graphical symbol that conveys a specific idea or functionality related to strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography.
+  /// - It belongs to the categories: letters-digits, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_b = IconData(
+    0xe05d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_c] icon from the Lucide icon set.
+  ///
+  /// ![letter_c](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgNi43MDhhOCA4IDAgMTAwIDEwLjU4NCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_c] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_c = IconData(
+    0xe7ed,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_d] icon from the Lucide icon set.
+  ///
+  /// ![letter_d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNGE4IDggMCAwMTAgMTZINi40MDZBLjQwNi40MDYgMCAwMTYgMTkuNTk0VjQuNDA2QS40MDYuNDA2IDAgMDE2LjQwNiA0eiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_d] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_d = IconData(
+    0xe7ee,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_e] icon from the Lucide icon set.
+  ///
+  /// ![letter_e](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggNEg3YTEgMSAwIDAwLTEgMXYxNGExIDEgMCAwMDEgMWgxMSIgLz4KICA8cGF0aCBkPSJNNiAxMmg4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_e] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_e = IconData(
+    0xe7ef,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_f] icon from the Lucide icon set.
+  ///
+  /// ![letter_f](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmg4IiAvPgogIDxwYXRoIGQ9Ik02IDIwVjVhMSAxIDAgMDExLTFoMTEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_f] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_f = IconData(
+    0xe7f0,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_g] icon from the Lucide icon set.
+  ///
+  /// ![letter_g](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgNi43MDhhOCA4IDAgMTAtLjUyNiAxMS4xMjZjLjM1NS0uMzMzLjUyNi0uODExLjUyNi0xLjI5OVYxM2ExIDEgMCAwMC0xLTFoLTQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_g] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_g = IconData(
+    0xe7f1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_h] icon from the Lucide icon set.
+  ///
+  /// ![letter_h](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMjBWNCIgLz4KICA8cGF0aCBkPSJNNiAxMkgxOCIgLz4KICA8cGF0aCBkPSJNNiAyMFY0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_h] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_h = IconData(
+    0xe384,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_i] icon from the Lucide icon set.
+  ///
+  /// ![letter_i](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjBWNCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_i] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_i = IconData(
+    0xe7f2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_j] icon from the Lucide icon set.
+  ///
+  /// ![letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgNHYxMWE1IDUgMCAwMS0xMCAwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_j] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_j = IconData(
+    0xe7f3,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_k] icon from the Lucide icon set.
+  ///
+  /// ![letter_k](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgNCA2IDE1IiAvPgogIDxwYXRoIGQ9Ik02IDIwVjQiIC8+CiAgPHBhdGggZD0ibTkgMTIgOCA4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_k] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_k = IconData(
+    0xe7f4,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_l] icon from the Lucide icon set.
+  ///
+  /// ![letter_l](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA0djE1YTEgMSAwIDAwMSAxaDExIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_l] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_l = IconData(
+    0xe7f5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_m] icon from the Lucide icon set.
+  ///
+  /// ![letter_m](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAyMFY0LjI1M2EuMjUuMjUgMCAwMS40NTQtLjE0NGw2LjcyNyA5LjQ2N2ExIDEgMCAwMDEuNjMgMGw2LjczNS05LjQ2OGEuMjUuMjUgMCAwMS40NTQuMTQ1VjIwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_m] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_m = IconData(
+    0xe7f6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_n] icon from the Lucide icon set.
+  ///
+  /// ![letter_n](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMFY0LjI1YS4yNS4yNSAwIDAxLjQ1NS0uMTQzbDExLjA5IDE1Ljc4NmEuMjUuMjUgMCAwMC40NTUtLjE0NFY0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_n] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_n = IconData(
+    0xe7f7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_o] icon from the Lucide icon set.
+  ///
+  /// ![letter_o](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_o] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_o = IconData(
+    0xe7f8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_p] icon from the Lucide icon set.
+  ///
+  /// ![letter_p](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMmg4YTQgNCAwIDAwMC04SDdhMSAxIDAgMDAtMSAxdjE1IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_p] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_p = IconData(
+    0xe7f9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_q] icon from the Lucide icon set.
+  ///
+  /// ![letter_q](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiAvPgogIDxwYXRoIGQ9Ik0yMCAyMEwxNSAxNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [letter_q] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_q = IconData(
+    0xe7fa,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_r] icon from the Lucide icon set.
+  ///
+  /// ![letter_r](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAgMTIgOCA4IiAvPgogIDxwYXRoIGQ9Ik02IDEyaDhhNCA0IDAgMDAwLThIN2ExIDEgMCAwMC0xIDF2MTUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_r] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_r = IconData(
+    0xe7fb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_s] icon from the Lucide icon set.
+  ///
+  /// ![letter_s](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgNGgtN2E0IDQgMCAwMDAgOGg0YTQgNCAwIDAxMCA4SDYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_s] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_s = IconData(
+    0xe7fc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [letter_spacing] icon from the Lucide icon set.
   ///
   /// ![letter_spacing](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTRIOSIgLz4KICA8cGF0aCBkPSJNMjEgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyAzdjE4IiAvPgogIDxwYXRoIGQ9Im04IDE2IDMuNDUzLTcuNjQ4YS42LjYgMCAwMTEuMDk0LjAwMUwxNiAxNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [letter_spacing] icon is a graphical symbol that conveys a specific idea or functionality related to tracking, kerning, design, lettering, text, letters, characters, font, typography, formatting.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/madebyoz](https://github.com/madebyoz)
   static const IconData letter_spacing = IconData(
     0xe7b6,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_t] icon from the Lucide icon set.
+  ///
+  /// ![letter_t](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjBWNCIgLz4KICA8cGF0aCBkPSJNNSA0aDE0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_t] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography.
+  /// - It belongs to the categories: letters-digits, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_t = IconData(
+    0xe7fd,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_u] icon from the Lucide icon set.
+  ///
+  /// ![letter_u](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA0djEwYTYgNiAwIDAwMTIgMFY0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_u] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_u = IconData(
+    0xe7fe,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_v] icon from the Lucide icon set.
+  ///
+  /// ![letter_v](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtNiA0IDUuNzY1IDE1LjgzNWEuMjUuMjUgMCAwMC40NyAwTDE4IDQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_v] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_v = IconData(
+    0xe7ff,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_w] icon from the Lucide icon set.
+  ///
+  /// ![letter_w](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjEgNC00Ljc5NCAxNS44MjFhLjI1LjI1IDAgMDEtLjQ3MS4wMjFsLTMuNTAzLTguNjg1YS4yNS4yNSAwIDAwLS40NjQgMGwtMy41MDMgOC42ODVhLjI1LjI1IDAgMDEtLjQ3LS4wMjFMMyA0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_w] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_w = IconData(
+    0xe800,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_x] icon from the Lucide icon set.
+  ///
+  /// ![letter_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggNCA2IDIwIiAvPgogIDxwYXRoIGQ9Im02IDQgMTIgMTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_x] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_x = IconData(
+    0xe801,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_y] icon from the Lucide icon set.
+  ///
+  /// ![letter_y](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2OCIgLz4KICA8cGF0aCBkPSJtNiA0IDYgOCA2LTgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [letter_y] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_y = IconData(
+    0xe802,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [letter_z] icon from the Lucide icon set.
+  ///
+  /// ![letter_z](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA0aDExLjVhLjUuNSAwIDAxLjM4Ny44MTdMNi4xMTQgMTkuMTgzYS41LjUgMCAwMC4zODcuODE3SDE4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [letter_z] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData letter_z = IconData(
+    0xe803,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -15839,7 +16623,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [letters] icon is a graphical symbol that conveys a specific idea or functionality related to abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -15903,7 +16687,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [ligature] icon is a graphical symbol that conveys a specific idea or functionality related to text, font, typography, alternates, alternatives.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -16031,7 +16815,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [line_height] icon is a graphical symbol that conveys a specific idea or functionality related to leading, text, letters, characters, font, typography, spacing, paragraph, formatting, editor, readability, typesetting.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/madebyoz](https://github.com/madebyoz)
@@ -16351,7 +17135,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [list_ordered] icon is a graphical symbol that conveys a specific idea or functionality related to number, order, queue.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -19099,11 +19883,11 @@ abstract final class LucideIcons {
 
   /// Represents the [nepali_rupee] icon from the Lucide icon set.
   ///
-  /// ![nepali_rupee](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMTYuMTczIEE0Ljc0IDQuNzQgMCAwIDAgMTMuNDk2IDguMDA1IiAvPgogIDxwYXRoIGQ9Ik00IDMgTDIwIDMiIC8+CiAgPHBhdGggZD0iTTUgMTMgTDEzLjUgMjEiIC8+CiAgPHBhdGggZD0iTTUgMTMgTDkgMTMiIC8+CiAgPHBhdGggZD0iTTggMTMgQzE1LjUgMTMgMTQuNjY3IDMgOCAzIiAvPgo8L3N2Zz4K)
+  /// ![nepali_rupee](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMjAtOC04aDRjNS4zMzMgMCA1LjMzMy04IDAtOCIgLz4KICA8cGF0aCBkPSJNMTQgOGM0LjA3OCAwIDUuMDM4IDQuNjc4IDIuODggNi44OCIgLz4KICA8cGF0aCBkPSJNNiA0aDEyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [nepali_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, nepal, rupee, npr.
-  /// - It belongs to the categories: finance, shopping, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/sarajdhakal](https://github.com/sarajdhakal)
@@ -19289,6 +20073,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [numbers] icon from the Lucide icon set.
+  ///
+  /// ![numbers](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAgNCAyLjYtMS45NWEuMjUuMjUgMCAwMS40LjJWMTAiIC8+CiAgPHBhdGggZD0iTTE2IDE0LjUzNUE0IDQgMCAwMTE4IDE0YTIgMiAwIDAxMCA0IDIgMiAwIDAxMCA0IDQgNCAwIDAxLTItLjUzNSIgLz4KICA8cGF0aCBkPSJNOCAyMkg0LjVhLjUuNSAwIDAxLS41LS41YzAtMi42OCA0LTIuOTMyIDQtNS41YTIgMiAwIDAwLTItMiAyLjUgMi41IDAgMDAtMiAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [numbers] icon is a graphical symbol that conveys a specific idea or functionality related to 123, digits, numeric, numerical, counting, quantity, math, sequence, integer.
+  /// - It belongs to the categories: letters-digits, text, math
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData numbers = IconData(
+    0xe804,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [nut] icon from the Lucide icon set.
   ///
   /// ![nut](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuODQ3IDUuODQ3IDIwIDlhNy4yMyA3LjIzIDAgMDExLjU1MSA3LjUxNkMyMS4yNDEgMTcuMzUyIDIxIDE3LjkzMiAyMSAxOXYxYTEgMSAwIDAxLTEgMWgtMWMtMS4wNjkgMC0xLjY0OC4yNDItMi40ODUuNTUyQTcuMiA3LjIgMCAwMTkuMDAyIDIwbC0zLjE1NS0zLjE1MyIgLz4KICA8cGF0aCBkPSJNMTguMjEgNS40M2MtMS43MS42OS01LjA3IDEuMDctNi43MSAxLjA3LjQ2IDEuMzguOTEgMi43NC42MSA0Ljg4YS44OC44OCAwIDAxLS43My43NGMtMS43OC4yOC0zLjU0LS4xNy00Ljg4LS42MiAwIDEuNjQtLjM4IDUtMS4wNyA2LjcxLS4yMS41Mi0uODIuNTUtMS4xNy4xMkExMCAxMCAwIDAxMTguMzMgNC4yNmMuNDMuMzUuNC45Ny0uMTIgMS4xNyIgLz4KICA8cGF0aCBkPSJNNC45MyA0LjkzIDMgM2EuNy43IDAgMDEwLTEiIC8+Cjwvc3ZnPgo=)
@@ -19407,7 +20207,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [omega] icon is a graphical symbol that conveys a specific idea or functionality related to greek, symbol, mathematics, education, physics, engineering, ohms, electrical resistance, angular frequency, dynamical systems, astronomy, constellations, philosophy.
-  /// - It belongs to the categories: math, development, text, science
+  /// - It belongs to the categories: letters-digits, math, development, text, science
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -20399,7 +21199,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [phi] icon is a graphical symbol that conveys a specific idea or functionality related to math, golden-ratio, symbol, greek, letter, typography, constant, flux, magnetic-flux.
-  /// - It belongs to the categories: math, science
+  /// - It belongs to the categories: letters-digits, math, science
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/whoisBugsbunny](https://github.com/whoisBugsbunny)
@@ -20411,7 +21211,7 @@ abstract final class LucideIcons {
 
   /// Represents the [philippine_peso] icon from the Lucide icon set.
   ///
-  /// ![philippine_peso](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTFINCIgLz4KICA8cGF0aCBkPSJNMjAgN0g0IiAvPgogIDxwYXRoIGQ9Ik03IDIxVjRhMSAxIDAgMCAxIDEtMWg0YTEgMSAwIDAgMSAwIDEySDciIC8+Cjwvc3ZnPgo=)
+  /// ![philippine_peso](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxMmgxNiIgLz4KICA8cGF0aCBkPSJNNCA4aDE2IiAvPgogIDxwYXRoIGQ9Ik02IDIwVjVhMSAxIDAgMDExLTFoNWE2IDYgMCAwMTAgMTJINiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [philippine_peso] icon is a graphical symbol that conveys a specific idea or functionality related to currency, peso, money, php.
@@ -20559,7 +21359,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [pi] icon is a graphical symbol that conveys a specific idea or functionality related to constant, code, coding, programming, symbol, trigonometry, geometry, formula.
-  /// - It belongs to the categories: development, math
+  /// - It belongs to the categories: letters-digits, development, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
@@ -21023,7 +21823,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [podium] icon is a graphical symbol that conveys a specific idea or functionality related to award, stage, winner, celebration, performance, medal, success, achievement, highlight, ranking, winning, place, placing, leaderboard, first, second, third, gold, silver, bronze.
-  /// - It belongs to the categories: sports, gaming
+  /// - It belongs to the categories: letters-digits, sports, gaming
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas)
@@ -21099,7 +21899,7 @@ abstract final class LucideIcons {
 
   /// Represents the [pound_sterling] icon from the Lucide icon set.
   ///
-  /// ![pound_sterling](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggN2MwLTUuMzMzLTgtNS4zMzMtOCAwIiAvPgogIDxwYXRoIGQ9Ik0xMCA3djE0IiAvPgogIDxwYXRoIGQ9Ik02IDIxaDEyIiAvPgogIDxwYXRoIGQ9Ik02IDEzaDEwIiAvPgo8L3N2Zz4K)
+  /// ![pound_sterling](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMThhMiAyIDAgMDEtMiAySDVhMyAzIDAgMDAzLTNWOGE0IDQgMCAwMTggMCIgLz4KICA8cGF0aCBkPSJNNiAxMmg3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -21535,7 +22335,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_cent] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, cents, dollar, usd, $, ¢.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21551,7 +22351,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_euro] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, €.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21567,7 +22367,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_indian_rupee] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, inr, ₹.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21583,7 +22383,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_japanese_yen] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, jpy, ¥.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/it-is-not](https://github.com/it-is-not), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21599,7 +22399,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_pound_sterling] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, british, currency, gbp, £.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21615,7 +22415,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, rub, ₽.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21631,7 +22431,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, chf, ₣.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21663,7 +22463,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [receipt_turkish_lira] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, try, ₺.
-  /// - It belongs to the categories: finance, travel
+  /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -21919,7 +22719,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [remove_formatting] icon is a graphical symbol that conveys a specific idea or functionality related to text, font, typography, format, x, remove, delete, times, clear.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -21951,7 +22751,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [repeat_1] icon is a graphical symbol that conveys a specific idea or functionality related to replay.
-  /// - It belongs to the categories: multimedia
+  /// - It belongs to the categories: letters-digits, multimedia
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -22507,7 +23307,7 @@ abstract final class LucideIcons {
 
   /// Represents the [russian_ruble] icon from the Lucide icon set.
   ///
-  /// ![russian_ruble](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMWg4YTQgNCAwIDAgMCAwLThIOXYxOCIgLz4KICA8cGF0aCBkPSJNNiAxNWg4IiAvPgo8L3N2Zz4K)
+  /// ![russian_ruble](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxNmg2IiAvPgogIDxwYXRoIGQ9Ik03IDIwVjVhMSAxIDAgMDExLTFoNmE0IDQgMCAwMTAgOEg0IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [russian_ruble] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -22603,7 +23403,7 @@ abstract final class LucideIcons {
 
   /// Represents the [saudi_riyal] icon from the Lucide icon set.
   ///
-  /// ![saudi_riyal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjAgMTkuNS01LjUgMS4yIiAvPgogIDxwYXRoIGQ9Ik0xNC41IDR2MTEuMjJhMSAxIDAgMCAwIDEuMjQyLjk3TDIwIDE1LjIiIC8+CiAgPHBhdGggZD0ibTIuOTc4IDE5LjM1MSA1LjU0OS0xLjM2M0EyIDIgMCAwIDAgMTAgMTZWMiIgLz4KICA8cGF0aCBkPSJNMjAgMTAgNCAxMy41IiAvPgo8L3N2Zz4K)
+  /// ![saudi_riyal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMi45Nzd2MTMuMTlhMiAyIDAgMDEtMS4yMyAxLjg0Nkw0IDE5Ljk5OSIgLz4KICA8cGF0aCBkPSJNMTQgNHY5LjUyM2ExIDEgMCAwMDEuMzcxLjkyOEwxOSAxMyIgLz4KICA8cGF0aCBkPSJtMTkgMTgtNSAyIiAvPgogIDxwYXRoIGQ9Ik0xOSA4IDQgMTQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [saudi_riyal] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -24063,7 +24863,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, math, enumeration, enumerate.
-  /// - It belongs to the categories: text, math, science
+  /// - It belongs to the categories: letters-digits, text, math, science
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -24623,7 +25423,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [spell_check] icon is a graphical symbol that conveys a specific idea or functionality related to spelling, error, mistake, oversight, typo, correction, code, linter, a.
-  /// - It belongs to the categories: text, development
+  /// - It belongs to the categories: letters-digits, text, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
@@ -24639,7 +25439,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [spell_check_2] icon is a graphical symbol that conveys a specific idea or functionality related to spelling, error, mistake, oversight, typo, correction, code, linter, a.
-  /// - It belongs to the categories: text, development
+  /// - It belongs to the categories: letters-digits, text, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
@@ -25551,7 +26351,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [square_function] icon is a graphical symbol that conveys a specific idea or functionality related to programming, code, automation, math.
-  /// - It belongs to the categories: development, math
+  /// - It belongs to the categories: letters-digits, development, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -25577,6 +26377,454 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_kanban_plus] icon from the Lucide icon set.
+  ///
+  /// ![square_kanban_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgN3Y0IiAvPgogIDxwYXRoIGQ9Ik0xMi4zNTQgMjFINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnY3LjM1NCIgLz4KICA8cGF0aCBkPSJNMTUgMThoNiIgLz4KICA8cGF0aCBkPSJNMTYgN3Y0LjUzNiIgLz4KICA8cGF0aCBkPSJNMTggMjF2LTYiIC8+CiAgPHBhdGggZD0iTTggN3Y3IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_kanban_plus] icon is a graphical symbol that conveys a specific idea or functionality related to board, project, add, create, plus, agile, tickets, issues, productivity, columns, workflow, planning, dashboard, workspace, collaboration, cards.
+  /// - It belongs to the categories: charts, development, design, layout
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/KesleyDavid](https://github.com/KesleyDavid), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData square_kanban_plus = IconData(
+    0xe805,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_a] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_a](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOCAxNiAzLjQ1My03LjY0OGEuNi42IDAgMCAxIDEuMDk0IDBMMTYgMTYiIC8+CiAgPHBhdGggZD0iTTE1IDE0SDkiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_a] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_a = IconData(
+    0xe806,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_b] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_b](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMmg0Ljg0NmEyLjI0IDIuMjQgMCAwMTEuNTIzLjU4NiAyIDIgMCAwMS4wMDEgMi44MjggMi4yNCAyLjI0IDAgMDEtMS41MjQuNTg2SDkuNWEuNS41IDAgMDEtLjUtLjV2LTdhLjUuNSAwIDAxLjUtLjVIMTNhMiAyIDAgMDEwIDQiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_b] icon is a graphical symbol that conveys a specific idea or functionality related to strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_b = IconData(
+    0xe807,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_c] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_c](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOS4zNTRhNCA0IDAgMSAwIDAgNS4yOTIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_c] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_c = IconData(
+    0xe808,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_d] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_d](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOGE0IDQgMCAwMTAgOEg5LjQxMkEuNDEuNDEgMCAwMTkgMTUuNTg4VjguNDEyQS40MS40MSAwIDAxOS40MTIgOHoiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_d] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_d = IconData(
+    0xe809,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_e] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_e](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOEg5LjVhLjUuNSAwIDAgMC0uNS41djdhLjUuNSAwIDAgMCAuNS41SDE1IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDQiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_e] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_e = IconData(
+    0xe80a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_f] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_f](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4LjVhLjUuNSAwIDAgMSAuNS0uNUgxNSIgLz4KICA8cGF0aCBkPSJNOSAxMmg0IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_f] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_f = IconData(
+    0xe80b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_g] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_g](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNSAxMkgxNXYyLjI2OGEuODguODggMCAwMS0uMjYzLjY1QTQgNCAwIDExMTIgOGgyLjUiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_g] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_g = IconData(
+    0xe80c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_h] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_h](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4IiAvPgogIDxwYXRoIGQ9Ik0xNSAxNlY4IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDYiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_h] icon is a graphical symbol that conveys a specific idea or functionality related to h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_h = IconData(
+    0xe80d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_i] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_i](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZWOCIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_letter_i] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_i = IconData(
+    0xe80e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_j] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDAiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_j] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_j = IconData(
+    0xe80f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_k] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_k](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4IiAvPgogIDxwYXRoIGQ9Im0xMSAxMiA0IDQiIC8+CiAgPHBhdGggZD0ibTE1IDgtNiA2IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_k] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_k = IconData(
+    0xe810,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_l] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_l](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA4djcuNWEuNS41IDAgMCAwIC41LjVIMTUiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_l] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_l = IconData(
+    0xe811,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_m] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_m](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxNi4wMDF2LTcuNWEuNS41IDAgMCAxIC45LS4zbDIuNyAzLjU5OWEuNS41IDAgMCAwIC44IDBsMi43LTMuNmEuNS41IDAgMCAxIC45LjN2Ny41MDEiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_m] icon is a graphical symbol that conveys a specific idea or functionality related to metro, subway, underground, track, line, alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography.
+  /// - It belongs to the categories: letters-digits, transportation, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_m = IconData(
+    0xe503,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_n] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_n](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxNlY4LjU3NmEuNDk2LjQ5NiAwIDAxLjkzNy0uMjQzbDQuMTI2IDcuNDNBLjQ5Ni40OTYgMCAwMDE1IDE1LjUyVjgiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_n] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_n = IconData(
+    0xe812,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_o] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_o](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_o] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_o = IconData(
+    0xe813,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_p] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_p](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSAxMmg0YTIgMiAwIDAgMCAwLTRIOS41YS41LjUgMCAwIDAtLjUuNVYxNiIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_letter_p] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography.
+  /// - It belongs to the categories: letters-digits, transportation, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_letter_p = IconData(
+    0xe3cb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_p_off] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy42IDMuNkEyIDIgMCAwIDEgNSAzaDE0YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLS41OSAxLjQxIiAvPgogIDxwYXRoIGQ9Ik0zIDguN1YxOWEyIDIgMCAwIDAgMiAyaDEwLjMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMTMgMTNhMyAzIDAgMSAwIDAtNkg5djIiIC8+CiAgPHBhdGggZD0iTTkgMTd2LTIuMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_p_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
+  /// - It belongs to the categories: letters-digits, transportation, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_letter_p_off = IconData(
+    0xe3cc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_q] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_q](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiAvPgogIDxwYXRoIGQ9Im0xNiAxNi0yLjUtMi41IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_q] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_q = IconData(
+    0xe814,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_r] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_r](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTEgMTIgNCA0IiAvPgogIDxwYXRoIGQ9Ik05IDEyaDRhMiAyIDAgMCAwIDAtNEg5LjVhLjUuNSAwIDAgMC0uNS41VjE2IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_r] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_r = IconData(
+    0xe815,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_s] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_s](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQuNSA4SDExYTIgMiAwIDEwMCA0aDJhMiAyIDAgMTEwIDRIOSIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_letter_s] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_s = IconData(
+    0xe816,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_t] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_t](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZWOCIgLz4KICA8cGF0aCBkPSJNOSA4aDYiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_t] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_t = IconData(
+    0xe817,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_u] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_u](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDBWOCIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_letter_u] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_u = IconData(
+    0xe818,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_v] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_v](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSA4IDIuNTI1IDcuNjZhLjUuNSAwIDAgMCAuOTUgMEwxNSA4IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_v] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_v = IconData(
+    0xe819,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_w] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_w](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgOC0xLjU5MSA3LjU5OGEuNDk3LjQ5NyAwIDAxLS45Ny4wMzhsLS45Ni0zLjI3NmEuNS41IDAgMDAtLjk1OSAwbC0uOTYgMy4yNzZhLjQ5Ni40OTYgMCAwMS0uOTY5LS4wMzhMOCA4IiAvPgogIDxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_letter_w] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_w = IconData(
+    0xe81a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_x] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSAxNiA2LTgiIC8+CiAgPHBhdGggZD0ibTkgOCA2IDgiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_x] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_x = IconData(
+    0xe81b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_y] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_y](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSA4IDMgNCAzLTQiIC8+CiAgPHBhdGggZD0iTTEyIDEydjQiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_letter_y] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_y = IconData(
+    0xe81c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_letter_z] icon from the Lucide icon set.
+  ///
+  /// ![square_letter_z](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA4aDUuNTAxYS41LjUgMCAwIDEgLjM3LjgzNkw5LjEzIDE1LjE2NEEuNS41IDAgMCAwIDkuNSAxNkgxNSIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_letter_z] icon is a graphical symbol that conveys a specific idea or functionality related to alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography.
+  /// - It belongs to the categories: letters-digits
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData square_letter_z = IconData(
+    0xe81d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_library] icon from the Lucide icon set.
   ///
   /// ![square_library](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik03IDd2MTAiIC8+CiAgPHBhdGggZD0iTTExIDd2MTAiIC8+CiAgPHBhdGggZD0ibTE1IDcgMiAxMCIgLz4KPC9zdmc+Cg==)
@@ -25589,22 +26837,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData square_library = IconData(
     0xe54f,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [square_m] icon from the Lucide icon set.
-  ///
-  /// ![square_m](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxNlY4LjVhLjUuNSAwIDAgMSAuOS0uM2wyLjcgMy41OTlhLjUuNSAwIDAgMCAuOCAwbDIuNy0zLjZhLjUuNSAwIDAgMSAuOS4zVjE2IiAvPgogIDxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [square_m] icon is a graphical symbol that conveys a specific idea or functionality related to metro, subway, underground, track, line.
-  /// - It belongs to the categories: transportation, navigation
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData square_m = IconData(
-    0xe503,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -25673,38 +26905,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [square_parking] icon from the Lucide icon set.
-  ///
-  /// ![square_parking](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik05IDE3VjdoNGEzIDMgMCAwIDEgMCA2SDkiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [square_parking] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park.
-  /// - It belongs to the categories: transportation, navigation
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_parking = IconData(
-    0xe3cb,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [square_parking_off] icon from the Lucide icon set.
-  ///
-  /// ![square_parking_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy42IDMuNkEyIDIgMCAwIDEgNSAzaDE0YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLS41OSAxLjQxIiAvPgogIDxwYXRoIGQ9Ik0zIDguN1YxOWEyIDIgMCAwIDAgMiAyaDEwLjMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMTMgMTNhMyAzIDAgMSAwIDAtNkg5djIiIC8+CiAgPHBhdGggZD0iTTkgMTd2LTIuMyIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [square_parking_off] icon is a graphical symbol that conveys a specific idea or functionality related to parking lot, car park, no parking.
-  /// - It belongs to the categories: transportation, navigation
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_parking_off = IconData(
-    0xe3cc,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [square_pause] icon from the Lucide icon set.
   ///
   /// ![square_pause](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSIxMCIgeDI9IjEwIiB5MT0iMTUiIHkyPSI5IiAvPgogIDxsaW5lIHgxPSIxNCIgeDI9IjE0IiB5MT0iMTUiIHkyPSI5IiAvPgo8L3N2Zz4K)
@@ -25759,7 +26959,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [square_pi] icon is a graphical symbol that conveys a specific idea or functionality related to constant, code, coding, programming, symbol, trigonometry, geometry, formula.
-  /// - It belongs to the categories: development, math
+  /// - It belongs to the categories: letters-digits, development, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -25887,7 +27087,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [square_sigma] icon is a graphical symbol that conveys a specific idea or functionality related to sum, calculate, formula, math, enumeration, enumerate.
-  /// - It belongs to the categories: text, math
+  /// - It belongs to the categories: letters-digits, text, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -26591,7 +27791,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [strikethrough] icon is a graphical symbol that conveys a specific idea or functionality related to cross out, delete, remove, format.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
@@ -26607,7 +27807,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [subscript] icon is a graphical symbol that conveys a specific idea or functionality related to text.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nabanita-sarkar](https://github.com/nabanita-sarkar), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/mittalyashu](https://github.com/mittalyashu)
@@ -26751,7 +27951,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [superscript] icon is a graphical symbol that conveys a specific idea or functionality related to text, exponent.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nabanita-sarkar](https://github.com/nabanita-sarkar), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -26779,7 +27979,7 @@ abstract final class LucideIcons {
 
   /// Represents the [swiss_franc] icon from the Lucide icon set.
   ///
-  /// ![swiss_franc](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjFWM2g4IiAvPgogIDxwYXRoIGQ9Ik02IDE2aDkiIC8+CiAgPHBhdGggZD0iTTEwIDkuNWg3IiAvPgo8L3N2Zz4K)
+  /// ![swiss_franc](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTBoNyIgLz4KICA8cGF0aCBkPSJNMTAgMjBWNWExIDEgMCAwMTEtMWg3IiAvPgogIDxwYXRoIGQ9Ik02IDE2aDkiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [swiss_franc] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -27471,7 +28671,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [text_initial] icon is a graphical symbol that conveys a specific idea or functionality related to drop cap, text, format, typography, letter, font size.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/GRA0007](https://github.com/GRA0007), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -28523,7 +29723,7 @@ abstract final class LucideIcons {
 
   /// Represents the [turkish_lira] icon from the Lucide icon set.
   ///
-  /// ![turkish_lira](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgNCA1IDkiIC8+CiAgPHBhdGggZD0ibTE1IDguNS0xMCA1IiAvPgogIDxwYXRoIGQ9Ik0xOCAxMmE5IDkgMCAwIDEtOSA5VjMiIC8+Cjwvc3ZnPgo=)
+  /// ![turkish_lira](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTAtOCA0IiAvPgogIDxwYXRoIGQ9Ik0xNCA1IDYgOSIgLz4KICA8cGF0aCBkPSJNMTggMTJhOCA4IDAgMDEtNy4wMDMgNy45MzdjLS41NDcuMDctLjk5Ny0uMzg1LS45OTctLjkzN1Y0IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [turkish_lira] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment.
@@ -28623,7 +29823,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [type] icon is a graphical symbol that conveys a specific idea or functionality related to text, font, typography.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -28639,7 +29839,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [type_outline] icon is a graphical symbol that conveys a specific idea or functionality related to text, font, typography, silhouette, profile, contour, stroke, line.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
@@ -28687,7 +29887,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [underline] icon is a graphical symbol that conveys a specific idea or functionality related to text, format.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/johnletey](https://github.com/johnletey)
@@ -29455,7 +30655,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [variable] icon is a graphical symbol that conveys a specific idea or functionality related to code, coding, programming, symbol, calculate, algebra, x, parentheses, parenthesis, brackets, parameter, (, ).
-  /// - It belongs to the categories: development, math
+  /// - It belongs to the categories: letters-digits, development, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
@@ -30223,7 +31423,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [whole_word] icon is a graphical symbol that conveys a specific idea or functionality related to text, selection, letters, characters, font, typography.
-  /// - It belongs to the categories: text
+  /// - It belongs to the categories: letters-digits, text
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -30543,7 +31743,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [x_line_top] icon is a graphical symbol that conveys a specific idea or functionality related to line, top, arrow, navigation, up, pointer, direction, vector, symbol, cancel, close, delete, remove, times, clear, math, multiply, multiplication, mean, median, average, x̄.
-  /// - It belongs to the categories: notifications, math
+  /// - It belongs to the categories: letters-digits, notifications, math
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
