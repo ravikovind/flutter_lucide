@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1908** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1924** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -59,7 +59,8 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `app-window-mac` | application, menu bar, pane, preferences, macos, osx, executable | layout, design, development, files |
 | `apple` | fruit, food, healthy, snack, nutrition, fresh, produce, grocery, organic, harvest, vitamin, red, green, juicy, sweet, tart, bite, orchard, plant, core, raw, diet | food-beverage |
 | `archive` | index, backup, box, storage, records | files, mail |
-| `archive-restore` | unarchive, index, backup, box, storage, records | files, mail |
+| `archive-arrow-down` | index, backup, box, storage, records, email, download, save | files, mail |
+| `archive-arrow-up` | unarchive, index, backup, box, storage, records, restore, retrieve, recover, reactivate | files, mail |
 | `archive-x` | index, backup, box, storage, records, junk | files, mail |
 | `armchair` | sofa, furniture, leisure, lounge, loveseat, couch | home |
 | `armenian-dram` | finance, symbol, banking, economy, currency, money, payment | finance |
@@ -247,6 +248,7 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bow-arrow` | archer, archery, game, war, weapon | gaming, tools |
 | `box` | cube, package, container, storage, geometry, 3d, isometric | shapes, gaming, development, math |
 | `boxes` | cubes, packages, parts, group, units, collection, cluster, geometry | shapes, gaming, development |
+| `boxes-linked` | cubes, package, module, dependencies, link, chain, blockchain, network, nodes, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development |
 | `braces` | json, code, token, curly brackets, data, {, } | development, files |
 | `brackets` | code, token, array, list, square, [, ] | development, files |
 | `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart | medical, science |
@@ -285,6 +287,8 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `calendar` | date, month, year, event, birthday, birthdate | time |
 | `calendar-1` | date, month, year, event, single, singular, once, 1, first | time |
 | `calendar-arrow-down` | date, month, year, event, sort, order, ascending, descending, increasing, decreasing, rising, falling | time |
+| `calendar-arrow-left` | date, day, month, year, event, arrow, direction, navigation, previous, back, backward, past, earlier, reschedule, postpone, schedule, timeline, date picker | time, arrows, navigation |
+| `calendar-arrow-right` | date, day, month, year, event, arrow, direction, navigation, next, forward, future, upcoming, later, reschedule, postpone, defer, schedule, timeline, appointment | time, arrows, navigation |
 | `calendar-arrow-up` | date, month, year, event, sort, order, ascending, descending, increasing, decreasing, rising, falling | time |
 | `calendar-check` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
 | `calendar-check-2` | date, day, month, year, event, confirm, subscribe, schedule, done, todo, tick, complete, task | time |
@@ -357,6 +361,8 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `chart-no-axes-combined` | statistics, analytics, diagram, graph, trending up | charts |
 | `chart-no-axes-gantt` | projects, manage, overview, roadmap, plan, intentions, timeline, deadline, date, event, range, period, productivity, work, agile, code, coding | charts, time, development, design |
 | `chart-pie` | statistics, analytics, diagram, presentation | charts, files |
+| `chart-quadrant` | quadrant, chart, diagram, statistics, analytics, graph, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering | charts, science, math |
+| `chart-radar` | radar, chart, diagram, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, analytics, visualization, attributes | charts, shapes, science |
 | `chart-scatter` | statistics, analytics, diagram, graph | charts |
 | `chart-spline` | statistics, analytics, diagram, graph, curve, continuous, smooth, polynomial, quadratic, function, interpolation | charts |
 | `check` | done, todo, tick, complete, task | notifications |
@@ -568,6 +574,7 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `database-arrow-up` | storage, memory, bytes, server, import, upload, backup, push, upscale | devices, development |
 | `database-backup` | storage, memory, bytes, servers, backup, time machine, rotate, arrow, left | devices, arrows, design, development, photography |
 | `database-check` | storage, memory, bytes, server, check, success, valid, verified, confirmed, complete | devices, development |
+| `database-cog` | db, settings, configuration, preferences, gear, admin, sql, storage, server, maintenance, schema, query, relational | development |
 | `database-minus` | storage, memory, bytes, server, minus, remove, delete, reduce | devices, development |
 | `database-plus` | storage, memory, bytes, server, plus, add, create, insert, new, expand | devices, development |
 | `database-search` | storage, memory, container, tin, pot, bytes, servers | devices, development |
@@ -622,6 +629,8 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `dumbbell` | barbell, weight, workout, gym | navigation, sports |
 | `ear` | hearing, noise, audio, accessibility | medical, accessibility |
 | `ear-off` | hearing, hard of hearing, hearing loss, deafness, noise, silence, audio, accessibility | medical, accessibility |
+| `earbuds` | earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume | devices |
+| `earbuds-off` | earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume, disconnected, disabled, inactive | devices |
 | `earth` | world, browser, language, translate, globe | navigation |
 | `earth-lock` | vpn, private, privacy, network, world, browser, security, encryption, protection, connection | security, development, devices |
 | `eclipse` | lunar, solar, crescent moon, sun, earth, day, night, planet, space, mode, dark, light, toggle, switch, color, css, styles, display, accessibility, contrast, brightness, blend, shade | science, design, development, accessibility, photography |
@@ -960,6 +969,7 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `laptop` | computer, screen, remote | devices |
 | `laptop-minimal` | computer, screen, remote | devices |
 | `laptop-minimal-check` | computer, screen, remote, success, done, todo, tick, complete, task | devices, notifications |
+| `laser` | annotation, beam, draw, guide, highlight, pointer, presentation, screen, spotlight, pointer device, projection | tools |
 | `lasso` | select, cursor | design, cursors |
 | `lasso-select` | select, cursor | arrows, design, cursors |
 | `layer-arrow-down` | move back, backward, lower, demote, step back, behind, reorder, arrange, layer, layers, stack, stacking, z-index, depth, graphics, design | design, layout |
@@ -1511,6 +1521,7 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `signpost` | navigation, direction, arrow, wayfinding, guide, location, pointer, route, indicator, marker, bidirectional, left, right, east, west | arrows, navigation, development, gaming |
 | `signpost-big` | bidirectional, left, right, east, west | arrows, navigation, development, gaming |
 | `siren` | police, ambulance, emergency, security, alert, alarm, light | medical |
+| `siren-off` | police, ambulance, emergency, security, alert, alarm, light, disabled, mute, silent, silence, inactive | medical |
 | `sixteenth-notes` | audio, music, sound, notes, semiquavers | multimedia, files |
 | `skip-back` | arrow, previous, music | multimedia, arrows |
 | `skip-forward` | arrow, skip, next, music | multimedia, arrows |
@@ -1573,6 +1584,10 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-chevron-left` | back, previous, less than, fewer, menu, panel, button, keyboard, < | arrows, navigation |
 | `square-chevron-right` | forward, next, more than, greater, menu, panel, code, coding, command line, terminal, prompt, shell, console, > | arrows, navigation, development |
 | `square-chevron-up` | caret, keyboard, button, mac, control, ctrl, superscript, exponential, power, ahead, menu, panel, ^ | arrows, navigation, math |
+| `square-chevrons-down` | bottom, descend, page, page down, scroll, jump, south, caret, button, keyboard, skip, end, last page, latest, feed, chat, pagination, fast, media, menu, panel, double-arrow, outlined, border, seek, rewind, controls, fast-forward | arrows, navigation, multimedia |
+| `square-chevrons-left` | previous, back, rewind, backward, first, beginning, start, west, music, caret, button, keyboard, menu, panel, pagination, skip, skip-back, seek-back, media-controls, player, playlist, track, chapter, jump, timeline, controls, seek, media | arrows, navigation, multimedia |
+| `square-chevrons-right` | next, forward, skip, fast forward, last, end, east, music, caret, button, keyboard, menu, panel, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control, double arrow, media controls, toolbar, keyboard shortcut, skip-to-end, end-of-list | arrows, navigation, multimedia |
+| `square-chevrons-up` | top, ascend, page, page up, back to top, scroll, jump, north, caret, button, keyboard, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, mac, control, ctrl, menu, panel, timeline, start, first, return, double arrow, seek, playlist, floating action | arrows, navigation, multimedia, layout |
 | `square-code` | gist, source, programming, html, xml, coding | text, development |
 | `square-dashed` | selection, square, rectangular, marquee, tool, dashed, box | text, design |
 | `square-dashed-bottom` | rectangle, aspect ratio, 1:1, shape, snippet, code, coding | development, files |
@@ -1818,6 +1833,7 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-round-pen` | person, account, contact, profile, edit, change | account |
 | `user-round-plus` | new, add, create, follow, subscribe | account |
 | `user-round-search` | person, account, contact, find, scan, magnifier, magnifying glass, lens | account, social |
+| `user-round-shield` | security, protection, admin, guard, privacy, account, role, permissions, profile, identity, trusted | account, security |
 | `user-round-star` | person, account, favorite, contact, like, review, rating, admin, avatar, profile, featured, moderator, verified, badge, award, champion, starred | account |
 | `user-round-x` | delete, remove, unfollow, unsubscribe, unavailable | account |
 | `user-search` | person, account, contact, find, scan, magnifier, magnifying glass, lens | account, social |
@@ -1919,4 +1935,4 @@ All **1908** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1908 icons*
+*Total: 1924 icons*

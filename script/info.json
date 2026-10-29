@@ -371,6 +371,18 @@
     "className": "icon-apple",
     "unicode": "&#58190;"
   },
+  "archive-arrow-down": {
+    "encodedCode": "\\e7c3",
+    "prefix": "icon",
+    "className": "icon-archive-arrow-down",
+    "unicode": "&#59331;"
+  },
+  "archive-arrow-up": {
+    "encodedCode": "\\e2cd",
+    "prefix": "icon",
+    "className": "icon-archive-arrow-up",
+    "unicode": "&#58061;"
+  },
   "archive-restore": {
     "encodedCode": "\\e2cd",
     "prefix": "icon",
@@ -1763,6 +1775,12 @@
     "className": "icon-box",
     "unicode": "&#57441;"
   },
+  "boxes-linked": {
+    "encodedCode": "\\e7c4",
+    "prefix": "icon",
+    "className": "icon-boxes-linked",
+    "unicode": "&#59332;"
+  },
   "boxes": {
     "encodedCode": "\\e2d0",
     "prefix": "icon",
@@ -1996,6 +2014,18 @@
     "prefix": "icon",
     "className": "icon-calendar-arrow-down",
     "unicode": "&#58878;"
+  },
+  "calendar-arrow-left": {
+    "encodedCode": "\\e7c5",
+    "prefix": "icon",
+    "className": "icon-calendar-arrow-left",
+    "unicode": "&#59333;"
+  },
+  "calendar-arrow-right": {
+    "encodedCode": "\\e7c6",
+    "prefix": "icon",
+    "className": "icon-calendar-arrow-right",
+    "unicode": "&#59334;"
   },
   "calendar-arrow-up": {
     "encodedCode": "\\e5ff",
@@ -2440,6 +2470,18 @@
     "prefix": "icon",
     "className": "icon-chart-pie",
     "unicode": "&#57451;"
+  },
+  "chart-quadrant": {
+    "encodedCode": "\\e7c7",
+    "prefix": "icon",
+    "className": "icon-chart-quadrant",
+    "unicode": "&#59335;"
+  },
+  "chart-radar": {
+    "encodedCode": "\\e7c8",
+    "prefix": "icon",
+    "className": "icon-chart-radar",
+    "unicode": "&#59336;"
   },
   "chart-scatter": {
     "encodedCode": "\\e48a",
@@ -3833,6 +3875,12 @@
     "className": "icon-database-check",
     "unicode": "&#59160;"
   },
+  "database-cog": {
+    "encodedCode": "\\e7c9",
+    "prefix": "icon",
+    "className": "icon-database-cog",
+    "unicode": "&#59337;"
+  },
   "database-minus": {
     "encodedCode": "\\e719",
     "prefix": "icon",
@@ -4186,6 +4234,18 @@
     "prefix": "icon",
     "className": "icon-ear",
     "unicode": "&#58242;"
+  },
+  "earbuds-off": {
+    "encodedCode": "\\e7ca",
+    "prefix": "icon",
+    "className": "icon-earbuds-off",
+    "unicode": "&#59338;"
+  },
+  "earbuds": {
+    "encodedCode": "\\e7cb",
+    "prefix": "icon",
+    "className": "icon-earbuds",
+    "unicode": "&#59339;"
   },
   "earth-lock": {
     "encodedCode": "\\e5cc",
@@ -6634,6 +6694,12 @@
     "prefix": "icon",
     "className": "icon-laptop",
     "unicode": "&#57805;"
+  },
+  "laser": {
+    "encodedCode": "\\e7cc",
+    "prefix": "icon",
+    "className": "icon-laser",
+    "unicode": "&#59340;"
   },
   "lasso-select": {
     "encodedCode": "\\e1cf",
@@ -10349,6 +10415,12 @@
     "className": "icon-signpost",
     "unicode": "&#58688;"
   },
+  "siren-off": {
+    "encodedCode": "\\e7cd",
+    "prefix": "icon",
+    "className": "icon-siren-off",
+    "unicode": "&#59341;"
+  },
   "siren": {
     "encodedCode": "\\e2ef",
     "prefix": "icon",
@@ -10768,6 +10840,30 @@
     "prefix": "icon",
     "className": "icon-square-chevron-up",
     "unicode": "&#58322;"
+  },
+  "square-chevrons-down": {
+    "encodedCode": "\\e7ce",
+    "prefix": "icon",
+    "className": "icon-square-chevrons-down",
+    "unicode": "&#59342;"
+  },
+  "square-chevrons-left": {
+    "encodedCode": "\\e7cf",
+    "prefix": "icon",
+    "className": "icon-square-chevrons-left",
+    "unicode": "&#59343;"
+  },
+  "square-chevrons-right": {
+    "encodedCode": "\\e7d0",
+    "prefix": "icon",
+    "className": "icon-square-chevrons-right",
+    "unicode": "&#59344;"
+  },
+  "square-chevrons-up": {
+    "encodedCode": "\\e7d1",
+    "prefix": "icon",
+    "className": "icon-square-chevrons-up",
+    "unicode": "&#59345;"
   },
   "square-code": {
     "encodedCode": "\\e16b",
@@ -12370,6 +12466,12 @@
     "prefix": "icon",
     "className": "icon-user-round-search",
     "unicode": "&#58744;"
+  },
+  "user-round-shield": {
+    "encodedCode": "\\e7d2",
+    "prefix": "icon",
+    "className": "icon-user-round-shield",
+    "unicode": "&#59346;"
   },
   "user-round-star": {
     "encodedCode": "\\e7a2",

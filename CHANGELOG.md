@@ -1,3 +1,18 @@
+# 1.63.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.63.0
+- Total icon count increased from 1,908+ to 1,924+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- archive-arrow-down, boxes-linked, calendar-arrow-left, calendar-arrow-right, chart-quadrant, chart-radar, database-cog, earbuds, earbuds-off, laser, siren-off, square-chevrons-down, square-chevrons-left, square-chevrons-right, square-chevrons-up, user-round-shield
+
+## Renamed Icons ✏️
+- `archive-restore` renamed to `archive-arrow-up`
+
+---
+
 # 1.62.0
 
 ## Improvements 🚀
