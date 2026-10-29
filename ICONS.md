@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1924** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **1999** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -10,12 +10,12 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 
 | Icon | Tags | Categories |
 |------|------|------------|
-| `a-arrow-down` | letter, font size, text, formatting, smaller | text, design |
-| `a-arrow-up` | letter, font size, text, formatting, larger, bigger | text, design |
-| `a-large-small` | letter, font size, text, formatting | text, design |
+| `a-arrow-down` | letter, font size, text, formatting, smaller | letters-digits, text, design |
+| `a-arrow-up` | letter, font size, text, formatting, larger, bigger | letters-digits, text, design |
+| `a-large-small` | letter, font size, text, formatting | letters-digits, text, design |
 | `accessibility` | disability, disabled, dda, wheelchair | accessibility, medical |
 | `activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, account, social, science, multimedia |
-| `ad` | advert, affiliate, brand, campaign, commercial, marketing, monetize, paid, partner, promo, sponsor, audio description, video description, described video, visual description | multimedia, accessibility, notifications |
+| `ad` | advert, affiliate, brand, campaign, commercial, marketing, monetize, paid, partner, promo, sponsor, audio description, video description, described video, visual description | letters-digits, multimedia, accessibility, notifications |
 | `air-vent` | air conditioner, ac, central air, cooling, climate-control | home |
 | `airplay` | stream, cast, mirroring, screen, monitor, macos, osx | multimedia, connectivity |
 | `alarm-clock` | morning | devices, notifications, time |
@@ -73,9 +73,9 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-big-up` | shift, keyboard, button, mac, capitalize, capitalise, forward, direction, north | arrows, text, development, gaming |
 | `arrow-big-up-dash` | caps lock, capitals, keyboard, button, mac, forward, direction, north, faster, speed, boost | arrows, text, development, gaming |
 | `arrow-down` | backwards, reverse, direction, south | arrows |
-| `arrow-down-0-1` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | text, layout, arrows |
-| `arrow-down-1-0` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | text, layout, arrows |
-| `arrow-down-a-z` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical | text, layout, arrows |
+| `arrow-down-0-1` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | letters-digits, text, layout, arrows |
+| `arrow-down-1-0` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | letters-digits, text, layout, arrows |
+| `arrow-down-a-z` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical | letters-digits, text, layout, arrows |
 | `arrow-down-from-line` | backwards, reverse, direction, south, download, expand, fold, vertical | arrows, files |
 | `arrow-down-left` | direction, south-west, diagonal | arrows |
 | `arrow-down-narrow-wide` | filter, sort, ascending, descending, increasing, decreasing, rising, falling | text, layout, arrows |
@@ -84,7 +84,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-down-to-line` | behind, direction, south, download, save, git, version control, pull, collapse, fold, vertical | arrows, files, development |
 | `arrow-down-up` | bidirectional, two-way, 2-way, swap, switch, network, traffic, flow, mobile data, internet, sort, reorder, move | arrows |
 | `arrow-down-wide-narrow` | filter, sort, ascending, descending, increasing, decreasing, rising, falling | text, layout, arrows |
-| `arrow-down-z-a` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse | text, layout, arrows |
+| `arrow-down-z-a` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse | letters-digits, text, layout, arrows |
 | `arrow-left` | previous, back, direction, west, <- | arrows |
 | `arrow-left-from-line` | previous, back, direction, west, expand, fold, horizontal, <-| | arrows |
 | `arrow-left-right` | bidirectional, two-way, 2-way, swap, switch, transaction, reorder, move, <-, -> | arrows |
@@ -94,9 +94,9 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-right-left` | bidirectional, two-way, 2-way, swap, switch, transaction, reorder, move, <-, -> | arrows |
 | `arrow-right-to-line` | next, forward, direction, east, tab, keyboard, mac, indent, collapse, fold, horizontal, ->| | arrows, development |
 | `arrow-up` | forward, direction, north | arrows |
-| `arrow-up-0-1` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | text, layout, arrows |
-| `arrow-up-1-0` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | text, layout, arrows |
-| `arrow-up-a-z` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical | text, layout, arrows |
+| `arrow-up-0-1` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | letters-digits, text, layout, arrows |
+| `arrow-up-1-0` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, numerical | letters-digits, text, layout, arrows |
+| `arrow-up-a-z` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical | letters-digits, text, layout, arrows |
 | `arrow-up-down` | bidirectional, two-way, 2-way, swap, switch, network, mobile data, internet, sort, reorder, move | arrows |
 | `arrow-up-from-dot` | direction, north, step, out | arrows |
 | `arrow-up-from-line` | forward, direction, north, upload, git, version control, push, expand, fold, vertical | arrows, files, development |
@@ -105,11 +105,11 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-up-right` | direction, north-east, diagonal | arrows |
 | `arrow-up-to-line` | forward, direction, north, upload, collapse, fold, vertical | arrows, files |
 | `arrow-up-wide-narrow` | filter, sort, ascending, descending, increasing, decreasing, rising, falling | text, layout, arrows |
-| `arrow-up-z-a` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse | text, layout, arrows |
+| `arrow-up-z-a` | filter, sort, ascending, descending, increasing, decreasing, rising, falling, alphabetical, reverse | letters-digits, text, layout, arrows |
 | `arrows-up-from-line` | direction, orientation, this way up, vertical, package, box, fragile, postage, shipping | arrows, transportation, mail |
 | `asterisk` | symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, * | text, math, development |
 | `astroid` | star, math, shape, curve, sharp, four-pointed, hypocycloid, ai, artificial intelligence | shapes, math |
-| `at-sign` | mention, at, email, message, @ | text, account |
+| `at-sign` | mention, at, email, message, @ | letters-digits, text, account |
 | `atom` | atomic, nuclear, physics, particle, element, molecule, electricity, energy, chemistry | science |
 | `audio-lines` | graphic equaliser, sound, noise, listen, hearing, hertz, frequency, wavelength, vibrate, sine, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `audio-lines-off` | audio, sound, noise, mute, silence, off, disabled, inactive, listen, hearing, equalizer, equaliser, hertz, frequency, wavelength, vibrate, sine, waveform, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
@@ -130,7 +130,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `badge-dollar-sign` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, usd, $ | shopping, finance |
 | `badge-euro` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, € | shopping, finance |
 | `badge-indian-rupee` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, inr, ₹ | shopping, finance |
-| `badge-info` | verified, unverified, help | account, accessibility, social |
+| `badge-info` | verified, unverified, help | letters-digits, account, accessibility, social |
 | `badge-japanese-yen` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, jpy, ¥ | shopping, finance |
 | `badge-minus` | verified, unverified, delete, remove, erase | social |
 | `badge-percent` | verified, unverified, sale, discount, offer, marketing, sticker, price tag | social, finance, shopping, math |
@@ -155,7 +155,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `banknote-x` | bill, currency, money, payment, funds, transaction, cash, finance, error, failed, rejected, canceled, declined, lost, delete, remove | finance |
 | `barcode` | scan, checkout, till, cart, transaction, purchase, buy, product, packaging, retail, consumer | shopping |
 | `barrel` | keg, drum, tank, wine, beer, oak, wood, firkin, hogshead, kilderkin, barrique, solera, aging, whiskey, brewery, distillery, winery, vineyard | food-beverage, navigation |
-| `baseline` | text, format, color | text |
+| `baseline` | text, format, color | letters-digits, text |
 | `bath` | amenities, services, bathroom, shower | travel |
 | `battery` | power, electricity, energy, accumulator, charge | connectivity, devices |
 | `battery-charging` | power, electricity, energy, accumulator, charge | connectivity, devices |
@@ -189,7 +189,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `between-vertical-start` | insert, add, bottom, slot, squeeze, space, vertical, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron | layout, design, tools |
 | `biceps-flexed` | arm, muscle, strong, working out, athletic, toned, muscular, forelimb, curled | emoji |
 | `bike` | bicycle, transport, trip | transportation |
-| `binary` | code, digits, computer, zero, one, boolean | text, development |
+| `binary` | code, digits, computer, zero, one, boolean | letters-digits, text, development |
 | `binoculars` | field glasses, lorgnette, pince-nez, observation, sightseeing, nature, wildlife, birdwatching, scouting, surveillance, search, discovery, monitoring, lookout, viewpoint, travel, tourism, research | navigation, nature, photography, science, travel, development |
 | `biohazard` | fallout, waste, biology, chemistry, chemical, element | science |
 | `bird` | peace, freedom, wing, avian, tweet | animals |
@@ -203,13 +203,12 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bluetooth-connected` | paired | connectivity, devices |
 | `bluetooth-off` | lost | connectivity, devices |
 | `bluetooth-searching` | pairing | connectivity, devices |
-| `bold` | text, strong, format | text |
 | `bolt` | nut, screw, settings, preferences, configuration, controls, edit, diy, fixed, build, construction, parts | tools, home |
 | `bomb` | fatal, error, crash, blockbuster, mine, explosion, explode, explosive | security, tools |
 | `bone` | health, skeleton, skull, death, pets, dog | animals, medical, gaming |
 | `bone-fracture` | bone, fracture, injury, orthopedic, medical, anatomy, skeletal, broken, xray, trauma, health, vet, veterinary, crack, break, damage | medical, animals |
 | `book` | reading, paperback, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation | text, development, gaming |
-| `book-a` | dictionary, define, definition, thesaurus, encyclopedia, encyclopaedia, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, alphabetical, a-z, ordered | text, gaming |
+| `book-a` | dictionary, define, definition, thesaurus, encyclopedia, encyclopaedia, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, alphabetical, a-z, ordered | letters-digits, text, gaming |
 | `book-alert` | reading, paperback, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, warning, alert, danger, exclamation mark | text, development, gaming |
 | `book-audio` | audiobook, reading, listening, sound, story, fiction, novel, information, knowledge, education, student, study, learning, research | multimedia, text |
 | `book-bookmark` | dictionary, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation, saved, later, future, reference, index, code, coding, version control, git, repository | text, development, gaming |
@@ -229,7 +228,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `book-plus` | code, coding, version control, git, repository, remove, delete, read, write, author, publish, inform, graduate, re-educate, study, learn, research, knowledge, improve, upgrade, level up | development, text, gaming |
 | `book-search` | reading, library, study, education, research, knowledge, discover, browsing, lookup, finding, scanning | text, development, gaming |
 | `book-text` | reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, documentation | text, gaming |
-| `book-type` | thesaurus, synonym, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, typography, fonts, collection | text, design, gaming |
+| `book-type` | thesaurus, synonym, reading, booklet, magazine, leaflet, pamphlet, tome, library, writing, written, writer, author, story, script, fiction, novel, information, knowledge, education, high school, university, college, academy, student, study, learning, homework, research, language, translate, typography, fonts, collection | letters-digits, text, design, gaming |
 | `book-up` | code, coding, version control, git, repository, push | development |
 | `book-up-2` | code, coding, version control, git, repository, push, force | development |
 | `book-user` | person, people, family, friends, acquaintances, contacts, details, addresses, phone numbers, directory, listing, networking | account, connectivity, communication, social |
@@ -285,7 +284,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cake-slice` | birthday, birthdate, celebration, party, surprise, gateaux, dessert, candles, wish, fondant, icing sugar, sweet, baking | food-beverage, social |
 | `calculator` | count, calculating machine | math, devices |
 | `calendar` | date, month, year, event, birthday, birthdate | time |
-| `calendar-1` | date, month, year, event, single, singular, once, 1, first | time |
+| `calendar-1` | date, month, year, event, single, singular, once, 1, first | letters-digits, time |
 | `calendar-arrow-down` | date, month, year, event, sort, order, ascending, descending, increasing, decreasing, rising, falling | time |
 | `calendar-arrow-left` | date, day, month, year, event, arrow, direction, navigation, previous, back, backward, past, earlier, reschedule, postpone, schedule, timeline, date picker | time, arrows, navigation |
 | `calendar-arrow-right` | date, day, month, year, event, arrow, direction, navigation, next, forward, future, upcoming, later, reschedule, postpone, defer, schedule, timeline, appointment | time, arrows, navigation |
@@ -330,9 +329,9 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `carrot` | orange, healthy, nature, fresh, root, produce, organic, nutrition, vegetable, food, eat | food-beverage |
 | `carton` | milk, dairy, beverage, drink, diet, lactose, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, grocery, juice, cream, cow | food-beverage |
 | `carton-off` | milk, dairy, beverage, drink, diet, lactose free, non dairy, liquid, liter, litre, pint, pints, pasteurized, skim, skimmed, container, packaging, allergy, intolerance, vegan, unavailable | food-beverage |
-| `case-lower` | text, letters, characters, font, typography | text, development |
-| `case-sensitive` | text, letters, characters, font, typography | text |
-| `case-upper` | text, letters, characters, font, typography | text, development |
+| `case-lower` | text, letters, characters, font, typography | letters-digits, text, development |
+| `case-sensitive` | text, letters, characters, font, typography | letters-digits, text |
+| `case-upper` | text, letters, characters, font, typography | letters-digits, text, development |
 | `cassette-tape` | audio, music, recording, play | connectivity, devices, multimedia, communication, files |
 | `cast` | stream, streaming, screen, display, wireless, broadcast, transmit, media, receiver, remote display, screen sharing, media streaming | devices, connectivity |
 | `castle` | fortress, stronghold, palace, chateau, building | buildings, gaming, navigation |
@@ -427,10 +426,35 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-fading-play` | short clips, shorts, reels, stories, video, highlights, social media, content, preview, teaser, clip, short form, vertical video | multimedia, social |
 | `circle-fading-plus` | stories, social media, sharing, content | communication, social |
 | `circle-gauge` | dashboard, dial, meter, speed, pressure, measure, level | transportation, sports, science |
+| `circle-letter-a` | alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography | letters-digits |
+| `circle-letter-b` | strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography | letters-digits |
+| `circle-letter-c` | alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography | letters-digits |
+| `circle-letter-d` | alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography | letters-digits |
+| `circle-letter-e` | alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography | letters-digits |
+| `circle-letter-f` | alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography | letters-digits |
+| `circle-letter-g` | alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography | letters-digits |
+| `circle-letter-h` | h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography | letters-digits |
+| `circle-letter-i` | alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography | letters-digits |
+| `circle-letter-j` | alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography | letters-digits |
+| `circle-letter-k` | alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography | letters-digits |
+| `circle-letter-l` | alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography | letters-digits |
+| `circle-letter-m` | alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography | letters-digits |
+| `circle-letter-n` | alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography | letters-digits |
+| `circle-letter-o` | alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography | letters-digits |
+| `circle-letter-p` | alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography | letters-digits |
+| `circle-letter-p-off` | parking lot, car park, no parking | letters-digits, transportation, navigation |
+| `circle-letter-q` | alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography | letters-digits |
+| `circle-letter-r` | alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography | letters-digits |
+| `circle-letter-s` | alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography | letters-digits |
+| `circle-letter-t` | alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography | letters-digits |
+| `circle-letter-u` | alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography | letters-digits |
+| `circle-letter-v` | alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography | letters-digits |
+| `circle-letter-w` | alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography | letters-digits |
+| `circle-letter-x` | alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography | letters-digits |
+| `circle-letter-y` | alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography | letters-digits |
+| `circle-letter-z` | alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography | letters-digits |
 | `circle-minus` | subtract, remove, decrease, reduce, calculate, line, operator, code, coding, minimum, downgrade, - | math |
 | `circle-off` | diameter, zero, Ø, nothing, null, void, cancel, ban, no, stop, forbidden, prohibited, error, incorrect, mistake, wrong, failure | shapes |
-| `circle-parking` | parking lot, car park | transportation, navigation |
-| `circle-parking-off` | parking lot, car park, no parking | transportation, navigation |
 | `circle-pause` | music, audio, stop | multimedia |
 | `circle-percent` | verified, unverified, sale, discount, offer, marketing, sticker, price tag | social, finance, shopping, math |
 | `circle-pile` | off, zero, record, shape, circle-pile, circle, pile, stack, layer, structure, form, group, collection, stock, inventory, materials, warehouse | shapes |
@@ -463,7 +487,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `clipboard-pen` | paste, signature | text |
 | `clipboard-pen-line` | paste | text |
 | `clipboard-plus` | copy, paste, add, create, new, document, medical, report, doctor | text, medical |
-| `clipboard-type` | paste, format, text | text |
+| `clipboard-type` | paste, format, text | letters-digits, text |
 | `clipboard-x` | copy, paste, discard, remove | text |
 | `clock` | time, watch, alarm | time |
 | `clock-1` | time, watch, alarm | time |
@@ -486,7 +510,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `clock-check` | time, watch, alarm | time |
 | `clock-fading` | time, watch, alarm | time |
 | `clock-plus` | time, watch, alarm, add, create, new | time |
-| `closed-caption` | tv, movie, video, closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility | accessibility, multimedia |
+| `closed-caption` | tv, movie, video, closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility | letters-digits, accessibility, multimedia |
 | `cloud` | weather | weather |
 | `cloud-alert` | weather, danger, warning, alert, error, sync, network, exclamation | development |
 | `cloud-backup` | storage, memory, bytes, servers, backup, time machine, rotate, synchronize, synchronise, refresh, reconnect, transfer, data, security, upload, save, remote, safety | arrows, files |
@@ -539,8 +563,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `copy-plus` | clone, duplicate, add, multiple, expand, + | text, math |
 | `copy-slash` | clone, duplicate, cancel, ban, no, stop, forbidden, prohibited, error, multiple, divide, division, split, or, / | text, development, math |
 | `copy-x` | cancel, close, delete, remove, clear, multiple, multiply, multiplication, times | notifications, math |
-| `copyleft` | licence | text |
-| `copyright` | licence, license | text |
+| `copyleft` | licence | letters-digits, text |
+| `copyright` | licence, license | letters-digits, text |
 | `corner-down-left` | arrow, return | arrows |
 | `corner-down-right` | arrow, indent, tab | arrows, text, development |
 | `corner-left-down` | arrow | arrows |
@@ -550,8 +574,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `corner-up-left` | arrow | arrows |
 | `corner-up-right` | arrow | arrows |
 | `cpu` | processor, cores, technology, computer, chip, circuit, memory, ram, specs, gigahertz, ghz | devices |
-| `cpu-ai` | ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip | devices, development |
-| `creative-commons` | licence, license | text |
+| `cpu-ai` | ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip | letters-digits, devices, development |
+| `creative-commons` | licence, license | letters-digits, text |
 | `credit-card` | bank, purchase, payment, cc | account, finance |
 | `credit-card-check` | debit, payment, banking, finance, transaction, wallet, purchase, checkout, billing, account, cardholder, verified, approved, authorized, valid, success, complete, check, bank, cc | account, finance, shopping |
 | `credit-card-minus` | debit, payment, remove, delete, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, purchase, checkout, subtract, minus, bank, cc | account, finance, shopping |
@@ -580,8 +604,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `database-search` | storage, memory, container, tin, pot, bytes, servers | devices, development |
 | `database-x` | storage, memory, bytes, server, x, error, failed, invalid, rejected, denied, clear, remove, disconnect | devices, development |
 | `database-zap` | cache busting, storage, memory, bytes, servers, power, crash | devices, development |
-| `decimals-arrow-left` | numerical, decimal, decrease, less, fewer, precision, rounding, digits, fraction, float, number | design, text, arrows, math |
-| `decimals-arrow-right` | numerical, decimal, increase, more, precision, rounding, digits, fraction, float, number | design, text, arrows, math |
+| `decimals-arrow-left` | numerical, decimal, decrease, less, fewer, precision, rounding, digits, fraction, float, number | letters-digits, design, text, arrows, math |
+| `decimals-arrow-right` | numerical, decimal, increase, more, precision, rounding, digits, fraction, float, number | letters-digits, design, text, arrows, math |
 | `delete` | backspace, remove | text, arrows |
 | `dessert` | pudding, christmas, xmas, custard, iced bun, icing, fondant, cake, ice cream, gelato, sundae, scoop, dollop, sugar, food, sweet | food-beverage |
 | `diameter` | shape, circle, geometry, trigonometry, width, height, size, calculate, measure | shapes, math, design, tools |
@@ -691,7 +715,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `file-code-corner` | script, document, html, xml, property list, plist | files, development |
 | `file-cog` | executable, settings, cog, edit, gear | files |
 | `file-diff` | diff, patch | files, development |
-| `file-digit` | number, document | files, development |
+| `file-digit` | number, document | letters-digits, files, development |
 | `file-down` | download, import, export | files, arrows |
 | `file-exclamation-point` | hidden, warning, alert, danger, protected, exclamation mark | files, notifications |
 | `file-headphone` | music, audio, sound, headphones | files |
@@ -720,8 +744,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `file-symlink` | symlink, symbolic, link | files |
 | `file-terminal` | terminal, bash, script, executable | files, development |
 | `file-text` | data, txt, pdf, document | files, text |
-| `file-type` | font, text, typography, type | files, text |
-| `file-type-corner` | font, text, typography, type | files, text |
+| `file-type` | font, text, typography, type | letters-digits, files, text |
+| `file-type-corner` | font, text, typography, type | letters-digits, files, text |
 | `file-up` | upload, import, export | files, arrows |
 | `file-user` | person, personal information, people, listing, networking, document, contact, cover letter, resume, cv, curriculum vitae, application form | account, files |
 | `file-video-camera` | movie, video, film | files |
@@ -882,15 +906,14 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hash` | hashtag, number, pound | text, social |
 | `hat-glasses` | incognito, disguise, costume, masked, anonymous, anonymity, privacy, private browsing, stealth, hidden, undercover, cloak, invisible, ghost, spy, agent, detective, identity, cap, fedora, spectacles, shades, sunglasses, eyewear | social, account, security |
 | `haze` | mist, fog | weather |
-| `hd` | tv, resolution, video, high definition, 720p, 1080p | devices, multimedia |
+| `hd` | tv, resolution, video, high definition, 720p, 1080p | letters-digits, devices, multimedia |
 | `hdmi-port` | socket, plug, slot, controller, connector, interface, console, signal, audio, video, visual, av, data, input, output | devices, multimedia, gaming |
-| `heading` | h1, html, markup, markdown | text |
-| `heading-1` | h1, html, markup, markdown | text |
-| `heading-2` | h2, html, markup, markdown | text |
-| `heading-3` | h3, html, markup, markdown | text |
-| `heading-4` | h4, html, markup, markdown | text |
-| `heading-5` | h5, html, markup, markdown | text |
-| `heading-6` | h6, html, markup, markdown | text |
+| `heading-1` | h1, html, markup, markdown | letters-digits, text |
+| `heading-2` | h2, html, markup, markdown | letters-digits, text |
+| `heading-3` | h3, html, markup, markdown | letters-digits, text |
+| `heading-4` | h4, html, markup, markdown | letters-digits, text |
+| `heading-5` | h5, html, markup, markdown | letters-digits, text |
+| `heading-6` | h6, html, markup, markdown | letters-digits, text |
 | `headphone-off` | music, audio, sound, mute, off | multimedia, connectivity, communication, devices, gaming |
 | `headphones` | music, audio, sound | multimedia, connectivity, devices, files, gaming |
 | `headset` | music, audio, sound, gaming, headphones, headset, call, center, phone, telephone, voip, video | multimedia, connectivity, devices, files, gaming |
@@ -939,9 +962,9 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `inbox` | email | account, mail |
 | `indian-rupee` | currency, money, payment | finance |
 | `infinity` | unlimited, forever, loop, math | multimedia |
-| `info` | about, advice, clue, details, help, hint, indicator, information, knowledge, notice, status, support, tooltip | accessibility, notifications |
+| `info` | about, advice, clue, details, help, hint, indicator, information, knowledge, notice, status, support, tooltip | letters-digits, accessibility, notifications |
 | `inspection-panel` | access, cover, tile, metal, materials, screws | tools |
-| `italic` | oblique, text, format | text |
+| `italic` | oblique, text, format | letters-digits, text |
 | `iteration-ccw` | arrow, right | arrows, design |
 | `iteration-cw` | arrow, left | arrows, design |
 | `iv-bag` | intravenous, therapy, infusion, medicine, medication, treatment, healthcare, hydration, vitamin, supplement, blood, donation, chemotherapy, clinic, feeding tube, administration, health, regeneration | medical |
@@ -956,7 +979,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `keyboard` | layout, spell, settings, mouse | text, devices, development |
 | `keyboard-music` | music, audio, sound, noise, notes, keys, chord, octave, midi, controller, instrument, electric, signal, digital, studio, production, producer, pianist, piano, play, performance, concert | multimedia, devices |
 | `keyboard-off` | unkeys, layout, spell, settings, mouse | devices, text, development |
-| `lambda` | greek, symbol, math, function, programming, serverless, anonymous, functional, cloud, wavelength, calculus, linear algebra | development, math, science, text |
+| `lambda` | greek, symbol, math, function, programming, serverless, anonymous, functional, cloud, wavelength, calculus, linear algebra | letters-digits, development, math, science, text |
 | `lamp` | lighting, household, home, furniture | home |
 | `lamp-ceiling` | lighting, household, home, furniture | home |
 | `lamp-desk` | lighting, household, office, desk, home, furniture | home |
@@ -965,7 +988,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lamp-wall-up` | lighting, household, wall, home, furniture | home |
 | `land-plot` | area, surface, square metres, allotment, parcel, property, plane, acres, measure, distance, isometric, flag, golf course, hole | design, tools, math, sports, gaming |
 | `landmark` | bank, building, capitol, finance, money, museum, art gallery, hall, institute, pediment, portico, doric, columns, pillars, classical, architecture, government, institution, monument, site, history, historic, library, temple, ancient, structure | finance, navigation, buildings |
-| `languages` | translate | text |
+| `languages` | translate | letters-digits, text |
 | `laptop` | computer, screen, remote | devices |
 | `laptop-minimal` | computer, screen, remote | devices |
 | `laptop-minimal-check` | computer, screen, remote, success, done, todo, tick, complete, task | devices, notifications |
@@ -996,12 +1019,38 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lens` | optics, reflection, camera, photography, focus, effect, shader, post-process, visual, contact lens, glass, magnify, translucent, transparent, orb, bubble, zoom | photography, science, tools |
 | `lens-concave` | concave, lens, optics, light, magnification, curved, focus, refraction, science, physics, eyeglass, telescope, microscope | science, tools, shapes |
 | `lens-convex` | convex, lens, optics, magnification, focus, light, refraction, physics, eyeglass, telescope, microscope, curved, science | science, tools, shapes |
-| `letter-spacing` | tracking, kerning, design, lettering, text, letters, characters, font, typography, formatting | text |
-| `letters` | abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling | text |
+| `letter-a` | alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography | letters-digits, text |
+| `letter-b` | strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography | letters-digits, text |
+| `letter-c` | alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography | letters-digits |
+| `letter-d` | alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography | letters-digits |
+| `letter-e` | alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography | letters-digits |
+| `letter-f` | alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography | letters-digits |
+| `letter-g` | alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography | letters-digits |
+| `letter-h` | h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography | letters-digits, text |
+| `letter-i` | alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography | letters-digits |
+| `letter-j` | alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography | letters-digits |
+| `letter-k` | alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography | letters-digits |
+| `letter-l` | alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography | letters-digits |
+| `letter-m` | alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography | letters-digits |
+| `letter-n` | alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography | letters-digits |
+| `letter-o` | alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography | letters-digits |
+| `letter-p` | alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography | letters-digits |
+| `letter-q` | alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography | letters-digits |
+| `letter-r` | alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography | letters-digits |
+| `letter-s` | alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography | letters-digits |
+| `letter-spacing` | tracking, kerning, design, lettering, text, letters, characters, font, typography, formatting | letters-digits, text |
+| `letter-t` | alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography | letters-digits, text |
+| `letter-u` | alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography | letters-digits |
+| `letter-v` | alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography | letters-digits |
+| `letter-w` | alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography | letters-digits |
+| `letter-x` | alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography | letters-digits |
+| `letter-y` | alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography | letters-digits |
+| `letter-z` | alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography | letters-digits |
+| `letters` | abc, alphabet, alphabetical, text, characters, language, typography, literacy, spelling | letters-digits |
 | `library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
 | `library-big` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
 | `life-buoy` | preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut | accessibility, medical |
-| `ligature` | text, font, typography, alternates, alternatives | text |
+| `ligature` | text, font, typography, alternates, alternatives | letters-digits, text |
 | `lightbulb` | idea, bright, lights | photography |
 | `lightbulb-off` | lights | photography |
 | `lighthouse` | lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, light beam, wayfinding, guidance, onboarding, help, landmark | buildings, navigation, travel |
@@ -1009,7 +1058,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `line-dot-left-horizontal` | line, dot, left, horizontal, shape, symbol, navigation, arrow, pointer, code, version control, waypoint, stop, start, first, station | development, navigation |
 | `line-dot-right-horizontal` | code, version control, waypoint, stop, station, last, end | development, navigation |
 | `line-dot-top-vertical` | arrow, pointer, direction, indicator, code, version, control, waypoint, stop, station, last, end | development, navigation |
-| `line-height` | leading, text, letters, characters, font, typography, spacing, paragraph, formatting, editor, readability, typesetting | text |
+| `line-height` | leading, text, letters, characters, font, typography, spacing, paragraph, formatting, editor, readability, typesetting | letters-digits, text |
 | `line-squiggle` | line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
 | `line-style` | line, stroke, style, dashed, border | design, tools |
 | `link` | chain, url | text, account |
@@ -1029,7 +1078,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `list-indent-increase` | text, tab | text, development |
 | `list-minus` | playlist, remove, song, subtract, delete, unqueue | multimedia, text |
 | `list-music` | playlist, queue, music, audio, playback | multimedia |
-| `list-ordered` | number, order, queue | text |
+| `list-ordered` | number, order, queue | letters-digits, text |
 | `list-plus` | playlist, add, song, track, new | multimedia, text |
 | `list-restart` | reset, refresh, reload, playlist, replay | multimedia, text |
 | `list-sort-ascending` | list, order, arrangement, organization, sequence, ranking, categories, presentation, filter, sort, ascending, descending, increasing, decreasing, rising, falling | text, layout |
@@ -1201,7 +1250,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `navigation-2` | location, travel | navigation |
 | `navigation-2-off` | location, travel | navigation |
 | `navigation-off` | location, travel | navigation |
-| `nepali-rupee` | currency, money, nepal, rupee, npr | finance, shopping, travel |
+| `nepali-rupee` | currency, money, nepal, rupee, npr | finance |
 | `network` | tree | development |
 | `newspaper` | news, feed, home, magazine, article, headline | multimedia, communication |
 | `nfc` | contactless, payment, near-field communication | communication, finance, devices |
@@ -1213,6 +1262,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `notebook-text` | notepad, notes, pages, paper, stationery, sketchbook, organizer, organiser, planner, diary, journal, writing, write, written, reading, high school, university, college, academy, student, study, research, homework, lines, opened | text, social |
 | `notepad-text` | notebook, notes, pages, paper, stationery, sketchbook, organizer, organiser, planner, diary, journal, writing, write, written, reading, high school, university, college, academy, student, study, homework, research, lines, opened | text, social |
 | `notepad-text-dashed` | notebook, notes, pages, paper, stationery, diary, journal, writing, write, written, draft, template, lines | text, social |
+| `numbers` | 123, digits, numeric, numerical, counting, quantity, math, sequence, integer | letters-digits, text, math |
 | `nut` | hazelnut, acorn, food, diet | food-beverage |
 | `nut-off` | hazelnut, acorn, food, allergy, intolerance, diet | food-beverage |
 | `octagon` | stop, shape | shapes |
@@ -1220,7 +1270,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `octagon-minus` | stop, forbidden, subtract, remove, decrease, reduce, -, traffic, halt, restricted | transportation |
 | `octagon-pause` | music, audio, stop | multimedia, shapes |
 | `octagon-x` | delete, stop, alert, warning, times, clear, math | math, notifications |
-| `omega` | greek, symbol, mathematics, education, physics, engineering, ohms, electrical resistance, angular frequency, dynamical systems, astronomy, constellations, philosophy | math, development, text, science |
+| `omega` | greek, symbol, mathematics, education, physics, engineering, ohms, electrical resistance, angular frequency, dynamical systems, astronomy, constellations, philosophy | letters-digits, math, development, text, science |
 | `option` | keyboard, key, mac, alt, button | development |
 | `orbit` | planet, space, physics, satellites, moons | science |
 | `origami` | paper, bird | animals, design |
@@ -1282,7 +1332,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `percent` | percentage, modulo, modulus, remainder, %, sale, discount, offer, marketing | math, development, finance, shopping |
 | `perfume-bottle` | eau de parfum, eau de toilette, essence, aftershave, cologne, aroma, fragrance, smell, scent, bouquet, gift, duty free, spray, puff, atomizer, mist, beauty, skincare, cosmetics | shopping, travel |
 | `person-standing` | people, human, accessibility, stick figure | accessibility, people |
-| `phi` | math, golden-ratio, symbol, greek, letter, typography, constant, flux, magnetic-flux | math, science |
+| `phi` | math, golden-ratio, symbol, greek, letter, typography, constant, flux, magnetic-flux | letters-digits, math, science |
 | `philippine-peso` | currency, peso, money, php | finance |
 | `phone` | call | text, connectivity, devices, communication |
 | `phone-call` | ring | connectivity, devices, communication |
@@ -1292,7 +1342,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `phone-missed` | call | connectivity, devices, communication |
 | `phone-off` | call, mute | connectivity, devices, communication |
 | `phone-outgoing` | call | arrows, connectivity, devices, communication |
-| `pi` | constant, code, coding, programming, symbol, trigonometry, geometry, formula | development, math |
+| `pi` | constant, code, coding, programming, symbol, trigonometry, geometry, formula | letters-digits, development, math |
 | `piano` | music, audio, sound, noise, notes, chord, keys, octave, acoustic, instrument, play, pianist, performance, concert | multimedia, devices |
 | `pickaxe` | mining, mine, land worker, extraction, labor, construction, progress, advancement, crafting, building, creation | tools, gaming |
 | `picture-in-picture` | display, play, video, pop out, always on top, window, inset, multitask | multimedia |
@@ -1321,7 +1371,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `plug-zap` | electricity, energy, electronics, charge, charging, battery, connect | devices |
 | `plus` | add, new, increase, increment, positive, calculate, toolbar, crosshair, aim, target, scope, sight, reticule, maximum, upgrade, extra, + | math, tools, development, text, cursors, gaming |
 | `pocket-knife` | swiss army knife, penknife, multi-tool, multitask, blade, cutter, gadget, corkscrew | tools |
-| `podium` | award, stage, winner, celebration, performance, medal, success, achievement, highlight, ranking, winning, place, placing, leaderboard, first, second, third, gold, silver, bronze | sports, gaming |
+| `podium` | award, stage, winner, celebration, performance, medal, success, achievement, highlight, ranking, winning, place, placing, leaderboard, first, second, third, gold, silver, bronze | letters-digits, sports, gaming |
 | `pointer` | mouse | cursors |
 | `pointer-off` | mouse | cursors |
 | `popcorn` | cinema, movies, films, salted, sweet, sugar, candy, snack | food-beverage, multimedia |
@@ -1353,15 +1403,15 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rat` | mouse, mice, gerbil, rodent, pet, pest, plague, disease | animals |
 | `ratio` | screens, sizes, rotate, rotation, adjust, aspect ratio, proportions, 16:9, widescreen, 4:3, resolution, responsive, mobile, desktop, dimensions, monitor, orientation, portrait, landscape | layout, design, photography |
 | `receipt` | bill, voucher, slip, check, counterfoil, currency, dollar, usd, $ | finance, travel |
-| `receipt-cent` | bill, voucher, slip, check, counterfoil, currency, cents, dollar, usd, $, ¢ | finance, travel |
-| `receipt-euro` | bill, voucher, slip, check, counterfoil, currency, € | finance, travel |
-| `receipt-indian-rupee` | bill, voucher, slip, check, counterfoil, currency, inr, ₹ | finance, travel |
-| `receipt-japanese-yen` | bill, voucher, slip, check, counterfoil, currency, jpy, ¥ | finance, travel |
-| `receipt-pound-sterling` | bill, voucher, slip, check, counterfoil, british, currency, gbp, £ | finance, travel |
-| `receipt-russian-ruble` | bill, voucher, slip, check, counterfoil, currency, rub, ₽ | finance, travel |
-| `receipt-swiss-franc` | bill, voucher, slip, check, counterfoil, currency, chf, ₣ | finance, travel |
+| `receipt-cent` | bill, voucher, slip, check, counterfoil, currency, cents, dollar, usd, $, ¢ | finance |
+| `receipt-euro` | bill, voucher, slip, check, counterfoil, currency, € | finance |
+| `receipt-indian-rupee` | bill, voucher, slip, check, counterfoil, currency, inr, ₹ | finance |
+| `receipt-japanese-yen` | bill, voucher, slip, check, counterfoil, currency, jpy, ¥ | finance |
+| `receipt-pound-sterling` | bill, voucher, slip, check, counterfoil, british, currency, gbp, £ | finance |
+| `receipt-russian-ruble` | bill, voucher, slip, check, counterfoil, currency, rub, ₽ | finance |
+| `receipt-swiss-franc` | bill, voucher, slip, check, counterfoil, currency, chf, ₣ | finance |
 | `receipt-text` | bill, voucher, slip, check, counterfoil, details, small print, terms, conditions, contract | finance, travel |
-| `receipt-turkish-lira` | bill, voucher, slip, check, counterfoil, currency, try, ₺ | finance, travel |
+| `receipt-turkish-lira` | bill, voucher, slip, check, counterfoil, currency, try, ₺ | finance |
 | `rectangle-circle` | compose, keyboard, key, button | development, text |
 | `rectangle-ellipsis` | login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | text, development |
 | `rectangle-goggles` | vr, virtual, augmented, reality, headset, goggles | devices, gaming, multimedia, connectivity |
@@ -1377,9 +1427,9 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `refresh-cw-off` | rotate, reload, rerun, synchronise, synchronize, arrows, circular, cycle, cancel, no, stop, error, disconnect, ignore | arrows |
 | `refrigerator` | fridge, freezer, cooler, icebox, chiller, cold storage | food-beverage, home |
 | `regex` | search, text, code | text, development |
-| `remove-formatting` | text, font, typography, format, x, remove, delete, times, clear | text |
+| `remove-formatting` | text, font, typography, format, x, remove, delete, times, clear | letters-digits, text |
 | `repeat` | loop, arrows | arrows, multimedia |
-| `repeat-1` | replay | multimedia |
+| `repeat-1` | replay | letters-digits, multimedia |
 | `repeat-2` | arrows, retweet, repost, share, repeat, loop | arrows, social, multimedia |
 | `repeat-off` | loop, arrows, recurring, again | arrows, multimedia |
 | `replace` | search, substitute, swap, change | text |
@@ -1511,7 +1561,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `shrink` | scale, fullscreen | layout, arrows |
 | `shrub` | forest, undergrowth, park, nature | nature |
 | `shuffle` | music, random, reorder | multimedia, arrows |
-| `sigma` | sum, calculate, formula, math, enumeration, enumerate | text, math, science |
+| `sigma` | sum, calculate, formula, math, enumeration, enumerate | letters-digits, text, math, science |
 | `signal` | connection, wireless, gsm, phone, 2g, 3g, 4g, 5g | connectivity |
 | `signal-high` | connection, wireless, gsm, phone, 2g, 3g, 4g, 5g | connectivity |
 | `signal-low` | connection, wireless, gsm, phone, 2g, 3g, 4g, 5g | connectivity |
@@ -1546,8 +1596,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `sparkles` | stars, effect, filter, night, magic | cursors, multimedia, gaming, weather |
 | `speaker` | sound, audio, music, tweeter, subwoofer, bass, production, producer, dj | multimedia, devices |
 | `speech` | disability, disabled, dda, human, accessibility, people, sound | accessibility, communication |
-| `spell-check` | spelling, error, mistake, oversight, typo, correction, code, linter, a | text, development |
-| `spell-check-2` | spelling, error, mistake, oversight, typo, correction, code, linter, a | text, development |
+| `spell-check` | spelling, error, mistake, oversight, typo, correction, code, linter, a | letters-digits, text, development |
+| `spell-check-2` | spelling, error, mistake, oversight, typo, correction, code, linter, a | letters-digits, text, development |
 | `spline` | path, pen, tool, shape, curve, draw | design |
 | `spline-pointer` | path, tool, curve, node, click, pointer, target, vector | arrows, cursors, design, tools |
 | `split` | break, disband, divide, separate, branch, disunite | development, arrows |
@@ -1604,20 +1654,45 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-dot` | git, diff, modified, . | development |
 | `square-equal` | calculate, = | math |
 | `square-exclamation-point` | warning, alert, danger, exclamation mark, rectangle, square, notification, attention, important, caution | notifications, shapes |
-| `square-function` | programming, code, automation, math | development, math |
+| `square-function` | programming, code, automation, math | letters-digits, development, math |
 | `square-kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, code, coding, toolbar, button | charts, development, design |
+| `square-kanban-plus` | board, project, add, create, plus, agile, tickets, issues, productivity, columns, workflow, planning, dashboard, workspace, collaboration, cards | charts, development, design, layout |
+| `square-letter-a` | alphabet, character, uppercase, grade, rating, accessibility, blood type, audio, ampere, electricity, appearance, text, font, typography | letters-digits |
+| `square-letter-b` | strong, emphasis, format, alphabet, character, uppercase, bold, blood type, byte, computing, b-side, bus, transit, text, font, typography | letters-digits |
+| `square-letter-c` | alphabet, character, uppercase, celsius, temperature, carbon, chemistry, grade, rating, text, font, typography | letters-digits |
+| `square-letter-d` | alphabet, character, uppercase, drive, gear, diameter, measurement, vitamin, grade, rating, text, font, typography | letters-digits |
+| `square-letter-e` | alphabet, character, uppercase, explicit, content rating, east, empty, energy, grade, rating, text, font, typography | letters-digits |
+| `square-letter-f` | alphabet, character, uppercase, fahrenheit, temperature, female, fail, grade, rating, force, aperture, f-stop, camera, text, font, typography | letters-digits |
+| `square-letter-g` | alphabet, character, uppercase, gravity, g-force, gram, measurement, text, font, typography | letters-digits |
+| `square-letter-h` | h1, html, markup, markdown, alphabet, character, uppercase, heading, hospital, hydrogen, chemistry, hour, time, height, measurement, text, font, typography | letters-digits |
+| `square-letter-i` | alphabet, character, uppercase, information, help, input, current, electricity, text, font, typography | letters-digits |
+| `square-letter-j` | alphabet, character, uppercase, joule, energy, java, javascript, code, text, font, typography | letters-digits |
+| `square-letter-k` | alphabet, character, uppercase, thousand, kilo, kelvin, temperature, potassium, chemistry, text, font, typography | letters-digits |
+| `square-letter-l` | alphabet, character, uppercase, learner, driver, litre, left, length, measurement, text, font, typography | letters-digits |
+| `square-letter-m` | metro, subway, underground, track, line, alphabet, character, uppercase, million, mega, metre, measurement, male, medium, size, text, font, typography | letters-digits, transportation, navigation |
+| `square-letter-n` | alphabet, character, uppercase, north, neutral, gear, new, nitrogen, chemistry, newton, force, sample size, statistics, text, font, typography | letters-digits |
+| `square-letter-o` | alphabet, character, uppercase, oxygen, chemistry, blood type, off, zero, marker, text, font, typography | letters-digits |
+| `square-letter-p` | parking lot, car park, alphabet, character, uppercase, parking, phosphorus, chemistry, p-value, statistics, piano, soft, music, page, probability, math, text, font, typography | letters-digits, transportation, navigation |
+| `square-letter-p-off` | parking lot, car park, no parking | letters-digits, transportation, navigation |
+| `square-letter-q` | alphabet, character, uppercase, question, help, queue, charge, electricity, quality, rating, text, font, typography | letters-digits |
+| `square-letter-r` | alphabet, character, uppercase, registered trademark, trademark, right, reverse, gear, resistance, electricity, radius, geometry, rating, review, text, font, typography | letters-digits |
+| `square-letter-s` | alphabet, character, uppercase, south, small, size, second, time, sulfur, chemistry, save, siemens, electricity, text, font, typography | letters-digits |
+| `square-letter-t` | alphabet, character, uppercase, tesla, magnetism, temperature, tonne, measurement, time, text, font, typography | letters-digits |
+| `square-letter-u` | alphabet, character, uppercase, rack unit, server, equipment, uranium, chemistry, text, font, typography | letters-digits |
+| `square-letter-v` | alphabet, character, uppercase, voltage, volt, electricity, volume, victory, success, vegan, vegetarian, video, text, font, typography | letters-digits |
+| `square-letter-w` | alphabet, character, uppercase, watt, power, west, width, measurement, tungsten, chemistry, win, text, font, typography | letters-digits |
+| `square-letter-x` | alphabet, character, uppercase, close, dismiss, multiply, math, unknown, variable, x-axis, axis, intersection, cross, chromosome, text, font, typography | letters-digits |
+| `square-letter-y` | alphabet, character, uppercase, y-axis, axis, yes, confirm, year, time, chromosome, text, font, typography | letters-digits |
+| `square-letter-z` | alphabet, character, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry, text, font, typography | letters-digits |
 | `square-library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, photography, multimedia, navigation, development |
-| `square-m` | metro, subway, underground, track, line | transportation, navigation |
 | `square-menu` | bars, navigation, hamburger, options, menu bar, panel | layout |
 | `square-minus` | subtract, remove, decrease, reduce, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade | math, development, text, tools, devices |
 | `square-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | arrows, cursors, development, tools |
 | `square-off` | /, not, slash, off, disabled, inactive, cancel, none, block, forbidden, unavailable, stopped, checkbox, unchecked, toggle, negation, form, ui | shapes, design |
-| `square-parking` | parking lot, car park | transportation, navigation |
-| `square-parking-off` | parking lot, car park, no parking | transportation, navigation |
 | `square-pause` | music, audio, stop | multimedia |
 | `square-pen` | pencil, edit, change, create, draw, sketch, draft, writer, writing, biro, ink, marker, felt tip, stationery, artist | text |
 | `square-percent` | verified, unverified, sale, discount, offer, marketing, sticker, price tag | social, finance, shopping, math |
-| `square-pi` | constant, code, coding, programming, symbol, trigonometry, geometry, formula | development, math |
+| `square-pi` | constant, code, coding, programming, symbol, trigonometry, geometry, formula | letters-digits, development, math |
 | `square-pilcrow` | paragraph, mark, paraph, blind, typography, type, text, prose, symbol | text |
 | `square-play` | music, audio, video, start, run | arrows, multimedia |
 | `square-plus` | add, new, increase, increment, positive, calculate, calculator, button, keyboard, toolbar, maximum, upgrade, extra, operator, join, concatenate, code, coding, + | math, tools, development, text |
@@ -1625,7 +1700,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-radical` | calculate, formula, math, operator, root, square, symbol | development, math |
 | `square-round-corner` | border, radius, style, design, corner, layout, round, rounded | design, development, layout |
 | `square-scissors` | cut, snippet, chop, stationery, crafts, toolbar, button | text, design, tools, files, development |
-| `square-sigma` | sum, calculate, formula, math, enumeration, enumerate | text, math |
+| `square-sigma` | sum, calculate, formula, math, enumeration, enumerate | letters-digits, text, math |
 | `square-slash` | git, diff, ignored, divide, division, shortcut, or, / | development, math |
 | `square-sparkles` | picture, photo, sparkles | photography, text, multimedia, files |
 | `square-split-horizontal` | split, divide | layout |
@@ -1669,8 +1744,8 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `store` | shop, supermarket, stand, boutique, building | buildings, navigation, shopping |
 | `stretch-horizontal` | items, flex, justify, distribute | layout |
 | `stretch-vertical` | items, flex, justify, distribute | layout |
-| `strikethrough` | cross out, delete, remove, format | text |
-| `subscript` | text | text |
+| `strikethrough` | cross out, delete, remove, format | letters-digits, text |
+| `subscript` | text | letters-digits, text |
 | `summary` | brief, abstract, synopsis, report, digest, outline, recap, condensation, summary, ai, text, overview | text |
 | `sun` | brightness, weather, light, summer | accessibility, weather, seasons, sustainability |
 | `sun-dim` | brightness, dim, low, brightness low | accessibility, weather |
@@ -1679,7 +1754,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `sun-snow` | weather, air conditioning, temperature, hot, cold, seasons | weather |
 | `sunrise` | weather, time, morning, day | arrows, weather, time |
 | `sunset` | weather, time, evening, night | arrows, weather |
-| `superscript` | text, exponent | text |
+| `superscript` | text, exponent | letters-digits, text |
 | `swatch-book` | colors, colours, swatches, pantone, shades, tint, hue, saturation, brightness, theme, scheme, palette, samples, textile, carpet | design, home, photography |
 | `swiss-franc` | currency, money, payment | finance |
 | `switch-camera` | photo, selfie, front, back | communication, devices |
@@ -1724,7 +1799,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `text-align-start` | text, alignment, left, list | text |
 | `text-cursor` | select, caret, type, typing, write, writing, edit, insert, input, textarea | text, cursors |
 | `text-cursor-input` | select | text, layout |
-| `text-initial` | drop cap, text, format, typography, letter, font size | text |
+| `text-initial` | drop cap, text, format, typography, letter, font size | letters-digits, text |
 | `text-quote` | blockquote, quotation, indent, reply, response | text |
 | `text-search` | find, data, copy, txt, pdf, document, scan, magnifier, magnifying glass, lens | text |
 | `text-wrap` | words, lines, break, paragraph | text, arrows |
@@ -1796,11 +1871,11 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tv` | television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, entertainment, showtime, channels, terrestrial, satellite, cable, broadcast, live, frequency, tune, scan, aerial, receiver, transmission, signal, connection, connectivity | devices, multimedia, communication |
 | `tv-minimal` | flat screen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, home cinema, entertainment, showtime, channels, catchup | devices, multimedia |
 | `tv-minimal-play` | flat screen, television, stream, display, widescreen, high-definition, hd, 1080p, 4k, 8k, smart, digital, video, movie, live, ott, running, start, film, home cinema, entertainment, showtime, channels, catchup | devices, multimedia |
-| `type` | text, font, typography | text |
-| `type-outline` | text, font, typography, silhouette, profile, contour, stroke, line | text |
+| `type` | text, font, typography | letters-digits, text |
+| `type-outline` | text, font, typography, silhouette, profile, contour, stroke, line | letters-digits, text |
 | `umbrella` | rain, weather | weather |
 | `umbrella-off` | rain, weather, uncovered, uninsured, antivirus, unprotected, risky | weather |
-| `underline` | text, format | text |
+| `underline` | text, format | letters-digits, text |
 | `undo` | redo, rerun, history | text, arrows |
 | `undo-2` | redo, rerun, history, back, return, reverse, revert, direction, u-turn | text, arrows |
 | `undo-dot` | redo, history, step, back | text, arrows |
@@ -1848,7 +1923,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `utensils-crossed` | fork, knife, cutlery, flatware, tableware, silverware, food, restaurant, meal, breakfast, dinner, supper | food-beverage, travel, navigation |
 | `utility-pole` | electricity, energy, transmission line, telegraph pole, power lines, phone | buildings, home, sustainability |
 | `van` | minivan, cart, wagon, truck, lorry, trailer, camper, vehicle, drive, trip, journey, van, transport, carriage, delivery, travel | transportation |
-| `variable` | code, coding, programming, symbol, calculate, algebra, x, parentheses, parenthesis, brackets, parameter, (, ) | development, math |
+| `variable` | code, coding, programming, symbol, calculate, algebra, x, parentheses, parenthesis, brackets, parameter, (, ) | letters-digits, development, math |
 | `vault` | safe, lockbox, deposit, locker, coffer, strongbox, safety, secure, storage, valuables, bank | security, travel, home |
 | `vector-polygon` | map, vector, geometry, coordinates, shape, location, boundary, area, region, gis, geospatial, vertices, points, outline, drawing, design, math | design, math, shapes |
 | `vector-square` | shape, geometry, art, width, height, size, calculate, measure, select, graphics, box | shapes, math, design, tools |
@@ -1896,7 +1971,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `wheat` | corn, cereal, grain, gluten | food-beverage |
 | `wheat-off` | corn, cereal, grain, gluten free, allergy, intolerance, diet | food-beverage |
 | `whistle` | alert, signal, sound, blow, noise, coach, trainer, referee, gym, game, training, sports, traffic cops, police, lifeguard, safety, rescue, emergency | sports, notifications |
-| `whole-word` | text, selection, letters, characters, font, typography | text |
+| `whole-word` | text, selection, letters, characters, font, typography | letters-digits, text |
 | `wifi` | connection, signal, wireless | connectivity, devices |
 | `wifi-cog` | connection, signal, wireless, directory, settings, control, preferences, cog, edit, gear | connectivity, devices, files |
 | `wifi-high` | connection, signal, wireless | connectivity, devices |
@@ -1916,7 +1991,7 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `wrench` | account, settings, spanner, diy, toolbox, build, construction | account, development, tools |
 | `wrench-off` | account, settings, spanner, diy, toolbox, build, construction, off, service, maintenance, disabled | account, development, tools |
 | `x` | cancel, close, cross, delete, ex, remove, times, clear, math, multiply, multiplication | notifications, math |
-| `x-line-top` | line, top, arrow, navigation, up, pointer, direction, vector, symbol, cancel, close, delete, remove, times, clear, math, multiply, multiplication, mean, median, average, x̄ | notifications, math |
+| `x-line-top` | line, top, arrow, navigation, up, pointer, direction, vector, symbol, cancel, close, delete, remove, times, clear, math, multiply, multiplication, mean, median, average, x̄ | letters-digits, notifications, math |
 | `zap` | flash, camera, lightning, electricity, energy, power, quick | connectivity, devices, photography, weather |
 | `zap-off` | flash, camera, lightning, electricity, energy, power | connectivity, devices, photography, weather |
 | `zodiac-aquarius` | water bearer, waves, innovation, air, future, astrology, star sign, horoscope, constellation, celestial | social, emoji |
@@ -1935,4 +2010,4 @@ All **1924** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | magnifying glass, plus | accessibility, layout, design, text, photography |
 | `zoom-out` | magnifying glass, plus | accessibility, layout, design, text, photography |
 
-*Total: 1924 icons*
+*Total: 1999 icons*
