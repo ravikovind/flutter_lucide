@@ -2846,7 +2846,7 @@ abstract final class LucideIcons {
   /// ![between_vertical_end](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Im05IDIyIDMtMyAzIDMiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNCIgeT0iMyIgcng9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [between_vertical_end] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-bottom, insert, add, top, slot, squeeze, space, vertical, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron.
+  /// - The [between_vertical_end] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-bottom, insert, add, top, slot, squeeze, space, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron.
   /// - It belongs to the categories: layout, design
   ///
   /// Acknowledgements:
@@ -2862,7 +2862,7 @@ abstract final class LucideIcons {
   /// ![between_vertical_start](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Im0xNSAyLTMgMy0zLTMiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNCIgeT0iOCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [between_vertical_start] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-top, insert, add, bottom, slot, squeeze, space, vertical, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron.
+  /// - The [between_vertical_start] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-top, insert, add, bottom, slot, squeeze, space, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron.
   /// - It belongs to the categories: layout, design
   ///
   /// Acknowledgements:
@@ -3838,7 +3838,7 @@ abstract final class LucideIcons {
   /// ![boxes_linked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgNmgyYTIgMiAwIDAgMSAyIDJ2NSIgLz4KICA8cGF0aCBkPSJNMTQuMjEgMTUuMjAyIDE4IDE3LjRWMjIiIC8+CiAgPHBhdGggZD0iTTE0Ljc5NiAxNC42MTFBMS42IDEuNiAwIDAgMCAxNCAxNS45OTV2My4wMTNhMS42IDEuNiAwIDAgMCAuNzk3IDEuMzg0bDIuNCAxLjM5MmExLjYgMS42IDAgMCAwIDEuNjA2IDBsMi40LTEuMzkyQTEuNiAxLjYgMCAwIDAgMjIgMTkuMDA4di0zLjAxM2ExLjYgMS42IDAgMCAwLS43OTYtMS4zODRsLTIuNC0xLjM5NGExLjYgMS42IDAgMCAwLTEuNTE0LS4wNTF6IiAvPgogIDxwYXRoIGQ9Im0xOCAxNy40IDMuNzktMi4xOTgiIC8+CiAgPHBhdGggZD0iTTIuMjEgNC4yMDIgNiA2LjRWMTZhMiAyIDAgMCAwIDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yLjc5NiAzLjYxMUExLjYgMS42IDAgMCAwIDIgNC45OTV2My4wMTNhMS42IDEuNiAwIDAgMCAuNzk3IDEuMzg0bDIuNCAxLjM5MmExLjYgMS42IDAgMCAwIDEuNjA2IDBsMi40LTEuMzkyQTEuNiAxLjYgMCAwIDAgMTAgOC4wMDhWNC45OTVhMS42IDEuNiAwIDAgMC0uNzk2LTEuMzg0bC0yLjQtMS4zOTRhMS42IDEuNiAwIDAgMC0xLjUxNC0uMDUyeiIgLz4KICA8cGF0aCBkPSJtNiA2LjQgMy43OS0yLjE5OCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [boxes_linked] icon is a graphical symbol that conveys a specific idea or functionality related to cubes, package, module, dependencies, link, chain, blockchain, network, nodes, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory.
+  /// - The [boxes_linked] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, cubes, package, module, dependencies, link, chain, blockchain, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -5310,7 +5310,7 @@ abstract final class LucideIcons {
   /// ![chart_area](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0iTTcgMTEuMjA3YS41LjUgMCAwIDEgLjE0Ni0uMzUzbDItMmEuNS41IDAgMCAxIC43MDggMGwzLjI5MiAzLjI5MmEuNS41IDAgMCAwIC43MDggMGw0LjI5Mi00LjI5MmEuNS41IDAgMCAxIC44NTQuMzUzVjE2YTEgMSAwIDAgMS0xIDFIOGExIDEgMCAwIDEtMS0xeiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [chart_area] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph, area.
+  /// - The [chart_area] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5326,7 +5326,7 @@ abstract final class LucideIcons {
   /// ![chart_bar](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0iTTcgMTZoOCIgLz4KICA8cGF0aCBkPSJNNyAxMWgxMiIgLz4KICA8cGF0aCBkPSJNNyA2aDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chart_bar] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph.
+  /// - The [chart_bar] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, categorical, comparison.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5390,7 +5390,7 @@ abstract final class LucideIcons {
   /// ![chart_bar_stacked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTN2NCIgLz4KICA8cGF0aCBkPSJNMTUgNXY0IiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTZhMiAyIDAgMCAwIDIgMmgxNiIgLz4KICA8cmVjdCB4PSI3IiB5PSIxMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSI3IiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_bar_stacked] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-bar, multivariate, categorical, comparison.
+  /// - The [chart_bar_stacked] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-bar, multivariate.
   /// - It belongs to the categories: $extends:chart-bar
   ///
   /// Acknowledgements:
@@ -5401,12 +5401,28 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [chart_bell_curve] icon from the Lucide icon set.
+  ///
+  /// ![chart_bell_curve](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0iTTcgMTZjMy41IDAgMi41LTEwIDYtMTBzMi41IDEwIDYgMTAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [chart_bell_curve] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, distribution, normal distribution, gaussian, probability, frequency, density, symmetric, standard deviation.
+  /// - It belongs to the categories: charts, math
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/codeiku](https://github.com/codeiku), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData chart_bell_curve = IconData(
+    0xe81e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [chart_candlestick] icon from the Lucide icon set.
   ///
   /// ![chart_candlestick](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA1djQiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSI3IiB5PSI5IiByeD0iMSIgLz4KICA8cGF0aCBkPSJNOSAxNXYyIiAvPgogIDxwYXRoIGQ9Ik0xNyAzdjIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNSIgeT0iNSIgcng9IjEiIC8+CiAgPHBhdGggZD0iTTE3IDEzdjMiIC8+CiAgPHBhdGggZD0iTTMgM3YxNmEyIDIgMCAwIDAgMiAyaDE2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_candlestick] icon is a graphical symbol that conveys a specific idea or functionality related to trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, stocks, exchange, hedge fund, statistics, analytics, diagram, graph.
+  /// - The [chart_candlestick] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, stocks, exchange, hedge fund.
   /// - It belongs to the categories: charts, finance
   ///
   /// Acknowledgements:
@@ -5422,7 +5438,7 @@ abstract final class LucideIcons {
   /// ![chart_column](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0iTTE4IDE3VjkiIC8+CiAgPHBhdGggZD0iTTEzIDE3VjUiIC8+CiAgPHBhdGggZD0iTTggMTd2LTMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chart_column] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph.
+  /// - The [chart_column] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, categorical, comparison.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5486,7 +5502,7 @@ abstract final class LucideIcons {
   /// ![chart_column_stacked](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTNINyIgLz4KICA8cGF0aCBkPSJNMTkgOWgtNCIgLz4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHJlY3QgeD0iMTUiIHk9IjUiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+CiAgPHJlY3QgeD0iNyIgeT0iOCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [chart_column_stacked] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-column, multivariate, categorical, comparison.
+  /// - The [chart_column_stacked] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-column, multivariate.
   /// - It belongs to the categories: $extends:chart-column
   ///
   /// Acknowledgements:
@@ -5502,7 +5518,7 @@ abstract final class LucideIcons {
   /// ![chart_gantt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgNmg4IiAvPgogIDxwYXRoIGQ9Ik0xMiAxNmg2IiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTZhMiAyIDAgMCAwIDIgMmgxNiIgLz4KICA8cGF0aCBkPSJNOCAxMWg3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to diagram, graph, timeline, planning.
+  /// - The [chart_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, timeline, planning, projects, manage, overview, roadmap, plan, deadline, date, event, range, period, productivity, work, agile.
   /// - It belongs to the categories: charts, time
   ///
   /// Acknowledgements:
@@ -5518,7 +5534,7 @@ abstract final class LucideIcons {
   /// ![chart_line](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0ibTE5IDktNSA1LTQtNC0zIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chart_line] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph, presentation.
+  /// - The [chart_line] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5534,7 +5550,7 @@ abstract final class LucideIcons {
   /// ![chart_network](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMuMTEgNy42NjQgMS43OCAyLjY3MiIgLz4KICA8cGF0aCBkPSJtMTQuMTYyIDEyLjc4OC0zLjMyNCAxLjQyNCIgLz4KICA8cGF0aCBkPSJtMjAgNC02LjA2IDEuNTE1IiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTZhMiAyIDAgMCAwIDIgMmgxNiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjYiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxMiIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI5IiBjeT0iMTUiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chart_network] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph, topology, cluster, web, nodes, connections, edges.
+  /// - The [chart_network] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, $group:graph, cluster, web.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5550,8 +5566,8 @@ abstract final class LucideIcons {
   /// ![chart_no_axes_column](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAyMXYtNiIgLz4KICA8cGF0aCBkPSJNMTIgMjFWMyIgLz4KICA8cGF0aCBkPSJNMTkgMjFWOSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [chart_no_axes_column] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph.
-  /// - It belongs to the categories: charts
+  /// - The [chart_no_axes_column] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-column.
+  /// - It belongs to the categories: $extends:chart-column
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -5598,7 +5614,7 @@ abstract final class LucideIcons {
   /// ![chart_no_axes_combined](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZ2NSIgLz4KICA8cGF0aCBkPSJNMTYgMTQuNjM5VjIxIiAvPgogIDxwYXRoIGQ9Ik0yMCAxMC42NTZWMjEiIC8+CiAgPHBhdGggZD0ibTIyIDMtOC42NDYgOC42NDZhLjUuNSAwIDAgMS0uNzA4IDBMOS4zNTQgOC4zNTRhLjUuNSAwIDAgMC0uNzA3IDBMMiAxNSIgLz4KICA8cGF0aCBkPSJNNCAxOC40NjNWMjEiIC8+CiAgPHBhdGggZD0iTTggMTQuNjU2VjIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_no_axes_combined] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph, trending up.
+  /// - The [chart_no_axes_combined] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, trending up.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5614,8 +5630,8 @@ abstract final class LucideIcons {
   /// ![chart_no_axes_gantt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiA1aDEyIiAvPgogIDxwYXRoIGQ9Ik00IDEyaDEwIiAvPgogIDxwYXRoIGQ9Ik0xMiAxOWg4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_no_axes_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to projects, manage, overview, roadmap, plan, intentions, timeline, deadline, date, event, range, period, productivity, work, agile, code, coding.
-  /// - It belongs to the categories: charts, time, development
+  /// - The [chart_no_axes_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-gantt, intentions, code, coding.
+  /// - It belongs to the categories: $extends:chart-gantt, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
@@ -5630,7 +5646,7 @@ abstract final class LucideIcons {
   /// ![chart_pie](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTJjLjU1MiAwIDEuMDA1LS40NDkuOTUtLjk5OGExMCAxMCAwIDAgMC04Ljk1My04Ljk1MWMtLjU1LS4wNTUtLjk5OC4zOTgtLjk5OC45NXY4YTEgMSAwIDAgMCAxIDF6IiAvPgogIDxwYXRoIGQ9Ik0yMS4yMSAxNS44OUExMCAxMCAwIDEgMSA4IDIuODMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chart_pie] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, presentation.
+  /// - The [chart_pie] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5646,7 +5662,7 @@ abstract final class LucideIcons {
   /// ![chart_quadrant](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyAxMmgxOCIgLz4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAwMiAyaDE2IiAvPgogIDxjaXJjbGUgY3g9IjE3LjUiIGN5PSI1LjUiIHI9IjAuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgogIDxjaXJjbGUgY3g9IjE5LjUiIGN5PSIxNi41IiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSIxNi41IiByPSIwLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSI3LjUiIHI9IjAuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_quadrant] icon is a graphical symbol that conveys a specific idea or functionality related to quadrant, chart, diagram, statistics, analytics, graph, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering.
+  /// - The [chart_quadrant] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, quadrant, chart, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering.
   /// - It belongs to the categories: charts, science, math
   ///
   /// Acknowledgements:
@@ -5662,7 +5678,7 @@ abstract final class LucideIcons {
   /// ![chart_radar](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYxMCIgLz4KICA8cGF0aCBkPSJtMTYgMTggMy4wODUtOC4xMjVMMTIgNC4xMDMgMy40NzMgOS40NDJsMy4xOTYgMTAuNTU0eiIgLz4KICA8cGF0aCBkPSJtMiA5IDEwIDMgNiA5IiAvPgogIDxwYXRoIGQ9Im02IDIxIDYtOSAxMC0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_radar] icon is a graphical symbol that conveys a specific idea or functionality related to radar, chart, diagram, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, analytics, visualization, attributes.
+  /// - The [chart_radar] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, attributes.
   /// - It belongs to the categories: charts, shapes, science
   ///
   /// Acknowledgements:
@@ -5678,7 +5694,7 @@ abstract final class LucideIcons {
   /// ![chart_scatter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSI3LjUiIHI9Ii41IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+CiAgPGNpcmNsZSBjeD0iMTguNSIgY3k9IjUuNSIgcj0iLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSIxMS41IiBjeT0iMTEuNSIgcj0iLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICA8Y2lyY2xlIGN4PSI3LjUiIGN5PSIxNi41IiByPSIuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgogIDxjaXJjbGUgY3g9IjE3LjUiIGN5PSIxNC41IiByPSIuNSIgZmlsbD0iY3VycmVudENvbG9yIiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTZhMiAyIDAgMCAwIDIgMmgxNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [chart_scatter] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph.
+  /// - The [chart_scatter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -5694,7 +5710,7 @@ abstract final class LucideIcons {
   /// ![chart_spline](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzdjE2YTIgMiAwIDAgMCAyIDJoMTYiIC8+CiAgPHBhdGggZD0iTTcgMTZjLjUtMiAxLjUtNyA0LTcgMiAwIDIgMyA0IDMgMi41IDAgNC41LTUgNS03IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_spline] icon is a graphical symbol that conveys a specific idea or functionality related to statistics, analytics, diagram, graph, curve, continuous, smooth, polynomial, quadratic, function, interpolation.
+  /// - The [chart_spline] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, curve, continuous, smooth, polynomial, quadratic, function, interpolation.
   /// - It belongs to the categories: charts
   ///
   /// Acknowledgements:
@@ -6955,7 +6971,7 @@ abstract final class LucideIcons {
 
   /// Represents the [circle_letter_p_off] icon from the Lucide icon set.
   ///
-  /// ![circle_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjU2IDdIMTNhMyAzIDAgMCAxIDIuOTg0IDMuMzA3IiAvPgogIDxwYXRoIGQ9Ik0xMyAxM0g5IiAvPgogIDxwYXRoIGQ9Ik0xOS4wNzEgMTkuMDcxQTEgMSAwIDAgMSA0LjkzIDQuOTMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNOC4zNTcgMi42ODdhMTAgMTAgMCAwIDEgMTIuOTU2IDEyLjk1NiIgLz4KICA8cGF0aCBkPSJNOSAxN1Y5IiAvPgo8L3N2Zz4K)
+  /// ![circle_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJoMWEyIDIgMCAwMDAtNEg5LjVhLjUuNSAwIDAwLS41LjVWOSIgLz4KICA8cGF0aCBkPSJNMTUuNjUyIDIxLjMxQTEwIDEwIDAgMDEyLjY5MSA4LjM0OCIgLz4KICA8cGF0aCBkPSJNMjIgMjIgMiAyIiAvPgogIDxwYXRoIGQ9Ik00LjkyOSA0LjkyOWExMCAxMCAwIDAxMTYuNzI5IDQuNDgzIDEwIDEwIDAgMDEtMi41ODggOS42NTgiIC8+CiAgPHBhdGggZD0iTTkgMTQuNjU3VjE2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [circle_letter_p_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:circle-letter-p, $group:off, no parking.
@@ -9358,7 +9374,7 @@ abstract final class LucideIcons {
   /// ![database](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiIC8+CiAgPHBhdGggZD0iTTMgNVYxOUE5IDMgMCAwIDAgMjEgMTlWNSIgLz4KICA8cGF0aCBkPSJNMyAxMkE5IDMgMCAwIDAgMjEgMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [database] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, container, tin, pot, bytes, servers.
+  /// - The [database] icon is a graphical symbol that conveys a specific idea or functionality related to storage, memory, container, tin, pot, bytes, servers, sql, db, query, sqlite, mysql, backup, export, import, dump, restore, migration, schema, records, tables, snapshot, archive, server, attachment, artifact, log, relational, dataset, dbms, structured data, data source, data.
   /// - It belongs to the categories: devices, development
   ///
   /// Acknowledgements:
@@ -9374,7 +9390,7 @@ abstract final class LucideIcons {
   /// ![database_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgMTkgMyAzIDMtMyIgLz4KICA8cGF0aCBkPSJNMTkgMTZ2NiIgLz4KICA8cGF0aCBkPSJNMjEgMTIuNTM2VjUiIC8+CiAgPHBhdGggZD0iTTMgMTJBOSAzIDAgMCAwIDE1LjE4MiAxNC44MDYiIC8+CiAgPHBhdGggZD0iTTMgNVYxOUE5IDMgMCAwIDAgMTMuMzE4IDIxLjk2OCIgLz4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [database_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:direction-down, server, export, download, backup, pull, downsize.
+  /// - The [database_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:direction-down, download, pull, downsize.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9390,7 +9406,7 @@ abstract final class LucideIcons {
   /// ![database_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgMjJ2LTYiIC8+CiAgPHBhdGggZD0iTTIxIDEyLjUzNlY1IiAvPgogIDxwYXRoIGQ9Im0yMiAxOS0zLTMtMyAzIiAvPgogIDxwYXRoIGQ9Ik0zIDEyQTkgMyAwIDAgMCAxNC40NTcgMTQuODg2IiAvPgogIDxwYXRoIGQ9Ik0zIDVWMTlBOSAzIDAgMCAwIDEzLjMxOCAyMS45NjgiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [database_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:direction-up, server, import, upload, backup, push, upscale.
+  /// - The [database_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:direction-up, upload, push, upscale.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9406,7 +9422,7 @@ abstract final class LucideIcons {
   /// ![database_backup](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiIC8+CiAgPHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDUgMi42OSIgLz4KICA8cGF0aCBkPSJNMjEgOS4zVjUiIC8+CiAgPHBhdGggZD0iTTMgNXYxNGE5IDMgMCAwIDAgNi40NyAyLjg4IiAvPgogIDxwYXRoIGQ9Ik0xMiAxMnY0aDQiIC8+CiAgPHBhdGggZD0iTTEzIDIwYTUgNSAwIDAgMCA5LTMgNC41IDQuNSAwIDAgMC00LjUtNC41Yy0xLjMzIDAtMi41NC41NC0zLjQxIDEuNDFMMTIgMTYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [database_backup] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, backup, time machine, rotate, arrow, left.
+  /// - The [database_backup] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, time machine, rotate, arrow, left.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9422,7 +9438,7 @@ abstract final class LucideIcons {
   /// ![database_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgMTkgMiAyIDQtNCIgLz4KICA8cGF0aCBkPSJNMjEgMTMuMTI3VjUiIC8+CiAgPHBhdGggZD0iTTMgMTJBOSAzIDAgMCAwIDIxIDEyIiAvPgogIDxwYXRoIGQ9Ik0zIDVWMTlBOSAzIDAgMCAwIDEzLjMxOCAyMS45NjgiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [database_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:check, server.
+  /// - The [database_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:check.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9454,7 +9470,7 @@ abstract final class LucideIcons {
   /// ![database_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTVWNSIgLz4KICA8cGF0aCBkPSJNMjIgMTloLTYiIC8+CiAgPHBhdGggZD0iTTMgMTJBOSAzIDAgMCAwIDIxIDEyIiAvPgogIDxwYXRoIGQ9Ik0zIDVWMTlBOSAzIDAgMCAwIDEzLjMxOCAyMS45NjgiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [database_minus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:minus, server.
+  /// - The [database_minus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:minus.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9470,7 +9486,7 @@ abstract final class LucideIcons {
   /// ![database_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgMTZ2NiIgLz4KICA8cGF0aCBkPSJNMjEgMTIuNTM2VjUiIC8+CiAgPHBhdGggZD0iTTIyIDE5aC02IiAvPgogIDxwYXRoIGQ9Ik0zIDEyQTkgMyAwIDAgMCAxNS4xODI0IDE0LjgwNjEiIC8+CiAgPHBhdGggZD0iTTMgNVYxOUE5IDMgMCAwIDAgMTMuMzE4IDIxLjk2OCIgLz4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [database_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:plus, server, expand.
+  /// - The [database_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:plus, expand.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -9502,7 +9518,7 @@ abstract final class LucideIcons {
   /// ![database_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTcgMTcgNSA1IiAvPgogIDxwYXRoIGQ9Ik0xOS4zMjMgMTMuNzQ0QTkgMyAwIDAgMCAyMSAxMiIgLz4KICA8cGF0aCBkPSJNMjEgMTMuMTI3VjUiIC8+CiAgPHBhdGggZD0ibTIyIDE3LTUgNSIgLz4KICA8cGF0aCBkPSJNMyAxMkE5IDMgMCAwIDAgMTMuNTYzIDE0Ljk1NCIgLz4KICA8cGF0aCBkPSJNMyA1VjE5QTkgMyAwIDAgMCAxMyAyMS45ODEiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [database_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:x, server, error, failed, invalid, rejected, denied, disconnect.
+  /// - The [database_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:database, $group:x, error, failed, invalid, rejected, denied, disconnect.
   /// - It belongs to the categories: $extends:database
   ///
   /// Acknowledgements:
@@ -11134,8 +11150,8 @@ abstract final class LucideIcons {
   /// ![file_chart_column](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAgMCAxIDFoNSIgLz4KICA8cGF0aCBkPSJNOCAxOHYtMSIgLz4KICA8cGF0aCBkPSJNMTIgMTh2LTYiIC8+CiAgPHBhdGggZD0iTTE2IDE4di0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [file_chart_column] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, statistics, analytics, diagram, graph, presentation.
-  /// - It belongs to the categories: $extends:file, charts
+  /// - The [file_chart_column] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $extends:chart-column.
+  /// - It belongs to the categories: $extends:file, $extends:chart-column
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -11167,7 +11183,7 @@ abstract final class LucideIcons {
   ///
   /// Description:
   /// - The [file_chart_line] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $extends:chart-line.
-  /// - It belongs to the categories: $extends:file, charts
+  /// - It belongs to the categories: $extends:file, $extends:chart-line
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -11182,8 +11198,8 @@ abstract final class LucideIcons {
   /// ![file_chart_pie](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuOTQxIDIySDE4YTIgMiAwIDAgMCAyLTJWOGEyLjQgMi40IDAgMCAwLS43MDYtMS43MDRsLTMuNTg4LTMuNTg4QTIuNCAyLjQgMCAwIDAgMTQgMkg2YTIgMiAwIDAgMC0yIDJ2My41MTIiIC8+CiAgPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDUiIC8+CiAgPHBhdGggZD0iTTQuMDE3IDExLjUxMmE2IDYgMCAxIDAgOC40NjYgOC40NzUiIC8+CiAgPHBhdGggZD0iTTkgMTZhMSAxIDAgMCAxLTEtMXYtNGMwLS41NTIuNDUtMS4wMDguOTk1LS45MTdhNiA2IDAgMCAxIDQuOTIyIDQuOTIyYy4wOTEuNTQ0LS4zNjUuOTk1LS45MTcuOTk1eiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [file_chart_pie] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, statistics, analytics, diagram, graph, presentation.
-  /// - It belongs to the categories: $extends:file, charts
+  /// - The [file_chart_pie] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $extends:chart-pie.
+  /// - It belongs to the categories: $extends:file, $extends:chart-pie
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
@@ -11285,6 +11301,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
   static const IconData file_cog = IconData(
     0xe316,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [file_database] icon from the Lucide icon set.
+  ///
+  /// ![file_database](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2OGE1IDIgMCAwMS0xMCAwdi04IiAvPgogIDxwYXRoIGQ9Ik0xMiAxNmE1IDIgMCAwMS0xMCAwIiAvPgogIDxwYXRoIGQ9Ik0xNCAydjVhMSAxIDAgMDAxIDFoNSIgLz4KICA8cGF0aCBkPSJNNCA2LjNWNGEyIDIgMCAwMTItMmg4YTIuNCAyLjQgMCAwMTEuNzA2LjcwNmwzLjU4OCAzLjU4OEEyLjQgMi40IDAgMDEyMCA4djEyYTIgMiAwIDAxLTIgMmgtMi40MyIgLz4KICA8ZWxsaXBzZSBjeD0iNyIgY3k9IjEyIiByeD0iNSIgcnk9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [file_database] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $extends:database.
+  /// - It belongs to the categories: $extends:file, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/PrimeTestLab](https://github.com/PrimeTestLab)
+  static const IconData file_database = IconData(
+    0xe81f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -13438,7 +13470,7 @@ abstract final class LucideIcons {
   /// ![git_graph](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iNiIgcj0iMyIgLz4KICA8cGF0aCBkPSJNNSA5djYiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjE4IiByPSIzIiAvPgogIDxwYXRoIGQ9Ik0xMiAzdjE4IiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMyIgLz4KICA8cGF0aCBkPSJNMTYgMTUuN0E5IDkgMCAwIDAgMTkgOSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [git_graph] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, commit graph, commits, gitlens.
+  /// - The [git_graph] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, code, version control, commit graph, commits, gitlens.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -13774,7 +13806,7 @@ abstract final class LucideIcons {
   /// ![graph_hub](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjciIHI9IjQiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjE5IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxOSIgcj0iMiIgLz4KICA8cGF0aCBkPSJNOCA3YTQgNCAwIDAgMC00IDR2NiIgLz4KICA8cGF0aCBkPSJNMTIgMTF2NiIgLz4KICA8cGF0aCBkPSJNMTYgN2E0IDQgMCAwIDEgNCA0djYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [graph_hub] icon is a graphical symbol that conveys a specific idea or functionality related to load balancer, distribute, traffic, network, nodes, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, topology, orchestration.
+  /// - The [graph_hub] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, load balancer, distribute, traffic, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, orchestration.
   /// - It belongs to the categories: connectivity, development
   ///
   /// Acknowledgements:
@@ -13790,7 +13822,7 @@ abstract final class LucideIcons {
   /// ![graph_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuMzQyIDkuMzE2IDEuNzY0LTMuNTI3IiAvPgogIDxwYXRoIGQ9Im0xMi41OSAxNC41NDUgMi4zNSAzLjc1OSIgLz4KICA8cGF0aCBkPSJtMTMuOTgyIDEyLjMzMiA0LjAzLjQ0NyIgLz4KICA8cGF0aCBkPSJNNS40MTQgMTcuNTg2IDguODggMTQuMTIiIC8+CiAgPHBhdGggZD0iTTkuMDI1IDkuNzQyIDUuMzE3IDUuNTA1IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTIiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTUiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxMyIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [graph_star] icon is a graphical symbol that conveys a specific idea or functionality related to mind map, network, hub, nodes, links, connections, relationships, dependencies, bonds, structure, topology, cluster, thoughts, ideas, concepts, molecule.
+  /// - The [graph_star] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, mind map, hub, dependencies, bonds, cluster, thoughts, ideas, concepts, molecule.
   /// - It belongs to the categories: development, charts
   ///
   /// Acknowledgements:
@@ -16046,7 +16078,7 @@ abstract final class LucideIcons {
   /// ![layout_panel_top](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMTQiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjE0IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [layout_panel_top] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-top, window, webpage, block, section, grid, template, structure.
+  /// - The [layout_panel_top] icon is a graphical symbol that conveys a specific idea or functionality related to $group:position-top, window, webpage, section, grid, template, structure.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
@@ -18041,6 +18073,118 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [margin] icon from the Lucide icon set.
+  ///
+  /// ![margin](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0yMSA2djEyIiAvPgogIDxwYXRoIGQ9Ik0zIDZ2MTIiIC8+CiAgPHBhdGggZD0iTTYgMjFoMTIiIC8+CiAgPHBhdGggZD0iTTYgM2gxMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [margin] icon is a graphical symbol that conveys a specific idea or functionality related to margin, design, style, padding, spacing, gap, outer spacing, box model, whitespace, space, offset, alignment, position, layout, css, ui.
+  /// - It belongs to the categories: layout, design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/irvineacosta](https://github.com/irvineacosta)
+  static const IconData margin = IconData(
+    0xe826,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_bottom] icon from the Lucide icon set.
+  ///
+  /// ![margin_bottom](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0zIDIxaDE4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [margin_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-bottom.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_bottom = IconData(
+    0xe820,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![margin_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0yMSAzdjE4IiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [margin_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-left, $group:position-right.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_horizontal = IconData(
+    0xe821,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_left] icon from the Lucide icon set.
+  ///
+  /// ![margin_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0zIDN2MTgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [margin_left] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-left, indent.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_left = IconData(
+    0xe822,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_right] icon from the Lucide icon set.
+  ///
+  /// ![margin_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0yMSAzdjE4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [margin_right] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-right.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_right = IconData(
+    0xe823,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_top] icon from the Lucide icon set.
+  ///
+  /// ![margin_top](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0zIDNoMTgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [margin_top] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-top.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_top = IconData(
+    0xe824,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [margin_vertical] icon from the Lucide icon set.
+  ///
+  /// ![margin_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0zIDIxaDE4IiAvPgogIDxwYXRoIGQ9Ik0zIDNoMTgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [margin_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:margin, $group:position-top, $group:position-bottom.
+  /// - It belongs to the categories: $extends:margin
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:margin](https://github.com/$extends:margin)
+  static const IconData margin_vertical = IconData(
+    0xe825,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [mars] icon from the Lucide icon set.
   ///
   /// ![mars](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgM2g1djUiIC8+CiAgPHBhdGggZD0ibTIxIDMtNi43NSA2Ljc1IiAvPgogIDxjaXJjbGUgY3g9IjEwIiBjeT0iMTQiIHI9IjYiIC8+Cjwvc3ZnPgo=)
@@ -19049,6 +19193,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [monitor_activity] icon from the Lucide icon set.
+  ///
+  /// ![monitor_activity](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTd2NCIgLz4KICA8cGF0aCBkPSJNMTggMTBoLTIuMzE1YTEgMSAwIDAwLS45MzIuNjRsLS43ODcgMi4wMzRhLjUuNSAwIDAxLS45MzIgMGwtMi4wNjgtNS4zNDhhLjUuNSAwIDAwLS45MzIgMGwtLjc4NyAyLjAzNWExIDEgMCAwMS0uOTMyLjYzOUg2IiAvPgogIDxwYXRoIGQ9Ik04IDIxaDgiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [monitor_activity] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:monitor, $extends:activity, heartbeat, health, performance, diagnostics, metrics, telemetry, network, observability, uptime, server, infrastructure, resource usage, system status, real-time, monitoring, dashboard.
+  /// - It belongs to the categories: connectivity, devices
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData monitor_activity = IconData(
+    0xe827,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [monitor_check] icon from the Lucide icon set.
   ///
   /// ![monitor_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOSAxMCAyIDIgNC00IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMiIgeT0iMyIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTEyIDE3djQiIC8+CiAgPHBhdGggZD0iTTggMjFoOCIgLz4KPC9zdmc+Cg==)
@@ -19886,7 +20046,7 @@ abstract final class LucideIcons {
   /// ![network](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+CiAgPHJlY3QgeD0iOSIgeT0iMiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cGF0aCBkPSJNNSAxNnYtM2ExIDEgMCAwIDEgMS0xaDEyYTEgMSAwIDAgMSAxIDF2MyIgLz4KICA8cGF0aCBkPSJNMTIgMTJWOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [network] icon is a graphical symbol that conveys a specific idea or functionality related to tree.
+  /// - The [network] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, tree.
   /// - It belongs to the categories: development, connectivity
   ///
   /// Acknowledgements:
@@ -25902,8 +26062,8 @@ abstract final class LucideIcons {
   /// ![square_chart_gantt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik05IDhoNyIgLz4KICA8cGF0aCBkPSJNOCAxMmg2IiAvPgogIDxwYXRoIGQ9Ik0xMSAxNmg1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_chart_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to projects, manage, overview, roadmap, plan, intentions, timeline, deadline, date, event, range, period, productivity, work, agile, code, coding, toolbar, button.
-  /// - It belongs to the categories: charts, time, development
+  /// - The [square_chart_gantt] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:chart-gantt, intentions, code, coding, toolbar, button.
+  /// - It belongs to the categories: $extends:chart-gantt, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
@@ -26635,7 +26795,7 @@ abstract final class LucideIcons {
 
   /// Represents the [square_letter_p_off] icon from the Lucide icon set.
   ///
-  /// ![square_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy42IDMuNkEyIDIgMCAwIDEgNSAzaDE0YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLS41OSAxLjQxIiAvPgogIDxwYXRoIGQ9Ik0zIDguN1YxOWEyIDIgMCAwIDAgMiAyaDEwLjMiIC8+CiAgPHBhdGggZD0ibTIgMiAyMCAyMCIgLz4KICA8cGF0aCBkPSJNMTMgMTNhMyAzIDAgMSAwIDAtNkg5djIiIC8+CiAgPHBhdGggZD0iTTkgMTd2LTIuMyIgLz4KPC9zdmc+Cg==)
+  /// ![square_letter_p_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJoMWEyIDIgMCAwMDAtNEg5LjVhLjUuNSAwIDAwLS41LjVWOSIgLz4KICA8cGF0aCBkPSJNMTUuMzQzIDIxSDVhMiAyIDAgMDEtMi0yVjguNjU3IiAvPgogIDxwYXRoIGQ9Ik0yMiAyMiAyIDIiIC8+CiAgPHBhdGggZD0iTTMuNTg2IDMuNTg2QTIgMiAwIDAxNSAzaDE0YTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLS41ODYgMS40MTQiIC8+CiAgPHBhdGggZD0iTTkgMTQuNjU3VjE2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [square_letter_p_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-letter-p, $group:off, no parking.
@@ -26885,6 +27045,118 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/october-learns](https://github.com/october-learns)
   static const IconData square_off = IconData(
     0xe728,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding] icon from the Lucide icon set.
+  ///
+  /// ![square_padding](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNCAxN2gtNCIgLz4KICA8cGF0aCBkPSJNMTQgN2gtNCIgLz4KICA8cGF0aCBkPSJNMTcgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTcgMTR2LTQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_padding] icon is a graphical symbol that conveys a specific idea or functionality related to padding, design, style, margin, spacing, gap, inner spacing, box model, whitespace, space, offset, alignment, position, layout, css, ui.
+  /// - It belongs to the categories: layout, design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/irvineacosta](https://github.com/irvineacosta)
+  static const IconData square_padding = IconData(
+    0xe82e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_bottom] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_bottom](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik04IDE3aDgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_padding_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-bottom.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_bottom = IconData(
+    0xe828,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNyAxNlY4IiAvPgogIDxwYXRoIGQ9Ik03IDE2VjgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_padding_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-left, $group:position-right.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_horizontal = IconData(
+    0xe829,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_left] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik03IDE2VjgiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_padding_left] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-left, indent.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_left = IconData(
+    0xe82a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_right] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNyAxNlY4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_padding_right] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-right.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_right = IconData(
+    0xe82b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_top] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_top](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik04IDdoOCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_padding_top] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-top.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_top = IconData(
+    0xe82c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_padding_vertical] icon from the Lucide icon set.
+  ///
+  /// ![square_padding_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik04IDE3aDgiIC8+CiAgPHBhdGggZD0iTTggN2g4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_padding_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-padding, $group:position-top, $group:position-bottom.
+  /// - It belongs to the categories: $extends:square-padding
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-padding](https://github.com/$extends:square-padding)
+  static const IconData square_padding_vertical = IconData(
+    0xe82d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -29502,7 +29774,7 @@ abstract final class LucideIcons {
   /// ![trending_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNnYtNiIgLz4KICA8cGF0aCBkPSJtMjIgMTctOC41LTguNS01IDVMMiA3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [trending_down] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down, statistics.
+  /// - The [trending_down] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, $group:direction-down.
   /// - It belongs to the categories: charts, arrows
   ///
   /// Acknowledgements:
@@ -29518,7 +29790,7 @@ abstract final class LucideIcons {
   /// ![trending_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgN2g2djYiIC8+CiAgPHBhdGggZD0ibTIyIDctOC41IDguNS01LTVMMiAxNyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [trending_up] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, statistics.
+  /// - The [trending_up] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, $group:direction-up.
   /// - It belongs to the categories: charts, arrows
   ///
   /// Acknowledgements:
@@ -29534,7 +29806,7 @@ abstract final class LucideIcons {
   /// ![trending_up_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQuODI4IDE0LjgyOCAyMSAyMSIgLz4KICA8cGF0aCBkPSJNMjEgMTZ2NWgtNSIgLz4KICA8cGF0aCBkPSJtMjEgMy05IDktNC00LTYgNiIgLz4KICA8cGF0aCBkPSJNMjEgOFYzaC01IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [trending_up_down] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, $group:direction-down, arrows, estimated, indeterminate, data fluctuation, uncertain, forecast, variable, prediction, dynamic, volatile.
+  /// - The [trending_up_down] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, $group:direction-up, $group:direction-down, arrows, estimated, indeterminate, data fluctuation, uncertain, forecast, variable, prediction, dynamic, volatile.
   /// - It belongs to the categories: $extends:trending-up
   ///
   /// Acknowledgements:
@@ -31246,7 +31518,7 @@ abstract final class LucideIcons {
   /// ![waypoints](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAuNTg2IDUuNDE0LTUuMTcyIDUuMTcyIiAvPgogIDxwYXRoIGQ9Im0xOC41ODYgMTMuNDE0LTUuMTcyIDUuMTcyIiAvPgogIDxwYXRoIGQ9Ik02IDEyaDEyIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMTIiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjEyIiByPSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [waypoints] icon is a graphical symbol that conveys a specific idea or functionality related to indirection, vpn, virtual private network, proxy, connections, bounce, reroute, path, journey, planner, stops, stations, shared, spread, viral.
+  /// - The [waypoints] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, indirection, vpn, virtual private network, proxy, bounce, reroute, path, journey, planner, stops, stations, shared, spread, viral.
   /// - It belongs to the categories: security, navigation, development
   ///
   /// Acknowledgements:
@@ -31646,7 +31918,7 @@ abstract final class LucideIcons {
   /// ![workflow](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik03IDExdjRhMiAyIDAgMCAwIDIgMmg0IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTMiIHk9IjEzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [workflow] icon is a graphical symbol that conveys a specific idea or functionality related to action, continuous integration, ci, automation, devops, network, node, connection.
+  /// - The [workflow] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, action, continuous integration, ci, automation, devops, node, connection.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
