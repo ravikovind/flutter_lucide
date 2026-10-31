@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **1998** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2015** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -185,8 +185,8 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bell-ring` | $extends:bell | notifications |
 | `between-horizontal-end` | $group:position-right, insert, add, left, slot, squeeze, space, vertical, grid, table, rows, cells, excel, spreadsheet, accountancy, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
 | `between-horizontal-start` | $group:position-left, insert, add, right, slot, squeeze, space, vertical, grid, table, rows, cells, excel, spreadsheet, accountancy, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
-| `between-vertical-end` | $group:position-bottom, insert, add, top, slot, squeeze, space, vertical, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
-| `between-vertical-start` | $group:position-top, insert, add, bottom, slot, squeeze, space, vertical, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
+| `between-vertical-end` | $group:position-bottom, insert, add, top, slot, squeeze, space, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
+| `between-vertical-start` | $group:position-top, insert, add, bottom, slot, squeeze, space, grid, table, columns, cells, data, enter, entry, entries, blocks, rectangles, chevron | layout, design |
 | `biceps-flexed` | arm, muscle, strong, working out, athletic, toned, muscular, forelimb, curled | emoji, sports |
 | `bike` | bicycle, transport, trip | transportation |
 | `binary` | $group:digit, code, digits, computer, zero, one, boolean | text, development |
@@ -247,7 +247,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bow-arrow` | archer, archery, game, war, weapon | gaming, sports |
 | `box` | cube, package, container, storage, geometry, 3d, isometric | shapes, gaming, development, math |
 | `boxes` | cubes, packages, parts, group, units, collection, cluster, geometry | shapes, gaming, development |
-| `boxes-linked` | cubes, package, module, dependencies, link, chain, blockchain, network, nodes, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development |
+| `boxes-linked` | $group:graph, cubes, package, module, dependencies, link, chain, blockchain, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development |
 | `braces` | json, code, token, curly brackets, curly braces, data, {, } | development, files |
 | `brackets` | code, token, array, list, square, [, ] | development, files |
 | `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing | medical, science |
@@ -339,31 +339,32 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cctv` | camera, surveillance, recording, film, videotape, crime, watching | security, devices, photography |
 | `cctv-off` | $extends:cctv, $group:off | $extends:cctv |
 | `certificate` | award, ribbon, medal, achievement, pinned, badge, recognition, laurel, commendation, diploma, official, proof, fact, verified, license, warrant, authorization, legal, ownership, credential, ssl, tls, security, trust, cybersecurity, authority, graduation, study | security, files |
-| `chart-area` | statistics, analytics, diagram, graph, area | charts |
-| `chart-bar` | statistics, analytics, diagram, graph | charts |
+| `chart-area` | $group:chart | charts |
+| `chart-bar` | $group:chart, categorical, comparison | charts |
 | `chart-bar-big` | $extends:chart-bar | $extends:chart-bar |
 | `chart-bar-decreasing` | $extends:chart-bar, trending down | $extends:chart-bar |
 | `chart-bar-increasing` | $extends:chart-bar, trending up | $extends:chart-bar |
-| `chart-bar-stacked` | $extends:chart-bar, multivariate, categorical, comparison | $extends:chart-bar |
-| `chart-candlestick` | trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, stocks, exchange, hedge fund, statistics, analytics, diagram, graph | charts, finance |
-| `chart-column` | statistics, analytics, diagram, graph | charts |
+| `chart-bar-stacked` | $extends:chart-bar, multivariate | $extends:chart-bar |
+| `chart-bell-curve` | $group:chart, distribution, normal distribution, gaussian, probability, frequency, density, symmetric, standard deviation | charts, math |
+| `chart-candlestick` | $group:chart, trading, trader, financial, markets, portfolio, assets, prices, value, valuation, commodities, currencies, currency, stocks, exchange, hedge fund | charts, finance |
+| `chart-column` | $group:chart, categorical, comparison | charts |
 | `chart-column-big` | $extends:chart-column | $extends:chart-column |
 | `chart-column-decreasing` | $extends:chart-column, trending down | $extends:chart-column |
 | `chart-column-increasing` | $extends:chart-column, trending up | $extends:chart-column |
-| `chart-column-stacked` | $extends:chart-column, multivariate, categorical, comparison | $extends:chart-column |
-| `chart-gantt` | diagram, graph, timeline, planning | charts, time |
-| `chart-line` | statistics, analytics, diagram, graph, presentation | charts |
-| `chart-network` | statistics, analytics, diagram, graph, topology, cluster, web, nodes, connections, edges | charts |
-| `chart-no-axes-column` | statistics, analytics, diagram, graph | charts |
+| `chart-column-stacked` | $extends:chart-column, multivariate | $extends:chart-column |
+| `chart-gantt` | $group:chart, timeline, planning, projects, manage, overview, roadmap, plan, deadline, date, event, range, period, productivity, work, agile | charts, time |
+| `chart-line` | $group:chart | charts |
+| `chart-network` | $group:chart, $group:graph, cluster, web | charts |
+| `chart-no-axes-column` | $extends:chart-column | $extends:chart-column |
 | `chart-no-axes-column-decreasing` | $extends:chart-no-axes-column, trending down | $extends:chart-no-axes-column |
 | `chart-no-axes-column-increasing` | $extends:chart-no-axes-column, trending up | $extends:chart-no-axes-column |
-| `chart-no-axes-combined` | statistics, analytics, diagram, graph, trending up | charts |
-| `chart-no-axes-gantt` | projects, manage, overview, roadmap, plan, intentions, timeline, deadline, date, event, range, period, productivity, work, agile, code, coding | charts, time, development |
-| `chart-pie` | statistics, analytics, diagram, presentation | charts |
-| `chart-quadrant` | quadrant, chart, diagram, statistics, analytics, graph, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering | charts, science, math |
-| `chart-radar` | radar, chart, diagram, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, analytics, visualization, attributes | charts, shapes, science |
-| `chart-scatter` | statistics, analytics, diagram, graph | charts |
-| `chart-spline` | statistics, analytics, diagram, graph, curve, continuous, smooth, polynomial, quadratic, function, interpolation | charts |
+| `chart-no-axes-combined` | $group:chart, trending up | charts |
+| `chart-no-axes-gantt` | $extends:chart-gantt, intentions, code, coding | $extends:chart-gantt, development |
+| `chart-pie` | $group:chart | charts |
+| `chart-quadrant` | $group:chart, quadrant, chart, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering | charts, science, math |
+| `chart-radar` | $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, attributes | charts, shapes, science |
+| `chart-scatter` | $group:chart | charts |
+| `chart-spline` | $group:chart, curve, continuous, smooth, polynomial, quadratic, function, interpolation | charts |
 | `check` | $group:check | notifications |
 | `check-check` | $extends:check, received, double | $extends:check |
 | `check-line` | $extends:check | $extends:check |
@@ -592,16 +593,16 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `currency` | finance, money | finance |
 | `cylinder` | shape, elliptical, geometry, container, storage, tin, pot | shapes, design, math |
 | `dam` | electricity, energy, water | buildings, sustainability, navigation |
-| `database` | storage, memory, container, tin, pot, bytes, servers | devices, development |
-| `database-arrow-down` | $extends:database, $group:direction-down, server, export, download, backup, pull, downsize | $extends:database |
-| `database-arrow-up` | $extends:database, $group:direction-up, server, import, upload, backup, push, upscale | $extends:database |
-| `database-backup` | $extends:database, backup, time machine, rotate, arrow, left | $extends:database |
-| `database-check` | $extends:database, $group:check, server | $extends:database |
+| `database` | storage, memory, container, tin, pot, bytes, servers, sql, db, query, sqlite, mysql, backup, export, import, dump, restore, migration, schema, records, tables, snapshot, archive, server, attachment, artifact, log, relational, dataset, dbms, structured data, data source, data | devices, development |
+| `database-arrow-down` | $extends:database, $group:direction-down, download, pull, downsize | $extends:database |
+| `database-arrow-up` | $extends:database, $group:direction-up, upload, push, upscale | $extends:database |
+| `database-backup` | $extends:database, time machine, rotate, arrow, left | $extends:database |
+| `database-check` | $extends:database, $group:check | $extends:database |
 | `database-cog` | db, settings, configuration, preferences, gear, admin, sql, storage, server, maintenance, schema, query, relational | development |
-| `database-minus` | $extends:database, $group:minus, server | $extends:database |
-| `database-plus` | $extends:database, $group:plus, server, expand | $extends:database |
+| `database-minus` | $extends:database, $group:minus | $extends:database |
+| `database-plus` | $extends:database, $group:plus, expand | $extends:database |
 | `database-search` | $extends:database, $group:search | $extends:database |
-| `database-x` | $extends:database, $group:x, server, error, failed, invalid, rejected, denied, disconnect | $extends:database |
+| `database-x` | $extends:database, $group:x, error, failed, invalid, rejected, denied, disconnect | $extends:database |
 | `database-zap` | $extends:database, $extends:zap, cache busting, crash | $extends:database |
 | `decimals-arrow-left` | $group:digit, $group:direction-left, decimal, decrease, less, fewer, precision, rounding, digits, fraction, float | design, text, arrows, math |
 | `decimals-arrow-right` | $group:digit, $group:direction-right, decimal, increase, more, precision, rounding, digits, fraction, float | design, text, arrows, math |
@@ -703,16 +704,17 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `file-box` | $extends:file, page, sheet, cube, box, 3d, model, asset, object, geometry, mesh, ar, augmented reality, cad, design, blueprint, draft, package, scene | $extends:file, design, development |
 | `file-braces` | $extends:file, $extends:braces | $extends:file, development |
 | `file-braces-corner` | $extends:file-braces | $extends:file-braces |
-| `file-chart-column` | $extends:file, statistics, analytics, diagram, graph, presentation | $extends:file, charts |
+| `file-chart-column` | $extends:file, $extends:chart-column | $extends:file, $extends:chart-column |
 | `file-chart-column-increasing` | $extends:file-chart-column, trending up | $extends:file-chart-column |
-| `file-chart-line` | $extends:file, $extends:chart-line | $extends:file, charts |
-| `file-chart-pie` | $extends:file, statistics, analytics, diagram, graph, presentation | $extends:file, charts |
+| `file-chart-line` | $extends:file, $extends:chart-line | $extends:file, $extends:chart-line |
+| `file-chart-pie` | $extends:file, $extends:chart-pie | $extends:file, $extends:chart-pie |
 | `file-check` | $extends:file, $group:check | $extends:file |
 | `file-check-corner` | $extends:file-check | $extends:file-check |
 | `file-clock` | $extends:file, $group:clock, log | $extends:file, time |
 | `file-code` | $extends:file, $group:code, script, gist, html, xml, property list, plist | $extends:file, development |
 | `file-code-corner` | $extends:file-code, $extends:code | $extends:file-code |
 | `file-cog` | $extends:file, $group:cog, executable | $extends:file |
+| `file-database` | $extends:file, $extends:database | $extends:file, development |
 | `file-diff` | $extends:file, diff, patch | $extends:file, development |
 | `file-digit` | $extends:file, $group:digit | $extends:file, development |
 | `file-down` | $extends:file, $extends:download, $group:direction-down, download | $extends:file |
@@ -847,7 +849,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `git-compare` | code, version control, diff | development |
 | `git-compare-arrows` | $extends:git-compare | $extends:git-compare |
 | `git-fork` | code, version control | development |
-| `git-graph` | code, version control, commit graph, commits, gitlens | development |
+| `git-graph` | $group:graph, code, version control, commit graph, commits, gitlens | development |
 | `git-merge` | code, version control | development |
 | `git-merge-conflict` | $extends:git-merge, commits, diff, error, conflict | $extends:git-merge |
 | `git-pull-request` | code, version control, open | development |
@@ -868,8 +870,8 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
 | `grape` | fruit, wine, food | food-beverage |
-| `graph-hub` | load balancer, distribute, traffic, network, nodes, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, topology, orchestration | connectivity, development |
-| `graph-star` | mind map, network, hub, nodes, links, connections, relationships, dependencies, bonds, structure, topology, cluster, thoughts, ideas, concepts, molecule | development, charts |
+| `graph-hub` | $group:graph, load balancer, distribute, traffic, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, orchestration | connectivity, development |
+| `graph-star` | $group:graph, mind map, hub, dependencies, bonds, cluster, thoughts, ideas, concepts, molecule | development, charts |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design |
 | `grid-2x2-check` | $extends:grid-2x2, $group:check, data | text, layout |
 | `grid-2x2-plus` | $extends:grid-2x2, $group:plus, data | text, layout |
@@ -1010,7 +1012,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `layout-grid-circles` | $extends:layout-grid, dot matrix, dots, menu, dashboard, collection, overview, tiles, grid, matrix, launcher, apps, widgets, ui, circles, shortcuts | $extends:layout-grid |
 | `layout-list` | todo, tasks, items, pending, image, photo | design, layout, text |
 | `layout-panel-left` | $group:position-left, app, home, start, grid | design, layout |
-| `layout-panel-top` | $group:position-top, window, webpage, block, section, grid, template, structure | layout |
+| `layout-panel-top` | $group:position-top, window, webpage, section, grid, template, structure | layout |
 | `layout-template` | window, webpage, block, section | layout |
 | `leaf` | sustainability, nature, energy, plant, autumn | nature, sustainability, seasons |
 | `leafy-green` | salad, lettuce, vegetable, chard, cabbage, bok choy | food-beverage, sustainability |
@@ -1135,6 +1137,13 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `map-pin-x-inside` | $extends:map-pin-x | $extends:map-pin-x |
 | `map-pinned` | location, waypoint, marker, drop | navigation, travel |
 | `map-plus` | $extends:map, $group:plus | navigation, travel |
+| `margin` | margin, design, style, padding, spacing, gap, outer spacing, box model, whitespace, space, offset, alignment, position, layout, css, ui | layout, design |
+| `margin-bottom` | $extends:margin, $group:position-bottom | $extends:margin |
+| `margin-horizontal` | $extends:margin, $group:position-left, $group:position-right | $extends:margin |
+| `margin-left` | $extends:margin, $group:position-left, indent | $extends:margin |
+| `margin-right` | $extends:margin, $group:position-right | $extends:margin |
+| `margin-top` | $extends:margin, $group:position-top | $extends:margin |
+| `margin-vertical` | $extends:margin, $group:position-top, $group:position-bottom | $extends:margin |
 | `mars` | gender, sex, male, masculine, man, boy | medical, people |
 | `mars-stroke` | gender, androgyne, transgender | $extends:mars |
 | `martini` | cocktail, alcohol, beverage, bar, drink, glass, spirit, party, celebration, mixer | food-beverage |
@@ -1198,6 +1207,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `mirror-rectangular` | reflection, optics, glass, surface, image, physics, science, bathroom, decor, cosmetic, shiny, periscope, vanity | science, home |
 | `mirror-round` | reflection, optics, glass, surface, image, physics, science, bathroom, vanity, makeup, decor, cosmetic, shiny, periscope | science, home |
 | `monitor` | tv, computer, desktop, screen, display, external display, screen sharing, virtual machine, vm | devices |
+| `monitor-activity` | $extends:monitor, $extends:activity, heartbeat, health, performance, diagnostics, metrics, telemetry, network, observability, uptime, server, infrastructure, resource usage, system status, real-time, monitoring, dashboard | connectivity, devices |
 | `monitor-check` | $extends:monitor, $group:check, connected, running, active | $extends:monitor |
 | `monitor-cloud` | $extends:monitor, virtual desktop, vdi, computing, remote work, monitoring, infrastructure, software as a service, saas, workstation, environment | $extends:monitor, development |
 | `monitor-cog` | $extends:monitor, $group:cog, executable, system, network, computing | $extends:monitor |
@@ -1250,7 +1260,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `navigation-2-off` | $extends:navigation-2, $group:off | $extends:navigation-2 |
 | `navigation-off` | $extends:navigation, $group:off | $extends:navigation |
 | `nepali-rupee` | $group:currency, nepal, rupee, npr | finance |
-| `network` | tree | development, connectivity |
+| `network` | $group:graph, tree | development, connectivity |
 | `newspaper` | news, feed, home, magazine, article, headline | multimedia, communication |
 | `nfc` | contactless, payment, near-field communication | finance, devices, connectivity |
 | `non-binary` | gender, nonbinary, enby | medical, people |
@@ -1626,7 +1636,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-bottom-dashed-scissors` | cut, snippet, chop, stationery, crafts | text, design, tools, files, development |
 | `square-centerline-dashed-horizontal` | reflect, mirror, alignment, dashed | design, photography |
 | `square-centerline-dashed-vertical` | reflect, mirror, alignment, dashed | design, photography |
-| `square-chart-gantt` | projects, manage, overview, roadmap, plan, intentions, timeline, deadline, date, event, range, period, productivity, work, agile, code, coding, toolbar, button | charts, time, development |
+| `square-chart-gantt` | $extends:chart-gantt, intentions, code, coding, toolbar, button | $extends:chart-gantt, development |
 | `square-check` | $group:check | notifications |
 | `square-check-big` | $extends:square-check | $extends:square-check |
 | `square-chevron-down` | $group:direction-down, $group:navigation-next, back, menu, panel | arrows |
@@ -1688,6 +1698,13 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-minus` | $group:minus, decrease, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade | math, development, text |
 | `square-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | cursors, development |
 | `square-off` | $group:off, not, none, stopped, checkbox, unchecked, toggle, negation, form, ui | shapes, design |
+| `square-padding` | padding, design, style, margin, spacing, gap, inner spacing, box model, whitespace, space, offset, alignment, position, layout, css, ui | layout, design |
+| `square-padding-bottom` | $extends:square-padding, $group:position-bottom | $extends:square-padding |
+| `square-padding-horizontal` | $extends:square-padding, $group:position-left, $group:position-right | $extends:square-padding |
+| `square-padding-left` | $extends:square-padding, $group:position-left, indent | $extends:square-padding |
+| `square-padding-right` | $extends:square-padding, $group:position-right | $extends:square-padding |
+| `square-padding-top` | $extends:square-padding, $group:position-top | $extends:square-padding |
+| `square-padding-vertical` | $extends:square-padding, $group:position-top, $group:position-bottom | $extends:square-padding |
 | `square-pause` | $group:pause, music, audio | multimedia |
 | `square-pen` | $group:pen, biro, ink, marker, felt tip, stationery, artist | text |
 | `square-percent` | $group:percent, verified, unverified, sticker | social, finance, shopping, math |
@@ -1851,9 +1868,9 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tree-palm` | vacation, leisure, island | nature, sustainability, travel |
 | `tree-pine` | tree, pine, forest, park, nature | nature, sustainability |
 | `trees` | tree, forest, park, nature | nature, sustainability |
-| `trending-down` | $group:direction-down, statistics | charts, arrows |
-| `trending-up` | $group:direction-up, statistics | charts, arrows |
-| `trending-up-down` | $group:direction-up, $group:direction-down, arrows, estimated, indeterminate, data fluctuation, uncertain, forecast, variable, prediction, dynamic, volatile | $extends:trending-up |
+| `trending-down` | $group:chart, $group:direction-down | charts, arrows |
+| `trending-up` | $group:chart, $group:direction-up | charts, arrows |
+| `trending-up-down` | $group:chart, $group:direction-up, $group:direction-down, arrows, estimated, indeterminate, data fluctuation, uncertain, forecast, variable, prediction, dynamic, volatile | $extends:trending-up |
 | `triangle` | equilateral, delta, shape, pyramid, hierarchy | shapes |
 | `triangle-alert` | $group:exclamation-mark, linter | $extends:triangle, notifications, development |
 | `triangle-dashed` | $extends:triangle, dashed | $extends:triangle |
@@ -1960,7 +1977,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `waves-horizontal` | water, sea, sound, hertz, wavelength, vibrate, ocean, swimming, frequency | weather, navigation, multimedia, sustainability |
 | `waves-ladder` | swimming, water, pool, lifeguard, ocean, 🌊, 🏊‍♂️, 🏊‍♀️, 🏊, 🥽 | sports, home |
 | `waves-vertical` | steam, warmth, temperature, burn, hot, boiling, heat, smoke, vapor, smell, aroma, sauna | weather |
-| `waypoints` | indirection, vpn, virtual private network, proxy, connections, bounce, reroute, path, journey, planner, stops, stations, shared, spread, viral | security, navigation, development |
+| `waypoints` | $group:graph, indirection, vpn, virtual private network, proxy, bounce, reroute, path, journey, planner, stops, stations, shared, spread, viral | security, navigation, development |
 | `webcam` | camera, security | devices, communication |
 | `webcam-off` | $extends:webcam, $group:off | $extends:webcam |
 | `webhook` | push, api, interface, callback | development |
@@ -1985,7 +2002,7 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `wind-arrow-up` | $extends:wind, $group:direction-up, pressure, gust, windy, sort, increase | $extends:wind |
 | `wine` | alcohol, beverage, bar, drink, glass, sommelier, vineyard, winery | food-beverage |
 | `wine-off` | $extends:wine, $group:off, alcohol free, abstinence, abstaining, teetotalism, allergy, intolerance | $extends:wine |
-| `workflow` | action, continuous integration, ci, automation, devops, network, node, connection | development |
+| `workflow` | $group:graph, action, continuous integration, ci, automation, devops, node, connection | development |
 | `worm` | invertebrate, grub, larva, snake, crawl, wiggle, slither, pest control, computer virus, malware | animals, security |
 | `wrench` | account, settings, spanner, diy, toolbox, build, construction | account, development, tools |
 | `wrench-off` | $extends:wrench, $group:off, service, maintenance | $extends:wrench |
@@ -2009,4 +2026,4 @@ All **1998** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 1998 icons*
+*Total: 2015 icons*

@@ -60,7 +60,7 @@ mv flutter_lucide_update.txt ../lib/src/flutter_lucide.dart
 ## Output
 
 The script generates a complete `flutter_lucide.dart` file containing:
-- 1,998+ icon constants
+- 2,015+ icon constants
 - Rich documentation for each icon
 - Proper font family and package references
 - Category and tag information

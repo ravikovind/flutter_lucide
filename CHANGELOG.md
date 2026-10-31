@@ -1,3 +1,15 @@
+# 1.66.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.66.0
+- Total icon count increased from 1,998+ to 2,015+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- chart-bell-curve, file-database, margin, margin-bottom, margin-horizontal, margin-left, margin-right, margin-top, margin-vertical, monitor-activity, square-padding, square-padding-bottom, square-padding-horizontal, square-padding-left, square-padding-right, square-padding-top, square-padding-vertical
+
+---
+
 # 1.65.0
 
 ## Improvements 🚀
