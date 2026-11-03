@@ -5771,10 +5771,10 @@ abstract final class LucideIcons {
 
   /// Represents the [chef_hat] icon from the Lucide icon set.
   ///
-  /// ![chef_hat](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMjFhMSAxIDAgMCAwIDEtMXYtNS4zNWMwLS40NTcuMzE2LS44NDQuNzI3LTEuMDQxYTQgNCAwIDAgMC0yLjEzNC03LjU4OSA1IDUgMCAwIDAtOS4xODYgMCA0IDQgMCAwIDAtMi4xMzQgNy41ODhjLjQxMS4xOTguNzI3LjU4NS43MjcgMS4wNDFWMjBhMSAxIDAgMCAwIDEgMVoiIC8+CiAgPHBhdGggZD0iTTYgMTdoMTIiIC8+Cjwvc3ZnPgo=)
+  /// ![chef_hat](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2NSIgLz4KICA8cGF0aCBkPSJNMTQgMTF2NSIgLz4KICA8cGF0aCBkPSJNNiAxMi42NWMwLS40NTctLjMxNi0uODQ0LS43MjctMS4wNDFBNCA0IDAgMDE3LjUyIDQuMDM0YTEuNTMgMS41MyAwIDAwMS4zNjctLjU0NyA0IDQgMCAwMTYuMjI1IDAgMS41MyAxLjUzIDAgMDAxLjM2Ny41NDcgNCA0IDAgMDEyLjI0OCA3LjU3NWMtLjQxMS4xOTctLjcyNy41ODQtLjcyNyAxLjA0VjE5YTIgMiAwIDAxLTIgMkg4YTIgMiAwIDAxLTItMnoiIC8+CiAgPHBhdGggZD0iTTYgMTZoMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [chef_hat] icon is a graphical symbol that conveys a specific idea or functionality related to cooking, food, kitchen, restaurant.
+  /// - The [chef_hat] icon is a graphical symbol that conveys a specific idea or functionality related to toque blanche, culinary cap, cooking, baking, culinary, gastronomy, food, kitchen, restaurant, cuisine, catering, meal, dining, gourmet, apron, uniform, menu, toque, cook, baker, cookery, headwear, headgear, cap, kitchen staff, culinary professional, food service, hospitality.
   /// - It belongs to the categories: food-beverage
   ///
   /// Acknowledgements:
@@ -6859,7 +6859,7 @@ abstract final class LucideIcons {
 
   /// Represents the [circle_letter_j] icon from the Lucide icon set.
   ///
-  /// ![circle_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDAiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
+  /// ![circle_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgOHY1LjVhMSAxIDAgMDEtNSAwVjEzIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [circle_letter_j] icon is a graphical symbol that conveys a specific idea or functionality related to $group:letter, uppercase, joule, energy, java, javascript, code.
@@ -9605,6 +9605,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData dessert = IconData(
     0xe4bb,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [diagram_flow_horizontal] icon from the Lucide icon set.
+  ///
+  /// ![diagram_flow_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAxMmguNWEzLjUgMy41IDAgMDEzLjUgMy41IDMuNSAzLjUgMCAwMDMuNSAzLjVoLjUiIC8+CiAgPHBhdGggZD0iTTguNSAxMkEzLjUgMy41IDAgMDAxMiA4LjUgMy41IDMuNSAwIDAxMTUuNSA1aC41IiAvPgogIDxyZWN0IHg9IjE2IiB5PSIxNiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIxNiIgeT0iMiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [diagram_flow_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, mind map, visualization, brainstorm, brainstorming, ideas, concepts, planning, hierarchy, branches, organization, tree, workflow, flowchart, process, process mapping, sequence.
+  /// - It belongs to the categories: design, charts
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/linus-sch](https://github.com/linus-sch), [https://github.com/karsa-mistmerea](https://github.com/karsa-mistmerea)
+  static const IconData diagram_flow_horizontal = IconData(
+    0xe82f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [diagram_flow_vertical] icon from the Lucide icon set.
+  ///
+  /// ![diagram_flow_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOC41YTMuNSAzLjUgMCAwMDMuNSAzLjUgMy41IDMuNSAwIDAxMy41IDMuNXYuNSIgLz4KICA8cGF0aCBkPSJNMTIgOHYuNUEzLjUgMy41IDAgMDE4LjUgMTIgMy41IDMuNSAwIDAwNSAxNS41di41IiAvPgogIDxyZWN0IHg9IjE2IiB5PSIxNiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIyIiB5PSIxNiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSI5IiB5PSIyIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [diagram_flow_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, flowchart, workflow, hierarchy, branches, tree, parent, child, process, sequence, decision tree.
+  /// - It belongs to the categories: design, charts, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:diagram-flow-horizontal](https://github.com/$extends:diagram-flow-horizontal)
+  static const IconData diagram_flow_vertical = IconData(
+    0xe830,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -13646,7 +13678,7 @@ abstract final class LucideIcons {
   /// ![globe](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIgLz4KICA8cGF0aCBkPSJNMiAxMmgyMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [globe] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate.
+  /// - The [globe] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network.
   /// - It belongs to the categories: navigation, connectivity
   ///
   /// Acknowledgements:
@@ -13657,12 +13689,28 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [globe_ban] icon from the Lucide icon set.
+  ///
+  /// ![globe_ban](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJhMTQuNDggMTQuNDggMCAwMS00LjAwOC0xMEM3Ljk5MyA5LjEzNiA5IDUuMjU4IDExIDIuMDVBMTAgMTAgMCAwMDEyIDIyIiAvPgogIDxwYXRoIGQ9Im0xNS4xNzIgMy4xNzIgNS42NTYgNS42NTYiIC8+CiAgPHBhdGggZD0iTTE1Ljg2IDE0YTE0LjUgMTQuNSAwIDAxLTMuODU5IDggMTAgMTAgMCAwMDkuOTQ5LTkiIC8+CiAgPHBhdGggZD0iTTIgMTJoMTAuNSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjYiIHI9IjQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [globe_ban] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:off, web, website, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction.
+  /// - It belongs to the categories: $extends:globe, security
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:globe](https://github.com/$extends:globe), [https://github.com/PrimeTestLab](https://github.com/PrimeTestLab)
+  static const IconData globe_ban = IconData(
+    0xe831,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [globe_check] icon from the Lucide icon set.
   ///
   /// ![globe_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgNiAyIDIgNC00IiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDIwQTEwIDEwIDAgMSAxIDEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDQtMTAiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [globe_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:check, internet, web, available, online, status.
+  /// - The [globe_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:check, web, available, online, status.
   /// - It belongs to the categories: $extends:globe
   ///
   /// Acknowledgements:
@@ -13678,7 +13726,7 @@ abstract final class LucideIcons {
   /// ![globe_code](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNSAxMCAxMyA3LjUgMTUuNSA1IiAvPgogIDxwYXRoIGQ9Ik0xNS44NjEgMTRBMTQuNSAxNC41IDAgMDExMiAyMmExNC40OCAxNC40OCAwIDAxMC0yMCAxMCAxMCAwIDEwOS44ODggMTEuNSIgLz4KICA8cGF0aCBkPSJNMTkuNSA1IDIyIDcuNSAxOS41IDEwIiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDguNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [globe_code] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:code, website, internet, globe, connection, network, digital, access, global, link.
+  /// - The [globe_code] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:code, website, digital, access, link.
   /// - It belongs to the categories: $extends:globe, development
   ///
   /// Acknowledgements:
@@ -13694,7 +13742,7 @@ abstract final class LucideIcons {
   /// ![globe_lock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNjg2IDE1QTE0LjUgMTQuNSAwIDAgMSAxMiAyMmExNC41IDE0LjUgMCAwIDEgMC0yMCAxMCAxMCAwIDEgMCA5LjU0MiAxMyIgLz4KICA8cGF0aCBkPSJNMiAxMmg4LjUiIC8+CiAgPHBhdGggZD0iTTIwIDZWNGEyIDIgMCAxIDAtNCAwdjIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNCIgeT0iNiIgcng9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [globe_lock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:lock, vpn, network, encryption, connection.
+  /// - The [globe_lock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:lock, vpn, encryption.
   /// - It belongs to the categories: security, connectivity
   ///
   /// Acknowledgements:
@@ -13710,7 +13758,7 @@ abstract final class LucideIcons {
   /// ![globe_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMTE0IDQuNDYyQTE0LjUgMTQuNSAwIDAgMSAxMiAyYTEwIDEwIDAgMCAxIDkuMzEzIDEzLjY0MyIgLz4KICA8cGF0aCBkPSJNMTUuNTU3IDE1LjU1NkExNC41IDE0LjUgMCAwIDEgMTIgMjIgMTAgMTAgMCAwIDEgNC45MjkgNC45MjkiIC8+CiAgPHBhdGggZD0iTTE1Ljg5MiAxMC4yMzRBMTQuNSAxNC41IDAgMCAwIDEyIDJhMTAgMTAgMCAwIDAtMy42NDMuNjg3IiAvPgogIDxwYXRoIGQ9Ik0xNy42NTYgMTJIMjIiIC8+CiAgPHBhdGggZD0iTTE5LjA3MSAxOS4wNzFBMTAgMTAgMCAwIDEgMTIgMjIgMTQuNSAxNC41IDAgMCAxIDguNDQgOC40NSIgLz4KICA8cGF0aCBkPSJNMiAxMmgxMCIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [globe_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:off, globe, earth, planet, mute, avoid, internet, offline, disconnected, network, connection, no connection, network failure, signal off.
+  /// - The [globe_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:off, mute, avoid, offline, disconnected, no connection, network failure, signal off.
   /// - It belongs to the categories: $extends:globe
   ///
   /// Acknowledgements:
@@ -13721,12 +13769,28 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [globe_plus] icon from the Lucide icon set.
+  ///
+  /// ![globe_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuOTI5IDEwLjU2M0ExNC41IDE0LjUgMCAwMTEyIDIyYTEgMSAwIDAxMC0yMCAxNSAxNSAwIDAxLjY4Ljc2OCIgLz4KICA8cGF0aCBkPSJNMTkgMnY2IiAvPgogIDxwYXRoIGQ9Ik0yMS45MiAxMC43MzRBMTAgMTAgMCAwMTEyIDIyYTE0LjUgMTQuNSAwIDAxMC0yMCAxMCAxMCAwIDAxMS4yNjYuMDgiIC8+CiAgPHBhdGggZD0iTTIyIDEySDIiIC8+CiAgPHBhdGggZD0iTTIyIDVoLTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [globe_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:plus.
+  /// - It belongs to the categories: $extends:globe
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:globe](https://github.com/$extends:globe), [https://github.com/Turboman3000](https://github.com/Turboman3000)
+  static const IconData globe_plus = IconData(
+    0xe832,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [globe_x] icon from the Lucide icon set.
   ///
   /// ![globe_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgMyA1IDUiIC8+CiAgPHBhdGggZD0iTTIgMTJoMjBBMTAgMTAgMCAxIDEgMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgNC0xMCIgLz4KICA8cGF0aCBkPSJtMjEgMy01IDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [globe_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:x, globe, internet, offline, disconnected, network, connection, no connection, network failure, signal off.
+  /// - The [globe_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:x, offline, disconnected, no connection, network failure, signal off.
   /// - It belongs to the categories: $extends:globe
   ///
   /// Acknowledgements:
@@ -26683,7 +26747,7 @@ abstract final class LucideIcons {
 
   /// Represents the [square_letter_j] icon from the Lucide icon set.
   ///
-  /// ![square_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOHY1YTMgMyAwIDEgMS02IDAiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIzIiB5PSIzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
+  /// ![square_letter_j](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgOHY1LjVhMSAxIDAgMDEtNSAwVjEzIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [square_letter_j] icon is a graphical symbol that conveys a specific idea or functionality related to $group:letter, uppercase, joule, energy, java, javascript, code.

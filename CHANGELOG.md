@@ -1,3 +1,15 @@
+# 1.67.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.67.0
+- Total icon count increased from 2,015+ to 2,019+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- diagram-flow-horizontal, diagram-flow-vertical, globe-ban, globe-plus
+
+---
+
 # 1.66.0
 
 ## Improvements 🚀
