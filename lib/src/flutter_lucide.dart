@@ -1865,22 +1865,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [badge_alert] icon from the Lucide icon set.
-  ///
-  /// ![badge_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIiIHkxPSI4IiB5Mj0iMTIiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIuMDEiIHkxPSIxNiIgeTI9IjE2IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [badge_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:exclamation-mark, security, safety, issue.
-  /// - It belongs to the categories: account, social
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData badge_alert = IconData(
-    0xe475,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [badge_cent] icon from the Lucide icon set.
   ///
   /// ![badge_cent](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0iTTEyIDd2MTAiIC8+CiAgPHBhdGggZD0iTTE1LjQgMTBhNCA0IDAgMSAwIDAgNCIgLz4KPC9zdmc+Cg==)
@@ -1941,6 +1925,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData badge_euro = IconData(
     0xe510,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [badge_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![badge_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIiIHkxPSI4IiB5Mj0iMTIiIC8+CiAgPGxpbmUgeDE9IjEyIiB4Mj0iMTIuMDEiIHkxPSIxNiIgeTI9IjE2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [badge_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:exclamation-mark, security, safety, issue.
+  /// - It belongs to the categories: account, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData badge_exclamation_point = IconData(
+    0xe475,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -2425,6 +2425,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [battery_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![battery_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTdoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCA3djYiIC8+CiAgPHBhdGggZD0iTTE0IDZoMmEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNMjIgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTYgMThINGEyIDIgMCAwIDEtMi0yVjhhMiAyIDAgMCAxIDItMmgyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [battery_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:battery, $group:exclamation-mark.
+  /// - It belongs to the categories: $extends:battery
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Kaladii](https://github.com/Kaladii), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData battery_exclamation_point = IconData(
+    0xe3ac,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [battery_full] icon from the Lucide icon set.
   ///
   /// ![battery_full](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTB2NCIgLz4KICA8cGF0aCBkPSJNMTQgMTB2NCIgLz4KICA8cGF0aCBkPSJNMjIgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTYgMTB2NCIgLz4KICA8cmVjdCB4PSIyIiB5PSI2IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
@@ -2485,22 +2501,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/Footagesus](https://github.com/Footagesus)
   static const IconData battery_plus = IconData(
     0xe63e,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [battery_warning] icon from the Lucide icon set.
-  ///
-  /// ![battery_warning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTdoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCA3djYiIC8+CiAgPHBhdGggZD0iTTE0IDZoMmEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNMjIgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTYgMThINGEyIDIgMCAwIDEtMi0yVjhhMiAyIDAgMCAxIDItMmgyIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [battery_warning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:battery, $group:exclamation-mark.
-  /// - It belongs to the categories: $extends:battery
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/Kaladii](https://github.com/Kaladii), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData battery_warning = IconData(
-    0xe3ac,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -3225,22 +3225,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [book_alert] icon from the Lucide icon set.
-  ///
-  /// ![book_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiA2djMiIC8+CiAgPHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [book_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book, $group:exclamation-mark.
-  /// - It belongs to the categories: $extends:book
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/domasmark](https://github.com/domasmark)
-  static const IconData book_alert = IconData(
-    0xe672,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [book_audio] icon from the Lucide icon set.
   ///
   /// ![book_audio](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY3IiAvPgogIDxwYXRoIGQ9Ik0xNiA4djMiIC8+CiAgPHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+CiAgPHBhdGggZD0iTTggOHYzIiAvPgo8L3N2Zz4K)
@@ -3333,6 +3317,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData book_down = IconData(
     0xe3ee,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [book_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![book_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiA2djMiIC8+CiAgPHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [book_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book, $group:exclamation-mark.
+  /// - It belongs to the categories: $extends:book
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/domasmark](https://github.com/domasmark)
+  static const IconData book_exclamation_point = IconData(
+    0xe672,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -6201,22 +6201,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [circle_alert] icon from the Lucide icon set.
-  ///
-  /// ![circle_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjgiIHkyPSIxMiIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMi4wMSIgeTE9IjE2IiB5Mj0iMTYiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [circle_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark.
-  /// - It belongs to the categories: notifications
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
-  static const IconData circle_alert = IconData(
-    0xe077,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [circle_arrow_down] icon from the Lucide icon set.
   ///
   /// ![circle_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNMTIgOHY4IiAvPgogIDxwYXRoIGQ9Im04IDEyIDQgNCA0LTQiIC8+Cjwvc3ZnPgo=)
@@ -6645,6 +6629,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/Guido3000](https://github.com/Guido3000)
   static const IconData circle_euro = IconData(
     0xe71f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![circle_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMiIgeTE9IjgiIHkyPSIxMiIgLz4KICA8bGluZSB4MT0iMTIiIHgyPSIxMi4wMSIgeTE9IjE2IiB5Mj0iMTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark.
+  /// - It belongs to the categories: notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData circle_exclamation_point = IconData(
+    0xe077,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -7929,22 +7929,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [clock_alert] icon from the Lucide icon set.
-  ///
-  /// ![clock_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDQgMiIgLz4KICA8cGF0aCBkPSJNMjAgMTJ2NSIgLz4KICA8cGF0aCBkPSJNMjAgMjFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0yMS4yNSA4LjJBMTAgMTAgMCAxIDAgMTYgMjEuMTYiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [clock_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:exclamation-mark, wrong.
-  /// - It belongs to the categories: $extends:clock
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
-  static const IconData clock_alert = IconData(
-    0xe62a,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [clock_arrow_down] icon from the Lucide icon set.
   ///
   /// ![clock_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIgMSIgLz4KICA8cGF0aCBkPSJNMTIuMzM3IDIxLjk5NGExMCAxMCAwIDEgMSA5LjU4OC04Ljc2NyIgLz4KICA8cGF0aCBkPSJtMTQgMTggNCA0IDQtNCIgLz4KICA8cGF0aCBkPSJNMTggMTR2OCIgLz4KPC9zdmc+Cg==)
@@ -8025,6 +8009,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [clock_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![clock_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDQgMiIgLz4KICA8cGF0aCBkPSJNMjAgMTJ2NSIgLz4KICA8cGF0aCBkPSJNMjAgMjFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0yMS4yNSA4LjJBMTAgMTAgMCAxIDAgMTYgMjEuMTYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [clock_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:exclamation-mark, wrong.
+  /// - It belongs to the categories: $extends:clock
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData clock_exclamation_point = IconData(
+    0xe62a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [clock_fading] icon from the Lucide icon set.
   ///
   /// ![clock_fading](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMmExMCAxMCAwIDAgMSA3LjM4IDE2Ljc1IiAvPgogIDxwYXRoIGQ9Ik0xMiA2djZsNCAyIiAvPgogIDxwYXRoIGQ9Ik0yLjUgOC44NzVhMTAgMTAgMCAwIDAtLjUgMyIgLz4KICA8cGF0aCBkPSJNMi44MyAxNmExMCAxMCAwIDAgMCAyLjQzIDMuNCIgLz4KICA8cGF0aCBkPSJNNC42MzYgNS4yMzVhMTAgMTAgMCAwIDEgLjg5MS0uODU3IiAvPgogIDxwYXRoIGQ9Ik04LjY0NCAyMS40MmExMCAxMCAwIDAgMCA3LjYzMS0uMzgiIC8+Cjwvc3ZnPgo=)
@@ -8085,22 +8085,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData cloud = IconData(
     0xe088,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [cloud_alert] icon from the Lucide icon set.
-  ///
-  /// ![cloud_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2NCIgLz4KICA8cGF0aCBkPSJNMTIgMjBoLjAxIiAvPgogIDxwYXRoIGQ9Ik04LjEyOCAxNi45NDlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWExIDEgMCAwIDEgMCA5aC0xLjY0MiIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [cloud_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:cloud, $group:exclamation-mark, sync, network.
-  /// - It belongs to the categories: development, notifications, weather
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData cloud_alert = IconData(
-    0xe633,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -8181,6 +8165,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData cloud_drizzle = IconData(
     0xe08a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [cloud_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![cloud_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2NCIgLz4KICA8cGF0aCBkPSJNMTIgMjBoLjAxIiAvPgogIDxwYXRoIGQ9Ik04LjEyOCAxNi45NDlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWExIDEgMCAwIDEgMCA5aC0xLjY0MiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [cloud_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:cloud, $group:exclamation-mark, sync, network.
+  /// - It belongs to the categories: development, notifications, weather
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/lscheibel](https://github.com/lscheibel), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData cloud_exclamation_point = IconData(
+    0xe633,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -17705,6 +17705,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [mail_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![mail_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTAuNVY2YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjEyYzAgMS4xLjkgMiAyIDJoMTIuNSIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIgLz4KICA8cGF0aCBkPSJNMjAgMTR2NCIgLz4KICA8cGF0aCBkPSJNMjAgMjJ2LjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [mail_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:exclamation-mark, delivery error.
+  /// - It belongs to the categories: mail, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData mail_exclamation_point = IconData(
+    0xe367,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [mail_minus] icon from the Lucide icon set.
   ///
   /// ![mail_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTVWNmEyIDIgMCAwIDAtMi0ySDRhMiAyIDAgMCAwLTIgMnYxMmMwIDEuMS45IDIgMiAyaDgiIC8+CiAgPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+Cjwvc3ZnPgo=)
@@ -17801,22 +17817,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [mail_warning] icon from the Lucide icon set.
-  ///
-  /// ![mail_warning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTAuNVY2YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjEyYzAgMS4xLjkgMiAyIDJoMTIuNSIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIgLz4KICA8cGF0aCBkPSJNMjAgMTR2NCIgLz4KICA8cGF0aCBkPSJNMjAgMjJ2LjAxIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [mail_warning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:exclamation-mark, delivery error.
-  /// - It belongs to the categories: mail, notifications
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData mail_warning = IconData(
-    0xe367,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [mail_x] icon from the Lucide icon set.
   ///
   /// ![mail_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTIuNTMyVjZhMiAyIDAgMCAwLTItMkg0YTIgMiAwIDAgMC0yIDJ2MTJhMiAyIDAgMCAwIDIgMmg4Ljc5MiIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk5MSA1LjcyN2EyIDIgMCAwIDEtMi4wMDkgMEwyIDciIC8+CiAgPHBhdGggZD0ibTE2LjUgMTYuNSA1IDUiIC8+CiAgPHBhdGggZD0ibTIxLjUgMTYuNS01IDUiIC8+Cjwvc3ZnPgo=)
@@ -17861,6 +17861,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData mails = IconData(
     0xe369,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [mango] icon from the Lucide icon set.
+  ///
+  /// ![mango](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTcgNiAzLTMiIC8+CiAgPHBhdGggZD0iTTcgMjJhNCA0IDAgMDEtMi42Mi03LjAyM0EyIDIgMCAwMDUgMTMuMzgzVjEwYTggOCAwIDExMTYgMEExMiAxMiAwIDAxOSAyMnoiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [mango] icon is a graphical symbol that conveys a specific idea or functionality related to fruit, food, tropical, summer, exotic, healthy, ripe, yellow, juice, smoothie, snack, produce.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Prsenapati09](https://github.com/Prsenapati09), [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData mango = IconData(
+    0xe833,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18505,6 +18521,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [message_circle_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![message_circle_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [message_circle_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, $group:exclamation-mark, report, abuse, offense, protected.
+  /// - It belongs to the categories: $extends:message-circle, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData message_circle_exclamation_point = IconData(
+    0xe56a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [message_circle_heart] icon from the Lucide icon set.
   ///
   /// ![message_circle_heart](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTcuODI4IDEzLjA3QTMgMyAwIDAgMSAxMiA4Ljc2NGEzIDMgMCAwIDEgNS4wMDQgMi4yMjQgMyAzIDAgMCAxLS44MzIgMi4wODNsLTMuNDQ3IDMuNjJhMSAxIDAgMCAxLTEuNDUtLjAwMXoiIC8+Cjwvc3ZnPgo=)
@@ -18617,22 +18649,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [message_circle_warning] icon from the Lucide icon set.
-  ///
-  /// ![message_circle_warning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [message_circle_warning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, $group:exclamation-mark, report, abuse, offense, protected.
-  /// - It belongs to the categories: $extends:message-circle, notifications
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_circle_warning = IconData(
-    0xe56a,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [message_circle_x] icon from the Lucide icon set.
   ///
   /// ![message_circle_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0ibTE1IDktNiA2IiAvPgogIDxwYXRoIGQ9Im05IDkgNiA2IiAvPgo8L3N2Zz4K)
@@ -18741,6 +18757,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData message_square_dot = IconData(
     0xe56e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [message_square_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![message_square_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6IiAvPgogIDxwYXRoIGQ9Ik0xMiAxNWguMDEiIC8+CiAgPHBhdGggZD0iTTEyIDd2NCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [message_square_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, $group:exclamation-mark, report, abuse, offense, protected.
+  /// - It belongs to the categories: $extends:message-square, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData message_square_exclamation_point = IconData(
+    0xe576,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18885,22 +18917,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData message_square_text = IconData(
     0xe575,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [message_square_warning] icon from the Lucide icon set.
-  ///
-  /// ![message_square_warning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6IiAvPgogIDxwYXRoIGQ9Ik0xMiAxNWguMDEiIC8+CiAgPHBhdGggZD0iTTEyIDd2NCIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [message_square_warning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, $group:exclamation-mark, report, abuse, offense, protected.
-  /// - It belongs to the categories: $extends:message-square, notifications
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData message_square_warning = IconData(
-    0xe576,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -20345,17 +20361,17 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [octagon_alert] icon from the Lucide icon set.
+  /// Represents the [octagon_exclamation_point] icon from the Lucide icon set.
   ///
-  /// ![octagon_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djQiIC8+CiAgPHBhdGggZD0iTTE1LjMxMiAyYTIgMiAwIDAgMSAxLjQxNC41ODZsNC42ODggNC42ODhBMiAyIDAgMCAxIDIyIDguNjg4djYuNjI0YTIgMiAwIDAgMS0uNTg2IDEuNDE0bC00LjY4OCA0LjY4OGEyIDIgMCAwIDEtMS40MTQuNTg2SDguNjg4YTIgMiAwIDAgMS0xLjQxNC0uNTg2bC00LjY4OC00LjY4OEEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJ6IiAvPgo8L3N2Zz4K)
+  /// ![octagon_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djQiIC8+CiAgPHBhdGggZD0iTTE1LjMxMiAyYTIgMiAwIDAgMSAxLjQxNC41ODZsNC42ODggNC42ODhBMiAyIDAgMCAxIDIyIDguNjg4djYuNjI0YTIgMiAwIDAgMS0uNTg2IDEuNDE0bC00LjY4OCA0LjY4OGEyIDIgMCAwIDEtMS40MTQuNTg2SDguNjg4YTIgMiAwIDAgMS0xLjQxNC0uNTg2bC00LjY4OC00LjY4OEEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJ6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [octagon_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark.
+  /// - The [octagon_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark.
   /// - It belongs to the categories: $extends:octagon, notifications
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
-  static const IconData octagon_alert = IconData(
+  static const IconData octagon_exclamation_point = IconData(
     0xe127,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
@@ -24121,22 +24137,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [search_alert] icon from the Lucide icon set.
-  ///
-  /// ![search_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4IiAvPgogIDxwYXRoIGQ9Im0yMSAyMS00LjMtNC4zIiAvPgogIDxwYXRoIGQ9Ik0xMSA3djQiIC8+CiAgPHBhdGggZD0iTTExIDE1aC4wMSIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [search_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:search, $group:exclamation-mark, stop, anomaly.
-  /// - It belongs to the categories: $extends:search
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Veatec22](https://github.com/Veatec22)
-  static const IconData search_alert = IconData(
-    0xe6e7,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [search_check] icon from the Lucide icon set.
   ///
   /// ![search_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOCAxMSAyIDIgNC00IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiIC8+CiAgPHBhdGggZD0ibTIxIDIxLTQuMy00LjMiIC8+Cjwvc3ZnPgo=)
@@ -24165,6 +24165,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData search_code = IconData(
     0xe4ab,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [search_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![search_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4IiAvPgogIDxwYXRoIGQ9Im0yMSAyMS00LjMtNC4zIiAvPgogIDxwYXRoIGQ9Ik0xMSA3djQiIC8+CiAgPHBhdGggZD0iTTExIDE1aC4wMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [search_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:search, $group:exclamation-mark, stop, anomaly.
+  /// - It belongs to the categories: $extends:search
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/Veatec22](https://github.com/Veatec22)
+  static const IconData search_exclamation_point = IconData(
+    0xe6e7,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -24537,22 +24553,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [shield_alert] icon from the Lucide icon set.
-  ///
-  /// ![shield_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [shield_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, urgent, alarm, attacked, damaged, injured, hit, expired, disabled, inactive.
-  /// - It belongs to the categories: account, security, development, notifications, gaming
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData shield_alert = IconData(
-    0xe1fe,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [shield_ban] icon from the Lucide icon set.
   ///
   /// ![shield_ban](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0ibTQuMjQzIDUuMjEgMTQuMzkgMTIuNDcyIiAvPgo8L3N2Zz4K)
@@ -24629,6 +24629,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData shield_ellipsis = IconData(
     0xe516,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [shield_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![shield_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [shield_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, urgent, alarm, attacked, damaged, injured, hit, expired, disabled, inactive.
+  /// - It belongs to the categories: account, security, development, notifications, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData shield_exclamation_point = IconData(
+    0xe1fe,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -29897,22 +29913,6 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [triangle_alert] icon from the Lucide icon set.
-  ///
-  /// ![triangle_alert](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjEuNzMgMTgtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTMiIC8+CiAgPHBhdGggZD0iTTEyIDl2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTdoLjAxIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [triangle_alert] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark, linter.
-  /// - It belongs to the categories: $extends:triangle, notifications, development
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
-  static const IconData triangle_alert = IconData(
-    0xe193,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [triangle_dashed] icon from the Lucide icon set.
   ///
   /// ![triangle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMTcgNC4xOTNhMiAyIDAgMCAxIDMuNjY2LjAxMyIgLz4KICA8cGF0aCBkPSJNMTQgMjFoMiIgLz4KICA8cGF0aCBkPSJtMTUuODc0IDcuNzQzIDEgMS43MzIiIC8+CiAgPHBhdGggZD0ibTE4Ljg0OSAxMi45NTIgMSAxLjczMiIgLz4KICA8cGF0aCBkPSJNMjEuODI0IDE4LjE4YTIgMiAwIDAgMS0xLjgzNSAyLjgyNCIgLz4KICA8cGF0aCBkPSJNNC4wMjQgMjFhMiAyIDAgMCAxLTEuODM5LTIuODM5IiAvPgogIDxwYXRoIGQ9Im01LjEzNiAxMi45NTItMSAxLjczMiIgLz4KICA8cGF0aCBkPSJNOCAyMWgyIiAvPgogIDxwYXRoIGQ9Im04LjEwMiA3Ljc0My0xIDEuNzMyIiAvPgo8L3N2Zz4K)
@@ -29925,6 +29925,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/Yohh](https://github.com/Yohh)
   static const IconData triangle_dashed = IconData(
     0xe63d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [triangle_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![triangle_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMjEuNzMgMTgtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTMiIC8+CiAgPHBhdGggZD0iTTEyIDl2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTdoLjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [triangle_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark, linter.
+  /// - It belongs to the categories: $extends:triangle, notifications, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData triangle_exclamation_point = IconData(
+    0xe193,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

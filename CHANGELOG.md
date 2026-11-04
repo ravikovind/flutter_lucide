@@ -1,3 +1,18 @@
+# 1.68.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.68.0
+- Total icon count increased from 2,019+ to 2,020+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- badge-exclamation-point, battery-exclamation-point, book-exclamation-point, circle-exclamation-point, clock-exclamation-point, cloud-exclamation-point, mail-exclamation-point, mango, message-circle-exclamation-point, message-square-exclamation-point, octagon-exclamation-point, search-exclamation-point, shield-exclamation-point, triangle-exclamation-point
+
+## Removed Icons 🗑️
+- badge-alert, battery-warning, book-alert, circle-alert, clock-alert, cloud-alert, mail-warning, message-circle-warning, message-square-warning, octagon-alert, search-alert, shield-alert, triangle-alert
+
+---
+
 # 1.67.0
 
 ## Improvements 🚀
