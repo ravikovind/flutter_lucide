@@ -983,6 +983,12 @@
     "className": "icon-badge-euro",
     "unicode": "&#58640;"
   },
+  "badge-exclamation-point": {
+    "encodedCode": "\\e475",
+    "prefix": "icon",
+    "className": "icon-badge-exclamation-point",
+    "unicode": "&#58485;"
+  },
   "badge-help": {
     "encodedCode": "\\e47b",
     "prefix": "icon",
@@ -1210,6 +1216,12 @@
     "prefix": "icon",
     "className": "icon-battery-charging",
     "unicode": "&#57428;"
+  },
+  "battery-exclamation-point": {
+    "encodedCode": "\\e3ac",
+    "prefix": "icon",
+    "className": "icon-battery-exclamation-point",
+    "unicode": "&#58284;"
   },
   "battery-full": {
     "encodedCode": "\\e055",
@@ -1570,6 +1582,12 @@
     "prefix": "icon",
     "className": "icon-book-down",
     "unicode": "&#58350;"
+  },
+  "book-exclamation-point": {
+    "encodedCode": "\\e672",
+    "prefix": "icon",
+    "className": "icon-book-exclamation-point",
+    "unicode": "&#58994;"
   },
   "book-headphones": {
     "encodedCode": "\\e547",
@@ -2915,6 +2933,12 @@
     "className": "icon-circle-euro",
     "unicode": "&#59167;"
   },
+  "circle-exclamation-point": {
+    "encodedCode": "\\e077",
+    "prefix": "icon",
+    "className": "icon-circle-exclamation-point",
+    "unicode": "&#57463;"
+  },
   "circle-fading-arrow-up": {
     "encodedCode": "\\e618",
     "prefix": "icon",
@@ -3467,6 +3491,12 @@
     "className": "icon-clock-check",
     "unicode": "&#59038;"
   },
+  "clock-exclamation-point": {
+    "encodedCode": "\\e62a",
+    "prefix": "icon",
+    "className": "icon-clock-exclamation-point",
+    "unicode": "&#58922;"
+  },
   "clock-fading": {
     "encodedCode": "\\e64a",
     "prefix": "icon",
@@ -3526,6 +3556,12 @@
     "prefix": "icon",
     "className": "icon-cloud-drizzle",
     "unicode": "&#57482;"
+  },
+  "cloud-exclamation-point": {
+    "encodedCode": "\\e633",
+    "prefix": "icon",
+    "className": "icon-cloud-exclamation-point",
+    "unicode": "&#58931;"
   },
   "cloud-fog": {
     "encodedCode": "\\e214",
@@ -7619,6 +7655,12 @@
     "className": "icon-magnet",
     "unicode": "&#58037;"
   },
+  "mail-alert": {
+    "encodedCode": "\\e367",
+    "prefix": "icon",
+    "className": "icon-mail-alert",
+    "unicode": "&#58215;"
+  },
   "mail-badge": {
     "encodedCode": "\\e734",
     "prefix": "icon",
@@ -7642,6 +7684,12 @@
     "prefix": "icon",
     "className": "icon-mail-dot",
     "unicode": "&#59294;"
+  },
+  "mail-exclamation-point": {
+    "encodedCode": "\\e367",
+    "prefix": "icon",
+    "className": "icon-mail-exclamation-point",
+    "unicode": "&#58215;"
   },
   "mail-minus": {
     "encodedCode": "\\e362",
@@ -7714,6 +7762,12 @@
     "prefix": "icon",
     "className": "icon-mails",
     "unicode": "&#58217;"
+  },
+  "mango": {
+    "encodedCode": "\\e833",
+    "prefix": "icon",
+    "className": "icon-mango",
+    "unicode": "&#59443;"
   },
   "map-minus": {
     "encodedCode": "\\e686",
@@ -7937,6 +7991,12 @@
     "className": "icon-merge",
     "unicode": "&#58431;"
   },
+  "message-circle-alert": {
+    "encodedCode": "\\e56a",
+    "prefix": "icon",
+    "className": "icon-message-circle-alert",
+    "unicode": "&#58730;"
+  },
   "message-circle-check": {
     "encodedCode": "\\e6ba",
     "prefix": "icon",
@@ -7960,6 +8020,12 @@
     "prefix": "icon",
     "className": "icon-message-circle-dashed",
     "unicode": "&#58723;"
+  },
+  "message-circle-exclamation-point": {
+    "encodedCode": "\\e56a",
+    "prefix": "icon",
+    "className": "icon-message-circle-exclamation-point",
+    "unicode": "&#58730;"
   },
   "message-circle-heart": {
     "encodedCode": "\\e564",
@@ -8027,6 +8093,12 @@
     "className": "icon-message-circle",
     "unicode": "&#57622;"
   },
+  "message-square-alert": {
+    "encodedCode": "\\e576",
+    "prefix": "icon",
+    "className": "icon-message-square-alert",
+    "unicode": "&#58742;"
+  },
   "message-square-check": {
     "encodedCode": "\\e6bb",
     "prefix": "icon",
@@ -8056,6 +8128,12 @@
     "prefix": "icon",
     "className": "icon-message-square-dot",
     "unicode": "&#58734;"
+  },
+  "message-square-exclamation-point": {
+    "encodedCode": "\\e576",
+    "prefix": "icon",
+    "className": "icon-message-square-exclamation-point",
+    "unicode": "&#58742;"
   },
   "message-square-heart": {
     "encodedCode": "\\e56f",
@@ -8727,6 +8805,12 @@
     "encodedCode": "\\e127",
     "prefix": "icon",
     "className": "icon-octagon-alert",
+    "unicode": "&#57639;"
+  },
+  "octagon-exclamation-point": {
+    "encodedCode": "\\e127",
+    "prefix": "icon",
+    "className": "icon-octagon-exclamation-point",
     "unicode": "&#57639;"
   },
   "octagon-minus": {
@@ -10385,6 +10469,12 @@
     "className": "icon-search-code",
     "unicode": "&#58539;"
   },
+  "search-exclamation-point": {
+    "encodedCode": "\\e6e7",
+    "prefix": "icon",
+    "className": "icon-search-exclamation-point",
+    "unicode": "&#59111;"
+  },
   "search-slash": {
     "encodedCode": "\\e4ac",
     "prefix": "icon",
@@ -10570,6 +10660,12 @@
     "prefix": "icon",
     "className": "icon-shield-ellipsis",
     "unicode": "&#58646;"
+  },
+  "shield-exclamation-point": {
+    "encodedCode": "\\e1fe",
+    "prefix": "icon",
+    "className": "icon-shield-exclamation-point",
+    "unicode": "&#57854;"
   },
   "shield-half": {
     "encodedCode": "\\e517",
@@ -12724,6 +12820,12 @@
     "prefix": "icon",
     "className": "icon-triangle-dashed",
     "unicode": "&#58941;"
+  },
+  "triangle-exclamation-point": {
+    "encodedCode": "\\e193",
+    "prefix": "icon",
+    "className": "icon-triangle-exclamation-point",
+    "unicode": "&#57747;"
   },
   "triangle-right": {
     "encodedCode": "\\e4ed",
