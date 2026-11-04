@@ -4109,6 +4109,18 @@
     "className": "icon-dessert",
     "unicode": "&#58555;"
   },
+  "diagram-flow-horizontal": {
+    "encodedCode": "\\e82f",
+    "prefix": "icon",
+    "className": "icon-diagram-flow-horizontal",
+    "unicode": "&#59439;"
+  },
+  "diagram-flow-vertical": {
+    "encodedCode": "\\e830",
+    "prefix": "icon",
+    "className": "icon-diagram-flow-vertical",
+    "unicode": "&#59440;"
+  },
   "diameter": {
     "encodedCode": "\\e526",
     "prefix": "icon",
@@ -5945,6 +5957,12 @@
     "className": "icon-globe-2",
     "unicode": "&#57843;"
   },
+  "globe-ban": {
+    "encodedCode": "\\e831",
+    "prefix": "icon",
+    "className": "icon-globe-ban",
+    "unicode": "&#59441;"
+  },
   "globe-check": {
     "encodedCode": "\\e6fc",
     "prefix": "icon",
@@ -5968,6 +5986,12 @@
     "prefix": "icon",
     "className": "icon-globe-off",
     "unicode": "&#59061;"
+  },
+  "globe-plus": {
+    "encodedCode": "\\e832",
+    "prefix": "icon",
+    "className": "icon-globe-plus",
+    "unicode": "&#59442;"
   },
   "globe-x": {
     "encodedCode": "\\e6b6",

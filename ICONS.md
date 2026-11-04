@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2015** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2019** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -368,7 +368,7 @@ All **2015** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `check` | $group:check | notifications |
 | `check-check` | $extends:check, received, double | $extends:check |
 | `check-line` | $extends:check | $extends:check |
-| `chef-hat` | cooking, food, kitchen, restaurant | food-beverage |
+| `chef-hat` | toque blanche, culinary cap, cooking, baking, culinary, gastronomy, food, kitchen, restaurant, cuisine, catering, meal, dining, gourmet, apron, uniform, menu, toque, cook, baker, cookery, headwear, headgear, cap, kitchen staff, culinary professional, food service, hospitality | food-beverage |
 | `cherry` | fruit, food | food-beverage |
 | `chess-bishop` | mitre, miter, piece, board game, religion | gaming |
 | `chess-king` | ruler, crown, piece, board game, stalemate | gaming |
@@ -608,6 +608,8 @@ All **2015** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `decimals-arrow-right` | $group:digit, $group:direction-right, decimal, increase, more, precision, rounding, digits, fraction, float | design, text, arrows, math |
 | `delete` | backspace, remove | text, arrows |
 | `dessert` | pudding, christmas, xmas, custard, iced bun, icing, fondant, cake, ice cream, gelato, sundae, scoop, dollop, sugar, food, sweet | food-beverage |
+| `diagram-flow-horizontal` | $group:graph, mind map, visualization, brainstorm, brainstorming, ideas, concepts, planning, hierarchy, branches, organization, tree, workflow, flowchart, process, process mapping, sequence | design, charts |
+| `diagram-flow-vertical` | $group:graph, flowchart, workflow, hierarchy, branches, tree, parent, child, process, sequence, decision tree | design, charts, development |
 | `diameter` | shape, circle, geometry, trigonometry, width, height, size, calculate, measure | shapes, math, design, tools |
 | `diamond` | square, rectangle, oblique, rhombus, shape, suit, playing, cards | shapes, gaming |
 | `diamond-minus` | $group:minus, keyframe, decrease, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade | multimedia, design |
@@ -860,12 +862,14 @@ All **2015** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `git-pull-request-draft` | $extends:git-pull-request, draft, dashed | $extends:git-pull-request |
 | `glass-water` | beverage, drink, glass, water | food-beverage |
 | `glasses` | glasses, spectacles | accessibility |
-| `globe` | world, browser, language, translate | navigation, connectivity |
-| `globe-check` | $extends:globe, $group:check, internet, web, available, online, status | $extends:globe |
-| `globe-code` | $extends:globe, $group:code, website, internet, globe, connection, network, digital, access, global, link | $extends:globe, development |
-| `globe-lock` | $extends:globe, $group:lock, vpn, network, encryption, connection | security, connectivity |
-| `globe-off` | $extends:globe, $group:off, globe, earth, planet, mute, avoid, internet, offline, disconnected, network, connection, no connection, network failure, signal off | $extends:globe |
-| `globe-x` | $extends:globe, $group:x, globe, internet, offline, disconnected, network, connection, no connection, network failure, signal off | $extends:globe |
+| `globe` | world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network | navigation, connectivity |
+| `globe-ban` | $extends:globe, $group:off, web, website, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction | $extends:globe, security |
+| `globe-check` | $extends:globe, $group:check, web, available, online, status | $extends:globe |
+| `globe-code` | $extends:globe, $group:code, website, digital, access, link | $extends:globe, development |
+| `globe-lock` | $extends:globe, $group:lock, vpn, encryption | security, connectivity |
+| `globe-off` | $extends:globe, $group:off, mute, avoid, offline, disconnected, no connection, network failure, signal off | $extends:globe |
+| `globe-plus` | $extends:globe, $group:plus | $extends:globe |
+| `globe-x` | $extends:globe, $group:x, offline, disconnected, no connection, network failure, signal off | $extends:globe |
 | `goal` | flag, bullseye | gaming |
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
@@ -2026,4 +2030,4 @@ All **2015** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2015 icons*
+*Total: 2019 icons*
