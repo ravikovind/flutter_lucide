@@ -6665,6 +6665,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_fading_check] icon from the Lucide icon set.
+  ///
+  /// ![circle_fading_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMmExMCAxMCAwIDAxNy4zOCAxNi43NSIgLz4KICA8cGF0aCBkPSJtMTYgOS01LjUgNS41TDggMTIiIC8+CiAgPHBhdGggZD0iTTIuNSA4Ljg3NWExMCAxMCAwIDAwLS41IDMiIC8+CiAgPHBhdGggZD0iTTIuODMgMTZhMTAgMTAgMCAwMDIuNDMgMy40IiAvPgogIDxwYXRoIGQ9Ik00LjYzNiA1LjIzNWExMCAxMCAwIDAxLjg5MS0uODU3IiAvPgogIDxwYXRoIGQ9Ik04LjY0NCAyMS40MmExMCAxMCAwIDAwNy42MzEtLjM4IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_fading_check] icon is a graphical symbol that conveys a specific idea or functionality related to $group:check, pending, progress, processing, verifying, loading.
+  /// - It belongs to the categories: notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/n2duc](https://github.com/n2duc)
+  static const IconData circle_fading_check = IconData(
+    0xe834,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_fading_play] icon from the Lucide icon set.
   ///
   /// ![circle_fading_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMmExMCAxMCAwIDAgMSA3LjM4IDE2Ljc1IiAvPgogIDxwYXRoIGQ9Ik05IDkuMDAzYTEgMSAwIDAgMSAxLjUxNy0uODU5bDQuOTk3IDIuOTk3YTEgMSAwIDAgMSAwIDEuNzE4bC00Ljk5NyAyLjk5N0ExIDEgMCAwIDEgOSAxNC45OTZ6IiAvPgogIDxwYXRoIGQ9Ik0yLjUgOC44NzVhMTAgMTAgMCAwIDAtLjUgMyIgLz4KICA8cGF0aCBkPSJNMi44MyAxNmExMCAxMCAwIDAgMCAyLjQzIDMuNCIgLz4KICA8cGF0aCBkPSJNNC42MzYgNS4yMzVhMTAgMTAgMCAwIDEgLjg5MS0uODU3IiAvPgogIDxwYXRoIGQ9Ik04LjY0NCAyMS40MmExMCAxMCAwIDAgMCA3LjYzMS0uMzgiIC8+Cjwvc3ZnPgo=)
@@ -20441,6 +20457,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [opacity] icon from the Lucide icon set.
+  ///
+  /// ![opacity](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM2guMDEiIC8+CiAgPHBhdGggZD0iTTEyIDloLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNSA2aC4wMSIgLz4KICA8cGF0aCBkPSJNMTggM2guMDEiIC8+CiAgPHBhdGggZD0iTTIxIDZ2MTNhMiAyIDAgMCAxLTIgMkg2IiAvPgogIDxwYXRoIGQ9Ik0zIDEyaC4wMSIgLz4KICA8cGF0aCBkPSJNMyAxOGguMDEiIC8+CiAgPHBhdGggZD0iTTMgNmguMDEiIC8+CiAgPHBhdGggZD0iTTYgMTVoLjAxIiAvPgogIDxwYXRoIGQ9Ik02IDNoLjAxIiAvPgogIDxwYXRoIGQ9Ik02IDloLjAxIiAvPgogIDxwYXRoIGQ9Ik05IDEyaC4wMSIgLz4KICA8cGF0aCBkPSJNOSA2aC4wMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [opacity] icon is a graphical symbol that conveys a specific idea or functionality related to opacity, opaque, transparency, visibility, fade, lens, glass, blur, filter, clear, mask, cover, gradient.
+  /// - It belongs to the categories: design, photography
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ilyavred](https://github.com/ilyavred), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData opacity = IconData(
+    0xe835,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [option] icon from the Lucide icon set.
   ///
   /// ![option](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgM2g3IiAvPgogIDxwYXRoIGQ9Ik0zIDNoNS4yOGExIDEgMCAwIDEgLjk0OC42ODRsNS41NDQgMTYuNjMyYTEgMSAwIDAgMCAuOTQ5LjY4NEgyMSIgLz4KPC9zdmc+Cg==)
@@ -20494,7 +20526,7 @@ abstract final class LucideIcons {
   /// ![package](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjEuNzNhMiAyIDAgMCAwIDIgMGw3LTRBMiAyIDAgMCAwIDIxIDE2VjhhMiAyIDAgMCAwLTEtMS43M2wtNy00YTIgMiAwIDAgMC0yIDBsLTcgNEEyIDIgMCAwIDAgMyA4djhhMiAyIDAgMCAwIDEgMS43M3oiIC8+CiAgPHBhdGggZD0iTTEyIDIyVjEyIiAvPgogIDxwb2x5bGluZSBwb2ludHM9IjMuMjkgNyAxMiAxMiAyMC43MSA3IiAvPgogIDxwYXRoIGQ9Im03LjUgNC4yNyA5IDUuMTUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [package] icon is a graphical symbol that conveys a specific idea or functionality related to box, container, storage, sealed, delivery, undelivered, unopened, packed, archive, zip, module.
+  /// - The [package] icon is a graphical symbol that conveys a specific idea or functionality related to box, container, storage, sealed, delivery, undelivered, unopened, packed, archive, zip, module, shipping, recipient, inventory, logistics, tracking, order, product.
   /// - It belongs to the categories: files, development
   ///
   /// Acknowledgements:
@@ -20569,6 +20601,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [package_pen] icon from the Lucide icon set.
+  ///
+  /// ![package_pen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTQuMzRWMTJsOC43MS01IiAvPgogIDxwYXRoIGQ9Ik0xNi41MTEgMjEuMTQxYTIgMiAwIDAgMCAuODU0LS41MDZsNC4wMTMtNC4wMDlhMSAxIDAgMSAwLTMuMDA0LTMuMDA0bC00LjAxIDQuMDEyYTIgMiAwIDAgMC0uNTA2Ljg1NGwtLjgzNyAyLjg3YS41LjUgMCAwIDAgLjU5OS42MjZ6IiAvPgogIDxwYXRoIGQ9Ik0yMSA5LjExNFY4YTIgMiAwIDAgMC0xLTEuNzNsLTctNGEyIDIgMCAwIDAtMiAwbC03IDRBMiAyIDAgMCAwIDMgOHY4YTIgMiAwIDAgMCAxIDEuNzNsNS4wODcgMi45MDciIC8+CiAgPHBhdGggZD0iTTMuMjkgNyAxMiAxMiIgLz4KICA8cGF0aCBkPSJtNy41IDQuMjcgOSA1LjE1IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [package_pen] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:pen.
+  /// - It belongs to the categories: $extends:package
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:package](https://github.com/$extends:package)
+  static const IconData package_pen = IconData(
+    0xe836,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [package_plus] icon from the Lucide icon set.
   ///
   /// ![package_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJWMTIiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+CiAgPHBhdGggZD0iTTIxIDEwLjUzNVY4YTIgMiAwIDAgMC0xLTEuNzNsLTctNGEyIDIgMCAwIDAtMiAwbC03IDRBMiAyIDAgMCAwIDMgOHY4YTIgMiAwIDAgMCAxIDEuNzI5bDcgNGEyIDIgMCAwIDAgMiAuMDAxbDEuNjc1LS45NTUiIC8+CiAgPHBhdGggZD0iTTMuMjkgNyAxMiAxMmw4LjcxLTUiIC8+CiAgPHBhdGggZD0ibTcuNSA0LjI3IDguOTk3IDUuMTQ4IiAvPgo8L3N2Zz4K)
@@ -20581,6 +20629,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData package_plus = IconData(
     0xe268,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [package_question_mark] icon from the Lucide icon set.
+  ///
+  /// ![package_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJWMTJsOC43MS01IiAvPgogIDxwYXRoIGQ9Ik0xNyAxNS4yN2MuMi0uNC41LS44LjktMWEyLjEgMi4xIDAgMCAxIDIuNi40Yy4zLjQuNS44LjUgMS4zIDAgMS4zLTIgMi0yIDIiIC8+CiAgPHBhdGggZD0iTTE5IDIxLjk5aC4wMSIgLz4KICA8cGF0aCBkPSJNMjEgMTAuMzQyVjhhMiAyIDAgMCAwLTEtMS43M2wtNy00YTIgMiAwIDAgMC0yIDBsLTcgNEEyIDIgMCAwIDAgMyA4djhhMiAyIDAgMCAwIDEgMS43M2w3IDRhMiAyIDAgMCAwIDIgMGwyLjMzLTEuMzMyIiAvPgogIDxwYXRoIGQ9Ik0zLjI5IDcgMTIgMTIiIC8+CiAgPHBhdGggZD0ibTcuNSA0LjI3IDkgNS4xNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [package_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:question-mark, unresolved, placeholder, pending, lost, dependency.
+  /// - It belongs to the categories: $extends:package
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:package](https://github.com/$extends:package)
+  static const IconData package_question_mark = IconData(
+    0xe837,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2020** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2024** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -424,6 +424,7 @@ All **2020** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-euro` | $group:currency, symbol, europe, €, euro, coin | finance |
 | `circle-exclamation-point` | $group:exclamation-mark | notifications |
 | `circle-fading-arrow-up` | $group:direction-up, up, upgrade, improve, circle, button | arrows, development |
+| `circle-fading-check` | $group:check, pending, progress, processing, verifying, loading | notifications |
 | `circle-fading-play` | $group:play, short clips, shorts, reels, stories, video, highlights, social media, content, teaser, clip, short form, vertical video | multimedia, social |
 | `circle-fading-plus` | $group:plus, stories, social media, sharing, content | communication, social |
 | `circle-gauge` | dashboard, dial, meter, speed, pressure, measure, level | transportation, sports, science |
@@ -1285,15 +1286,18 @@ All **2020** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `octagon-pause` | $group:pause, music, audio | $extends:octagon, multimedia |
 | `octagon-x` | $group:x, stop, alert, warning, math | notifications |
 | `omega` | $group:letter, greek, symbol, mathematics, education, physics, engineering, ohms, electrical resistance, angular frequency, dynamical systems, astronomy, constellations, philosophy | letters-digits, math, text, science |
+| `opacity` | opacity, opaque, transparency, visibility, fade, lens, glass, blur, filter, clear, mask, cover, gradient | design, photography |
 | `option` | keyboard, key, mac, alt, button | development |
 | `orbit` | planet, space, physics, satellites, moons | science |
 | `origami` | paper, bird | animals, design |
-| `package` | box, container, storage, sealed, delivery, undelivered, unopened, packed, archive, zip, module | files, development |
+| `package` | box, container, storage, sealed, delivery, undelivered, unopened, packed, archive, zip, module, shipping, recipient, inventory, logistics, tracking, order, product | files, development |
 | `package-2` | $extends:package | $extends:package |
 | `package-check` | $extends:package, $group:check, delivered | $extends:package |
 | `package-minus` | $extends:package, $group:minus | $extends:package |
 | `package-open` | box, container, storage, unpack, unarchive, unzip, opened, delivered | $extends:package |
+| `package-pen` | $extends:package, $group:pen | $extends:package |
 | `package-plus` | $extends:package, $group:plus | $extends:package |
+| `package-question-mark` | $extends:package, $group:question-mark, unresolved, placeholder, pending, lost, dependency | $extends:package |
 | `package-search` | $extends:package, $group:search, product process | $extends:package |
 | `package-x` | $extends:package, $group:x | development, files |
 | `paint-bucket` | fill, paint, bucket, color, colour | design, tools |
@@ -2031,4 +2035,4 @@ All **2020** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2020 icons*
+*Total: 2024 icons*

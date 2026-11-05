@@ -1,3 +1,15 @@
+# 1.69.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.69.0
+- Total icon count increased from 2,020+ to 2,024+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- circle-fading-check, opacity, package-pen, package-question-mark
+
+---
+
 # 1.68.0
 
 ## Improvements 🚀
