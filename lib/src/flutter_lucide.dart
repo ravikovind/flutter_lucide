@@ -14009,6 +14009,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [grid_3x3_off] icon from the Lucide icon set.
+  ///
+  /// ![grid_3x3_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOS4zNDRWMyIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik0yMC40MTQgMjAuNDE0QTIgMiAwIDAxMTkgMjFINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMS41ODYtMS40MTQiIC8+CiAgPHBhdGggZD0iTTIwLjY1NiAxNUgyMSIgLz4KICA8cGF0aCBkPSJNMjEgOWgtNi4zNDQiIC8+CiAgPHBhdGggZD0iTTMgMTVoMTJ2NiIgLz4KICA8cGF0aCBkPSJNMyA5aDZ2MTIiIC8+CiAgPHBhdGggZD0iTTguNjU2IDNIMTlhMiAyIDAgMDEyIDJ2MTAuMzQzIiAvPgogIDxwYXRoIGQ9Ik05IDN2LjM0NCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [grid_3x3_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:grid-3x3, $group:off, guides, snap, canvas, spreadsheet, cells, data table, diagram, overlay.
+  /// - It belongs to the categories: $extends:grid-3x3
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:grid-3x3](https://github.com/$extends:grid-3x3), [https://github.com/gridalchemy](https://github.com/gridalchemy)
+  static const IconData grid_3x3_off = IconData(
+    0xe838,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [grip] icon from the Lucide icon set.
   ///
   /// ![grip](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjEiIC8+CiAgPGNpcmNsZSBjeD0iMTkiIGN5PSI1IiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIC8+CiAgPGNpcmNsZSBjeD0iMTkiIGN5PSIxMiIgcj0iMSIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTIiIHI9IjEiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxOSIgcj0iMSIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjE5IiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjUiIGN5PSIxOSIgcj0iMSIgLz4KPC9zdmc+Cg==)
@@ -19589,6 +19605,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData mop_sparkles = IconData(
     0xe73a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [moped] icon from the Lucide icon set.
+  ///
+  /// ![moped](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTguMTYgMTQuMTItMi45MjctOC40NDdBMSAxIDAgMCAwIDE0LjI4OCA1SDEzIiAvPgogIDxwYXRoIGQ9Ik0xOSAxMGE3IDcgMCAwIDAtNi45MjggNiIgLz4KICA8cGF0aCBkPSJNMiAxMGg1LjVhMyAzIDAgMCAxIDIuNzQ3IDEuNzk1bDEuNjY5IDMuODAzQTEgMSAwIDAgMSAxMS4wMSAxN0g4IiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iMTciIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjE3IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [moped] icon is a graphical symbol that conveys a specific idea or functionality related to scooter, two-wheeler, commute, urban, city, courier, motorbike, moto, motorcycle, transport, vehicle, drive, ride, race, racing, trip, journey, delivery, off-road, dirt bike, trail, enduro.
+  /// - It belongs to the categories: transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData moped = IconData(
+    0xe839,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -26398,7 +26430,7 @@ abstract final class LucideIcons {
   /// ![square_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAzYTIgMiAwIDAgMC0yIDIiIC8+CiAgPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMiIgLz4KICA8cGF0aCBkPSJNMjEgMTlhMiAyIDAgMCAxLTIgMiIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik0xNCAzaDEiIC8+CiAgPHBhdGggZD0iTTE0IDIxaDEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgogIDxwYXRoIGQ9Ik0yMSA5djEiIC8+CiAgPHBhdGggZD0iTTMgMTR2MSIgLz4KICA8cGF0aCBkPSJNMjEgMTR2MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to selection, square, rectangular, marquee, tool, dashed, box.
+  /// - The [square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to selection, square, rectangular, marquee, tool, dashed, box, region, area, region of interest.
   /// - It belongs to the categories: design, cursors
   ///
   /// Acknowledgements:
@@ -26485,6 +26517,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/llaenowyd](https://github.com/llaenowyd), [https://github.com/mishkaio](https://github.com/mishkaio), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/chessurisme](https://github.com/chessurisme), [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/psjdev](https://github.com/psjdev)
   static const IconData square_dashed_plus = IconData(
     0xe783,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_dashed_search] icon from the Lucide icon set.
+  ///
+  /// ![square_dashed_search](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAxMiAyIiAvPgogIDxwYXRoIGQ9Im0yMSAyMS0xLjg3NS0xLjg3NSIgLz4KICA8cGF0aCBkPSJNMjEgOXYxIiAvPgogIDxwYXRoIGQ9Ik0zIDE0djEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgogIDxwYXRoIGQ9Ik01IDIxYTIgMiAwIDAxLTItMiIgLz4KICA8cGF0aCBkPSJNNSAzYTIgMiAwIDAwLTIgMiIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KICA8Y2lyY2xlIGN4PSIxNyIgY3k9IjE3IiByPSIzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_dashed_search] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-dashed, $group:search.
+  /// - It belongs to the categories: $extends:square-dashed
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-dashed](https://github.com/$extends:square-dashed), [https://github.com/domarku](https://github.com/domarku)
+  static const IconData square_dashed_search = IconData(
+    0xe83a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -30553,6 +30601,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [user_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![user_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTVIOWE0IDQgMCAwMC00IDR2MiIgLz4KICA8cGF0aCBkPSJNMTguOTg4IDEzdjQiIC8+CiAgPHBhdGggZD0iTTE4Ljk4OCAyMWguMDEiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSI3IiByPSI0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [user_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user, $group:exclamation-mark, flagged, suspicious, reported, violation, moderation, account issue, review.
+  /// - It belongs to the categories: $extends:user
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:user](https://github.com/$extends:user)
+  static const IconData user_exclamation_point = IconData(
+    0xe83b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [user_group] icon from the Lucide icon set.
   ///
   /// ![user_group](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMjF2LTFhMiAyIDAgMDAtMi0ySDlhMiAyIDAgMDAtMiAydjEiIC8+CiAgPHBhdGggZD0iTTE5IDEwaDFhMiAyIDAgMDEyIDJ2MSIgLz4KICA8cGF0aCBkPSJNNSAxMEg0YTIgMiAwIDAwLTIgMnYxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTEiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjYiIGN5PSI0IiByPSIyIiAvPgo8L3N2Zz4K)
@@ -30709,6 +30773,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/UsamaKhan](https://github.com/UsamaKhan)
   static const IconData user_round_cog = IconData(
     0xe46a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [user_round_exclamation_point] icon from the Lucide icon set.
+  ///
+  /// ![user_round_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuOTkgMTN2NCIgLz4KICA8cGF0aCBkPSJNMTkuOTkgMjFIMjAiIC8+CiAgPHBhdGggZD0iTTQgMjFhOCA4IDAgMDExMS45OS02LjkzNCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [user_round_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user-round, $extends:user-exclamation-point.
+  /// - It belongs to the categories: $extends:user-round
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:user-round](https://github.com/$extends:user-round)
+  static const IconData user_round_exclamation_point = IconData(
+    0xe83c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
