@@ -2945,6 +2945,12 @@
     "className": "icon-circle-fading-arrow-up",
     "unicode": "&#58904;"
   },
+  "circle-fading-check": {
+    "encodedCode": "\\e834",
+    "prefix": "icon",
+    "className": "icon-circle-fading-check",
+    "unicode": "&#59444;"
+  },
   "circle-fading-play": {
     "encodedCode": "\\e7a8",
     "prefix": "icon",
@@ -8843,6 +8849,12 @@
     "className": "icon-omega",
     "unicode": "&#58905;"
   },
+  "opacity": {
+    "encodedCode": "\\e835",
+    "prefix": "icon",
+    "className": "icon-opacity",
+    "unicode": "&#59445;"
+  },
   "option": {
     "encodedCode": "\\e1f8",
     "prefix": "icon",
@@ -8891,11 +8903,23 @@
     "className": "icon-package-open",
     "unicode": "&#58060;"
   },
+  "package-pen": {
+    "encodedCode": "\\e836",
+    "prefix": "icon",
+    "className": "icon-package-pen",
+    "unicode": "&#59446;"
+  },
   "package-plus": {
     "encodedCode": "\\e268",
     "prefix": "icon",
     "className": "icon-package-plus",
     "unicode": "&#57960;"
+  },
+  "package-question-mark": {
+    "encodedCode": "\\e837",
+    "prefix": "icon",
+    "className": "icon-package-question-mark",
+    "unicode": "&#59447;"
   },
   "package-search": {
     "encodedCode": "\\e269",
