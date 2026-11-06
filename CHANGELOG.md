@@ -1,3 +1,15 @@
+# 1.70.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.70.0
+- Total icon count increased from 2,024+ to 2,029+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- grid-3x3-off, moped, square-dashed-search, user-exclamation-point, user-round-exclamation-point
+
+---
+
 # 1.69.0
 
 ## Improvements 🚀

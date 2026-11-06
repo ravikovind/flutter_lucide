@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2024** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2029** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -883,6 +883,7 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `grid-2x2-x` | $extends:grid-2x2, $group:x, data | text, layout |
 | `grid-3x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window | text, layout, design |
 | `grid-3x3` | table, rows, columns | text, layout, design |
+| `grid-3x3-off` | $extends:grid-3x3, $group:off, guides, snap, canvas, spreadsheet, cells, data table, diagram, overlay | $extends:grid-3x3 |
 | `grip` | grab, dots, handle, move, drag | layout |
 | `grip-horizontal` | $extends:grip | $extends:grip |
 | `grip-vertical` | $extends:grip | $extends:grip |
@@ -1232,6 +1233,7 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `moon-star` | $extends:moon, star | $extends:moon |
 | `mop` | cleaning, sweeping, scrubbing, housekeeping, hygiene, sanitation, chores, swab, tidy, floor, janitor, maintenance, wash, wipe, spotless, pristine, disinfect | home, tools |
 | `mop-sparkles` | $extends:mop, $group:sparkles | $extends:mop |
+| `moped` | scooter, two-wheeler, commute, urban, city, courier, motorbike, moto, motorcycle, transport, vehicle, drive, ride, race, racing, trip, journey, delivery, off-road, dirt bike, trail, enduro | transportation |
 | `mosque` | mosque, masjid, islam, muslim, ramadan, eid, prayer, worship, building, minaret, dome, architecture, faith, religion, holy, sacred, landmark, community, spiritual, tourism, map, heritage | buildings, navigation, travel |
 | `motorbike` | moto, motorcycle, transport, vehicle, drive, ride, trip, race, racing, journey, delivery | transportation |
 | `mountain` | climb, hike, rock | nature |
@@ -1657,12 +1659,13 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-chevrons-right` | next, forward, skip, fast forward, last, end, east, music, caret, button, keyboard, menu, panel, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control, double arrow, media controls, toolbar, keyboard shortcut, skip-to-end, end-of-list | arrows, navigation, multimedia |
 | `square-chevrons-up` | top, ascend, page, page up, back to top, scroll, jump, north, caret, button, keyboard, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, mac, control, ctrl, menu, panel, timeline, start, first, return, double arrow, seek, playlist, floating action | arrows, navigation, multimedia, layout |
 | `square-code` | $group:code, gist, source, html, xml | text, development |
-| `square-dashed` | selection, square, rectangular, marquee, tool, dashed, box | design, cursors |
+| `square-dashed` | selection, square, rectangular, marquee, tool, dashed, box, region, area, region of interest | design, cursors |
 | `square-dashed-bottom` | rectangle, aspect ratio, 1:1, shape, snippet, code, coding | development, files |
 | `square-dashed-bottom-code` | $extends:square-dashed-bottom, $group:code | $extends:square-dashed-bottom |
 | `square-dashed-kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding | charts, development |
 | `square-dashed-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | cursors, development |
 | `square-dashed-plus` | $extends:square-dashed, $group:plus, select, placeholder, frame, empty | design, layout |
+| `square-dashed-search` | $extends:square-dashed, $group:search | $extends:square-dashed |
 | `square-dashed-text` | find, search, selection, dashed | text, cursors |
 | `square-dashed-top-solid` | $extends:square-dashed, border, width, layout, style, design, rectangle, aspect ratio, 1:1 | design, development, layout |
 | `square-dashed-x` | $extends:square-dashed, $group:x, deselect, unselect, select, border, width, layout, style, design, rectangle, aspect ratio, 1:1 | design, development, layout |
@@ -1917,6 +1920,7 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user` | $group:user | account |
 | `user-check` | $extends:user, $group:check, followed, subscribed | $extends:user |
 | `user-cog` | $extends:user, $group:cog | $extends:user |
+| `user-exclamation-point` | $extends:user, $group:exclamation-mark, flagged, suspicious, reported, violation, moderation, account issue, review | $extends:user |
 | `user-group` | $extends:user, group, team, community, membership, collaboration, organization, directory, staff, family, ancestry, ancestors, lineage, parents | $extends:user, people, social |
 | `user-key` | $extends:user, $group:key, login, roles, permissions | $extends:user, security |
 | `user-lock` | $extends:user, $group:lock | $extends:user, security |
@@ -1927,6 +1931,7 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-round-arrow-left` | $extends:user-round, $group:direction-left, assign, move, give, setup, self, me, myself, avatar, incoming, recipient, assignee, inbound | $extends:user-round, people |
 | `user-round-check` | $extends:user-round, $group:check, followed, subscribed | $extends:user-round |
 | `user-round-cog` | $extends:user-round, $group:cog | $extends:user-round |
+| `user-round-exclamation-point` | $extends:user-round, $extends:user-exclamation-point | $extends:user-round |
 | `user-round-group` | $extends:user-round, group, team, community, membership, collaboration, organization, directory, staff, family, ancestry, ancestors, lineage, parents | $extends:user-round, people, social |
 | `user-round-key` | $extends:user-round, $group:key, login, roles, permissions | $extends:user-round, security |
 | `user-round-minus` | $extends:user-round, $group:minus, unfollow, unsubscribe | $extends:user-round |
@@ -2035,4 +2040,4 @@ All **2024** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2024 icons*
+*Total: 2029 icons*

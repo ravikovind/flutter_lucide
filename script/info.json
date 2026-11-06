@@ -6149,6 +6149,12 @@
     "className": "icon-grid-3x2",
     "unicode": "&#58991;"
   },
+  "grid-3x3-off": {
+    "encodedCode": "\\e838",
+    "prefix": "icon",
+    "className": "icon-grid-3x3-off",
+    "unicode": "&#59448;"
+  },
   "grid-3x3": {
     "encodedCode": "\\e0e9",
     "prefix": "icon",
@@ -8470,6 +8476,12 @@
     "prefix": "icon",
     "className": "icon-mop",
     "unicode": "&#59195;"
+  },
+  "moped": {
+    "encodedCode": "\\e839",
+    "prefix": "icon",
+    "className": "icon-moped",
+    "unicode": "&#59449;"
   },
   "more-horizontal": {
     "encodedCode": "\\e0b6",
@@ -11429,6 +11441,12 @@
     "className": "icon-square-dashed-plus",
     "unicode": "&#59267;"
   },
+  "square-dashed-search": {
+    "encodedCode": "\\e83a",
+    "prefix": "icon",
+    "className": "icon-square-dashed-search",
+    "unicode": "&#59450;"
+  },
   "square-dashed-text": {
     "encodedCode": "\\e6ea",
     "prefix": "icon",
@@ -13109,6 +13127,12 @@
     "className": "icon-user-cog",
     "unicode": "&#58178;"
   },
+  "user-exclamation-point": {
+    "encodedCode": "\\e83b",
+    "prefix": "icon",
+    "className": "icon-user-exclamation-point",
+    "unicode": "&#59451;"
+  },
   "user-group": {
     "encodedCode": "\\e764",
     "prefix": "icon",
@@ -13174,6 +13198,12 @@
     "prefix": "icon",
     "className": "icon-user-round-cog",
     "unicode": "&#58474;"
+  },
+  "user-round-exclamation-point": {
+    "encodedCode": "\\e83c",
+    "prefix": "icon",
+    "className": "icon-user-round-exclamation-point",
+    "unicode": "&#59452;"
   },
   "user-round-group": {
     "encodedCode": "\\e765",
