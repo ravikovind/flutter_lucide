@@ -2561,6 +2561,12 @@
     "className": "icon-check",
     "unicode": "&#57452;"
   },
+  "cheese": {
+    "encodedCode": "\\e83d",
+    "prefix": "icon",
+    "className": "icon-cheese",
+    "unicode": "&#59453;"
+  },
   "chef-hat": {
     "encodedCode": "\\e2ac",
     "prefix": "icon",
@@ -2771,6 +2777,18 @@
     "className": "icon-circle-alert",
     "unicode": "&#57463;"
   },
+  "circle-arrow-down-left-exit": {
+    "encodedCode": "\\e3f7",
+    "prefix": "icon",
+    "className": "icon-circle-arrow-down-left-exit",
+    "unicode": "&#58359;"
+  },
+  "circle-arrow-down-right-exit": {
+    "encodedCode": "\\e3f8",
+    "prefix": "icon",
+    "className": "icon-circle-arrow-down-right-exit",
+    "unicode": "&#58360;"
+  },
   "circle-arrow-down": {
     "encodedCode": "\\e078",
     "prefix": "icon",
@@ -2812,6 +2830,18 @@
     "prefix": "icon",
     "className": "icon-circle-arrow-right",
     "unicode": "&#57466;"
+  },
+  "circle-arrow-up-left-exit": {
+    "encodedCode": "\\e3f9",
+    "prefix": "icon",
+    "className": "icon-circle-arrow-up-left-exit",
+    "unicode": "&#58361;"
+  },
+  "circle-arrow-up-right-exit": {
+    "encodedCode": "\\e3fa",
+    "prefix": "icon",
+    "className": "icon-circle-arrow-up-right-exit",
+    "unicode": "&#58362;"
   },
   "circle-arrow-up": {
     "encodedCode": "\\e07b",
@@ -6136,6 +6166,18 @@
     "prefix": "icon",
     "className": "icon-grid-2x2",
     "unicode": "&#58623;"
+  },
+  "grid-3-x-2": {
+    "encodedCode": "\\e66f",
+    "prefix": "icon",
+    "className": "icon-grid-3-x-2",
+    "unicode": "&#58991;"
+  },
+  "grid-3-x-3-off": {
+    "encodedCode": "\\e838",
+    "prefix": "icon",
+    "className": "icon-grid-3-x-3-off",
+    "unicode": "&#59448;"
   },
   "grid-3-x-3": {
     "encodedCode": "\\e0e9",
@@ -9719,6 +9761,12 @@
     "className": "icon-presentation",
     "unicode": "&#58542;"
   },
+  "printer-3-d": {
+    "encodedCode": "\\e78f",
+    "prefix": "icon",
+    "className": "icon-printer-3-d",
+    "unicode": "&#59279;"
+  },
   "printer-3d": {
     "encodedCode": "\\e78f",
     "prefix": "icon",
@@ -11225,11 +11273,47 @@
     "className": "icon-square-activity",
     "unicode": "&#58548;"
   },
+  "square-arrow-down-enter": {
+    "encodedCode": "\\e83e",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-enter",
+    "unicode": "&#59454;"
+  },
+  "square-arrow-down-exit": {
+    "encodedCode": "\\e83f",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-exit",
+    "unicode": "&#59455;"
+  },
+  "square-arrow-down-left-enter": {
+    "encodedCode": "\\e840",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-left-enter",
+    "unicode": "&#59456;"
+  },
+  "square-arrow-down-left-exit": {
+    "encodedCode": "\\e5a1",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-left-exit",
+    "unicode": "&#58785;"
+  },
   "square-arrow-down-left": {
     "encodedCode": "\\e4b5",
     "prefix": "icon",
     "className": "icon-square-arrow-down-left",
     "unicode": "&#58549;"
+  },
+  "square-arrow-down-right-enter": {
+    "encodedCode": "\\e841",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-right-enter",
+    "unicode": "&#59457;"
+  },
+  "square-arrow-down-right-exit": {
+    "encodedCode": "\\e5a2",
+    "prefix": "icon",
+    "className": "icon-square-arrow-down-right-exit",
+    "unicode": "&#58786;"
   },
   "square-arrow-down-right": {
     "encodedCode": "\\e4b6",
@@ -11242,6 +11326,18 @@
     "prefix": "icon",
     "className": "icon-square-arrow-down",
     "unicode": "&#58407;"
+  },
+  "square-arrow-left-enter": {
+    "encodedCode": "\\e842",
+    "prefix": "icon",
+    "className": "icon-square-arrow-left-enter",
+    "unicode": "&#59458;"
+  },
+  "square-arrow-left-exit": {
+    "encodedCode": "\\e843",
+    "prefix": "icon",
+    "className": "icon-square-arrow-left-exit",
+    "unicode": "&#59459;"
   },
   "square-arrow-left": {
     "encodedCode": "\\e428",
@@ -11291,11 +11387,47 @@
     "className": "icon-square-arrow-right",
     "unicode": "&#58409;"
   },
+  "square-arrow-up-enter": {
+    "encodedCode": "\\e844",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-enter",
+    "unicode": "&#59460;"
+  },
+  "square-arrow-up-exit": {
+    "encodedCode": "\\e845",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-exit",
+    "unicode": "&#59461;"
+  },
+  "square-arrow-up-left-enter": {
+    "encodedCode": "\\e846",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-left-enter",
+    "unicode": "&#59462;"
+  },
+  "square-arrow-up-left-exit": {
+    "encodedCode": "\\e5a3",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-left-exit",
+    "unicode": "&#58787;"
+  },
   "square-arrow-up-left": {
     "encodedCode": "\\e4b7",
     "prefix": "icon",
     "className": "icon-square-arrow-up-left",
     "unicode": "&#58551;"
+  },
+  "square-arrow-up-right-enter": {
+    "encodedCode": "\\e847",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-right-enter",
+    "unicode": "&#59463;"
+  },
+  "square-arrow-up-right-exit": {
+    "encodedCode": "\\e5a4",
+    "prefix": "icon",
+    "className": "icon-square-arrow-up-right-exit",
+    "unicode": "&#58788;"
   },
   "square-arrow-up-right": {
     "encodedCode": "\\e4b8",
@@ -12136,6 +12268,42 @@
     "prefix": "icon",
     "className": "icon-strikethrough",
     "unicode": "&#57719;"
+  },
+  "stroke-line-cap-butt": {
+    "encodedCode": "\\e848",
+    "prefix": "icon",
+    "className": "icon-stroke-line-cap-butt",
+    "unicode": "&#59464;"
+  },
+  "stroke-line-cap-round": {
+    "encodedCode": "\\e849",
+    "prefix": "icon",
+    "className": "icon-stroke-line-cap-round",
+    "unicode": "&#59465;"
+  },
+  "stroke-line-cap-square": {
+    "encodedCode": "\\e84a",
+    "prefix": "icon",
+    "className": "icon-stroke-line-cap-square",
+    "unicode": "&#59466;"
+  },
+  "stroke-line-join-bevel": {
+    "encodedCode": "\\e84b",
+    "prefix": "icon",
+    "className": "icon-stroke-line-join-bevel",
+    "unicode": "&#59467;"
+  },
+  "stroke-line-join-miter": {
+    "encodedCode": "\\e84c",
+    "prefix": "icon",
+    "className": "icon-stroke-line-join-miter",
+    "unicode": "&#59468;"
+  },
+  "stroke-line-join-round": {
+    "encodedCode": "\\e84d",
+    "prefix": "icon",
+    "className": "icon-stroke-line-join-round",
+    "unicode": "&#59469;"
   },
   "subscript": {
     "encodedCode": "\\e25c",

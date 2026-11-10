@@ -5769,6 +5769,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [cheese] icon from the Lucide icon set.
+  ///
+  /// ![cheese](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTFhMyAzIDAgMDEtNiAwIDUgNSAwIDAxNiAwIiAvPgogIDxwYXRoIGQ9Ik0xNC4yOTIgMi40MzZhMS41NSAxLjU1IDAgMDExLjQ2My0uMDg4bC4yNzguMTNBMTAuMzMgMTAuMzMgMCAwMTIyIDExdjhhMiAyIDAgMDEtMiAyaC0xLjc1YS4yOC4yOCAwIDAxLS4yNjUtLjI1IDIgMiAwIDAwLTMuOTcgMCAuMjguMjggMCAwMS0uMjY1LjI1SDRhMiAyIDAgMDEtMi0ydi0uNzVhLjI4LjI4IDAgMDEuMjUtLjI2NSAyIDIgMCAwMC0uMDQ2LTMuOTc1LjIxLjIxIDAgMDEtLjIwNC0uMjE0di0yLjY3OGEyIDIgMCAwMS45NTItMS43MDNsNi4wNjItMy43MzJhLjMuMyAwIDAxLjI3LS4wMDJBMi41IDIuNSAwIDAwMTMgMy41bC0uMDAyLS4xMDRhLjMuMyAwIDAxLjEyMi0uMjR6IiAvPgogIDxwYXRoIGQ9Ik0yMiAxMWgtOCIgLz4KICA8cGF0aCBkPSJNOCAxMUgyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [cheese] icon is a graphical symbol that conveys a specific idea or functionality related to swiss, holes, fondue, emmental, gouda, edam, cheddar, brie, mozzarella, feta, halloumi, gorgonzola, roquefort, camembert, dairy, snack, dish, restaurant, lunch, meal, savory, savoury, cookery, cooking, grilled.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData cheese = IconData(
+    0xe83d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [chef_hat] icon from the Lucide icon set.
   ///
   /// ![chef_hat](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2NSIgLz4KICA8cGF0aCBkPSJNMTQgMTF2NSIgLz4KICA8cGF0aCBkPSJNNiAxMi42NWMwLS40NTctLjMxNi0uODQ0LS43MjctMS4wNDFBNCA0IDAgMDE3LjUyIDQuMDM0YTEuNTMgMS41MyAwIDAwMS4zNjctLjU0NyA0IDQgMCAwMTYuMjI1IDAgMS41MyAxLjUzIDAgMDAxLjM2Ny41NDcgNCA0IDAgMDEyLjI0OCA3LjU3NWMtLjQxMS4xOTctLjcyNy41ODQtLjcyNyAxLjA0VjE5YTIgMiAwIDAxLTIgMkg4YTIgMiAwIDAxLTItMnoiIC8+CiAgPHBhdGggZD0iTTYgMTZoMTIiIC8+Cjwvc3ZnPgo=)
@@ -6217,6 +6233,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_arrow_down_left_exit] icon from the Lucide icon set.
+  ///
+  /// ![circle_arrow_down_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmExMCAxMCAwIDEgMSAxMCAxMCIgLz4KICA8cGF0aCBkPSJtMiAyMiAxMC0xMCIgLz4KICA8cGF0aCBkPSJNOCAyMkgydi02IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData circle_arrow_down_left_exit = IconData(
+    0xe3f7,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_arrow_down_right_exit] icon from the Lucide icon set.
+  ///
+  /// ![circle_arrow_down_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJhMTAgMTAgMCAxIDEgMTAtMTAiIC8+CiAgPHBhdGggZD0iTTIyIDIyIDEyIDEyIiAvPgogIDxwYXRoIGQ9Ik0yMiAxNnY2aC02IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [circle_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData circle_arrow_down_right_exit = IconData(
+    0xe3f8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_arrow_left] icon from the Lucide icon set.
   ///
   /// ![circle_arrow_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtMTIgOC00IDQgNCA0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxMkg4IiAvPgo8L3N2Zz4K)
@@ -6229,70 +6277,6 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData circle_arrow_left = IconData(
     0xe079,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_arrow_out_down_left] icon from the Lucide icon set.
-  ///
-  /// ![circle_arrow_out_down_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmExMCAxMCAwIDEgMSAxMCAxMCIgLz4KICA8cGF0aCBkPSJtMiAyMiAxMC0xMCIgLz4KICA8cGF0aCBkPSJNOCAyMkgydi02IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [circle_arrow_out_down_left] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
-  /// - It belongs to the categories: arrows
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_down_left = IconData(
-    0xe3f7,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_arrow_out_down_right] icon from the Lucide icon set.
-  ///
-  /// ![circle_arrow_out_down_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJhMTAgMTAgMCAxIDEgMTAtMTAiIC8+CiAgPHBhdGggZD0iTTIyIDIyIDEyIDEyIiAvPgogIDxwYXRoIGQ9Ik0yMiAxNnY2aC02IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [circle_arrow_out_down_right] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
-  /// - It belongs to the categories: arrows
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_down_right = IconData(
-    0xe3f8,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_arrow_out_up_left] icon from the Lucide icon set.
-  ///
-  /// ![circle_arrow_out_up_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA4VjJoNiIgLz4KICA8cGF0aCBkPSJtMiAyIDEwIDEwIiAvPgogIDxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAxIDIgMTIiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [circle_arrow_out_up_left] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards, keyboard, button, escape.
-  /// - It belongs to the categories: arrows
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_up_left = IconData(
-    0xe3f9,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [circle_arrow_out_up_right] icon from the Lucide icon set.
-  ///
-  /// ![circle_arrow_out_up_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTJBMTAgMTAgMCAxIDEgMTIgMiIgLz4KICA8cGF0aCBkPSJNMjIgMiAxMiAxMiIgLz4KICA8cGF0aCBkPSJNMTYgMmg2djYiIC8+Cjwvc3ZnPgo=)
-  ///
-  /// Description:
-  /// - The [circle_arrow_out_up_right] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards.
-  /// - It belongs to the categories: arrows
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData circle_arrow_out_up_right = IconData(
-    0xe3fa,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -6325,6 +6309,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData circle_arrow_up = IconData(
     0xe07b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_arrow_up_left_exit] icon from the Lucide icon set.
+  ///
+  /// ![circle_arrow_up_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA4VjJoNiIgLz4KICA8cGF0aCBkPSJtMiAyIDEwIDEwIiAvPgogIDxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAxIDIgMTIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards, keyboard, button, escape.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData circle_arrow_up_left_exit = IconData(
+    0xe3f9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [circle_arrow_up_right_exit] icon from the Lucide icon set.
+  ///
+  /// ![circle_arrow_up_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTJBMTAgMTAgMCAxIDEgMTIgMiIgLz4KICA8cGF0aCBkPSJNMjIgMiAxMiAxMiIgLz4KICA8cGF0aCBkPSJNMTYgMmg2djYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [circle_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData circle_arrow_up_right_exit = IconData(
+    0xe3fa,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -16942,7 +16958,7 @@ abstract final class LucideIcons {
   /// ![line_squiggle](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNyAzLjVjNS0yIDcgMi41IDMgNEMxLjUgMTAgMiAxNSA1IDE2YzUgMiA5LTEwIDE0LTdzLjUgMTMuNS00IDEyYy01LTIuNS41LTExIDYtMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [line_squiggle] icon is a graphical symbol that conveys a specific idea or functionality related to line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road.
+  /// - The [line_squiggle] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, snakes, annotate, doodle, pen, tool, gesture, draw, wave, art, road.
   /// - It belongs to the categories: shapes, math, design
   ///
   /// Acknowledgements:
@@ -16958,7 +16974,7 @@ abstract final class LucideIcons {
   /// ![line_style](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgNWgyIiAvPgogIDxwYXRoIGQ9Ik0xNSAxMmg2IiAvPgogIDxwYXRoIGQ9Ik0xOSA1aDIiIC8+CiAgPHBhdGggZD0iTTMgMTJoNiIgLz4KICA8cGF0aCBkPSJNMyAxOWgxOCIgLz4KICA8cGF0aCBkPSJNMyA1aDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [line_style] icon is a graphical symbol that conveys a specific idea or functionality related to line, stroke, style, dashed, border.
+  /// - The [line_style] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, style, dashed, border.
   /// - It belongs to the categories: design
   ///
   /// Acknowledgements:
@@ -25774,7 +25790,7 @@ abstract final class LucideIcons {
   /// ![spline](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjUiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjE5IiByPSIyIiAvPgogIDxwYXRoIGQ9Ik01IDE3QTEyIDEyIDAgMCAxIDE3IDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [spline] icon is a graphical symbol that conveys a specific idea or functionality related to path, pen, tool, shape, curve, draw.
+  /// - The [spline] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, pen, tool, draw.
   /// - It belongs to the categories: design
   ///
   /// Acknowledgements:
@@ -25790,7 +25806,7 @@ abstract final class LucideIcons {
   /// ![spline_pointer](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuMDM0IDEyLjY4MWEuNDk4LjQ5OCAwIDAgMSAuNjQ3LS42NDdsOSAzLjVhLjUuNSAwIDAgMS0uMDMzLjk0M2wtMy40NDQgMS4wNjhhMSAxIDAgMCAwLS42Ni42NmwtMS4wNjcgMy40NDNhLjUuNSAwIDAgMS0uOTQzLjAzM3oiIC8+CiAgPHBhdGggZD0iTTUgMTdBMTIgMTIgMCAwIDEgMTcgNSIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjUiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjE5IiByPSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [spline_pointer] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:spline, node, click, pointer, target, vector.
+  /// - The [spline_pointer] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:spline, node, click, pointer, target.
   /// - It belongs to the categories: $extends:spline, cursors
   ///
   /// Acknowledgements:
@@ -25945,6 +25961,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_arrow_down_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxMCIgLz4KICA8cGF0aCBkPSJNMTYgM2gzYTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMkg1YTIgMiAwIDAxLTItMlY1YTIgMiAwIDAxMi0yaDMiIC8+CiAgPHBhdGggZD0ibTggOSA0IDQgNC00IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down, $group:enter, $group:layout-resize, download, press, cell, split.
+  /// - It belongs to the categories: $extends:square-arrow-down, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-down](https://github.com/$extends:square-arrow-down), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_down_enter = IconData(
+    0xe83e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_down_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTF2MTAiIC8+CiAgPHBhdGggZD0iTTE3LjY3IDIxSDE5YTIgMiAwIDAwMi0yVjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDEuMzMiIC8+CiAgPHBhdGggZD0ibTggMTcgNCA0IDQtNCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down, $group:exit, $group:layout-resize, pour, empty, cell, expand.
+  /// - It belongs to the categories: $extends:square-arrow-down
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-down](https://github.com/$extends:square-arrow-down), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_down_exit = IconData(
+    0xe83f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_arrow_down_left] icon from the Lucide icon set.
   ///
   /// ![square_arrow_down_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTVIOWw2LTYiIC8+CiAgPHBhdGggZD0iTTkgMTVWOSIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
@@ -25957,6 +26005,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData square_arrow_down_left = IconData(
     0xe4b5,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_down_left_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_left_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgN3Y2aDYiIC8+CiAgPHBhdGggZD0ibTIwIDQtOSA5IiAvPgogIDxwYXRoIGQ9Ik0yMSA4LjY3VjE5YTIgMiAwIDAxLTIgMkg1YTIgMiAwIDAxLTItMlY1YTIgMiAwIDAxMi0yaDEwLjMzIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_left_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, $group:enter, $group:layout-resize, collapse, exit, close, return, dock.
+  /// - It belongs to the categories: $extends:square-arrow-down-left-exit
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-down-left-exit](https://github.com/$extends:square-arrow-down-left-exit), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_down_left_enter = IconData(
+    0xe840,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_down_left_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMjFoNmEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMkg1YTIgMiAwIDAgMC0yIDJ2NiIgLz4KICA8cGF0aCBkPSJtMyAyMSA5LTkiIC8+CiAgPHBhdGggZD0iTTkgMjFIM3YtNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_arrow_down_left_exit = IconData(
+    0xe5a1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -25977,6 +26057,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_arrow_down_right_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_right_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgN3Y2SDciIC8+CiAgPHBhdGggZD0ibTQgNCA5IDkiIC8+CiAgPHBhdGggZD0iTTguNjcgM0gxOWEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJINWEyIDIgMCAwMS0yLTJWOC42NyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_right_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, $group:enter, $group:layout-resize.
+  /// - It belongs to the categories: $extends:square-arrow-down-right-exit
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-down-right-exit](https://github.com/$extends:square-arrow-down-right-exit), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_down_right_enter = IconData(
+    0xe841,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_down_right_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_down_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTFWNWEyIDIgMCAwIDAtMi0ySDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDYiIC8+CiAgPHBhdGggZD0ibTIxIDIxLTktOSIgLz4KICA8cGF0aCBkPSJNMjEgMTV2NmgtNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_arrow_down_right_exit = IconData(
+    0xe5a2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_arrow_left] icon from the Lucide icon set.
   ///
   /// ![square_arrow_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Im0xMiA4LTQgNCA0IDQiIC8+CiAgPHBhdGggZD0iTTE2IDEySDgiIC8+Cjwvc3ZnPgo=)
@@ -25993,66 +26105,34 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [square_arrow_out_down_left] icon from the Lucide icon set.
+  /// Represents the [square_arrow_left_enter] icon from the Lucide icon set.
   ///
-  /// ![square_arrow_out_down_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMjFoNmEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMkg1YTIgMiAwIDAgMC0yIDJ2NiIgLz4KICA8cGF0aCBkPSJtMyAyMSA5LTkiIC8+CiAgPHBhdGggZD0iTTkgMjFIM3YtNiIgLz4KPC9zdmc+Cg==)
+  /// ![square_arrow_left_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgOC00IDQgNCA0IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMkgxMSIgLz4KICA8cGF0aCBkPSJNMjEgMTZ2M2EyIDIgMCAwMS0yIDJINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnYzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_arrow_out_down_left] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
-  /// - It belongs to the categories: arrows
+  /// - The [square_arrow_left_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-left, $group:enter, $group:layout-resize, reverse, back, <-, cell, expand, collapse, split.
+  /// - It belongs to the categories: $extends:square-arrow-left
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_down_left = IconData(
-    0xe5a1,
+  /// - Contributors: [https://github.com/$extends:square-arrow-left](https://github.com/$extends:square-arrow-left), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_left_enter = IconData(
+    0xe842,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [square_arrow_out_down_right] icon from the Lucide icon set.
+  /// Represents the [square_arrow_left_exit] icon from the Lucide icon set.
   ///
-  /// ![square_arrow_out_down_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTFWNWEyIDIgMCAwIDAtMi0ySDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDYiIC8+CiAgPHBhdGggZD0ibTIxIDIxLTktOSIgLz4KICA8cGF0aCBkPSJNMjEgMTV2NmgtNiIgLz4KPC9zdmc+Cg==)
-  ///
-  /// Description:
-  /// - The [square_arrow_out_down_right] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
-  /// - It belongs to the categories: arrows
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_down_right = IconData(
-    0xe5a2,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [square_arrow_out_up_left] icon from the Lucide icon set.
-  ///
-  /// ![square_arrow_out_up_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM2g2YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ2LTYiIC8+CiAgPHBhdGggZD0ibTMgMyA5IDkiIC8+CiAgPHBhdGggZD0iTTMgOVYzaDYiIC8+Cjwvc3ZnPgo=)
+  /// ![square_arrow_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMTJIMyIgLz4KICA8cGF0aCBkPSJNMyAxNy42N1YxOWEyIDIgMCAwMDIgMmgxNGEyIDIgMCAwMDItMlY1YTIgMiAwIDAwLTItMkg1YTIgMiAwIDAwLTIgMnYxLjMzIiAvPgogIDxwYXRoIGQ9Im03IDgtNCA0IDQgNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_arrow_out_up_left] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards.
-  /// - It belongs to the categories: arrows
+  /// - The [square_arrow_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-left, $group:exit, $group:layout-resize, back, reverse, <-, collapse.
+  /// - It belongs to the categories: $extends:square-arrow-left
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_up_left = IconData(
-    0xe5a3,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Represents the [square_arrow_out_up_right] icon from the Lucide icon set.
-  ///
-  /// ![square_arrow_out_up_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoNiIgLz4KICA8cGF0aCBkPSJtMjEgMy05IDkiIC8+CiAgPHBhdGggZD0iTTE1IDNoNnY2IiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [square_arrow_out_up_right] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards, share, open, external, link.
-  /// - It belongs to the categories: arrows, social
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
-  static const IconData square_arrow_out_up_right = IconData(
-    0xe5a4,
+  /// - Contributors: [https://github.com/$extends:square-arrow-left](https://github.com/$extends:square-arrow-left), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_left_exit = IconData(
+    0xe843,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -26075,14 +26155,14 @@ abstract final class LucideIcons {
 
   /// Represents the [square_arrow_right_enter] icon from the Lucide icon set.
   ///
-  /// ![square_arrow_right_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAgMTYgNC00LTQtNCIgLz4KICA8cGF0aCBkPSJNMyAxMmgxMSIgLz4KICA8cGF0aCBkPSJNMyA4VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0ydi0zIiAvPgo8L3N2Zz4K)
+  /// ![square_arrow_right_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAxMmgxMCIgLz4KICA8cGF0aCBkPSJNMyA4VjVhMiAyIDAgMDEyLTJoMTRhMiAyIDAgMDEyIDJ2MTRhMiAyIDAgMDEtMiAySDVhMiAyIDAgMDEtMi0ydi0zIiAvPgogIDxwYXRoIGQ9Im05IDE2IDQtNC00LTQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_arrow_right_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-right, left, in, inside, input, insert, source, import, place, ->.
-  /// - It belongs to the categories: $extends:square-arrow-right, account
+  /// - The [square_arrow_right_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-right, $group:enter, $group:layout-resize, left, source, place, ->, sign in, log in, login, join, auth, data flow, node editor, panel, expand.
+  /// - It belongs to the categories: $extends:square-arrow-right, account, development
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/6teloiv](https://github.com/6teloiv), [https://github.com/lukedukeus](https://github.com/lukedukeus)
   static const IconData square_arrow_right_enter = IconData(
     0xe6c3,
     fontFamily: _fontFamily,
@@ -26091,14 +26171,14 @@ abstract final class LucideIcons {
 
   /// Represents the [square_arrow_right_exit] icon from the Lucide icon set.
   ///
-  /// ![square_arrow_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJoMTEiIC8+CiAgPHBhdGggZD0ibTE3IDE2IDQtNC00LTQiIC8+CiAgPHBhdGggZD0iTTIxIDYuMzQ0VjVhMiAyIDAgMCAwLTItMkg1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi0xLjM0NCIgLz4KPC9zdmc+Cg==)
+  /// ![square_arrow_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTJoMTAiIC8+CiAgPHBhdGggZD0ibTE3IDE2IDQtNC00LTQiIC8+CiAgPHBhdGggZD0iTTIxIDYuMzNWNWEyIDIgMCAwMC0yLTJINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJoMTRhMiAyIDAgMDAyLTJ2LTEuMzMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_arrow_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-right, out, outside, output, export, ->.
-  /// - It belongs to the categories: $extends:square-arrow-right, account
+  /// - The [square_arrow_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-right, $group:exit, $group:layout-resize, ->, sign out, log out, logout, auth, data flow, node editor, expand, panel, cell, outbound.
+  /// - It belongs to the categories: $extends:square-arrow-right, account, development
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
+  /// - Contributors: [https://github.com/ethanhazel](https://github.com/ethanhazel), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/6teloiv](https://github.com/6teloiv), [https://github.com/lukedukeus](https://github.com/lukedukeus)
   static const IconData square_arrow_right_exit = IconData(
     0xe6c4,
     fontFamily: _fontFamily,
@@ -26121,6 +26201,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_arrow_up_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjFWMTEiIC8+CiAgPHBhdGggZD0ibTE2IDE1LTQtNC00IDQiIC8+CiAgPHBhdGggZD0iTTggMjFINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJoLTMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, $group:enter, $group:layout-resize, project, cast, screen, projection, presentation, expand, cell.
+  /// - It belongs to the categories: $extends:square-arrow-up
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-up](https://github.com/$extends:square-arrow-up), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_up_enter = IconData(
+    0xe844,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_up_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNWMyIgLz4KICA8cGF0aCBkPSJtMTYgNy00LTQtNCA0IiAvPgogIDxwYXRoIGQ9Ik02LjMzIDNINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJoMTRhMiAyIDAgMDAyLTJWNWEyIDIgMCAwMC0yLTJoLTEuMzMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, $group:exit, upload, share, external link, pop out, open in new window.
+  /// - It belongs to the categories: $extends:square-arrow-up, files, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-up](https://github.com/$extends:square-arrow-up), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_up_exit = IconData(
+    0xe845,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_arrow_up_left] icon from the Lucide icon set.
   ///
   /// ![square_arrow_up_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTUgOSA5IiAvPgogIDxwYXRoIGQ9Ik05IDE1VjloNiIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
@@ -26137,6 +26249,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [square_arrow_up_left_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_left_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMzMgMjFINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnYxMC4zMyIgLz4KICA8cGF0aCBkPSJNMTcgMTFoLTZ2NiIgLz4KICA8cGF0aCBkPSJtMjAgMjAtOS05IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_left_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, $group:enter, $group:layout-resize, merging.
+  /// - It belongs to the categories: $extends:square-arrow-up-left-exit
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-up-left-exit](https://github.com/$extends:square-arrow-up-left-exit), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_up_left_enter = IconData(
+    0xe846,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_up_left_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM2g2YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ2LTYiIC8+CiAgPHBhdGggZD0ibTMgMyA5IDkiIC8+CiAgPHBhdGggZD0iTTMgOVYzaDYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_arrow_up_left_exit = IconData(
+    0xe5a3,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [square_arrow_up_right] icon from the Lucide icon set.
   ///
   /// ![square_arrow_up_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTVWOUg5IiAvPgogIDxwYXRoIGQ9Im05IDE1IDYtNiIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
@@ -26149,6 +26293,38 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData square_arrow_up_right = IconData(
     0xe4b8,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_up_right_enter] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_right_enter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMTd2LTZINyIgLz4KICA8cGF0aCBkPSJNMyAxNS4zM1Y1YTIgMiAwIDAxMi0yaDE0YTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMkg4LjY3IiAvPgogIDxwYXRoIGQ9Im00IDIwIDktOSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_right_enter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, $group:enter, $group:layout-resize, expand, contract.
+  /// - It belongs to the categories: arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:square-arrow-up-right-exit](https://github.com/$extends:square-arrow-up-right-exit), [https://github.com/6teloiv](https://github.com/6teloiv)
+  static const IconData square_arrow_up_right_enter = IconData(
+    0xe847,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_arrow_up_right_exit] icon from the Lucide icon set.
+  ///
+  /// ![square_arrow_up_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoNiIgLz4KICA8cGF0aCBkPSJtMjEgMy05IDkiIC8+CiAgPHBhdGggZD0iTTE1IDNoNnY2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [square_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards, share, open, external, link.
+  /// - It belongs to the categories: arrows, social
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
+  static const IconData square_arrow_up_right_exit = IconData(
+    0xe5a4,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -28245,6 +28421,102 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/johnletey](https://github.com/johnletey), [https://github.com/csandman](https://github.com/csandman)
   static const IconData strikethrough = IconData(
     0xe177,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_cap_butt] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_cap_butt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTJoMiIgLz4KICA8cGF0aCBkPSJNMiAxMmgyIiAvPgogIDxwYXRoIGQ9Ik0yIDRoMThhMiAyIDAgMDEyIDJ2MTJhMiAyIDAgMDEtMiAySDIiIC8+CiAgPHBhdGggZD0iTTIwIDEyaDIiIC8+CiAgPHBhdGggZD0iTTggMTJoMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [stroke_line_cap_butt] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, endpoint, flat, flush.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_cap_butt = IconData(
+    0xe848,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_cap_round] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_cap_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuOTkgMTJIMTQiIC8+CiAgPHBhdGggZD0iTTIgMTJoMiIgLz4KICA8cGF0aCBkPSJNMiA0aDEyYTggOCAwIDAxMCAxNkgyIiAvPgogIDxwYXRoIGQ9Ik04IDEyaDIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [stroke_line_cap_round] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, endpoint, arc, circular, smooth.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_cap_round = IconData(
+    0xe849,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_cap_square] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_cap_square](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuOTkgMTJIMTQiIC8+CiAgPHBhdGggZD0iTTIgMTJoMiIgLz4KICA8cGF0aCBkPSJNMiA0aDE4YTIgMiAwIDAxMiAydjEyYTIgMiAwIDAxLTIgMkgyIiAvPgogIDxwYXRoIGQ9Ik04IDEyaDIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [stroke_line_cap_square] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, endpoint, projecting, extended, flat.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_cap_square = IconData(
+    0xe84a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_join_bevel] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_join_bevel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjF2LTIuMDAyIiAvPgogIDxwYXRoIGQ9Ik0zIDNoOC4wMDJhMi40IDIuNCAwIDAxMS43MDQuNzA2bDcuNTg4IDcuNTg4QTIuNCAyLjQgMCAwMTIxIDEyLjk5OFYyMSIgLz4KICA8cGF0aCBkPSJNNSAxM0gzIiAvPgogIDxwYXRoIGQ9Ik05IDEzaDFhMSAxIDAgMDExIDF2MSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [stroke_line_join_bevel] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, edge, intersection, angle, chamfer, trim, flat, diagonal.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_join_bevel = IconData(
+    0xe84b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_join_miter] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_join_miter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjF2LTIuMDAyIiAvPgogIDxwYXRoIGQ9Ik0zIDNoMTZhMiAyIDAgMDEyIDJ2MTYiIC8+CiAgPHBhdGggZD0iTTUgMTNIMyIgLz4KICA8cGF0aCBkPSJNOSAxM2gxYTEgMSAwIDAxMSAxdjEiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [stroke_line_join_miter] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, edge, intersection, angle, sharp, rect.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_join_miter = IconData(
+    0xe84c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [stroke_line_join_round] icon from the Lucide icon set.
+  ///
+  /// ![stroke_line_join_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMjF2LTIuMDAyIiAvPgogIDxwYXRoIGQ9Ik0zIDNoOGExMCAxMCAwIDAxMTAgMTB2OCIgLz4KICA8cGF0aCBkPSJNNSAxM0gzIiAvPgogIDxwYXRoIGQ9Ik05IDEzaDFhMSAxIDAgMDExIDF2MSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [stroke_line_join_round] icon is a graphical symbol that conveys a specific idea or functionality related to $group:line, edge, intersection, angle, arc, circular, smooth.
+  /// - It belongs to the categories: design, shapes
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData stroke_line_join_round = IconData(
+    0xe84d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
