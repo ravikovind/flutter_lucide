@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2029** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2046** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -368,6 +368,7 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `check` | $group:check | notifications |
 | `check-check` | $extends:check, received, double | $extends:check |
 | `check-line` | $extends:check | $extends:check |
+| `cheese` | swiss, holes, fondue, emmental, gouda, edam, cheddar, brie, mozzarella, feta, halloumi, gorgonzola, roquefort, camembert, dairy, snack, dish, restaurant, lunch, meal, savory, savoury, cookery, cooking, grilled | food-beverage |
 | `chef-hat` | toque blanche, culinary cap, cooking, baking, culinary, gastronomy, food, kitchen, restaurant, cuisine, catering, meal, dining, gourmet, apron, uniform, menu, toque, cook, baker, cookery, headwear, headgear, cap, kitchen staff, culinary professional, food service, hospitality | food-beverage |
 | `cherry` | fruit, food | food-beverage |
 | `chess-bishop` | mitre, miter, piece, board game, religion | gaming |
@@ -396,13 +397,13 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cigarette-off` | $extends:cigarette, $group:off, no-smoking | $extends:cigarette |
 | `circle` | off, zero, record, shape | shapes |
 | `circle-arrow-down` | $group:direction-down, $group:navigation-next, backwards, reverse, sign, button | arrows |
+| `circle-arrow-down-left-exit` | $group:direction-down-left, outwards | arrows |
+| `circle-arrow-down-right-exit` | $group:direction-down-right, outwards | arrows |
 | `circle-arrow-left` | $group:direction-left, $group:navigation-previous, previous, sign, turn, button, <- | arrows |
-| `circle-arrow-out-down-left` | $group:direction-down-left, outwards | arrows |
-| `circle-arrow-out-down-right` | $group:direction-down-right, outwards | arrows |
-| `circle-arrow-out-up-left` | $group:direction-up-left, outwards, keyboard, button, escape | arrows |
-| `circle-arrow-out-up-right` | $group:direction-up-right, outwards | arrows |
 | `circle-arrow-right` | $group:direction-right, $group:navigation-next, next, sign, turn, button, -> | arrows |
 | `circle-arrow-up` | $group:direction-up, $group:navigation-previous, forward, sign, button | arrows |
+| `circle-arrow-up-left-exit` | $group:direction-up-left, outwards, keyboard, button, escape | arrows |
+| `circle-arrow-up-right-exit` | $group:direction-up-right, outwards | arrows |
 | `circle-check` | $group:check | notifications |
 | `circle-check-big` | $extends:circle-check | $extends:circle-check |
 | `circle-chevron-down` | $group:direction-down, $group:navigation-next, back, menu | arrows |
@@ -1066,8 +1067,8 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `line-dot-right-horizontal` | $group:direction-right, code, version control, waypoint, stop, station, last, end | development, navigation |
 | `line-dot-top-vertical` | arrow, pointer, direction, indicator, code, version, control, waypoint, stop, station, last, end | development, navigation |
 | `line-height` | $group:letter, leading, letters, characters, spacing, paragraph, formatting, editor, readability, typesetting | text |
-| `line-squiggle` | line, snakes, annotate, curve, doodle, stroke, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
-| `line-style` | line, stroke, style, dashed, border | design |
+| `line-squiggle` | $group:line, snakes, annotate, doodle, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
+| `line-style` | $group:line, style, dashed, border | design |
 | `link` | chain, url | text |
 | `link-2` | $extends:link | $extends:link |
 | `link-2-off` | $extends:link-2, $group:off, unchain | $extends:link-2 |
@@ -1618,8 +1619,8 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `speech` | disability, disabled, dda, human, accessibility, people, sound | accessibility, communication |
 | `spell-check` | $group:letter, $group:check, spelling, error, mistake, oversight, typo, correction, code, linter, a | text, development |
 | `spell-check-2` | $extends:spell-check | $extends:spell-check |
-| `spline` | path, pen, tool, shape, curve, draw | design |
-| `spline-pointer` | $extends:spline, node, click, pointer, target, vector | $extends:spline, cursors |
+| `spline` | $group:line, pen, tool, draw | design |
+| `spline-pointer` | $extends:spline, node, click, pointer, target | $extends:spline, cursors |
 | `split` | break, disband, divide, separate, branch, disunite | development, arrows |
 | `spool` | bobbin, spindle, yarn, thread, string, sewing, needlework | tools |
 | `sport-shoe` | footwear, sports, running, athletic, shoe, sneaker, training, exercise, fitness | sports |
@@ -1629,19 +1630,29 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square` | stop, playback, music, audio, video, rectangle, aspect ratio, 1:1, shape | shapes, multimedia |
 | `square-activity` | pulse, action, motion, movement, exercise, fitness, healthcare, heart rate monitor, vital signs, vitals, emergency room, er, intensive care, hospital, defibrillator, earthquake, seismic, magnitude, richter scale, aftershock, tremor, shockwave, audio, waveform, synthesizer, synthesiser, music | medical, social, science, multimedia |
 | `square-arrow-down` | $group:direction-down, $group:navigation-next, backwards, reverse, sign, keyboard, button | arrows |
+| `square-arrow-down-enter` | $group:direction-down, $group:enter, $group:layout-resize, download, press, cell, split | $extends:square-arrow-down, files |
+| `square-arrow-down-exit` | $group:direction-down, $group:exit, $group:layout-resize, pour, empty, cell, expand | $extends:square-arrow-down |
 | `square-arrow-down-left` | $group:direction-down-left, sign, keyboard, button, turn | arrows |
+| `square-arrow-down-left-enter` | $group:direction-down-left, $group:enter, $group:layout-resize, collapse, exit, close, return, dock | $extends:square-arrow-down-left-exit |
+| `square-arrow-down-left-exit` | $group:direction-down-left, outwards | arrows |
 | `square-arrow-down-right` | $group:direction-down-right, sign, keyboard, button, turn | arrows |
+| `square-arrow-down-right-enter` | $group:direction-down-right, $group:enter, $group:layout-resize | $extends:square-arrow-down-right-exit |
+| `square-arrow-down-right-exit` | $group:direction-down-right, outwards | arrows |
 | `square-arrow-left` | $group:direction-left, $group:navigation-previous, previous, sign, keyboard, button, <- | arrows |
-| `square-arrow-out-down-left` | $group:direction-down-left, outwards | arrows |
-| `square-arrow-out-down-right` | $group:direction-down-right, outwards | arrows |
-| `square-arrow-out-up-left` | $group:direction-up-left, outwards | arrows |
-| `square-arrow-out-up-right` | $group:direction-up-right, outwards, share, open, external, link | arrows, social |
+| `square-arrow-left-enter` | $group:direction-left, $group:enter, $group:layout-resize, reverse, back, <-, cell, expand, collapse, split | $extends:square-arrow-left |
+| `square-arrow-left-exit` | $group:direction-left, $group:exit, $group:layout-resize, back, reverse, <-, collapse | $extends:square-arrow-left |
 | `square-arrow-right` | $group:direction-right, $group:navigation-next, next, west, sign, keyboard, button, -> | arrows |
-| `square-arrow-right-enter` | $group:direction-right, left, in, inside, input, insert, source, import, place, -> | $extends:square-arrow-right, account |
-| `square-arrow-right-exit` | $group:direction-right, out, outside, output, export, -> | $extends:square-arrow-right, account |
+| `square-arrow-right-enter` | $group:direction-right, $group:enter, $group:layout-resize, left, source, place, ->, sign in, log in, login, join, auth, data flow, node editor, panel, expand | $extends:square-arrow-right, account, development |
+| `square-arrow-right-exit` | $group:direction-right, $group:exit, $group:layout-resize, ->, sign out, log out, logout, auth, data flow, node editor, expand, panel, cell, outbound | $extends:square-arrow-right, account, development |
 | `square-arrow-up` | $group:direction-up, $group:navigation-previous, forward, sign, keyboard, button | arrows |
+| `square-arrow-up-enter` | $group:direction-up, $group:enter, $group:layout-resize, project, cast, screen, projection, presentation, expand, cell | $extends:square-arrow-up |
+| `square-arrow-up-exit` | $group:direction-up, $group:exit, upload, share, external link, pop out, open in new window | $extends:square-arrow-up, files, social |
 | `square-arrow-up-left` | $group:direction-up-left, sign, keyboard, button | arrows |
+| `square-arrow-up-left-enter` | $group:direction-up-left, $group:enter, $group:layout-resize, merging | $extends:square-arrow-up-left-exit |
+| `square-arrow-up-left-exit` | $group:direction-up-left, outwards | arrows |
 | `square-arrow-up-right` | $group:direction-up-right, sign, keyboard, button, share | arrows, social |
+| `square-arrow-up-right-enter` | $group:direction-up-right, $group:enter, $group:layout-resize, expand, contract | arrows |
+| `square-arrow-up-right-exit` | $group:direction-up-right, outwards, share, open, external, link | arrows, social |
 | `square-asterisk` | password, secret, access, key, multiply, multiplication, glob pattern, wildcard, * | text, security, math, development |
 | `square-bookmark` | photo, book | photography, multimedia |
 | `square-bottom-dashed-scissors` | cut, snippet, chop, stationery, crafts | text, design, tools, files, development |
@@ -1773,6 +1784,12 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `stretch-horizontal` | items, flex, justify, distribute | layout |
 | `stretch-vertical` | items, flex, justify, distribute | layout |
 | `strikethrough` | $group:letter, $group:minus, cross out, format | text |
+| `stroke-line-cap-butt` | $group:line, endpoint, flat, flush | design, shapes |
+| `stroke-line-cap-round` | $group:line, endpoint, arc, circular, smooth | design, shapes |
+| `stroke-line-cap-square` | $group:line, endpoint, projecting, extended, flat | design, shapes |
+| `stroke-line-join-bevel` | $group:line, edge, intersection, angle, chamfer, trim, flat, diagonal | design, shapes |
+| `stroke-line-join-miter` | $group:line, edge, intersection, angle, sharp, rect | design, shapes |
+| `stroke-line-join-round` | $group:line, edge, intersection, angle, arc, circular, smooth | design, shapes |
 | `subscript` | $group:letter, $group:digit | text |
 | `summary` | brief, abstract, synopsis, report, digest, outline, recap, condensation, summary, ai, text, overview | text |
 | `sun` | brightness, weather, light, summer | accessibility, weather, seasons, sustainability |
@@ -2040,4 +2057,4 @@ All **2029** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2029 icons*
+*Total: 2046 icons*

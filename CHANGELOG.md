@@ -1,3 +1,25 @@
+# 1.71.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.71.0
+- Total icon count increased from 2,029+ to 2,046+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- cheese, square-arrow-down-enter, square-arrow-down-exit, square-arrow-down-left-enter, square-arrow-down-right-enter, square-arrow-left-enter, square-arrow-left-exit, square-arrow-up-enter, square-arrow-up-exit, square-arrow-up-left-enter, square-arrow-up-right-enter, stroke-line-cap-butt, stroke-line-cap-round, stroke-line-cap-square, stroke-line-join-bevel, stroke-line-join-miter, stroke-line-join-round
+
+## Renamed Icons ✏️
+- `circle-arrow-out-down-left` renamed to `circle-arrow-down-left-exit`
+- `circle-arrow-out-down-right` renamed to `circle-arrow-down-right-exit`
+- `circle-arrow-out-up-left` renamed to `circle-arrow-up-left-exit`
+- `circle-arrow-out-up-right` renamed to `circle-arrow-up-right-exit`
+- `square-arrow-out-down-left` renamed to `square-arrow-down-left-exit`
+- `square-arrow-out-down-right` renamed to `square-arrow-down-right-exit`
+- `square-arrow-out-up-left` renamed to `square-arrow-up-left-exit`
+- `square-arrow-out-up-right` renamed to `square-arrow-up-right-exit`
+
+---
+
 # 1.70.0
 
 ## Improvements 🚀
