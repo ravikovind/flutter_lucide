@@ -1,3 +1,15 @@
+# 1.72.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.72.0
+- Total icon count increased from 2,046+ to 2,052+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- asterism, exclamation-mark, mound-shovel, question-mark, route-arrow-right, text-pen
+
+---
+
 # 1.71.0
 
 ## Improvements 🚀
