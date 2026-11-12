@@ -1598,13 +1598,29 @@ abstract final class LucideIcons {
   /// ![asterisk](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNXYxNCIgLz4KICA8cGF0aCBkPSJtMTguMDY1IDguNDk2LTEyLjEyNSA3IiAvPgogIDxwYXRoIGQ9Im01Ljk0IDguNTA0IDEyLjEyNSA3IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *.
+  /// - The [asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *, required, mandatory.
   /// - It belongs to the categories: text, math, development
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData asterisk = IconData(
     0xe1ef,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [asterism] icon from the Lucide icon set.
+  ///
+  /// ![asterism](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY4IiAvPgogIDxwYXRoIGQ9Im0xNC41IDE1IDcgNCIgLz4KICA8cGF0aCBkPSJtMTQuNSAxOSA3LTQiIC8+CiAgPHBhdGggZD0iTTE4IDEzdjgiIC8+CiAgPHBhdGggZD0ibTIuNSAxNSA3IDQiIC8+CiAgPHBhdGggZD0ibTIuNSAxOSA3LTQiIC8+CiAgPHBhdGggZD0iTTYgMTN2OCIgLz4KICA8cGF0aCBkPSJtOC41IDQgNyA0IiAvPgogIDxwYXRoIGQ9Im04LjUgOCA3LTQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [asterism] icon is a graphical symbol that conveys a specific idea or functionality related to asterisk, fediverse, activitypub, symbol, typography, social, decentralized, federation, stars, three, ornament, punctuation, divider.
+  /// - It belongs to the categories: text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/KesleyDavid](https://github.com/KesleyDavid), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData asterism = IconData(
+    0xe84e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -1742,7 +1758,7 @@ abstract final class LucideIcons {
   /// ![award](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUuNDc3IDEyLjg5IDEuNTE1IDguNTI2YS41LjUgMCAwIDEtLjgxLjQ3bC0zLjU4LTIuNjg3YTEgMSAwIDAgMC0xLjE5NyAwbC0zLjU4NiAyLjY4NmEuNS41IDAgMCAxLS44MS0uNDY5bDEuNTE0LTguNTI2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [award] icon is a graphical symbol that conveys a specific idea or functionality related to achievement, badge, rosette, prize, winner.
+  /// - The [award] icon is a graphical symbol that conveys a specific idea or functionality related to achievement, badge, rosette, prize, winner, skill, skills, expertise.
   /// - It belongs to the categories: account, sports, gaming
   ///
   /// Acknowledgements:
@@ -1886,7 +1902,7 @@ abstract final class LucideIcons {
   /// ![badge_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0ibTE2IDktNS41IDUuNUw4IDEyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [badge_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:check.
+  /// - The [badge_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:check, premium, vip, exclusive, pro, guarantee, warranty.
   /// - It belongs to the categories: social
   ///
   /// Acknowledgements:
@@ -2014,7 +2030,7 @@ abstract final class LucideIcons {
   /// ![badge_percent](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0ibTE1IDktNiA2IiAvPgogIDxwYXRoIGQ9Ik05IDloLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNSAxNWguMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [badge_percent] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:percent.
+  /// - The [badge_percent] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:percent, sell, selling, promotion, promo.
   /// - It belongs to the categories: finance, shopping, math
   ///
   /// Acknowledgements:
@@ -2059,7 +2075,7 @@ abstract final class LucideIcons {
 
   /// Represents the [badge_question_mark] icon from the Lucide icon set.
   ///
-  /// ![badge_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzIiAvPgogIDxsaW5lIHgxPSIxMiIgeDI9IjEyLjAxIiB5MT0iMTciIHkyPSIxNyIgLz4KPC9zdmc+Cg==)
+  /// ![badge_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMy44NSA4LjYyYTQgNCAwIDAgMSA0Ljc4LTQuNzcgNCA0IDAgMCAxIDYuNzQgMCA0IDQgMCAwIDEgNC43OCA0Ljc4IDQgNCAwIDAgMSAwIDYuNzQgNCA0IDAgMCAxLTQuNzcgNC43OCA0IDQgMCAwIDEtNi43NSAwIDQgNCAwIDAgMS00Ljc4LTQuNzcgNCA0IDAgMCAxIDAtNi43NloiIC8+CiAgPHBhdGggZD0iTTkgOS41YTMgMi41IDAgMDE2IDBjMCAyLTIgMi0zIDMuNSIgLz4KICA8cGF0aCBkPSJNMTIgMTdoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [badge_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:badge, $group:question-mark.
@@ -2222,7 +2238,7 @@ abstract final class LucideIcons {
   /// ![bandage](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTAuMDFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCAxNC4wMWguMDEiIC8+CiAgPHBhdGggZD0iTTE0IDEwLjAxaC4wMSIgLz4KICA8cGF0aCBkPSJNMTQgMTQuMDFoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOCA2djEyIiAvPgogIDxwYXRoIGQ9Ik02IDZ2MTIiIC8+CiAgPHJlY3QgeD0iMiIgeT0iNiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [bandage] icon is a graphical symbol that conveys a specific idea or functionality related to plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety, patch.
+  /// - The [bandage] icon is a graphical symbol that conveys a specific idea or functionality related to plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety, patch, patient.
   /// - It belongs to the categories: medical
   ///
   /// Acknowledgements:
@@ -2254,7 +2270,7 @@ abstract final class LucideIcons {
   /// ![banknote](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiIC8+CiAgPHBhdGggZD0iTTYgMTJoLjAxTTE4IDEyaC4wMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [banknote] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, bill, cash, funds, transaction, finance.
+  /// - The [banknote] icon is a graphical symbol that conveys a specific idea or functionality related to currency, money, payment, bill, cash, funds, transaction, finance, salary.
   /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
@@ -2427,7 +2443,7 @@ abstract final class LucideIcons {
 
   /// Represents the [battery_exclamation_point] icon from the Lucide icon set.
   ///
-  /// ![battery_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTdoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCA3djYiIC8+CiAgPHBhdGggZD0iTTE0IDZoMmEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNMjIgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTYgMThINGEyIDIgMCAwIDEtMi0yVjhhMiAyIDAgMCAxIDItMmgyIiAvPgo8L3N2Zz4K)
+  /// ![battery_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCA4djQiIC8+CiAgPHBhdGggZD0iTTE0IDZoMmEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMmgtMiIgLz4KICA8cGF0aCBkPSJNMjIgMTR2LTQiIC8+CiAgPHBhdGggZD0iTTYgMThINGEyIDIgMCAwIDEtMi0yVjhhMiAyIDAgMCAxIDItMmgyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [battery_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:battery, $group:exclamation-mark.
@@ -3294,7 +3310,7 @@ abstract final class LucideIcons {
   /// ![book_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTdoMS41IiAvPgogIDxwYXRoIGQ9Ik0xMiAyMmgxLjUiIC8+CiAgPHBhdGggZD0iTTEyIDJoMS41IiAvPgogIDxwYXRoIGQ9Ik0xNy41IDIySDE5YTEgMSAwIDAgMCAxLTEiIC8+CiAgPHBhdGggZD0iTTE3LjUgMkgxOWExIDEgMCAwIDEgMSAxdjEuNSIgLz4KICA8cGF0aCBkPSJNMjAgMTR2M2gtMi41IiAvPgogIDxwYXRoIGQ9Ik0yMCA4LjVWMTAiIC8+CiAgPHBhdGggZD0iTTQgMTBWOC41IiAvPgogIDxwYXRoIGQ9Ik00IDE5LjVWMTQiIC8+CiAgPHBhdGggZD0iTTQgNC41QTIuNSAyLjUgMCAwIDEgNi41IDJIOCIgLz4KICA8cGF0aCBkPSJNOCAyMkg2LjVhMSAxIDAgMCAxIDAtNUg4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [book_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book, code, coding, version control, git, repository, template, draft, screenplay, unwritten, unpublished, untold.
+  /// - The [book_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book, $group:dashed, code, coding, version control, git, repository, template, draft, screenplay, unwritten, unpublished, untold.
   /// - It belongs to the categories: development, text
   ///
   /// Acknowledgements:
@@ -3470,7 +3486,7 @@ abstract final class LucideIcons {
   /// ![book_open_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNXYxNiIgLz4KICA8cGF0aCBkPSJNMTYgMTNoMiIgLz4KICA8cGF0aCBkPSJNMTYgOWgyIiAvPgogIDxwYXRoIGQ9Ik0yMC4wMDEgMTlBMiAyIDAgMDAyMiAxN1Y1YTIgMiAwIDAwLTEuOTk5LTJMMTYgMy4wMDJBNSA1IDAgMDAxMiA1YTUgNSAwIDAwLTQtMkg0YTIgMiAwIDAwLTIgMnYxMmEyIDIgMCAwMDEuOTk5IDJIOGE1IDUgMCAwMTQgMiA1IDUgMCAwMTQtMnoiIC8+CiAgPHBhdGggZD0iTTYgMTNoMiIgLz4KICA8cGF0aCBkPSJNNiA5aDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [book_open_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book-open.
+  /// - The [book_open_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book-open, docs, wiki, knowledge base.
   /// - It belongs to the categories: text, development
   ///
   /// Acknowledgements:
@@ -3518,7 +3534,7 @@ abstract final class LucideIcons {
   /// ![book_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIgLz4KICA8cGF0aCBkPSJNOCAxMWg4IiAvPgogIDxwYXRoIGQ9Ik04IDdoNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [book_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book.
+  /// - The [book_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:book, docs, wiki, knowledge base.
   /// - It belongs to the categories: text, gaming
   ///
   /// Acknowledgements:
@@ -3886,7 +3902,7 @@ abstract final class LucideIcons {
   /// ![brain](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMThWNSIgLz4KICA8cGF0aCBkPSJNMTUgMTNhNC4xNyA0LjE3IDAgMDEtMy00IDQuMTcgNC4xNyAwIDAxLTMgNCIgLz4KICA8cGF0aCBkPSJNMTcuNzA3IDYuMjk0QTMgMyAwIDEwMTIgNWEzIDMgMCAxMC01LjcwNyAxLjI5NCIgLz4KICA8cGF0aCBkPSJNMTcuOTk2IDUuMTI1YTQgNCAwIDAxMi41MjYgNS43NyIgLz4KICA8cGF0aCBkPSJNMTggMThhNCA0IDAgMDAyLTcuNDY1IiAvPgogIDxwYXRoIGQ9Ik0xOS45NjcgMTcuNDgyYTQgNCAwIDExLTcuOTY3LjUxNyA0IDQgMCAxMS03Ljk2Ny0uNTE3IiAvPgogIDxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAxLTItNy40NjUiIC8+CiAgPHBhdGggZD0iTTYuMDA0IDUuMTI1YTQgNCAwIDAwLTIuNTI2IDUuNzciIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [brain] icon is a graphical symbol that conveys a specific idea or functionality related to medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing.
+  /// - The [brain] icon is a graphical symbol that conveys a specific idea or functionality related to medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing, skill, skills, expertise.
   /// - It belongs to the categories: medical, science
   ///
   /// Acknowledgements:
@@ -4014,7 +4030,7 @@ abstract final class LucideIcons {
   /// ![briefcase](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMjBWNGEyIDIgMCAwIDAtMi0yaC00YTIgMiAwIDAgMC0yIDJ2MTYiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIyIiB5PSI2IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [briefcase] icon is a graphical symbol that conveys a specific idea or functionality related to work, bag, baggage, folder.
+  /// - The [briefcase] icon is a graphical symbol that conveys a specific idea or functionality related to work, bag, baggage, folder, job, career, employment, hiring, experience.
   /// - It belongs to the categories: travel
   ///
   /// Acknowledgements:
@@ -4078,7 +4094,7 @@ abstract final class LucideIcons {
   /// ![briefcase_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuMzU0IDIwSDRhMiAyIDAgMDEtMi0yVjhhMiAyIDAgMDEyLTJoMTZhMiAyIDAgMDEyIDJ2My4zNTQiIC8+CiAgPHBhdGggZD0iTTE2IDExLjM1NFY0YTIgMiAwIDAwLTItMmgtNGEyIDIgMCAwMC0yIDJ2MTYiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [briefcase_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:briefcase, $group:plus, briefcase, portfolio, business, career, employment, professional.
+  /// - The [briefcase_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:briefcase, $group:plus, briefcase, portfolio, business, professional.
   /// - It belongs to the categories: $extends:briefcase, files, account
   ///
   /// Acknowledgements:
@@ -4398,7 +4414,7 @@ abstract final class LucideIcons {
   /// ![calculator](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjQiIHk9IjIiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSI4IiB4Mj0iMTYiIHkxPSI2IiB5Mj0iNiIgLz4KICA8bGluZSB4MT0iMTYiIHgyPSIxNiIgeTE9IjE0IiB5Mj0iMTgiIC8+CiAgPHBhdGggZD0iTTE2IDEwaC4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMTBoLjAxIiAvPgogIDxwYXRoIGQ9Ik04IDEwaC4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMTRoLjAxIiAvPgogIDxwYXRoIGQ9Ik04IDE0aC4wMSIgLz4KICA8cGF0aCBkPSJNMTIgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik04IDE4aC4wMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [calculator] icon is a graphical symbol that conveys a specific idea or functionality related to count, calculating machine.
+  /// - The [calculator] icon is a graphical symbol that conveys a specific idea or functionality related to count, calculating machine, budget.
   /// - It belongs to the categories: math, devices
   ///
   /// Acknowledgements:
@@ -4430,7 +4446,7 @@ abstract final class LucideIcons {
   /// ![calendar_1](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTNoMXY0IiAvPgogIDxwYXRoIGQ9Ik0xNiAydjMiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [calendar_1] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:digit, single, singular, once, 1, first.
+  /// - The [calendar_1] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:digit, single, singular, once, 1, first, today.
   /// - It belongs to the categories: $extends:calendar
   ///
   /// Acknowledgements:
@@ -4510,7 +4526,7 @@ abstract final class LucideIcons {
   /// ![calendar_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAydjMiIC8+CiAgPHBhdGggZD0iTTE2IDJ2MyIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0zIDloMTgiIC8+CiAgPHBhdGggZD0ibTkgMTUgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [calendar_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:check, subscribe, schedule.
+  /// - The [calendar_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:check, subscribe, schedule, today.
   /// - It belongs to the categories: $extends:calendar
   ///
   /// Acknowledgements:
@@ -4606,7 +4622,7 @@ abstract final class LucideIcons {
   /// ![calendar_days](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAydjMiIC8+CiAgPHBhdGggZD0iTTE2IDJ2MyIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0zIDloMTgiIC8+CiAgPHBhdGggZD0iTTggMTNoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiAxM2guMDEiIC8+CiAgPHBhdGggZD0iTTE2IDEzaC4wMSIgLz4KICA8cGF0aCBkPSJNOCAxN2guMDEiIC8+CiAgPHBhdGggZD0iTTEyIDE3aC4wMSIgLz4KICA8cGF0aCBkPSJNMTYgMTdoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [calendar_days] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar.
+  /// - The [calendar_days] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, week, weekly.
   /// - It belongs to the categories: $extends:calendar
   ///
   /// Acknowledgements:
@@ -4734,7 +4750,7 @@ abstract final class LucideIcons {
   /// ![calendar_range](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNiAydjMiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+CiAgPHBhdGggZD0iTTE3IDEzaC02IiAvPgogIDxwYXRoIGQ9Ik0xMyAxN0g3IiAvPgogIDxwYXRoIGQ9Ik03IDEzaC4wMSIgLz4KICA8cGF0aCBkPSJNMTcgMTdoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [calendar_range] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, range, period.
+  /// - The [calendar_range] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, range, period, week, weekly.
   /// - It belongs to the categories: $extends:calendar
   ///
   /// Acknowledgements:
@@ -5678,7 +5694,7 @@ abstract final class LucideIcons {
   /// ![chart_radar](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYxMCIgLz4KICA8cGF0aCBkPSJtMTYgMTggMy4wODUtOC4xMjVMMTIgNC4xMDMgMy40NzMgOS40NDJsMy4xOTYgMTAuNTU0eiIgLz4KICA8cGF0aCBkPSJtMiA5IDEwIDMgNiA5IiAvPgogIDxwYXRoIGQ9Im02IDIxIDYtOSAxMC0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [chart_radar] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, attributes.
+  /// - The [chart_radar] icon is a graphical symbol that conveys a specific idea or functionality related to $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, performance, comparison, profile, attributes.
   /// - It belongs to the categories: charts, shapes, science
   ///
   /// Acknowledgements:
@@ -6238,7 +6254,7 @@ abstract final class LucideIcons {
   /// ![circle_arrow_down_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxMmExMCAxMCAwIDEgMSAxMCAxMCIgLz4KICA8cGF0aCBkPSJtMiAyMiAxMC0xMCIgLz4KICA8cGF0aCBkPSJNOCAyMkgydi02IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [circle_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
+  /// - The [circle_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -6254,7 +6270,7 @@ abstract final class LucideIcons {
   /// ![circle_arrow_down_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJhMTAgMTAgMCAxIDEgMTAtMTAiIC8+CiAgPHBhdGggZD0iTTIyIDIyIDEyIDEyIiAvPgogIDxwYXRoIGQ9Ik0yMiAxNnY2aC02IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [circle_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
+  /// - The [circle_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -6318,7 +6334,7 @@ abstract final class LucideIcons {
   /// ![circle_arrow_up_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA4VjJoNiIgLz4KICA8cGF0aCBkPSJtMiAyIDEwIDEwIiAvPgogIDxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAxIDIgMTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [circle_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards, keyboard, button, escape.
+  /// - The [circle_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, $group:exit, keyboard, button, escape.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -6334,7 +6350,7 @@ abstract final class LucideIcons {
   /// ![circle_arrow_up_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTJBMTAgMTAgMCAxIDEgMTIgMiIgLz4KICA8cGF0aCBkPSJNMjIgMiAxMiAxMiIgLz4KICA8cGF0aCBkPSJNMTYgMmg2djYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [circle_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards.
+  /// - The [circle_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -6510,7 +6526,7 @@ abstract final class LucideIcons {
   /// ![circle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4MmExMCAxMCAwIDAgMSAzLjggMCIgLz4KICA8cGF0aCBkPSJNMTMuOSAyMS44MThhMTAgMTAgMCAwIDEtMy44IDAiIC8+CiAgPHBhdGggZD0iTTE3LjYwOSAzLjcyMWExMCAxMCAwIDAgMSAyLjY5IDIuNyIgLz4KICA8cGF0aCBkPSJNMi4xODIgMTMuOWExMCAxMCAwIDAgMSAwLTMuOCIgLz4KICA8cGF0aCBkPSJNMjAuMjc5IDE3LjYwOWExMCAxMCAwIDAgMS0yLjcgMi42OSIgLz4KICA8cGF0aCBkPSJNMjEuODE4IDEwLjFhMTAgMTAgMCAwIDEgMCAzLjgiIC8+CiAgPHBhdGggZD0iTTMuNzIxIDYuMzkxYTEwIDEwIDAgMCAxIDIuNy0yLjY5IiAvPgogIDxwYXRoIGQ9Ik02LjM5MSAyMC4yNzlhMTAgMTAgMCAwIDEtMi42OS0yLjciIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [circle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to pending, dot, progress, issue, draft, code, coding, version control.
+  /// - The [circle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, pending, dot, progress, issue, draft, code, coding, version control.
   /// - It belongs to the categories: $extends:circle, development
   ///
   /// Acknowledgements:
@@ -6590,7 +6606,7 @@ abstract final class LucideIcons {
   /// ![circle_dot_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4YTkuOTMgOS45MyAwIDAgMSAzLjggMCIgLz4KICA8cGF0aCBkPSJNMTcuNiAzLjcxYTkuOTUgOS45NSAwIDAgMSAyLjY5IDIuNyIgLz4KICA8cGF0aCBkPSJNMjEuODIgMTAuMWE5LjkzIDkuOTMgMCAwIDEgMCAzLjgiIC8+CiAgPHBhdGggZD0iTTIwLjI5IDE3LjZhOS45NSA5Ljk1IDAgMCAxLTIuNyAyLjY5IiAvPgogIDxwYXRoIGQ9Ik0xMy45IDIxLjgyYTkuOTQgOS45NCAwIDAgMS0zLjggMCIgLz4KICA8cGF0aCBkPSJNNi40IDIwLjI5YTkuOTUgOS45NSAwIDAgMS0yLjY5LTIuNyIgLz4KICA8cGF0aCBkPSJNMi4xOCAxMy45YTkuOTMgOS45MyAwIDAgMSAwLTMuOCIgLz4KICA8cGF0aCBkPSJNMy43MSA2LjRhOS45NSA5Ljk1IDAgMCAxIDIuNy0yLjY5IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [circle_dot_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to pending, progress, issue, draft, code, coding, version control.
+  /// - The [circle_dot_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, pending, progress, issue, draft, code, coding, version control.
   /// - It belongs to the categories: $extends:circle-dot
   ///
   /// Acknowledgements:
@@ -7323,7 +7339,7 @@ abstract final class LucideIcons {
 
   /// Represents the [circle_question_mark] icon from the Lucide icon set.
   ///
-  /// ![circle_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNOS4wOSA5YTMgMyAwIDAgMSA1LjgzIDFjMCAyLTMgMy0zIDMiIC8+CiAgPHBhdGggZD0iTTEyIDE3aC4wMSIgLz4KPC9zdmc+Cg==)
+  /// ![circle_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNOSA5LjVhMyAyLjUgMCAwMTYgMGMwIDItMiAyLTMgMy41IiAvPgogIDxwYXRoIGQ9Ik0xMiAxN2guMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [circle_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $group:question-mark.
@@ -7582,7 +7598,7 @@ abstract final class LucideIcons {
   /// ![clipboard_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiIC8+CiAgPHBhdGggZD0ibTkgMTQgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [clipboard_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard, $group:check, copied, pasted.
+  /// - The [clipboard_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard, $group:check, copied, pasted, result, checklist.
   /// - It belongs to the categories: $extends:clipboard
   ///
   /// Acknowledgements:
@@ -7630,7 +7646,7 @@ abstract final class LucideIcons {
   /// ![clipboard_list](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDIiIC8+CiAgPHBhdGggZD0iTTEyIDExaDQiIC8+CiAgPHBhdGggZD0iTTEyIDE2aDQiIC8+CiAgPHBhdGggZD0iTTggMTFoLjAxIiAvPgogIDxwYXRoIGQ9Ik04IDE2aC4wMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [clipboard_list] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard, tasks.
+  /// - The [clipboard_list] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard, tasks, checklist.
   /// - It belongs to the categories: $extends:clipboard
   ///
   /// Acknowledgements:
@@ -8174,7 +8190,7 @@ abstract final class LucideIcons {
   /// ![cloud_download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OGwtNC00IiAvPgogIDxwYXRoIGQ9Im0xMiAyMSA0LTQiIC8+CiAgPHBhdGggZD0iTTQuMzkzIDE1LjI2OUE3IDcgMCAxIDEgMTUuNzEgOGgxLjc5YTQuNSA0LjUgMCAwIDEgMi40MzYgOC4yODQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [cloud_download] icon is a graphical symbol that conveys a specific idea or functionality related to import.
+  /// - The [cloud_download] icon is a graphical symbol that conveys a specific idea or functionality related to import, install, installation.
   /// - It belongs to the categories: arrows, files
   ///
   /// Acknowledgements:
@@ -8254,7 +8270,7 @@ abstract final class LucideIcons {
   /// ![cloud_lightning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxNi4zMjZBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIC41IDguOTczIiAvPgogIDxwYXRoIGQ9Im0xMyAxMi0zIDVoNGwtMyA1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [cloud_lightning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:cloud, bolt.
+  /// - The [cloud_lightning] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:cloud, bolt, thunder, thunderstorm, thunderbolt.
   /// - It belongs to the categories: $extends:cloud
   ///
   /// Acknowledgements:
@@ -8414,7 +8430,7 @@ abstract final class LucideIcons {
   /// ![cloud_upload](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNNCAxNC44OTlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIDIuNSA4LjI0MiIgLz4KICA8cGF0aCBkPSJtOCAxNyA0LTQgNCA0IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [cloud_upload] icon is a graphical symbol that conveys a specific idea or functionality related to file.
+  /// - The [cloud_upload] icon is a graphical symbol that conveys a specific idea or functionality related to file, deploy, deployment.
   /// - It belongs to the categories: arrows, files
   ///
   /// Acknowledgements:
@@ -9134,7 +9150,7 @@ abstract final class LucideIcons {
   /// ![credit_card](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjUiIHJ4PSIyIiAvPgogIDxsaW5lIHgxPSIyIiB4Mj0iMjIiIHkxPSIxMCIgeTI9IjEwIiAvPgogIDxwYXRoIGQ9Ik02IDE0aDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [credit_card] icon is a graphical symbol that conveys a specific idea or functionality related to bank, purchase, payment, cc.
+  /// - The [credit_card] icon is a graphical symbol that conveys a specific idea or functionality related to bank, purchase, payment, cc, cashier, merchant.
   /// - It belongs to the categories: account, finance
   ///
   /// Acknowledgements:
@@ -9294,7 +9310,7 @@ abstract final class LucideIcons {
   /// ![crown](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuNTYyIDMuMjY2YS41LjUgMCAwIDEgLjg3NiAwTDE1LjM5IDguODdhMSAxIDAgMCAwIDEuNTE2LjI5NEwyMS4xODMgNS41YS41LjUgMCAwIDEgLjc5OC41MTlsLTIuODM0IDEwLjI0NmExIDEgMCAwIDEtLjk1Ni43MzRINS44MWExIDEgMCAwIDEtLjk1Ny0uNzM0TDIuMDIgNi4wMmEuNS41IDAgMCAxIC43OTgtLjUxOWw0LjI3NiAzLjY2NGExIDEgMCAwIDAgMS41MTYtLjI5NHoiIC8+CiAgPHBhdGggZD0iTTUgMjFoMTQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [crown] icon is a graphical symbol that conveys a specific idea or functionality related to diadem, tiara, circlet, corona, king, ruler, winner, favorite, favourite.
+  /// - The [crown] icon is a graphical symbol that conveys a specific idea or functionality related to diadem, tiara, circlet, corona, king, ruler, winner, favorite, favourite, premium, vip, exclusive, pro.
   /// - It belongs to the categories: gaming
   ///
   /// Acknowledgements:
@@ -10142,7 +10158,7 @@ abstract final class LucideIcons {
   /// ![door_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjFIMiIgLz4KICA8cGF0aCBkPSJNMTAgM0g3YTIgMiAwIDAwLTIgMnYxNiIgLz4KICA8cGF0aCBkPSJNMTQgMTJoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOSAyMVY1YTIgMiAwIDAwLTEuNjc1LTEuOTc0bC02LjE2My0xLjAxM0ExIDEgMCAwMDEwIDN2MThhMSAxIDAgMDAxLjEyNC45OTJ6IiAvPgogIDxwYXRoIGQ9Ik0yMiAyMWgtMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [door_open] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit.
+  /// - The [door_open] icon is a graphical symbol that conveys a specific idea or functionality related to entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, quit.
   /// - It belongs to the categories: home, travel, security
   ///
   /// Acknowledgements:
@@ -10190,7 +10206,7 @@ abstract final class LucideIcons {
   /// ![download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTVWMyIgLz4KICA8cGF0aCBkPSJNMjEgMTV2NGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNCIgLz4KICA8cGF0aCBkPSJtNyAxMCA1IDUgNS01IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [download] icon is a graphical symbol that conveys a specific idea or functionality related to import, export, save, pull.
+  /// - The [download] icon is a graphical symbol that conveys a specific idea or functionality related to import, export, save, pull, install, installation.
   /// - It belongs to the categories: arrows, files
   ///
   /// Acknowledgements:
@@ -10430,7 +10446,7 @@ abstract final class LucideIcons {
   /// ![earth](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuNTQgMTVIMTdhMiAyIDAgMCAwLTIgMnY0LjU0IiAvPgogIDxwYXRoIGQ9Ik03IDMuMzRWNWEzIDMgMCAwIDAgMyAzYTIgMiAwIDAgMSAyIDJjMCAxLjEuOSAyIDIgMmEyIDIgMCAwIDAgMi0yYzAtMS4xLjktMiAyLTJoMy4xNyIgLz4KICA8cGF0aCBkPSJNMTEgMjEuOTVWMThhMiAyIDAgMCAwLTItMmEyIDIgMCAwIDEtMi0ydi0xYTIgMiAwIDAgMC0yLTJIMi4wNSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [earth] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, globe.
+  /// - The [earth] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, globe, www, http, https, website.
   /// - It belongs to the categories: navigation
   ///
   /// Acknowledgements:
@@ -10590,7 +10606,7 @@ abstract final class LucideIcons {
   /// ![ellipsis](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iMTIiIHI9IjEiIC8+CiAgPGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ....
+  /// - The [ellipsis] icon is a graphical symbol that conveys a specific idea or functionality related to et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ..., meatball menu, three dots, 3 dots.
   /// - It belongs to the categories: layout, development
   ///
   /// Acknowledgements:
@@ -10606,7 +10622,7 @@ abstract final class LucideIcons {
   /// ![ellipsis_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iNSIgcj0iMSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE5IiByPSIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [ellipsis_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to menu, options, spread, more, further, extra, overflow, dots, …, ....
+  /// - The [ellipsis_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to menu, options, spread, more, further, extra, overflow, dots, …, ..., kebab, kebab menu, three dots, 3 dots.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
@@ -10777,6 +10793,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [exclamation_mark] icon from the Lucide icon set.
+  ///
+  /// ![exclamation_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTVWNCIgLz4KICA8cGF0aCBkPSJNMTIgMjBoLjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [exclamation_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $group:exclamation-mark, bang, surprise, emphasis, interjection, factorial, negation.
+  /// - It belongs to the categories: letters-digits, text, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/lt25106](https://github.com/lt25106)
+  static const IconData exclamation_mark = IconData(
+    0xe84f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [expand] icon from the Lucide icon set.
   ///
   /// ![expand](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTUgNiA2IiAvPgogIDxwYXRoIGQ9Im0xNSA5IDYtNiIgLz4KICA8cGF0aCBkPSJNMjEgMTZ2NWgtNSIgLz4KICA8cGF0aCBkPSJNMjEgOFYzaC01IiAvPgogIDxwYXRoIGQ9Ik0zIDE2djVoNSIgLz4KICA8cGF0aCBkPSJtMyAyMSA2LTYiIC8+CiAgPHBhdGggZD0iTTMgOFYzaDUiIC8+CiAgPHBhdGggZD0iTTkgOSAzIDMiIC8+Cjwvc3ZnPgo=)
@@ -10798,7 +10830,7 @@ abstract final class LucideIcons {
   /// ![external_link](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgM2g2djYiIC8+CiAgPHBhdGggZD0iTTEwIDE0IDIxIDMiIC8+CiAgPHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMi0yaDYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [external_link] icon is a graphical symbol that conveys a specific idea or functionality related to outbound, open, share.
+  /// - The [external_link] icon is a graphical symbol that conveys a specific idea or functionality related to outbound, open, share, redirect.
   /// - It belongs to the categories: arrows, text, social
   ///
   /// Acknowledgements:
@@ -10814,7 +10846,7 @@ abstract final class LucideIcons {
   /// ![eye](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi4wNjIgMTIuMzQ4YTEgMSAwIDAgMSAwLS42OTYgMTAuNzUgMTAuNzUgMCAwIDEgMTkuODc2IDAgMSAxIDAgMCAxIDAgLjY5NiAxMC43NSAxMC43NSAwIDAgMS0xOS44NzYgMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [eye] icon is a graphical symbol that conveys a specific idea or functionality related to view, watch, see, show, expose, reveal, display, visible, visibility, vision, preview, read.
+  /// - The [eye] icon is a graphical symbol that conveys a specific idea or functionality related to view, watch, see, show, expose, reveal, display, visible, visibility, vision, preview, read, eyes.
   /// - It belongs to the categories: accessibility, photography, design, security
   ///
   /// Acknowledgements:
@@ -10846,7 +10878,7 @@ abstract final class LucideIcons {
   /// ![eye_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuMDU0IDE4Ljk0NmExMSAxMSAwIDAgMS0yLjExIDAiIC8+CiAgPHBhdGggZD0iTTEzLjA1NCA1LjA1NGExMSAxMSAwIDAgMC0yLjExLS4wMDEiIC8+CiAgPHBhdGggZD0iTTE3LjA3MiA2LjI3NGExMSAxMSAwIDAgMSAxLjc1MyAxLjE3MyIgLz4KICA8cGF0aCBkPSJNMTguODI1IDE2LjU1MmExMSAxMSAwIDAgMS0xLjc1MyAxLjE3NCIgLz4KICA8cGF0aCBkPSJNMi41MTQgMTMuMzAzYTExIDExIDAgMCAxLS40NTItLjk1NCAxIDEgMCAwIDEgMC0uNjk3IDExIDExIDAgMCAxIC40NS0uOTU1IiAvPgogIDxwYXRoIGQ9Ik0yMS40ODUgMTAuNjk3YTExIDExIDAgMCAxIC40NTMuOTU1IDEgMSAwIDAgMSAwIC42OTcgMTEgMTEgMCAwIDEtLjQ1My45NTQiIC8+CiAgPHBhdGggZD0iTTUuMTczIDcuNDQ4YTExIDExIDAgMCAxIDEuNzUzLTEuMTc0IiAvPgogIDxwYXRoIGQ9Ik02LjkyNiAxNy43MjZhMTEgMTEgMCAwIDEtMS43NTMtMS4xNzQiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [eye_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:eye, hide, conceal, mask, hidden, invisible.
+  /// - The [eye_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:eye, $group:dashed, hide, conceal, mask, hidden, invisible.
   /// - It belongs to the categories: $extends:eye
   ///
   /// Acknowledgements:
@@ -10878,7 +10910,7 @@ abstract final class LucideIcons {
   /// ![face_angry](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTJ2LTEuNTg0IiAvPgogIDxwYXRoIGQ9Ik0xNyAxMGE1IDUgMCAwMC0zIDEiIC8+CiAgPHBhdGggZD0iTTcgMTBhNSA1IDAgMDEzIDEiIC8+CiAgPHBhdGggZD0iTTkgMTJ2LTEuNTg0IiAvPgogIDxwYXRoIGQ9Ik05IDE3YTUgNSAwIDAxNi4wMDEgMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [face_angry] icon is a graphical symbol that conveys a specific idea or functionality related to anger, rage, fury, resentment, irritation, disgust, emoji, emotion.
+  /// - The [face_angry] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, anger, rage, fury, resentment, irritation, disgust.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10894,7 +10926,7 @@ abstract final class LucideIcons {
   /// ![face_expressionless](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTBoMiIgLz4KICA8cGF0aCBkPSJNOCAxMGgyIiAvPgogIDxwYXRoIGQ9Ik04IDE2aDgiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [face_expressionless] icon is a graphical symbol that conveys a specific idea or functionality related to nuisance, annoyed, annoyance, frustration, emoji, emotion.
+  /// - The [face_expressionless] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, nuisance, annoyed, annoyance, frustration.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10910,7 +10942,7 @@ abstract final class LucideIcons {
   /// ![face_grinning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBWOSIgLz4KICA8cGF0aCBkPSJNNy4wODQgMTQuMzAyYTUuMTIgNS4xMiAwIDAwOS44MzMgMCAuMjQuMjQgMCAwMC0uMjM1LS4zMDJINy4zMmEuMjQuMjQgMCAwMC0uMjM1LjMwMiIgLz4KICA8cGF0aCBkPSJNOSAxMFY5IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [face_grinning] icon is a graphical symbol that conveys a specific idea or functionality related to happy, happiness, good, laugh, broad smile, pleasure, good cheer, humour, funny, emoji, emotion.
+  /// - The [face_grinning] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, happy, happiness, good, laugh, broad smile, pleasure, good cheer, humour, funny.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10926,7 +10958,7 @@ abstract final class LucideIcons {
   /// ![face_neutral](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBWOSIgLz4KICA8cGF0aCBkPSJNOCAxNmg4IiAvPgogIDxwYXRoIGQ9Ik05IDEwVjkiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [face_neutral] icon is a graphical symbol that conveys a specific idea or functionality related to emoji, neutral, emotion, meh, blank stare, social masking, irritation, concern, deadpan.
+  /// - The [face_neutral] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, neutral, meh, blank stare, social masking, irritation, concern, deadpan.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10942,7 +10974,7 @@ abstract final class LucideIcons {
   /// ![face_slightly_frowning](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBWOSIgLz4KICA8cGF0aCBkPSJNOSAxMFY5IiAvPgogIDxwYXRoIGQ9Ik05IDE2YTUgNSAwIDAxNiAwIiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [face_slightly_frowning] icon is a graphical symbol that conveys a specific idea or functionality related to emoji, bad, sadness, emotion, concern, disappointment.
+  /// - The [face_slightly_frowning] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, bad, sadness, concern, disappointment.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10958,7 +10990,7 @@ abstract final class LucideIcons {
   /// ![face_slightly_smiling](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBWOSIgLz4KICA8cGF0aCBkPSJNMTYuNDcyIDE1YTYgNiAwIDAxLTguOTQzIDAiIC8+CiAgPHBhdGggZD0iTTkgMTBWOSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [face_slightly_smiling] icon is a graphical symbol that conveys a specific idea or functionality related to smile, happy, happiness, good, positive, friendly, patronizing, passive aggressive, ironic, emoji, emotion.
+  /// - The [face_slightly_smiling] icon is a graphical symbol that conveys a specific idea or functionality related to $group:emoticon, smile, happy, happiness, good, positive, friendly, patronizing, passive aggressive, ironic.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -10974,7 +11006,7 @@ abstract final class LucideIcons {
   /// ![face_slightly_smiling_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuMjY3IDIuMDhhMTAgMTAgMCAxMDguNjUzIDguNjUzIiAvPgogIDxwYXRoIGQ9Ik0xNSAxMFY5IiAvPgogIDxwYXRoIGQ9Ik0xNiA1aDYiIC8+CiAgPHBhdGggZD0iTTE2LjQ3MiAxNWE2IDYgMCAwMS04Ljk0MyAwIiAvPgogIDxwYXRoIGQ9Ik0xOSAydjYiIC8+CiAgPHBhdGggZD0iTTkgMTBWOSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [face_slightly_smiling_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:face-slightly-smiling, $extends:group, $group:plus, react, reaction.
+  /// - The [face_slightly_smiling_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:face-slightly-smiling, $extends:group, $group:plus, react.
   /// - It belongs to the categories: emoji, social, communication
   ///
   /// Acknowledgements:
@@ -11691,10 +11723,10 @@ abstract final class LucideIcons {
 
   /// Represents the [file_question_mark] icon from the Lucide icon set.
   ///
-  /// ![file_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNMTIgMTdoLjAxIiAvPgogIDxwYXRoIGQ9Ik05LjEgOWEzIDMgMCAwIDEgNS44MiAxYzAgMi0zIDMtMyAzIiAvPgo8L3N2Zz4K)
+  /// ![file_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNOSA5LjVhMyAyLjUgMCAwMTYgMGMwIDItMiAyLTMgMy41IiAvPgogIDxwYXRoIGQ9Ik0xMiAxN2guMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [file_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $group:question-mark, readme.
+  /// - The [file_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $group:question-mark, readme, 404, not found, page not found.
   /// - It belongs to the categories: $extends:file
   ///
   /// Acknowledgements:
@@ -11790,7 +11822,7 @@ abstract final class LucideIcons {
   /// ![file_spreadsheet](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAgMCAxIDFoNSIgLz4KICA8cGF0aCBkPSJNOCAxM2gyIiAvPgogIDxwYXRoIGQ9Ik0xNCAxM2gyIiAvPgogIDxwYXRoIGQ9Ik04IDE3aDIiIC8+CiAgPHBhdGggZD0iTTE0IDE3aDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [file_spreadsheet] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, spreadsheet, sheet, table.
+  /// - The [file_spreadsheet] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, spreadsheet, sheet, table, csv, xls, xlsx, excel.
   /// - It belongs to the categories: $extends:file
   ///
   /// Acknowledgements:
@@ -11854,7 +11886,7 @@ abstract final class LucideIcons {
   /// ![file_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAgMCAxIDFoNSIgLz4KICA8cGF0aCBkPSJNMTAgOUg4IiAvPgogIDxwYXRoIGQ9Ik0xNiAxM0g4IiAvPgogIDxwYXRoIGQ9Ik0xNiAxN0g4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [file_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, data, txt, pdf.
+  /// - The [file_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, data, txt, pdf, doc, docx, word, docs.
   /// - It belongs to the categories: $extends:file, text
   ///
   /// Acknowledgements:
@@ -11966,7 +11998,7 @@ abstract final class LucideIcons {
   /// ![file_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAyMmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4YTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHYxMmEyIDIgMCAwIDEtMiAyeiIgLz4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAgMCAxIDFoNSIgLz4KICA8cGF0aCBkPSJtMTQuNSAxMi41LTUgNSIgLz4KICA8cGF0aCBkPSJtOS41IDEyLjUgNSA1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [file_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $group:x, lost.
+  /// - The [file_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $group:x, lost, 404, not found, page not found.
   /// - It belongs to the categories: $extends:file
   ///
   /// Acknowledgements:
@@ -12990,7 +13022,7 @@ abstract final class LucideIcons {
   /// ![forward](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTcgNS01LTUtNSIgLz4KICA8cGF0aCBkPSJNNCAxOHYtMmE0IDQgMCAwIDEgNC00aDEyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [forward] icon is a graphical symbol that conveys a specific idea or functionality related to send, share, email.
+  /// - The [forward] icon is a graphical symbol that conveys a specific idea or functionality related to send, share, email, redirect.
   /// - It belongs to the categories: mail
   ///
   /// Acknowledgements:
@@ -13310,7 +13342,7 @@ abstract final class LucideIcons {
   /// ![gem](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNSAzIDggOWw0IDEzIDQtMTMtMi41LTYiIC8+CiAgPHBhdGggZD0iTTE3IDNhMiAyIDAgMCAxIDEuNi44bDMgNGEyIDIgMCAwIDEgLjAxMyAyLjM4MmwtNy45OSAxMC45ODZhMiAyIDAgMCAxLTMuMjQ3IDBsLTcuOTktMTAuOTg2QTIgMiAwIDAgMSAyLjQgNy44bDIuOTk4LTMuOTk3QTIgMiAwIDAgMSA3IDN6IiAvPgogIDxwYXRoIGQ9Ik0yIDloMjAiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [gem] icon is a graphical symbol that conveys a specific idea or functionality related to diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems.
+  /// - The [gem] icon is a graphical symbol that conveys a specific idea or functionality related to diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems, premium, vip, exclusive, pro.
   /// - It belongs to the categories: gaming, finance
   ///
   /// Acknowledgements:
@@ -13550,7 +13582,7 @@ abstract final class LucideIcons {
   /// ![git_merge](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSIzIiAvPgogIDxwYXRoIGQ9Ik02IDIxVjlhOSA5IDAgMCAwIDkgOSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [git_merge] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control.
+  /// - The [git_merge] icon is a graphical symbol that conveys a specific idea or functionality related to code, version control, ci/cd, cicd.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -13710,7 +13742,7 @@ abstract final class LucideIcons {
   /// ![globe](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIgLz4KICA8cGF0aCBkPSJNMiAxMmgyMCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [globe] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network.
+  /// - The [globe] icon is a graphical symbol that conveys a specific idea or functionality related to world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network, www, http, https, website.
   /// - It belongs to the categories: navigation, connectivity
   ///
   /// Acknowledgements:
@@ -13726,7 +13758,7 @@ abstract final class LucideIcons {
   /// ![globe_ban](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJhMTQuNDggMTQuNDggMCAwMS00LjAwOC0xMEM3Ljk5MyA5LjEzNiA5IDUuMjU4IDExIDIuMDVBMTAgMTAgMCAwMDEyIDIyIiAvPgogIDxwYXRoIGQ9Im0xNS4xNzIgMy4xNzIgNS42NTYgNS42NTYiIC8+CiAgPHBhdGggZD0iTTE1Ljg2IDE0YTE0LjUgMTQuNSAwIDAxLTMuODU5IDggMTAgMTAgMCAwMDkuOTQ5LTkiIC8+CiAgPHBhdGggZD0iTTIgMTJoMTAuNSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjYiIHI9IjQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [globe_ban] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:off, web, website, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction.
+  /// - The [globe_ban] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:off, web, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction.
   /// - It belongs to the categories: $extends:globe, security
   ///
   /// Acknowledgements:
@@ -13758,7 +13790,7 @@ abstract final class LucideIcons {
   /// ![globe_code](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNSAxMCAxMyA3LjUgMTUuNSA1IiAvPgogIDxwYXRoIGQ9Ik0xNS44NjEgMTRBMTQuNSAxNC41IDAgMDExMiAyMmExNC40OCAxNC40OCAwIDAxMC0yMCAxMCAxMCAwIDEwOS44ODggMTEuNSIgLz4KICA8cGF0aCBkPSJNMTkuNSA1IDIyIDcuNSAxOS41IDEwIiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDguNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [globe_code] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:code, website, digital, access, link.
+  /// - The [globe_code] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:code, digital, access, link.
   /// - It belongs to the categories: $extends:globe, development
   ///
   /// Acknowledgements:
@@ -13838,7 +13870,7 @@ abstract final class LucideIcons {
   /// ![goal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTNWMmw4IDQtOCA0IiAvPgogIDxwYXRoIGQ9Ik0yMC41NjEgMTAuMjIyYTkgOSAwIDEgMS0xMi41NS01LjI5IiAvPgogIDxwYXRoIGQ9Ik04LjAwMiA5Ljk5N2E1IDUgMCAxIDAgOC45IDIuMDIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [goal] icon is a graphical symbol that conveys a specific idea or functionality related to flag, bullseye.
+  /// - The [goal] icon is a graphical symbol that conveys a specific idea or functionality related to flag, bullseye, result, outcome, objective, okr.
   /// - It belongs to the categories: gaming
   ///
   /// Acknowledgements:
@@ -13870,7 +13902,7 @@ abstract final class LucideIcons {
   /// ![graduation_cap](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEuNDIgMTAuOTIyYTEgMSAwIDAgMC0uMDE5LTEuODM4TDEyLjgzIDUuMThhMiAyIDAgMCAwLTEuNjYgMEwyLjYgOS4wOGExIDEgMCAwIDAgMCAxLjgzMmw4LjU3IDMuOTA4YTIgMiAwIDAgMCAxLjY2IDB6IiAvPgogIDxwYXRoIGQ9Ik0yMiAxMHY2IiAvPgogIDxwYXRoIGQ9Ik02IDEyLjVWMTZhNiAzIDAgMCAwIDEyIDB2LTMuNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [graduation_cap] icon is a graphical symbol that conveys a specific idea or functionality related to school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate.
+  /// - The [graduation_cap] icon is a graphical symbol that conveys a specific idea or functionality related to school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate, skill, skills, expertise.
   /// - It belongs to the categories: buildings
   ///
   /// Acknowledgements:
@@ -14222,7 +14254,7 @@ abstract final class LucideIcons {
   /// ![hand](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggMTFWNmEyIDIgMCAwIDAtMi0yYTIgMiAwIDAgMC0yIDIiIC8+CiAgPHBhdGggZD0iTTE0IDEwVjRhMiAyIDAgMCAwLTItMmEyIDIgMCAwIDAtMiAydjIiIC8+CiAgPHBhdGggZD0iTTEwIDEwLjVWNmEyIDIgMCAwIDAtMi0yYTIgMiAwIDAgMC0yIDJ2OCIgLz4KICA8cGF0aCBkPSJNMTggOGEyIDIgMCAxIDEgNCAwdjZhOCA4IDAgMCAxLTggOGgtMmMtMi44IDAtNC41LS44Ni01Ljk5LTIuMzRsLTMuNi0zLjZhMiAyIDAgMCAxIDIuODMtMi44Mkw3IDE1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [hand] icon is a graphical symbol that conveys a specific idea or functionality related to wave, move, mouse, grab.
+  /// - The [hand] icon is a graphical symbol that conveys a specific idea or functionality related to wave, move, mouse, grab, welcome, hello, hi, greeting, goodbye, bye.
   /// - It belongs to the categories: cursors, accessibility
   ///
   /// Acknowledgements:
@@ -14238,7 +14270,7 @@ abstract final class LucideIcons {
   /// ![hand_coins](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTVoMmEyIDIgMCAxIDAgMC00aC0zYy0uNiAwLTEuMS4yLTEuNC42TDMgMTciIC8+CiAgPHBhdGggZD0ibTcgMjEgMS42LTEuNGMuMy0uNC44LS42IDEuNC0uNmg0YzEuMSAwIDIuMS0uNCAyLjgtMS4ybDQuNi00LjRhMiAyIDAgMCAwLTIuNzUtMi45MWwtNC4yIDMuOSIgLz4KICA8cGF0aCBkPSJtMiAxNiA2IDYiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSI5IiByPSIyLjkiIC8+CiAgPGNpcmNsZSBjeD0iNiIgY3k9IjUiIHI9IjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [hand_coins] icon is a graphical symbol that conveys a specific idea or functionality related to savings, banking, money, finance, offers, mortgage, payment, received, wage, payroll, allowance, pocket money, handout, pennies.
+  /// - The [hand_coins] icon is a graphical symbol that conveys a specific idea or functionality related to savings, banking, money, finance, offers, mortgage, payment, received, wage, payroll, allowance, pocket money, handout, pennies, loan, lending, borrow, debt, salary.
   /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
@@ -14670,7 +14702,7 @@ abstract final class LucideIcons {
   /// ![headset](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAxMWgzYTIgMiAwIDAgMSAyIDJ2M2EyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNVptMCAwYTkgOSAwIDEgMSAxOCAwbTAgMHY1YTIgMiAwIDAgMS0yIDJoLTFhMiAyIDAgMCAxLTItMnYtM2EyIDIgMCAwIDEgMi0yaDNaIiAvPgogIDxwYXRoIGQ9Ik0yMSAxNnYyYTQgNCAwIDAgMS00IDRoLTUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [headset] icon is a graphical symbol that conveys a specific idea or functionality related to music, audio, sound, gaming, headphones, headset, call, center, phone, telephone, voip, video.
+  /// - The [headset] icon is a graphical symbol that conveys a specific idea or functionality related to music, audio, sound, gaming, headphones, headset, call, center, phone, telephone, voip, video, customer service, customer support, helpdesk.
   /// - It belongs to the categories: multimedia, devices, gaming, communication
   ///
   /// Acknowledgements:
@@ -14718,7 +14750,7 @@ abstract final class LucideIcons {
   /// ![heart_handshake](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkuNDE0IDE0LjQxNEMyMSAxMi44MjggMjIgMTEuNSAyMiA5LjVhNS41IDUuNSAwIDAgMC05LjU5MS0zLjY3Ni42LjYgMCAwIDEtLjgxOC4wMDFBNS41IDUuNSAwIDAgMCAyIDkuNWMwIDIuMyAxLjUgNCAzIDUuNWw1LjUzNSA1LjM2MmEyIDIgMCAwIDAgMi44NzkuMDUyIDIuMTIgMi4xMiAwIDAgMC0uMDA0LTMgMi4xMjQgMi4xMjQgMCAxIDAgMy0zIDIuMTI0IDIuMTI0IDAgMCAwIDMuMDA0IDAgMiAyIDAgMCAwIDAtMi44MjhsLTEuODgxLTEuODgyYTIuNDEgMi40MSAwIDAgMC0zLjQwOSAwbC0xLjcxIDEuNzFhMiAyIDAgMCAxLTIuODI4IDAgMiAyIDAgMCAxIDAtMi44MjhsMi44MjMtMi43NjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [heart_handshake] icon is a graphical symbol that conveys a specific idea or functionality related to agreement, charity, help, deal, terms, emotion, together, handshake.
+  /// - The [heart_handshake] icon is a graphical symbol that conveys a specific idea or functionality related to agreement, charity, help, deal, terms, emotion, together, handshake, insurance.
   /// - It belongs to the categories: emoji, social
   ///
   /// Acknowledgements:
@@ -14942,7 +14974,7 @@ abstract final class LucideIcons {
   /// ![hospital](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgN3Y0IiAvPgogIDxwYXRoIGQ9Ik0xNCAyMXYtM2EyIDIgMCAwIDAtNCAwdjMiIC8+CiAgPHBhdGggZD0iTTE0IDloLTQiIC8+CiAgPHBhdGggZD0iTTE4IDExaDJhMiAyIDAgMCAxIDIgMnY2YTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0ydi05YTIgMiAwIDAgMSAyLTJoMiIgLz4KICA8cGF0aCBkPSJNMTggMjFWNWEyIDIgMCAwIDAtMi0ySDhhMiAyIDAgMCAwLTIgMnYxNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [hospital] icon is a graphical symbol that conveys a specific idea or functionality related to infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet.
+  /// - The [hospital] icon is a graphical symbol that conveys a specific idea or functionality related to infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet, sick, patient.
   /// - It belongs to the categories: medical, buildings, navigation
   ///
   /// Acknowledgements:
@@ -15022,7 +15054,7 @@ abstract final class LucideIcons {
   /// ![house](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMjF2LThhMSAxIDAgMCAwLTEtMWgtNGExIDEgMCAwIDAtMSAxdjgiIC8+CiAgPHBhdGggZD0iTTMgMTBhMiAyIDAgMCAxIC43MDktMS41MjhsNy02YTIgMiAwIDAgMSAyLjU4MiAwbDcgNkEyIDIgMCAwIDEgMjEgMTB2OWEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [house] icon is a graphical symbol that conveys a specific idea or functionality related to home, living, building, residence, architecture.
+  /// - The [house] icon is a graphical symbol that conveys a specific idea or functionality related to home, living, building, residence, architecture, homepage.
   /// - It belongs to the categories: buildings, home, navigation
   ///
   /// Acknowledgements:
@@ -15182,7 +15214,7 @@ abstract final class LucideIcons {
   /// ![id_card_lanyard](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNSA4aC0zIiAvPgogIDxwYXRoIGQ9Im0xNSAyLTEgMmgzYTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMkg3YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDMiIC8+CiAgPHBhdGggZD0iTTE2IDIyYTQgNCAwIDAwLTggMCIgLz4KICA8cGF0aCBkPSJtOSAyIDMgNiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE1IiByPSIzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [id_card_lanyard] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:id-card, id-card, id-card-lanyard, employee, gate-pass.
+  /// - The [id_card_lanyard] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:id-card, id-card, id-card-lanyard, employee, gate-pass, job, career, employment, hiring, experience.
   /// - It belongs to the categories: $extends:id-card
   ///
   /// Acknowledgements:
@@ -15390,7 +15422,7 @@ abstract final class LucideIcons {
   /// ![infinity](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxNmM1IDAgNy04IDEyLThhNCA0IDAgMCAxIDAgOGMtNSAwLTctOC0xMi04YTQgNCAwIDEgMCAwIDgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [infinity] icon is a graphical symbol that conveys a specific idea or functionality related to unlimited, forever, loop, math.
+  /// - The [infinity] icon is a graphical symbol that conveys a specific idea or functionality related to unlimited, forever, loop, math, ci/cd, cicd, devops, pipeline.
   /// - It belongs to the categories: multimedia, math
   ///
   /// Acknowledgements:
@@ -15806,7 +15838,7 @@ abstract final class LucideIcons {
   /// ![landmark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTh2LTciIC8+CiAgPHBhdGggZD0iTTExLjExOSAyLjIwNWEyIDIgMCAwIDEgMS43NjIgMGw3Ljg0IDMuODQ2QS41LjUgMCAwIDEgMjAuNSA3aC0xN2EuNS41IDAgMCAxLS4yMi0uOTQ5eiIgLz4KICA8cGF0aCBkPSJNMTQgMTh2LTciIC8+CiAgPHBhdGggZD0iTTE4IDE4di03IiAvPgogIDxwYXRoIGQ9Ik0zIDIyaDE4IiAvPgogIDxwYXRoIGQ9Ik02IDE4di03IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [landmark] icon is a graphical symbol that conveys a specific idea or functionality related to bank, building, capitol, finance, money, museum, art gallery, hall, institute, pediment, portico, doric, columns, pillars, classical, architecture, government, institution, monument, site, history, historic, library, temple, ancient, structure.
+  /// - The [landmark] icon is a graphical symbol that conveys a specific idea or functionality related to bank, building, capitol, finance, money, museum, art gallery, hall, institute, pediment, portico, doric, columns, pillars, classical, architecture, government, institution, monument, site, history, historic, library, temple, ancient, structure, loan, lending.
   /// - It belongs to the categories: finance, navigation, buildings
   ///
   /// Acknowledgements:
@@ -16766,7 +16798,7 @@ abstract final class LucideIcons {
   /// ![library](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgNiA0IDE0IiAvPgogIDxwYXRoIGQ9Ik0xMiA2djE0IiAvPgogIDxwYXRoIGQ9Ik04IDh2MTIiIC8+CiAgPHBhdGggZD0iTTQgNHYxNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [library] icon is a graphical symbol that conveys a specific idea or functionality related to books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package.
+  /// - The [library] icon is a graphical symbol that conveys a specific idea or functionality related to books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package, wiki, knowledge base.
   /// - It belongs to the categories: text, multimedia
   ///
   /// Acknowledgements:
@@ -16798,7 +16830,7 @@ abstract final class LucideIcons {
   /// ![life_buoy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJtNC45MyA0LjkzIDQuMjQgNC4yNCIgLz4KICA8cGF0aCBkPSJtMTQuODMgOS4xNyA0LjI0LTQuMjQiIC8+CiAgPHBhdGggZD0ibTE0LjgzIDE0LjgzIDQuMjQgNC4yNCIgLz4KICA8cGF0aCBkPSJtOS4xNyAxNC44My00LjI0IDQuMjQiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [life_buoy] icon is a graphical symbol that conveys a specific idea or functionality related to preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut.
+  /// - The [life_buoy] icon is a graphical symbol that conveys a specific idea or functionality related to preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut, customer service, customer support, helpdesk.
   /// - It belongs to the categories: accessibility, medical
   ///
   /// Acknowledgements:
@@ -16830,7 +16862,7 @@ abstract final class LucideIcons {
   /// ![lightbulb](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTRjLjItMSAuNy0xLjcgMS41LTIuNSAxLS45IDEuNS0yLjIgMS41LTMuNUE2IDYgMCAwIDAgNiA4YzAgMSAuMiAyLjIgMS41IDMuNS43LjcgMS4zIDEuNSAxLjUgMi41IiAvPgogIDxwYXRoIGQ9Ik05IDE4aDYiIC8+CiAgPHBhdGggZD0iTTEwIDIyaDQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [lightbulb] icon is a graphical symbol that conveys a specific idea or functionality related to idea, bright, lights.
+  /// - The [lightbulb] icon is a graphical symbol that conveys a specific idea or functionality related to idea, bright, lights, suggest, suggestion.
   /// - It belongs to the categories: photography, home
   ///
   /// Acknowledgements:
@@ -16990,7 +17022,7 @@ abstract final class LucideIcons {
   /// ![link](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTNhNSA1IDAgMCAwIDcuNTQuNTRsMy0zYTUgNSAwIDAgMC03LjA3LTcuMDdsLTEuNzIgMS43MSIgLz4KICA8cGF0aCBkPSJNMTQgMTFhNSA1IDAgMCAwLTcuNTQtLjU0bC0zIDNhNSA1IDAgMCAwIDcuMDcgNy4wN2wxLjcxLTEuNzEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [link] icon is a graphical symbol that conveys a specific idea or functionality related to chain, url.
+  /// - The [link] icon is a graphical symbol that conveys a specific idea or functionality related to chain, url, www, http, https, website.
   /// - It belongs to the categories: text
   ///
   /// Acknowledgements:
@@ -17054,7 +17086,7 @@ abstract final class LucideIcons {
   /// ![list_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgNUgzIiAvPgogIDxwYXRoIGQ9Ik0xNiAxMkgzIiAvPgogIDxwYXRoIGQ9Ik0xMSAxOUgzIiAvPgogIDxwYXRoIGQ9Im0xNSAxOCAyIDIgNC00IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [list_check] icon is a graphical symbol that conveys a specific idea or functionality related to $group:check, list, bom.
+  /// - The [list_check] icon is a graphical symbol that conveys a specific idea or functionality related to $group:check, list, bom, checklist.
   /// - It belongs to the categories: $extends:list
   ///
   /// Acknowledgements:
@@ -17070,7 +17102,7 @@ abstract final class LucideIcons {
   /// ![list_checks](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgNWg4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxOWg4IiAvPgogIDxwYXRoIGQ9Im0zIDE3IDIgMiA0LTQiIC8+CiAgPHBhdGggZD0ibTMgNyAyIDIgNC00IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [list_checks] icon is a graphical symbol that conveys a specific idea or functionality related to $group:check, items, pending.
+  /// - The [list_checks] icon is a graphical symbol that conveys a specific idea or functionality related to $group:check, items, pending, checklist.
   /// - It belongs to the categories: $extends:list
   ///
   /// Acknowledgements:
@@ -17358,7 +17390,7 @@ abstract final class LucideIcons {
   /// ![list_todo](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgNWg4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMyAxOWg4IiAvPgogIDxwYXRoIGQ9Im0zIDE3IDIgMiA0LTQiIC8+CiAgPHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [list_todo] icon is a graphical symbol that conveys a specific idea or functionality related to todo, done, check, tick, complete, tasks, items, pending.
+  /// - The [list_todo] icon is a graphical symbol that conveys a specific idea or functionality related to todo, done, check, tick, complete, tasks, items, pending, checklist.
   /// - It belongs to the categories: $extends:list
   ///
   /// Acknowledgements:
@@ -17598,7 +17630,7 @@ abstract final class LucideIcons {
   /// ![log_out](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgMTcgNS01LTUtNSIgLz4KICA8cGF0aCBkPSJNMjEgMTJIOSIgLz4KICA8cGF0aCBkPSJNOSAyMUg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [log_out] icon is a graphical symbol that conveys a specific idea or functionality related to sign out, arrow, exit, auth.
+  /// - The [log_out] icon is a graphical symbol that conveys a specific idea or functionality related to sign out, arrow, exit, auth, quit.
   /// - It belongs to the categories: arrows, account
   ///
   /// Acknowledgements:
@@ -17822,7 +17854,7 @@ abstract final class LucideIcons {
   /// ![mail_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTNWNmEyIDIgMCAwIDAtMi0ySDRhMiAyIDAgMCAwLTIgMnYxMmMwIDEuMS45IDIgMiAyaDgiIC8+CiAgPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciIC8+CiAgPHBhdGggZD0iTTE5IDE2djYiIC8+CiAgPHBhdGggZD0iTTE2IDE5aDYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [mail_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:plus, compose.
+  /// - The [mail_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:plus, compose, invite, invitation.
   /// - It belongs to the categories: mail
   ///
   /// Acknowledgements:
@@ -17835,7 +17867,7 @@ abstract final class LucideIcons {
 
   /// Represents the [mail_question_mark] icon from the Lucide icon set.
   ///
-  /// ![mail_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTAuNVY2YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjEyYzAgMS4xLjkgMiAyIDJoMTIuNSIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIgLz4KICA8cGF0aCBkPSJNMTggMTUuMjhjLjItLjQuNS0uOC45LTFhMi4xIDIuMSAwIDAgMSAyLjYuNGMuMy40LjUuOC41IDEuMyAwIDEuMy0yIDItMiAyIiAvPgogIDxwYXRoIGQ9Ik0yMCAyMnYuMDEiIC8+Cjwvc3ZnPgo=)
+  /// ![mail_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTAuMzVWNmEyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTJhMiAyIDAgMDAyIDJoMTIuMyIgLz4KICA8cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2EyIDIgMCAwMS0yLjA2IDBMMiA3IiAvPgogIDxwYXRoIGQ9Ik0yMCAxOC41Yy41LTEgMi0xIDItMi41YTIgMiAwIDAwLTItMiAyLjUgMi41IDAgMDAtMiAxIiAvPgogIDxwYXRoIGQ9Ik0yMCAyMmguMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [mail_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:question-mark, delivery, undelivered.
@@ -18542,7 +18574,7 @@ abstract final class LucideIcons {
   /// ![message_circle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMSAyLjE4MmExMCAxMCAwIDAgMSAzLjggMCIgLz4KICA8cGF0aCBkPSJNMTMuOSAyMS44MThhMTAgMTAgMCAwIDEtMy44IDAiIC8+CiAgPHBhdGggZD0iTTE3LjYwOSAzLjcyYTEwIDEwIDAgMCAxIDIuNjkgMi43IiAvPgogIDxwYXRoIGQ9Ik0yLjE4MiAxMy45YTEwIDEwIDAgMCAxIDAtMy44IiAvPgogIDxwYXRoIGQ9Ik0yMC4yOCAxNy42MWExMCAxMCAwIDAgMS0yLjcgMi42OSIgLz4KICA8cGF0aCBkPSJNMjEuODE4IDEwLjFhMTAgMTAgMCAwIDEgMCAzLjgiIC8+CiAgPHBhdGggZD0iTTMuNzIxIDYuMzkxYTEwIDEwIDAgMCAxIDIuNy0yLjY5IiAvPgogIDxwYXRoIGQ9Im02LjE2MyAyMS4xMTctMi45MDYuODVhMSAxIDAgMCAxLTEuMjM2LTEuMTY5bC45NjUtMi45OCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [message_circle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, draft.
+  /// - The [message_circle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, $group:dashed, draft.
   /// - It belongs to the categories: $extends:message-circle
   ///
   /// Acknowledgements:
@@ -18651,7 +18683,7 @@ abstract final class LucideIcons {
 
   /// Represents the [message_circle_question_mark] icon from the Lucide icon set.
   ///
-  /// ![message_circle_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzIiAvPgogIDxwYXRoIGQ9Ik0xMiAxN2guMDEiIC8+Cjwvc3ZnPgo=)
+  /// ![message_circle_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0iTTkgOS41YTMgMi41IDAgMDE2IDBjMCAyLTIgMi0zIDMuNSIgLz4KICA8cGF0aCBkPSJNMTIgMTdoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [message_circle_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, $group:question-mark.
@@ -18766,7 +18798,7 @@ abstract final class LucideIcons {
   /// ![message_square_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgM2gyIiAvPgogIDxwYXRoIGQ9Ik0xNiAxOWgtMiIgLz4KICA8cGF0aCBkPSJNMiAxMnYtMiIgLz4KICA8cGF0aCBkPSJNMiAxNnY1LjI4NmEuNzEuNzEgMCAwIDAgMS4yMTIuNTAybDEuMTQ5LTEuMTQ5IiAvPgogIDxwYXRoIGQ9Ik0yMCAxOWEyIDIgMCAwIDAgMi0ydi0xIiAvPgogIDxwYXRoIGQ9Ik0yMiAxMHYyIiAvPgogIDxwYXRoIGQ9Ik0yMiA2VjVhMiAyIDAgMCAwLTItMiIgLz4KICA8cGF0aCBkPSJNNCAzYTIgMiAwIDAgMC0yIDJ2MSIgLz4KICA8cGF0aCBkPSJNOCAxOWgyIiAvPgogIDxwYXRoIGQ9Ik04IDNoMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [message_square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, draft.
+  /// - The [message_square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, $group:dashed, draft.
   /// - It belongs to the categories: $extends:message-square
   ///
   /// Acknowledgements:
@@ -18894,7 +18926,7 @@ abstract final class LucideIcons {
   /// ![message_square_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6IiAvPgogIDxwYXRoIGQ9Ik0xMiA4djYiIC8+CiAgPHBhdGggZD0iTTkgMTFoNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [message_square_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, $group:plus.
+  /// - The [message_square_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, $group:plus, suggest, suggestion.
   /// - It belongs to the categories: $extends:message-square
   ///
   /// Acknowledgements:
@@ -19673,6 +19705,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [mound_shovel] icon from the Lucide icon set.
+  ///
+  /// ![mound_shovel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgMTYgMS41NTMtMy4xMDZhMSAxIDAgMCAwLS40NDctMS4zNDFsLTIuMjEyLTEuMTA2YTEgMSAwIDAgMC0xLjM0MS40NDdsLTEuMTkzIDIuMzg3IiAvPgogIDxwYXRoIGQ9Im0yMCAzLTQgOCIgLz4KICA8cGF0aCBkPSJNMjEgMjFhMSAxIDAgMCAwIC41OTktMS44MDFjLTEuMzMzLS45OTgtLjk5Mi00LjIxLTMuNTk5LTQuMTk5LTEuMjcxLjAwNi0xLjUgMS0yIDEtMi41IDAtMy4yMDktNC02LjUtNC01LjEwNiAwLTQgNS4xMDctNy4wNTkgNy4xN0ExIDEgMCAwIDAgMyAyMXoiIC8+CiAgPHBhdGggZD0ibTIyIDQtNC0yIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [mound_shovel] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shovel, sand, pile, grain, desert, nature, dirt pile, sand pile, dirt, soil, earth, gravel, heap, stockpile, aggregate, excavation, earthworks, mine, mining, quarry, sand mine, frac sand, construction, construction site, landscaping, beach.
+  /// - It belongs to the categories: tools, nature
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jwlinqx](https://github.com/jwlinqx), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData mound_shovel = IconData(
+    0xe850,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [mountain] icon from the Lucide icon set.
   ///
   /// ![mountain](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtOCAzIDQgOCA1LTUgNSAxNUgyTDggM3oiIC8+Cjwvc3ZnPgo=)
@@ -20318,7 +20366,7 @@ abstract final class LucideIcons {
   /// ![notebook_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA2aDQiIC8+CiAgPHBhdGggZD0iTTIgMTBoNCIgLz4KICA8cGF0aCBkPSJNMiAxNGg0IiAvPgogIDxwYXRoIGQ9Ik0yIDE4aDQiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSI0IiB5PSIyIiByeD0iMiIgLz4KICA8cGF0aCBkPSJNOS41IDhoNSIgLz4KICA8cGF0aCBkPSJNOS41IDEySDE2IiAvPgogIDxwYXRoIGQ9Ik05LjUgMTZIMTQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [notebook_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:notebook, pages, paper, write, lines, opened.
+  /// - The [notebook_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:notebook, pages, paper, write, lines, opened, docs, wiki, knowledge base.
   /// - It belongs to the categories: text
   ///
   /// Acknowledgements:
@@ -20350,7 +20398,7 @@ abstract final class LucideIcons {
   /// ![notepad_text_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAydjQiIC8+CiAgPHBhdGggZD0iTTEyIDJ2NCIgLz4KICA8cGF0aCBkPSJNMTYgMnY0IiAvPgogIDxwYXRoIGQ9Ik0xNiA0aDJhMiAyIDAgMCAxIDIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0yMCAxMnYyIiAvPgogIDxwYXRoIGQ9Ik0yMCAxOHYyYTIgMiAwIDAgMS0yIDJoLTEiIC8+CiAgPHBhdGggZD0iTTEzIDIyaC0yIiAvPgogIDxwYXRoIGQ9Ik03IDIySDZhMiAyIDAgMCAxLTItMnYtMiIgLz4KICA8cGF0aCBkPSJNNCAxNHYtMiIgLz4KICA8cGF0aCBkPSJNNCA4VjZhMiAyIDAgMCAxIDItMmgyIiAvPgogIDxwYXRoIGQ9Ik04IDEwaDYiIC8+CiAgPHBhdGggZD0iTTggMTRoOCIgLz4KICA8cGF0aCBkPSJNOCAxOGg1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [notepad_text_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:notepad-text, draft, template.
+  /// - The [notepad_text_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:notepad-text, $group:dashed, draft, template.
   /// - It belongs to the categories: $extends:notepad-text
   ///
   /// Acknowledgements:
@@ -20670,7 +20718,7 @@ abstract final class LucideIcons {
   /// ![package_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJWMTIiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+CiAgPHBhdGggZD0iTTIxIDEwLjUzNVY4YTIgMiAwIDAgMC0xLTEuNzNsLTctNGEyIDIgMCAwIDAtMiAwbC03IDRBMiAyIDAgMCAwIDMgOHY4YTIgMiAwIDAgMCAxIDEuNzI5bDcgNGEyIDIgMCAwIDAgMiAuMDAxbDEuNjc1LS45NTUiIC8+CiAgPHBhdGggZD0iTTMuMjkgNyAxMiAxMmw4LjcxLTUiIC8+CiAgPHBhdGggZD0ibTcuNSA0LjI3IDguOTk3IDUuMTQ4IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [package_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:plus.
+  /// - The [package_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:plus, install, installation.
   /// - It belongs to the categories: $extends:package
   ///
   /// Acknowledgements:
@@ -20683,7 +20731,7 @@ abstract final class LucideIcons {
 
   /// Represents the [package_question_mark] icon from the Lucide icon set.
   ///
-  /// ![package_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJWMTJsOC43MS01IiAvPgogIDxwYXRoIGQ9Ik0xNyAxNS4yN2MuMi0uNC41LS44LjktMWEyLjEgMi4xIDAgMCAxIDIuNi40Yy4zLjQuNS44LjUgMS4zIDAgMS4zLTIgMi0yIDIiIC8+CiAgPHBhdGggZD0iTTE5IDIxLjk5aC4wMSIgLz4KICA8cGF0aCBkPSJNMjEgMTAuMzQyVjhhMiAyIDAgMCAwLTEtMS43M2wtNy00YTIgMiAwIDAgMC0yIDBsLTcgNEEyIDIgMCAwIDAgMyA4djhhMiAyIDAgMCAwIDEgMS43M2w3IDRhMiAyIDAgMCAwIDIgMGwyLjMzLTEuMzMyIiAvPgogIDxwYXRoIGQ9Ik0zLjI5IDcgMTIgMTIiIC8+CiAgPHBhdGggZD0ibTcuNSA0LjI3IDkgNS4xNSIgLz4KPC9zdmc+Cg==)
+  /// ![package_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJWMTJsOC43MS01IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMC4zNDJWOGEyIDIgMCAwIDAtMS0xLjczbC03LTRhMiAyIDAgMCAwLTIgMGwtNyA0QTIgMiAwIDAgMCAzIDh2OGEyIDIgMCAwIDAgMSAxLjczbDcgNGEyIDIgMCAwIDAgMiAwbDIuMzMtMS4zMzIiIC8+CiAgPHBhdGggZD0iTTMuMjkgNyAxMiAxMiIgLz4KICA8cGF0aCBkPSJtNy41IDQuMjcgOSA1LjE1IiAvPgogIDxwYXRoIGQ9Ik0xOSAxOC41Yy41LTEgMi0xIDItMi41YTIgMiAwIDAwLTItMiAyLjUgMi41IDAgMDAtMiAxIiAvPgogIDxwYXRoIGQ9Ik0xOSAyMmguMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [package_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:question-mark, unresolved, placeholder, pending, lost, dependency.
@@ -20862,7 +20910,7 @@ abstract final class LucideIcons {
   /// ![panel_bottom_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNCAxNWgxIiAvPgogIDxwYXRoIGQ9Ik0xOSAxNWgyIiAvPgogIDxwYXRoIGQ9Ik0zIDE1aDIiIC8+CiAgPHBhdGggZD0iTTkgMTVoMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [panel_bottom_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-bottom, show, reveal, padding, margin, guide, layout, bleed.
+  /// - The [panel_bottom_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-bottom, $group:dashed, show, reveal, padding, margin, guide, layout, bleed.
   /// - It belongs to the categories: $extends:panel-bottom
   ///
   /// Acknowledgements:
@@ -20926,7 +20974,7 @@ abstract final class LucideIcons {
   /// ![panel_left_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik05IDE0djEiIC8+CiAgPHBhdGggZD0iTTkgMTl2MiIgLz4KICA8cGF0aCBkPSJNOSAzdjIiIC8+CiAgPHBhdGggZD0iTTkgOXYxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [panel_left_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-left, sidebar, show, reveal, padding, margin, guide, layout, bleed.
+  /// - The [panel_left_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-left, $group:dashed, sidebar, show, reveal, padding, margin, guide, layout, bleed.
   /// - It belongs to the categories: $extends:panel-left
   ///
   /// Acknowledgements:
@@ -20958,7 +21006,7 @@ abstract final class LucideIcons {
   /// ![panel_left_right_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTBWOSIgLz4KICA8cGF0aCBkPSJNMTUgMTV2LTEiIC8+CiAgPHBhdGggZD0iTTE1IDIxdi0yIiAvPgogIDxwYXRoIGQ9Ik0xNSA1VjMiIC8+CiAgPHBhdGggZD0iTTkgMTBWOSIgLz4KICA8cGF0aCBkPSJNOSAxNXYtMSIgLz4KICA8cGF0aCBkPSJNOSAyMXYtMiIgLz4KICA8cGF0aCBkPSJNOSA1VjMiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [panel_left_right_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-left, $group:position-right, sidebar, show, reveal, padding, margin, guide, layout, vertical, bleed.
+  /// - The [panel_left_right_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-left, $group:position-right, $group:dashed, sidebar, show, reveal, padding, margin, guide, layout, vertical, bleed.
   /// - It belongs to the categories: $extends:panel-left
   ///
   /// Acknowledgements:
@@ -21006,7 +21054,7 @@ abstract final class LucideIcons {
   /// ![panel_right_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNSAxNHYxIiAvPgogIDxwYXRoIGQ9Ik0xNSAxOXYyIiAvPgogIDxwYXRoIGQ9Ik0xNSAzdjIiIC8+CiAgPHBhdGggZD0iTTE1IDl2MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [panel_right_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-right, show, reveal, padding, margin, guide, layout, bleed.
+  /// - The [panel_right_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-right, $group:dashed, show, reveal, padding, margin, guide, layout, bleed.
   /// - It belongs to the categories: $extends:panel-right
   ///
   /// Acknowledgements:
@@ -21054,7 +21102,7 @@ abstract final class LucideIcons {
   /// ![panel_top_bottom_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMTVoMSIgLz4KICA8cGF0aCBkPSJNMTQgOWgxIiAvPgogIDxwYXRoIGQ9Ik0xOSAxNWgyIiAvPgogIDxwYXRoIGQ9Ik0xOSA5aDIiIC8+CiAgPHBhdGggZD0iTTMgMTVoMiIgLz4KICA8cGF0aCBkPSJNMyA5aDIiIC8+CiAgPHBhdGggZD0iTTkgMTVoMSIgLz4KICA8cGF0aCBkPSJNOSA5aDEiIC8+CiAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [panel_top_bottom_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-top, $group:position-bottom, sidebar, primary, show, reveal, padding, margin, guide, layout, horizontal, bleed.
+  /// - The [panel_top_bottom_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-top, $group:position-bottom, $group:dashed, sidebar, primary, show, reveal, padding, margin, guide, layout, horizontal, bleed.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
@@ -21086,7 +21134,7 @@ abstract final class LucideIcons {
   /// ![panel_top_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNCA5aDEiIC8+CiAgPHBhdGggZD0iTTE5IDloMiIgLz4KICA8cGF0aCBkPSJNMyA5aDIiIC8+CiAgPHBhdGggZD0iTTkgOWgxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [panel_top_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-top, menu bar, show, reveal, padding, margin, guide, layout, bleed.
+  /// - The [panel_top_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:panel-top, $group:dashed, menu bar, show, reveal, padding, margin, guide, layout, bleed.
   /// - It belongs to the categories: layout
   ///
   /// Acknowledgements:
@@ -21262,7 +21310,7 @@ abstract final class LucideIcons {
   /// ![party_popper](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNS44IDExLjMgMiAyMmwxMC43LTMuNzkiIC8+CiAgPHBhdGggZD0iTTQgM2guMDEiIC8+CiAgPHBhdGggZD0iTTIyIDhoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xNSAyaC4wMSIgLz4KICA8cGF0aCBkPSJNMjIgMjBoLjAxIiAvPgogIDxwYXRoIGQ9Im0yMiAyLTIuMjQuNzVhMi45IDIuOSAwIDAgMC0xLjk2IDMuMTJjLjEuODYtLjU3IDEuNjMtMS40NSAxLjYzaC0uMzhjLS44NiAwLTEuNi42LTEuNzYgMS40NEwxNCAxMCIgLz4KICA8cGF0aCBkPSJtMjIgMTMtLjgyLS4zM2MtLjg2LS4zNC0xLjgyLjItMS45OCAxLjExYy0uMTEuNy0uNzIgMS4yMi0xLjQzIDEuMjJIMTciIC8+CiAgPHBhdGggZD0ibTExIDIgLjMzLjgyYy4zNC44Ni0uMiAxLjgyLTEuMTEgMS45OEM5LjUyIDQuOSA5IDUuNTIgOSA2LjIzVjciIC8+CiAgPHBhdGggZD0iTTExIDEzYzEuOTMgMS45MyAyLjgzIDQuMTcgMiA1LS44My44My0zLjA3LS4wNy01LTItMS45My0xLjkzLTIuODMtNC4xNy0yLTUgLjgzLS44MyAzLjA3LjA3IDUgMloiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [party_popper] icon is a graphical symbol that conveys a specific idea or functionality related to emoji, congratulations, celebration, party, tada, 🎉, 🎊, excitement, exciting, excites, confetti.
+  /// - The [party_popper] icon is a graphical symbol that conveys a specific idea or functionality related to emoji, congratulations, celebration, party, tada, 🎉, 🎊, excitement, exciting, excites, confetti, welcome.
   /// - It belongs to the categories: emoji
   ///
   /// Acknowledgements:
@@ -21774,7 +21822,7 @@ abstract final class LucideIcons {
   /// ![piggy_bank](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTdoM3YyYTEgMSAwIDAgMCAxIDFoMmExIDEgMCAwIDAgMS0xdi0zYTMuMTYgMy4xNiAwIDAgMCAyLTJoMWExIDEgMCAwIDAgMS0xdi0yYTEgMSAwIDAgMC0xLTFoLTFhNSA1IDAgMCAwLTItNFYzYTQgNCAwIDAgMC0zLjIgMS42bC0uMy40SDExYTYgNiAwIDAgMC02IDZ2MWE1IDUgMCAwIDAgMiA0djNhMSAxIDAgMCAwIDEgMWgyYTEgMSAwIDAgMCAxLTF6IiAvPgogIDxwYXRoIGQ9Ik0xNiAxMGguMDEiIC8+CiAgPHBhdGggZD0iTTIgOHYxYTIgMiAwIDAgMCAyIDJoMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [piggy_bank] icon is a graphical symbol that conveys a specific idea or functionality related to money, savings.
+  /// - The [piggy_bank] icon is a graphical symbol that conveys a specific idea or functionality related to money, savings, budget.
   /// - It belongs to the categories: finance
   ///
   /// Acknowledgements:
@@ -21838,7 +21886,7 @@ abstract final class LucideIcons {
   /// ![pill](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAuNSAyMC41IDEwLTEwYTQuOTUgNC45NSAwIDEgMC03LTdsLTEwIDEwYTQuOTUgNC45NSAwIDEgMCA3IDdaIiAvPgogIDxwYXRoIGQ9Im04LjUgOC41IDcgNyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [pill] icon is a graphical symbol that conveys a specific idea or functionality related to medicine, medication, drug, prescription, tablet, pharmacy.
+  /// - The [pill] icon is a graphical symbol that conveys a specific idea or functionality related to medicine, medication, drug, prescription, tablet, pharmacy, sick, illness.
   /// - It belongs to the categories: medical
   ///
   /// Acknowledgements:
@@ -22254,7 +22302,7 @@ abstract final class LucideIcons {
   /// ![power](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYxMCIgLz4KICA8cGF0aCBkPSJNMTguNCA2LjZhOSA5IDAgMSAxLTEyLjc3LjA0IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [power] icon is a graphical symbol that conveys a specific idea or functionality related to on, off, device, switch, toggle, binary, boolean, reboot, restart, button, keyboard, troubleshoot.
+  /// - The [power] icon is a graphical symbol that conveys a specific idea or functionality related to on, off, device, switch, toggle, binary, boolean, reboot, restart, button, keyboard, troubleshoot, quit.
   /// - It belongs to the categories: devices
   ///
   /// Acknowledgements:
@@ -22286,7 +22334,7 @@ abstract final class LucideIcons {
   /// ![presentation](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAzaDIwIiAvPgogIDxwYXRoIGQ9Ik0yMSAzdjExYTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjMiIC8+CiAgPHBhdGggZD0ibTcgMjEgNS01IDUgNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [presentation] icon is a graphical symbol that conveys a specific idea or functionality related to screen, whiteboard, marker pens, markers, blackboard, chalk, easel, school, learning, lesson, office, meeting, project, planning.
+  /// - The [presentation] icon is a graphical symbol that conveys a specific idea or functionality related to screen, whiteboard, marker pens, markers, blackboard, chalk, easel, school, learning, lesson, office, meeting, project, planning, ppt, pptx, powerpoint, slides.
   /// - It belongs to the categories: multimedia, communication, design
   ///
   /// Acknowledgements:
@@ -22437,6 +22485,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData qr_code = IconData(
     0xe1df,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [question_mark] icon from the Lucide icon set.
+  ///
+  /// ![question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTVjMC0yLjQ4IDUtMi45OSA1LTYuNWE1IDQuNSAwIDAwLTEwIDAiIC8+CiAgPHBhdGggZD0iTTEyIDIwaC4wMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $group:question-mark.
+  /// - It belongs to the categories: text, notifications
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw)
+  static const IconData question_mark = IconData(
+    0xe851,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -22654,7 +22718,7 @@ abstract final class LucideIcons {
   /// ![receipt](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTdWNyIgLz4KICA8cGF0aCBkPSJNMTYgOGgtNmEyIDIgMCAwIDAgMCA0aDRhMiAyIDAgMCAxIDAgNEg4IiAvPgogIDxwYXRoIGQ9Ik00IDNhMSAxIDAgMCAxIDEtMSAxLjMgMS4zIDAgMCAxIC43LjJsLjkzMy42YTEuMyAxLjMgMCAwIDAgMS40IDBsLjkzNC0uNmExLjMgMS4zIDAgMCAxIDEuNCAwbC45MzMuNmExLjMgMS4zIDAgMCAwIDEuNCAwbC45MzMtLjZhMS4zIDEuMyAwIDAgMSAxLjQgMGwuOTM0LjZhMS4zIDEuMyAwIDAgMCAxLjQgMGwuOTMzLS42QTEuMyAxLjMgMCAwIDEgMTkgMmExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDEgMS4zIDEuMyAwIDAgMS0uNy0uMmwtLjkzMy0uNmExLjMgMS4zIDAgMCAwLTEuNCAwbC0uOTM0LjZhMS4zIDEuMyAwIDAgMS0xLjQgMGwtLjkzMy0uNmExLjMgMS4zIDAgMCAwLTEuNCAwbC0uOTMzLjZhMS4zIDEuMyAwIDAgMS0xLjQgMGwtLjkzNC0uNmExLjMgMS4zIDAgMCAwLTEuNCAwbC0uOTMzLjZhMS4zIDEuMyAwIDAgMS0uNy4yIDEgMSAwIDAgMS0xLTF6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [receipt] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, dollar, usd, $.
+  /// - The [receipt] icon is a graphical symbol that conveys a specific idea or functionality related to bill, voucher, slip, check, counterfoil, currency, dollar, usd, $, cashier.
   /// - It belongs to the categories: finance, shopping
   ///
   /// Acknowledgements:
@@ -23278,7 +23342,7 @@ abstract final class LucideIcons {
   /// ![rocket](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTV2NXMzLjAzLS41NSA0LTJjMS4wOC0xLjYyIDAtNSAwLTUiIC8+CiAgPHBhdGggZD0iTTQuNSAxNi41Yy0xLjUgMS4yNi0yIDUtMiA1czMuNzQtLjUgNS0yYy43MS0uODQuNy0yLjEzLS4wOS0yLjkxYTIuMTggMi4xOCAwIDAgMC0yLjkxLS4wOSIgLz4KICA8cGF0aCBkPSJNOSAxMmEyMiAyMiAwIDAgMSAyLTMuOTVBMTIuODggMTIuODggMCAwIDEgMjIgMmMwIDIuNzItLjc4IDcuNS02IDExYTIyLjQgMjIuNCAwIDAgMS00IDJ6IiAvPgogIDxwYXRoIGQ9Ik05IDEySDRzLjU1LTMuMDMgMi00YzEuNjItMS4wOCA1IC4wNSA1IC4wNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [rocket] icon is a graphical symbol that conveys a specific idea or functionality related to release, boost, launch, space, version.
+  /// - The [rocket] icon is a graphical symbol that conveys a specific idea or functionality related to release, boost, launch, space, version, deploy, deployment.
   /// - It belongs to the categories: gaming, development
   ///
   /// Acknowledgements:
@@ -23374,7 +23438,7 @@ abstract final class LucideIcons {
   /// ![rotate_ccw_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAxMmE5IDkgMCAxIDAgOS05IDkuNzUgOS43NSAwIDAgMC02Ljc0IDIuNzRMMyA4IiAvPgogIDxwYXRoIGQ9Ik0zIDN2NWg1IiAvPgogIDxwYXRoIGQ9Ik0xMiA3djVsNCAyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [rotate_ccw_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:rotate-ccw, $group:clock, timeline, version, time machine, ccw.
+  /// - The [rotate_ccw_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:rotate-ccw, $group:clock, timeline, version, time machine, ccw, changelog, release notes.
   /// - It belongs to the categories: arrows, time
   ///
   /// Acknowledgements:
@@ -23483,16 +23547,32 @@ abstract final class LucideIcons {
 
   /// Represents the [route] icon from the Lucide icon set.
   ///
-  /// ![route](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTkiIHI9IjMiIC8+CiAgPHBhdGggZD0iTTkgMTloOC41YTMuNSAzLjUgMCAwIDAgMC03aC0xMWEzLjUgMy41IDAgMCAxIDAtN0gxNSIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjUiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  /// ![route](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOSA1aDguNWExIDEgMCAwMTAgN2gtMTFhMSAxIDAgMDAwIDdIMTUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOSIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSI2IiBjeT0iNSIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [route] icon is a graphical symbol that conveys a specific idea or functionality related to path, journey, planner, points, stops, stations.
+  /// - The [route] icon is a graphical symbol that conveys a specific idea or functionality related to path, journey, planner, points, stops, stations, direction, right, flow, reroute, detour, navigate, forward, auto, map, waypoint, gps, turn, location, directional.
   /// - It belongs to the categories: navigation
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData route = IconData(
     0xe53e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [route_arrow_right] icon from the Lucide icon set.
+  ///
+  /// ![route_arrow_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTggMjIgMy0zLTMtMyIgLz4KICA8cGF0aCBkPSJNOSA1aDguNWExIDEgMCAwMTAgN2gtMTFhMSAxIDAgMDAwIDdIMjEiIC8+CiAgPGNpcmNsZSBjeD0iNiIgY3k9IjUiIHI9IjMiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [route_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:route, $group:direction-right, one-way, arrow.
+  /// - It belongs to the categories: $extends:route, arrows
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:route](https://github.com/$extends:route), [https://github.com/samuelalake](https://github.com/samuelalake)
+  static const IconData route_arrow_right = IconData(
+    0xe852,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -24110,7 +24190,7 @@ abstract final class LucideIcons {
   /// ![scissors_line_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNS40MiA5LjQyIDggMTIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjgiIHI9IjIiIC8+CiAgPHBhdGggZD0ibTE0IDYtOC41OCA4LjU4IiAvPgogIDxjaXJjbGUgY3g9IjQiIGN5PSIxNiIgcj0iMiIgLz4KICA8cGF0aCBkPSJNMTAuOCAxNC44IDE0IDE4IiAvPgogIDxwYXRoIGQ9Ik0xNiAxMmgtMiIgLz4KICA8cGF0aCBkPSJNMjIgMTJoLTIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [scissors_line_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:scissors, cut here, along, instructions, diagram.
+  /// - The [scissors_line_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:scissors, $group:dashed, cut here, along, instructions, diagram.
   /// - It belongs to the categories: design, tools
   ///
   /// Acknowledgements:
@@ -24222,7 +24302,7 @@ abstract final class LucideIcons {
   /// ![scroll_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMTJoLTUiIC8+CiAgPHBhdGggZD0iTTE1IDhoLTUiIC8+CiAgPHBhdGggZD0iTTE5IDE3VjVhMiAyIDAgMCAwLTItMkg0IiAvPgogIDxwYXRoIGQ9Ik04IDIxaDEyYTIgMiAwIDAgMCAyLTJ2LTFhMSAxIDAgMCAwLTEtMUgxMWExIDEgMCAwIDAtMSAxdjFhMiAyIDAgMSAxLTQgMFY1YTIgMiAwIDEgMC00IDB2MmExIDEgMCAwIDAgMSAxaDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [scroll_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:scroll.
+  /// - The [scroll_text] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:scroll, changelog, release notes.
   /// - It belongs to the categories: $extends:scroll
   ///
   /// Acknowledgements:
@@ -24318,7 +24398,7 @@ abstract final class LucideIcons {
   /// ![search_x](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTMuNSA4LjUtNSA1IiAvPgogIDxwYXRoIGQ9Im04LjUgOC41IDUgNSIgLz4KICA8Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4IiAvPgogIDxwYXRoIGQ9Im0yMSAyMS00LjMtNC4zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [search_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:search, $group:x, stop.
+  /// - The [search_x] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:search, $group:x, stop, 404, not found, page not found.
   /// - It belongs to the categories: $extends:search
   ///
   /// Acknowledgements:
@@ -24350,7 +24430,7 @@ abstract final class LucideIcons {
   /// ![send](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQuNTM2IDIxLjY4NmEuNS41IDAgMCAwIC45MzctLjAyNGw2LjUtMTlhLjQ5Ni40OTYgMCAwIDAtLjYzNS0uNjM1bC0xOSA2LjVhLjUuNSAwIDAgMC0uMDI0LjkzN2w3LjkzIDMuMThhMiAyIDAgMCAxIDEuMTEyIDEuMTF6IiAvPgogIDxwYXRoIGQ9Im0yMS44NTQgMi4xNDctMTAuOTQgMTAuOTM5IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [send] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, mail, paper airplane, paper aeroplane, submit.
+  /// - The [send] icon is a graphical symbol that conveys a specific idea or functionality related to email, message, mail, paper airplane, paper aeroplane, submit, invite, invitation.
   /// - It belongs to the categories: mail, communication
   ///
   /// Acknowledgements:
@@ -24606,7 +24686,7 @@ abstract final class LucideIcons {
   /// ![sheet](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByeT0iMiIgLz4KICA8bGluZSB4MT0iMyIgeDI9IjIxIiB5MT0iOSIgeTI9IjkiIC8+CiAgPGxpbmUgeDE9IjMiIHgyPSIyMSIgeTE9IjE1IiB5Mj0iMTUiIC8+CiAgPGxpbmUgeDE9IjkiIHgyPSI5IiB5MT0iOSIgeTI9IjIxIiAvPgogIDxsaW5lIHgxPSIxNSIgeDI9IjE1IiB5MT0iOSIgeTI9IjIxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [sheet] icon is a graphical symbol that conveys a specific idea or functionality related to spreadsheets, table, excel.
+  /// - The [sheet] icon is a graphical symbol that conveys a specific idea or functionality related to spreadsheets, table, excel, csv, xls, xlsx.
   /// - It belongs to the categories: text, files
   ///
   /// Acknowledgements:
@@ -24686,7 +24766,7 @@ abstract final class LucideIcons {
   /// ![shield_check](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0ibTkgMTIgMiAyIDQtNCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [shield_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:check, secured, guarded, defended, blocked, prevented, active, activated, enabled, scanned, found, audited, certification, certified, tested, passed, qualified, cleared, cleaned, disinfected, uninfected, checked.
+  /// - The [shield_check] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:check, secured, guarded, defended, blocked, prevented, active, activated, enabled, scanned, found, audited, certification, certified, tested, passed, qualified, cleared, cleaned, disinfected, uninfected, checked, insurance, guarantee, warranty.
   /// - It belongs to the categories: account, security, development, gaming
   ///
   /// Acknowledgements:
@@ -24750,7 +24830,7 @@ abstract final class LucideIcons {
   /// ![shield_exclamation_point](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTEyIDh2NCIgLz4KICA8cGF0aCBkPSJNMTIgMTZoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [shield_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, urgent, alarm, attacked, damaged, injured, hit, expired, disabled, inactive.
+  /// - The [shield_exclamation_point] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, alarm, attacked, damaged, injured, hit, expired, disabled, inactive.
   /// - It belongs to the categories: account, security, development, notifications, gaming
   ///
   /// Acknowledgements:
@@ -24875,7 +24955,7 @@ abstract final class LucideIcons {
 
   /// Represents the [shield_question_mark] icon from the Lucide icon set.
   ///
-  /// ![shield_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAgMS0uNjctLjAxQzcuNSAyMC41IDQgMTggNCAxM1Y2YTEgMSAwIDAgMSAxLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAgMSAxLjUyIDBDMTQuNTEgMy44MSAxNyA1IDE5IDVhMSAxIDAgMCAxIDEgMXoiIC8+CiAgPHBhdGggZD0iTTkuMSA5YTMgMyAwIDAgMSA1LjgyIDFjMCAyLTMgMy0zIDMiIC8+CiAgPHBhdGggZD0iTTEyIDE3aC4wMSIgLz4KPC9zdmc+Cg==)
+  /// ![shield_question_mark](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjAgMTNjMCA1LTMuNSA3LjUtNy42NiA4Ljk1YTEgMSAwIDAxLS42Ny0uMDFDNy41IDIwLjUgNCAxOCA0IDEzVjZhMSAxIDAgMDExLTFjMiAwIDQuNS0xLjIgNi4yNC0yLjcyYTEuMTcgMS4xNyAwIDAxMS41MiAwQzE0LjUxIDMuODEgMTcgNSAxOSA1YTEgMSAwIDAxMSAxeiIgLz4KICA8cGF0aCBkPSJNOSA5LjVhMyAyLjUgMCAwMTYgMGMwIDItMiAyLTMgMy41IiAvPgogIDxwYXRoIGQ9Ik0xMiAxN2guMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [shield_question_mark] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:shield, $group:question-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, unprevented, undetected, exploit, vulnerability, vulnerable, weakness, infection, compromised, data leak, unverified, uncertified, inactive.
@@ -26030,7 +26110,7 @@ abstract final class LucideIcons {
   /// ![square_arrow_down_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgMjFoNmEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMkg1YTIgMiAwIDAgMC0yIDJ2NiIgLz4KICA8cGF0aCBkPSJtMyAyMSA5LTkiIC8+CiAgPHBhdGggZD0iTTkgMjFIM3YtNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, outwards.
+  /// - The [square_arrow_down_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-left, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -26078,7 +26158,7 @@ abstract final class LucideIcons {
   /// ![square_arrow_down_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTFWNWEyIDIgMCAwIDAtMi0ySDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDYiIC8+CiAgPHBhdGggZD0ibTIxIDIxLTktOSIgLz4KICA8cGF0aCBkPSJNMjEgMTV2NmgtNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, outwards.
+  /// - The [square_arrow_down_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down-right, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -26270,7 +26350,7 @@ abstract final class LucideIcons {
   /// ![square_arrow_up_left_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM2g2YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ2LTYiIC8+CiAgPHBhdGggZD0ibTMgMyA5IDkiIC8+CiAgPHBhdGggZD0iTTMgOVYzaDYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, outwards.
+  /// - The [square_arrow_up_left_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-left, $group:exit.
   /// - It belongs to the categories: arrows
   ///
   /// Acknowledgements:
@@ -26318,7 +26398,7 @@ abstract final class LucideIcons {
   /// ![square_arrow_up_right_exit](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoNiIgLz4KICA8cGF0aCBkPSJtMjEgMy05IDkiIC8+CiAgPHBhdGggZD0iTTE1IDNoNnY2IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, outwards, share, open, external, link.
+  /// - The [square_arrow_up_right_exit] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up-right, $group:exit, share, open, external, link, redirect.
   /// - It belongs to the categories: arrows, social
   ///
   /// Acknowledgements:
@@ -26334,7 +26414,7 @@ abstract final class LucideIcons {
   /// ![square_asterisk](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djgiIC8+CiAgPHBhdGggZD0ibTguNSAxNCA3LTQiIC8+CiAgPHBhdGggZD0ibTguNSAxMCA3IDQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to password, secret, access, key, multiply, multiplication, glob pattern, wildcard, *.
+  /// - The [square_asterisk] icon is a graphical symbol that conveys a specific idea or functionality related to password, secret, access, key, multiply, multiplication, glob pattern, wildcard, *, required, mandatory.
   /// - It belongs to the categories: text, security, math, development
   ///
   /// Acknowledgements:
@@ -26366,7 +26446,7 @@ abstract final class LucideIcons {
   /// ![square_bottom_dashed_scissors](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMjFoMSIgLz4KICA8cGF0aCBkPSJtMTcgMTctMi4xOC0yLjE4IiAvPgogIDxwYXRoIGQ9Ik01IDIxYTIgMiAwIDAxLTItMlY1YTIgMiAwIDAxMi0yaDE0YTIgMiAwIDAxMiAydjE0YTIgMiAwIDAxLTIgMiIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik05LjU2IDE0LjQ0IDE3IDciIC8+CiAgPHBhdGggZD0iTTkuNTYgOS41NiAxMiAxMiIgLz4KICA8Y2lyY2xlIGN4PSI4LjUiIGN5PSIxNS41IiByPSIxLjUiIC8+CiAgPGNpcmNsZSBjeD0iOC41IiBjeT0iOC41IiByPSIxLjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_bottom_dashed_scissors] icon is a graphical symbol that conveys a specific idea or functionality related to cut, snippet, chop, stationery, crafts.
+  /// - The [square_bottom_dashed_scissors] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, cut, snippet, chop, stationery, crafts.
   /// - It belongs to the categories: text, design, tools, files, development
   ///
   /// Acknowledgements:
@@ -26382,7 +26462,7 @@ abstract final class LucideIcons {
   /// ![square_centerline_dashed_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAzSDVhMiAyIDAgMCAwLTIgMnYxNGMwIDEuMS45IDIgMiAyaDMiIC8+CiAgPHBhdGggZD0iTTE2IDNoM2EyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJoLTMiIC8+CiAgPHBhdGggZD0iTTEyIDIwdjIiIC8+CiAgPHBhdGggZD0iTTEyIDE0djIiIC8+CiAgPHBhdGggZD0iTTEyIDh2MiIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_centerline_dashed_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - The [square_centerline_dashed_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, reflect, mirror, alignment.
   /// - It belongs to the categories: design, photography
   ///
   /// Acknowledgements:
@@ -26398,7 +26478,7 @@ abstract final class LucideIcons {
   /// ![square_centerline_dashed_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgOFY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjMiIC8+CiAgPHBhdGggZD0iTTIxIDE2djNhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ2LTMiIC8+CiAgPHBhdGggZD0iTTQgMTJIMiIgLz4KICA8cGF0aCBkPSJNMTAgMTJIOCIgLz4KICA8cGF0aCBkPSJNMTYgMTJoLTIiIC8+CiAgPHBhdGggZD0iTTIyIDEyaC0yIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_centerline_dashed_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - The [square_centerline_dashed_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, reflect, mirror, alignment.
   /// - It belongs to the categories: design, photography
   ///
   /// Acknowledgements:
@@ -26606,7 +26686,7 @@ abstract final class LucideIcons {
   /// ![square_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAzYTIgMiAwIDAgMC0yIDIiIC8+CiAgPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMiIgLz4KICA8cGF0aCBkPSJNMjEgMTlhMiAyIDAgMCAxLTIgMiIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik0xNCAzaDEiIC8+CiAgPHBhdGggZD0iTTE0IDIxaDEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgogIDxwYXRoIGQ9Ik0yMSA5djEiIC8+CiAgPHBhdGggZD0iTTMgMTR2MSIgLz4KICA8cGF0aCBkPSJNMjEgMTR2MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to selection, square, rectangular, marquee, tool, dashed, box, region, area, region of interest.
+  /// - The [square_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, selection, square, rectangular, marquee, tool, box, region, area, region of interest.
   /// - It belongs to the categories: design, cursors
   ///
   /// Acknowledgements:
@@ -26622,7 +26702,7 @@ abstract final class LucideIcons {
   /// ![square_dashed_bottom](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDIiIC8+CiAgPHBhdGggZD0iTTkgMjFoMSIgLz4KICA8cGF0aCBkPSJNMTQgMjFoMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_dashed_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 1:1, shape, snippet, code, coding.
+  /// - The [square_dashed_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, rectangle, aspect ratio, 1:1, shape, snippet, code, coding.
   /// - It belongs to the categories: development, files
   ///
   /// Acknowledgements:
@@ -26654,7 +26734,7 @@ abstract final class LucideIcons {
   /// ![square_dashed_kanban](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCA3djciIC8+CiAgPHBhdGggZD0iTTEyIDd2NCIgLz4KICA8cGF0aCBkPSJNMTYgN3Y5IiAvPgogIDxwYXRoIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMiIgLz4KICA8cGF0aCBkPSJNOSAzaDEiIC8+CiAgPHBhdGggZD0iTTE0IDNoMSIgLz4KICA8cGF0aCBkPSJNMTkgM2EyIDIgMCAwIDEgMiAyIiAvPgogIDxwYXRoIGQ9Ik0yMSA5djEiIC8+CiAgPHBhdGggZD0iTTIxIDE0djEiIC8+CiAgPHBhdGggZD0iTTIxIDE5YTIgMiAwIDAgMS0yIDIiIC8+CiAgPHBhdGggZD0iTTE0IDIxaDEiIC8+CiAgPHBhdGggZD0iTTkgMjFoMSIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik0zIDE0djEiIC8+CiAgPHBhdGggZD0iTTMgOXYxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_dashed_kanban] icon is a graphical symbol that conveys a specific idea or functionality related to projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding.
+  /// - The [square_dashed_kanban] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding.
   /// - It belongs to the categories: charts, development
   ///
   /// Acknowledgements:
@@ -26670,7 +26750,7 @@ abstract final class LucideIcons {
   /// ![square_dashed_mouse_pointer](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuMDM0IDEyLjY4MWEuNDk4LjQ5OCAwIDAgMSAuNjQ3LS42NDdsOSAzLjVhLjUuNSAwIDAgMS0uMDMzLjk0M2wtMy40NDQgMS4wNjhhMSAxIDAgMCAwLS42Ni42NmwtMS4wNjcgMy40NDNhLjUuNSAwIDAgMS0uOTQzLjAzM3oiIC8+CiAgPHBhdGggZD0iTTUgM2EyIDIgMCAwIDAtMiAyIiAvPgogIDxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDIiIC8+CiAgPHBhdGggZD0iTTUgMjFhMiAyIDAgMCAxLTItMiIgLz4KICA8cGF0aCBkPSJNOSAzaDEiIC8+CiAgPHBhdGggZD0iTTkgMjFoMiIgLz4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Ik0zIDl2MSIgLz4KICA8cGF0aCBkPSJNMjEgOXYyIiAvPgogIDxwYXRoIGQ9Ik0zIDE0djEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [square_dashed_mouse_pointer] icon is a graphical symbol that conveys a specific idea or functionality related to inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node.
+  /// - The [square_dashed_mouse_pointer] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node.
   /// - It belongs to the categories: cursors, development
   ///
   /// Acknowledgements:
@@ -26718,7 +26798,7 @@ abstract final class LucideIcons {
   /// ![square_dashed_text](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMjFoMSIgLz4KICA8cGF0aCBkPSJNMTQgM2gxIiAvPgogIDxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDIiIC8+CiAgPHBhdGggZD0iTTIxIDE0djEiIC8+CiAgPHBhdGggZD0iTTIxIDE5YTIgMiAwIDAgMS0yIDIiIC8+CiAgPHBhdGggZD0iTTIxIDl2MSIgLz4KICA8cGF0aCBkPSJNMyAxNHYxIiAvPgogIDxwYXRoIGQ9Ik0zIDl2MSIgLz4KICA8cGF0aCBkPSJNNSAyMWEyIDIgMCAwIDEtMi0yIiAvPgogIDxwYXRoIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMiIgLz4KICA8cGF0aCBkPSJNNyAxMmgxMCIgLz4KICA8cGF0aCBkPSJNNyAxNmg2IiAvPgogIDxwYXRoIGQ9Ik03IDhoOCIgLz4KICA8cGF0aCBkPSJNOSAyMWgxIiAvPgogIDxwYXRoIGQ9Ik05IDNoMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [square_dashed_text] icon is a graphical symbol that conveys a specific idea or functionality related to find, search, selection, dashed.
+  /// - The [square_dashed_text] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, find, search, selection.
   /// - It belongs to the categories: text, cursors
   ///
   /// Acknowledgements:
@@ -27854,7 +27934,7 @@ abstract final class LucideIcons {
   /// ![square_terminal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtNyAxMSAyLTItMi0yIiAvPgogIDxwYXRoIGQ9Ik0xMSAxM2g0IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [square_terminal] icon is a graphical symbol that conveys a specific idea or functionality related to code, command line, prompt, shell.
+  /// - The [square_terminal] icon is a graphical symbol that conveys a specific idea or functionality related to $group:code, code, command line, prompt, shell.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -28014,7 +28094,7 @@ abstract final class LucideIcons {
   /// ![squircle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMuNzcgMy4wNDNhMzQgMzQgMCAwIDAtMy41NCAwIiAvPgogIDxwYXRoIGQ9Ik0xMy43NzEgMjAuOTU2YTMzIDMzIDAgMCAxLTMuNTQxLjAwMSIgLz4KICA8cGF0aCBkPSJNMjAuMTggMTcuNzRjLS41MSAxLjE1LTEuMjkgMS45My0yLjQzOSAyLjQ0IiAvPgogIDxwYXRoIGQ9Ik0yMC4xOCA2LjI1OWMtLjUxLTEuMTQ4LTEuMjkxLTEuOTI5LTIuNDQtMi40MzgiIC8+CiAgPHBhdGggZD0iTTIwLjk1NyAxMC4yM2EzMyAzMyAwIDAgMSAwIDMuNTQiIC8+CiAgPHBhdGggZD0iTTMuMDQzIDEwLjIzYTM0IDM0IDAgMCAwIC4wMDEgMy41NDEiIC8+CiAgPHBhdGggZD0iTTYuMjYgMjAuMTc5Yy0xLjE1LS41MDgtMS45My0xLjI5LTIuNDQtMi40MzgiIC8+CiAgPHBhdGggZD0iTTYuMjYgMy44MmMtMS4xNDkuNTEtMS45MyAxLjI5MS0yLjQ0IDIuNDQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [squircle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:squircle, pending, progress, issue, draft, code, coding, version control.
+  /// - The [squircle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:squircle, $group:dashed, pending, progress, issue, draft, code, coding, version control.
   /// - It belongs to the categories: $extends:squircle, development, design
   ///
   /// Acknowledgements:
@@ -28206,7 +28286,7 @@ abstract final class LucideIcons {
   /// ![stethoscope](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMnYyIiAvPgogIDxwYXRoIGQ9Ik01IDJ2MiIgLz4KICA8cGF0aCBkPSJNNSAzSDRhMiAyIDAgMCAwLTIgMnY0YTYgNiAwIDAgMCAxMiAwVjVhMiAyIDAgMCAwLTItMmgtMSIgLz4KICA8cGF0aCBkPSJNOCAxNWE2IDYgMCAwIDAgMTIgMHYtMyIgLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjEwIiByPSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [stethoscope] icon is a graphical symbol that conveys a specific idea or functionality related to phonendoscope, medical, heart, lungs, sound.
+  /// - The [stethoscope] icon is a graphical symbol that conveys a specific idea or functionality related to phonendoscope, medical, heart, lungs, sound, patient.
   /// - It belongs to the categories: science, medical
   ///
   /// Acknowledgements:
@@ -28366,7 +28446,7 @@ abstract final class LucideIcons {
   /// ![store](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMjF2LTVhMSAxIDAgMCAwLTEtMWgtNGExIDEgMCAwIDAtMSAxdjUiIC8+CiAgPHBhdGggZD0iTTE3Ljc3NCAxMC4zMWExLjEyIDEuMTIgMCAwIDAtMS41NDkgMCAyLjUgMi41IDAgMCAxLTMuNDUxIDAgMS4xMiAxLjEyIDAgMCAwLTEuNTQ4IDAgMi41IDIuNSAwIDAgMS0zLjQ1MiAwIDEuMTIgMS4xMiAwIDAgMC0xLjU0OSAwIDIuNSAyLjUgMCAwIDEtMy43Ny0zLjI0OGwyLjg4OS00LjE4NEEyIDIgMCAwIDEgNyAyaDEwYTIgMiAwIDAgMSAxLjY1My44NzNsMi44OTUgNC4xOTJhMi41IDIuNSAwIDAgMS0zLjc3NCAzLjI0NCIgLz4KICA8cGF0aCBkPSJNNCAxMC45NVYxOWEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJ2LTguMDUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [store] icon is a graphical symbol that conveys a specific idea or functionality related to shop, supermarket, stand, boutique, building.
+  /// - The [store] icon is a graphical symbol that conveys a specific idea or functionality related to shop, supermarket, stand, boutique, building, sell, selling, merchant.
   /// - It belongs to the categories: buildings, navigation, shopping
   ///
   /// Acknowledgements:
@@ -28782,7 +28862,7 @@ abstract final class LucideIcons {
   /// ![table](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxOCIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0zIDloMTgiIC8+CiAgPHBhdGggZD0iTTMgMTVoMTgiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [table] icon is a graphical symbol that conveys a specific idea or functionality related to spreadsheet, grid.
+  /// - The [table] icon is a graphical symbol that conveys a specific idea or functionality related to spreadsheet, grid, csv, xls, xlsx, excel.
   /// - It belongs to the categories: text, files
   ///
   /// Acknowledgements:
@@ -28958,7 +29038,7 @@ abstract final class LucideIcons {
   /// ![tag](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNTg2IDIuNTg2QTIgMiAwIDAgMCAxMS4xNzIgMkg0YTIgMiAwIDAgMC0yIDJ2Ny4xNzJhMiAyIDAgMCAwIC41ODYgMS40MTRsOC43MDQgOC43MDRhMi40MjYgMi40MjYgMCAwIDAgMy40MiAwbDYuNTgtNi41OGEyLjQyNiAyLjQyNiAwIDAgMCAwLTMuNDJ6IiAvPgogIDxjaXJjbGUgY3g9IjcuNSIgY3k9IjcuNSIgcj0iLjUiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [tag] icon is a graphical symbol that conveys a specific idea or functionality related to label, badge, ticket, mark.
+  /// - The [tag] icon is a graphical symbol that conveys a specific idea or functionality related to label, badge, ticket, mark, sell, selling, promotion, promo.
   /// - It belongs to the categories: account, shopping
   ///
   /// Acknowledgements:
@@ -29118,7 +29198,7 @@ abstract final class LucideIcons {
   /// ![target](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [target] icon is a graphical symbol that conveys a specific idea or functionality related to logo, bullseye, deadline, projects, overview, work, productivity.
+  /// - The [target] icon is a graphical symbol that conveys a specific idea or functionality related to logo, bullseye, deadline, projects, overview, work, productivity, result, outcome, objective, okr.
   /// - It belongs to the categories: gaming
   ///
   /// Acknowledgements:
@@ -29182,7 +29262,7 @@ abstract final class LucideIcons {
   /// ![terminal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTloOCIgLz4KICA8cGF0aCBkPSJtNCAxNyA2LTYtNi02IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [terminal] icon is a graphical symbol that conveys a specific idea or functionality related to code, command line, prompt, shell.
+  /// - The [terminal] icon is a graphical symbol that conveys a specific idea or functionality related to $group:code, code, command line, prompt, shell.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -29401,6 +29481,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [text_pen] icon from the Lucide icon set.
+  ///
+  /// ![text_pen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJIMyIgLz4KICA8cGF0aCBkPSJNMjEgNUgzIiAvPgogIDxwYXRoIGQ9Ik0yMS4zNzcgMTQuNjI2YTEgMSAwIDEwLTMuMDA0LTMuMDA0bC01LjAxIDUuMDEyYTIgMiAwIDAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAwLjYyLjYybDIuODctLjgzN2EyIDIgMCAwMC44NTQtLjUwNnoiIC8+CiAgPHBhdGggZD0iTTggMTlIMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [text_pen] icon is a graphical symbol that conveys a specific idea or functionality related to $group:pen, quick, autosave, prompt, scratch, authoring.
+  /// - It belongs to the categories: text, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/rrod497](https://github.com/rrod497)
+  static const IconData text_pen = IconData(
+    0xe853,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [text_quote] icon from the Lucide icon set.
   ///
   /// ![text_quote](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgNUgzIiAvPgogIDxwYXRoIGQ9Ik0yMSAxMkg4IiAvPgogIDxwYXRoIGQ9Ik0yMSAxOUg4IiAvPgogIDxwYXRoIGQ9Ik0zIDEydjciIC8+Cjwvc3ZnPgo=)
@@ -29534,7 +29630,7 @@ abstract final class LucideIcons {
   /// ![thumbs_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgNS44OCAxNCAxMGg1LjgzYTIgMiAwIDAgMSAxLjkyIDIuNTZsLTIuMzMgOEEyIDIgMCAwIDEgMTcuNSAyMkg0YTIgMiAwIDAgMS0yLTJ2LThhMiAyIDAgMCAxIDItMmgyLjc2YTIgMiAwIDAgMCAxLjc5LTEuMTFMMTIgMmEzLjEzIDMuMTMgMCAwIDEgMyAzLjg4WiIgLz4KICA8cGF0aCBkPSJNNyAxMHYxMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [thumbs_up] icon is a graphical symbol that conveys a specific idea or functionality related to like, good, emotion.
+  /// - The [thumbs_up] icon is a graphical symbol that conveys a specific idea or functionality related to like, good, emotion, recommend, recommendation.
   /// - It belongs to the categories: social, emoji
   ///
   /// Acknowledgements:
@@ -29566,7 +29662,7 @@ abstract final class LucideIcons {
   /// ![ticket](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA5YTMgMyAwIDAgMSAwIDZ2MmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJ2LTJhMyAzIDAgMCAxIDAtNlY3YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAyWiIgLz4KICA8cGF0aCBkPSJNMTMgNXYyIiAvPgogIDxwYXRoIGQ9Ik0xMyAxN3YyIiAvPgogIDxwYXRoIGQ9Ik0xMyAxMXYyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [ticket] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, perforated, dashed.
+  /// - The [ticket] icon is a graphical symbol that conveys a specific idea or functionality related to entry, pass, voucher, event, concert, show, perforated, dashed, invite, invitation.
   /// - It belongs to the categories: account, transportation
   ///
   /// Acknowledgements:
@@ -30302,7 +30398,7 @@ abstract final class LucideIcons {
   /// ![triangle_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMTcgNC4xOTNhMiAyIDAgMCAxIDMuNjY2LjAxMyIgLz4KICA8cGF0aCBkPSJNMTQgMjFoMiIgLz4KICA8cGF0aCBkPSJtMTUuODc0IDcuNzQzIDEgMS43MzIiIC8+CiAgPHBhdGggZD0ibTE4Ljg0OSAxMi45NTIgMSAxLjczMiIgLz4KICA8cGF0aCBkPSJNMjEuODI0IDE4LjE4YTIgMiAwIDAgMS0xLjgzNSAyLjgyNCIgLz4KICA8cGF0aCBkPSJNNC4wMjQgMjFhMiAyIDAgMCAxLTEuODM5LTIuODM5IiAvPgogIDxwYXRoIGQ9Im01LjEzNiAxMi45NTItMSAxLjczMiIgLz4KICA8cGF0aCBkPSJNOCAyMWgyIiAvPgogIDxwYXRoIGQ9Im04LjEwMiA3Ljc0My0xIDEuNzMyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [triangle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:triangle, dashed.
+  /// - The [triangle_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:triangle, $group:dashed.
   /// - It belongs to the categories: $extends:triangle
   ///
   /// Acknowledgements:
@@ -30350,7 +30446,7 @@ abstract final class LucideIcons {
   /// ![triangles_centerline_dashed_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTJIOCIgLz4KICA8cGF0aCBkPSJNMTYgMTJoLTIiIC8+CiAgPHBhdGggZD0iTTIyIDEyaC0yIiAvPgogIDxwYXRoIGQ9Ik00IDEySDIiIC8+CiAgPHBhdGggZD0iTTcuMjk4IDIwLjI4OEExIDEgMCAwMDggMjJoOGExIDEgMCAwMC43MDMtMS43MTJsLTMuOTkxLTMuOTlhMSAxIDAgMDAtMS40MjQtLjAwMXoiIC8+CiAgPHBhdGggZD0iTTcuMjk4IDMuNzEyQTEgMSAwIDAxOCAyaDhhMSAxIDAgMDEuNzAzIDEuNzEybC0zLjk5MSAzLjk5YTEgMSAwIDAxLTEuNDI0LjAwMXoiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [triangles_centerline_dashed_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - The [triangles_centerline_dashed_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, reflect, mirror, alignment.
   /// - It belongs to the categories: design, photography
   ///
   /// Acknowledgements:
@@ -30366,7 +30462,7 @@ abstract final class LucideIcons {
   /// ![triangles_centerline_dashed_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTR2MiIgLz4KICA8cGF0aCBkPSJNMTIgMjB2MiIgLz4KICA8cGF0aCBkPSJNMTIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xMiA4djIiIC8+CiAgPHBhdGggZD0iTTIwLjI4OCAxNi43MDNBMSAxIDAgMDAyMiAxNlY4YTEgMSAwIDAwLTEuNzEyLS43MDNsLTMuOTkgMy45OTFhMSAxIDAgMDAtLjAwMSAxLjQyNHoiIC8+CiAgPHBhdGggZD0iTTMuNzEyIDE2LjcwM0ExIDEgMCAwMTIgMTZWOGExIDEgMCAwMTEuNzEyLS43MDNsMy45OSAzLjk5MWExIDEgMCAwMS4wMDEgMS40MjR6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [triangles_centerline_dashed_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to reflect, mirror, alignment, dashed.
+  /// - The [triangles_centerline_dashed_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to $group:dashed, reflect, mirror, alignment.
   /// - It belongs to the categories: design, photography
   ///
   /// Acknowledgements:
@@ -30382,7 +30478,7 @@ abstract final class LucideIcons {
   /// ![trophy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTQuNjZWMTdhMSAxIDAgMCAxLTEgMSAyIDIgMCAwIDAtMiAydjIiIC8+CiAgPHBhdGggZD0iTTE0IDE0LjY2VjE3YTEgMSAwIDAgMCAxIDEgMiAyIDAgMCAxIDIgMnYyIiAvPgogIDxwYXRoIGQ9Ik0xNy45MTYgMTBIMTkuNUEyLjUgMi41IDAgMCAwIDIyIDcuNVY1YTEgMSAwIDAgMC0xLTFoLTMiIC8+CiAgPHBhdGggZD0iTTQgMjJoMTYiIC8+CiAgPHBhdGggZD0iTTYgOWE2IDYgMCAwIDAgMTIgMFYzYTEgMSAwIDAgMC0xLTFIN2ExIDEgMCAwIDAtMSAxeiIgLz4KICA8cGF0aCBkPSJNNi4wODQgMTBINC41QTIuNSAyLjUgMCAwIDEgMiA3LjVWNWExIDEgMCAwIDEgMS0xaDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [trophy] icon is a graphical symbol that conveys a specific idea or functionality related to prize, sports, winner, achievement, award, champion, celebration, victory, competition, tournament, leaderboard, ranking, success, reward, cup, first, gold.
+  /// - The [trophy] icon is a graphical symbol that conveys a specific idea or functionality related to prize, sports, winner, achievement, award, champion, celebration, victory, competition, tournament, leaderboard, ranking, success, reward, cup, first, gold, result.
   /// - It belongs to the categories: sports, gaming
   ///
   /// Acknowledgements:
@@ -30574,7 +30670,7 @@ abstract final class LucideIcons {
   /// ![umbrella](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2N2EyIDIgMCAwIDAgNCAwIiAvPgogIDxwYXRoIGQ9Ik0xMiAydjIiIC8+CiAgPHBhdGggZD0iTTIwLjk5MiAxM2ExIDEgMCAwIDAgLjk3LTEuMjc0IDEwLjI4NCAxMC4yODQgMCAwIDAtMTkuOTIzIDBBMSAxIDAgMCAwIDMgMTN6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [umbrella] icon is a graphical symbol that conveys a specific idea or functionality related to rain, weather.
+  /// - The [umbrella] icon is a graphical symbol that conveys a specific idea or functionality related to rain, weather, insurance, coverage.
   /// - It belongs to the categories: weather
   ///
   /// Acknowledgements:
@@ -30974,7 +31070,7 @@ abstract final class LucideIcons {
   /// ![user_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMjF2LTJhNCA0IDAgMCAwLTQtNEg2YTQgNCAwIDAgMC00IDR2MiIgLz4KICA8Y2lyY2xlIGN4PSI5IiBjeT0iNyIgcj0iNCIgLz4KICA8bGluZSB4MT0iMTkiIHgyPSIxOSIgeTE9IjgiIHkyPSIxNCIgLz4KICA8bGluZSB4MT0iMjIiIHgyPSIxNiIgeTE9IjExIiB5Mj0iMTEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [user_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user, $group:plus, follow, subscribe.
+  /// - The [user_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user, $group:plus, follow, subscribe, invite, invitation.
   /// - It belongs to the categories: $extends:user
   ///
   /// Acknowledgements:
@@ -31134,7 +31230,7 @@ abstract final class LucideIcons {
   /// ![user_round_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMWE4IDggMCAwIDEgMTMuMjkyLTYiIC8+CiAgPGNpcmNsZSBjeD0iMTAiIGN5PSI4IiByPSI1IiAvPgogIDxwYXRoIGQ9Ik0xOSAxNnY2IiAvPgogIDxwYXRoIGQ9Ik0yMiAxOWgtNiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [user_round_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user-round, $group:plus, follow, subscribe.
+  /// - The [user_round_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user-round, $group:plus, follow, subscribe, invite, invitation.
   /// - It belongs to the categories: $extends:user-round
   ///
   /// Acknowledgements:
@@ -31790,7 +31886,7 @@ abstract final class LucideIcons {
   /// ![wallet](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTkgN1Y0YTEgMSAwIDAgMC0xLTFINWEyIDIgMCAwIDAgMCA0aDE1YTEgMSAwIDAgMSAxIDF2NGgtM2EyIDIgMCAwIDAgMCA0aDNhMSAxIDAgMCAwIDEtMXYtMmExIDEgMCAwIDAtMS0xIiAvPgogIDxwYXRoIGQ9Ik0zIDV2MTRhMiAyIDAgMCAwIDIgMmgxNWExIDEgMCAwIDAgMS0xdi00IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [wallet] icon is a graphical symbol that conveys a specific idea or functionality related to money, finance, pocket.
+  /// - The [wallet] icon is a graphical symbol that conveys a specific idea or functionality related to money, finance, pocket, budget.
   /// - It belongs to the categories: account, finance
   ///
   /// Acknowledgements:
@@ -32414,7 +32510,7 @@ abstract final class LucideIcons {
   /// ![workflow](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik03IDExdjRhMiAyIDAgMCAwIDIgMmg0IiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTMiIHk9IjEzIiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [workflow] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, action, continuous integration, ci, automation, devops, node, connection.
+  /// - The [workflow] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, action, continuous integration, ci, automation, devops, node, connection, ci/cd, cicd, pipeline, deploy.
   /// - It belongs to the categories: development
   ///
   /// Acknowledgements:
@@ -32510,7 +32606,7 @@ abstract final class LucideIcons {
   /// ![zap](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuOTE0IDRhMS41IDEuNSAwIDAwLTIuNDc0LTEuNTYxbC05IDlBMS41IDEuNSAwIDAwNS41IDE0aDQuMDAyYS41LjUgMCAwMS40NzEuNjY2TDguMDg2IDIwYTEuNSAxLjUgMCAwMDIuNDc1IDEuNTZsOS05QTEuNSAxLjUgMCAwMDE4LjUgMTBoLTMuOTk3YS41LjUgMCAwMS0uNDcyLS42Njd6IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [zap] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy, power, quick.
+  /// - The [zap] icon is a graphical symbol that conveys a specific idea or functionality related to flash, camera, lightning, electricity, energy, power, quick, thunder, thunderbolt.
   /// - It belongs to the categories: photography, weather, devices
   ///
   /// Acknowledgements:

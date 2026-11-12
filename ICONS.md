@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2046** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2052** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -107,7 +107,8 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `arrow-up-wide-narrow` | $group:direction-up, $group:sort | $extends:arrow-up, text, layout |
 | `arrow-up-z-a` | $group:letter, $group:direction-up, $group:sort, alphabetical, reverse | $extends:arrow-up, text, layout |
 | `arrows-up-from-line` | $group:direction-up, orientation, this way up, package, box, fragile, postage, shipping | arrows, transportation |
-| `asterisk` | symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, * | text, math, development |
+| `asterisk` | symbol, mark, pointer, pencil, sign, alert, notification, indicator, symbolic, reference, times, multiply, multiplication, operator, code, glob pattern, wildcard, *, required, mandatory | text, math, development |
+| `asterism` | asterisk, fediverse, activitypub, symbol, typography, social, decentralized, federation, stars, three, ornament, punctuation, divider | text |
 | `astroid` | star, math, shape, curve, sharp, four-pointed, hypocycloid, ai, artificial intelligence | shapes, math |
 | `at-sign` | $group:letter, mention, at, email, message, @ | text, account, mail |
 | `atom` | atomic, nuclear, physics, particle, element, molecule, electricity, energy, chemistry | science |
@@ -116,7 +117,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `audio-lines-x` | $extends:audio-lines, $group:x, mute, silence, disabled, unavailable, equalizer, equaliser, waveform | $extends:audio-lines |
 | `audio-waveform` | sound, noise, listen, hearing, hertz, frequency, wavelength, vibrate, sine, synthesizer, synthesiser, levels, track, music, playback, radio, broadcast, airwaves, voice, vocals, singer, song | multimedia, communication |
 | `avocado` | fruit, snack, meal, lunch, ingredient, cooking, cookery, kitchen, cuisine, eating, healthy, nutrition, diet, guacamole, mexican, green, pit, seed, half, produce, vegetarian, vegan, grocery, supermarket, toast, superfood, plant based, ripe | food-beverage |
-| `award` | achievement, badge, rosette, prize, winner | account, sports, gaming |
+| `award` | achievement, badge, rosette, prize, winner, skill, skills, expertise | account, sports, gaming |
 | `axe` | hatchet, weapon, chop, sharp, equipment, fireman, firefighter, brigade, lumberjack, woodcutter, logger, forestry | tools, gaming |
 | `axis-3d` | gizmo, coordinates, model | design |
 | `azerbaijani-manat` | $group:currency, azerbaijan, azn | finance |
@@ -125,7 +126,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bacon` | rashers, smoked, streaky, crispy, meat, fast food, junk food, snack, dish, restaurant, brunch, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, pig, pork, breakfast, cured, butcher, sandwich, protein, grocery, kitchen | food-beverage |
 | `badge` | seal, emblem, rosette, insignia, sticker, stamp, label, award, achievement, certification, official, status, starburst, scalloped, shape | account, social, shapes |
 | `badge-cent` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, cents, dollar, usd, $, ¢ | shopping, finance |
-| `badge-check` | $extends:badge, $group:check | social |
+| `badge-check` | $extends:badge, $group:check, premium, vip, exclusive, pro, guarantee, warranty | social |
 | `badge-dollar-sign` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, usd, $ | shopping, finance |
 | `badge-euro` | $group:currency, discount, offer, sale, voucher, tag, marketing, € | shopping, finance |
 | `badge-exclamation-point` | $extends:badge, $group:exclamation-mark, security, safety, issue | account, social |
@@ -133,7 +134,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `badge-info` | $extends:badge, $group:letter, help | letters-digits, account, accessibility, social |
 | `badge-japanese-yen` | $group:currency, discount, offer, sale, voucher, tag, marketing, jpy, ¥ | shopping, finance |
 | `badge-minus` | $extends:badge, $group:minus | social |
-| `badge-percent` | $extends:badge, $group:percent | finance, shopping, math |
+| `badge-percent` | $extends:badge, $group:percent, sell, selling, promotion, promo | finance, shopping, math |
 | `badge-plus` | $extends:badge, $group:plus | social |
 | `badge-pound-sterling` | discount, offer, sale, voucher, tag, monetization, marketing, finance, financial, exchange, transaction, payment, british, gbp, £ | shopping, finance |
 | `badge-question-mark` | $extends:badge, $group:question-mark | accessibility, social |
@@ -146,9 +147,9 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `balloon` | party, festival, congratulations, celebration, decoration, colorful, floating, fun, birthday, event, entertainment | emoji |
 | `ban` | cancel, no, stop, forbidden, prohibited, error, incorrect, mistake, wrong, failure, circle, slash, null, void | account |
 | `banana` | fruit, food | food-beverage |
-| `bandage` | plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety, patch | medical |
+| `bandage` | plaster, band-aid, first aid, medical, health, wound, injury, care, treatment, healing, protection, emergency, aid, safety, patch, patient | medical |
 | `bangladeshi-taka` | $group:currency, bdt, ৳, remittance, ecommerce | finance |
-| `banknote` | currency, money, payment, bill, cash, funds, transaction, finance | finance |
+| `banknote` | currency, money, payment, bill, cash, funds, transaction, finance, salary | finance |
 | `banknote-arrow-down` | $extends:banknote, $group:direction-down, withdraw, expense, out, payout, refund, debit, spending, decrease | $extends:banknote |
 | `banknote-arrow-up` | $extends:banknote, $group:direction-up, deposit, earnings, income, in, credit, prepaid, growth, increase | $extends:banknote |
 | `banknote-check` | $extends:banknote, $group:check, banknote, document, verification, found, paid | $extends:banknote |
@@ -213,7 +214,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `book-bookmark` | $extends:book, dictionary, saved, later, future, reference, index, code, coding, version control, git, repository | $extends:book |
 | `book-check` | $extends:book, $group:check, read, authored, published, informed, knowledgeable, educated, schooled, examined, tested, marked, passed, graduated, studied, learned, lesson, researched, documented, revealed, blank, plain language, true, truth, corrected | $extends:book |
 | `book-copy` | $extends:book, $extends:copy, code, coding, version control, git, repository, fork, books, copies, copied, plagiarism, plagiarised, plagiarized, reading list, informed, knowledgeable, knowledgable, smart, intelligent, intellectual | $extends:book |
-| `book-dashed` | $extends:book, code, coding, version control, git, repository, template, draft, screenplay, unwritten, unpublished, untold | development, text |
+| `book-dashed` | $extends:book, $group:dashed, code, coding, version control, git, repository, template, draft, screenplay, unwritten, unpublished, untold | development, text |
 | `book-down` | $extends:book, $group:direction-down, code, coding, version control, git, repository, pull | development |
 | `book-exclamation-point` | $extends:book, $group:exclamation-mark | $extends:book |
 | `book-headphones` | $extends:book, $extends:headphones, audiobook, listening | multimedia, text |
@@ -224,10 +225,10 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `book-minus` | $extends:book, $group:minus, code, coding, version control, git, repository, censor, forbid, prohibit, ban, uneducated, re-educate, unlearn, downgrade | $extends:book |
 | `book-open` | $extends:book, pages, screenplay, revealed, blank, plain | $extends:book |
 | `book-open-check` | $extends:book-open, $group:check, read, authored, published, informed, knowledgeable, educated, schooled, examined, tested, marked, passed, graduated, studied, learned, lesson, researched, documented, plain language, true, truth, corrected | $extends:book-open |
-| `book-open-text` | $extends:book-open | text, development |
+| `book-open-text` | $extends:book-open, docs, wiki, knowledge base | text, development |
 | `book-plus` | $extends:book, $group:plus, code, coding, version control, git, repository, read, write, publish, inform, graduate, re-educate, learn, improve, upgrade, level up | $extends:book |
 | `book-search` | $extends:book, $group:search | $extends:book |
-| `book-text` | $extends:book | text, gaming |
+| `book-text` | $extends:book, docs, wiki, knowledge base | text, gaming |
 | `book-type` | $extends:book, $group:letter, thesaurus, synonym, language, translate, fonts, collection | text, design, gaming |
 | `book-up` | $extends:book, $group:direction-up, code, coding, version control, git, repository, push | development |
 | `book-up-2` | $extends:book-up, $group:direction-up, force | $extends:book-up |
@@ -250,7 +251,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `boxes-linked` | $group:graph, cubes, package, module, dependencies, link, chain, blockchain, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development |
 | `braces` | json, code, token, curly brackets, curly braces, data, {, } | development, files |
 | `brackets` | code, token, array, list, square, [, ] | development, files |
-| `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing | medical, science |
+| `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing, skill, skills, expertise | medical, science |
 | `brain-circuit` | $extends:brain | science, development |
 | `brain-cog` | $extends:brain, $group:cog | science, development |
 | `brain-off` | $extends:brain, $group:off | $extends:brain, development |
@@ -258,11 +259,11 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `brick-wall-fire` | $extends:brick-wall, firewall, security, campfire, camping, wilderness, outdoors, lit, warmth, wood, twigs, sticks | security, connectivity |
 | `brick-wall-shield` | $extends:brick-wall, $group:shield, firewall, armored, armoured, block, threat, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout | security, connectivity |
 | `bridge` | overpass, cross over, traverse, viaduct, suspension, infrastructure, transportation, crossing, road, river, gate, golden, travel, landmark, route, maritime, clearance | travel, transportation, buildings |
-| `briefcase` | work, bag, baggage, folder | travel |
+| `briefcase` | work, bag, baggage, folder, job, career, employment, hiring, experience | travel |
 | `briefcase-business` | $extends:briefcase, portfolio | $extends:briefcase |
 | `briefcase-conveyor-belt` | baggage, luggage, travel, suitcase, conveyor, carousel | $extends:briefcase |
 | `briefcase-medical` | doctor, medicine, first aid | medical |
-| `briefcase-plus` | $extends:briefcase, $group:plus, briefcase, portfolio, business, career, employment, professional | $extends:briefcase, files, account |
+| `briefcase-plus` | $extends:briefcase, $group:plus, briefcase, portfolio, business, professional | $extends:briefcase, files, account |
 | `bring-to-front` | bring, send, move, over, forward, front, overlap, layer, order | design, layout |
 | `broccoli` | leafy, crisp, fresh, culinary, vegetation, vegetable, food, healthy, vegan, vegetarian, nutrition, diet, plant, green, produce | food-beverage |
 | `broom` | broomstick, brush, sweep, sweeping, floor, cleaning, housekeeping, chores, tidy, spotless, dust, debris, bristles, handle, janitor, maintenance, witch, halloween | tools, home, gaming |
@@ -282,20 +283,20 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cable-car` | ski lift, winter holiday, alpine, resort, mountains | transportation, travel |
 | `cake` | birthday, birthdate, celebration, party, surprise, gateaux, dessert, fondant, icing sugar, sweet, baking, candles, wish | food-beverage, social |
 | `cake-slice` | $extends:cake | food-beverage, social |
-| `calculator` | count, calculating machine | math, devices |
+| `calculator` | count, calculating machine, budget | math, devices |
 | `calendar` | day, date, month, year, timestamp, event, birthday, birthdate | time |
-| `calendar-1` | $extends:calendar, $group:digit, single, singular, once, 1, first | $extends:calendar |
+| `calendar-1` | $extends:calendar, $group:digit, single, singular, once, 1, first, today | $extends:calendar |
 | `calendar-arrow-down` | $extends:calendar, $group:direction-down, $group:sort | $extends:calendar |
 | `calendar-arrow-left` | $extends:calendar, $group:direction-left, $group:navigation-previous, arrow, previous, past, earlier, reschedule, postpone, schedule, timeline, date picker | $extends:calendar |
 | `calendar-arrow-right` | $extends:calendar, $group:direction-right, $group:navigation-next, arrow, next, future, upcoming, later, reschedule, postpone, defer, schedule, timeline, appointment | $extends:calendar |
 | `calendar-arrow-up` | $extends:calendar, $group:direction-up, $group:sort | $extends:calendar |
-| `calendar-check` | $extends:calendar, $group:check, subscribe, schedule | $extends:calendar |
+| `calendar-check` | $extends:calendar, $group:check, subscribe, schedule, today | $extends:calendar |
 | `calendar-check-2` | $extends:calendar-check | $extends:calendar-check |
 | `calendar-chevrons-left` | $extends:calendar, $group:direction-left, $group:navigation-first, arrow, symbol, pointer, indicator, menu, events | $extends:calendar |
 | `calendar-chevrons-right` | $extends:calendar, $group:direction-right, $group:navigation-last, arrow, symbol, pointer, indicator, menu, events | $extends:calendar |
 | `calendar-clock` | $extends:calendar, $group:clock | $extends:calendar |
 | `calendar-cog` | $extends:calendar, $group:cog, events | $extends:calendar |
-| `calendar-days` | $extends:calendar | $extends:calendar |
+| `calendar-days` | $extends:calendar, week, weekly | $extends:calendar |
 | `calendar-fold` | $extends:calendar, ics | $extends:calendar, files |
 | `calendar-heart` | $extends:calendar, $group:heart, subscribe, valentines day | $extends:calendar |
 | `calendar-minus` | $extends:calendar, $group:minus | $extends:calendar |
@@ -303,7 +304,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `calendar-off` | $extends:calendar, $group:minus, $group:off | $extends:calendar |
 | `calendar-plus` | $extends:calendar, $group:plus, subscribe | $extends:calendar |
 | `calendar-plus-2` | $extends:calendar-plus | $extends:calendar-plus |
-| `calendar-range` | $extends:calendar, range, period | $extends:calendar |
+| `calendar-range` | $extends:calendar, range, period, week, weekly | $extends:calendar |
 | `calendar-search` | $extends:calendar, $group:search, events | $extends:calendar |
 | `calendar-sync` | $extends:calendar, $group:sync, transfer, backup, subscribe, recurring, schedule, reminder, automatic, auto | $extends:calendar, arrows |
 | `calendar-x` | $extends:calendar, $group:x, busy | $extends:calendar |
@@ -362,7 +363,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `chart-no-axes-gantt` | $extends:chart-gantt, intentions, code, coding | $extends:chart-gantt, development |
 | `chart-pie` | $group:chart | charts |
 | `chart-quadrant` | $group:chart, quadrant, chart, chart-scatter, scatter plot, 2x2, matrix, segmentation, correlation, comparison, risk, swot, clustering | charts, science, math |
-| `chart-radar` | $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, metrics, performance, comparison, profile, attributes | charts, shapes, science |
+| `chart-radar` | $group:chart, radar, chart, shape, gem, mineral, pentagon, multidimensional, performance, comparison, profile, attributes | charts, shapes, science |
 | `chart-scatter` | $group:chart | charts |
 | `chart-spline` | $group:chart, curve, continuous, smooth, polynomial, quadratic, function, interpolation | charts |
 | `check` | $group:check | notifications |
@@ -397,13 +398,13 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cigarette-off` | $extends:cigarette, $group:off, no-smoking | $extends:cigarette |
 | `circle` | off, zero, record, shape | shapes |
 | `circle-arrow-down` | $group:direction-down, $group:navigation-next, backwards, reverse, sign, button | arrows |
-| `circle-arrow-down-left-exit` | $group:direction-down-left, outwards | arrows |
-| `circle-arrow-down-right-exit` | $group:direction-down-right, outwards | arrows |
+| `circle-arrow-down-left-exit` | $group:direction-down-left, $group:exit | arrows |
+| `circle-arrow-down-right-exit` | $group:direction-down-right, $group:exit | arrows |
 | `circle-arrow-left` | $group:direction-left, $group:navigation-previous, previous, sign, turn, button, <- | arrows |
 | `circle-arrow-right` | $group:direction-right, $group:navigation-next, next, sign, turn, button, -> | arrows |
 | `circle-arrow-up` | $group:direction-up, $group:navigation-previous, forward, sign, button | arrows |
-| `circle-arrow-up-left-exit` | $group:direction-up-left, outwards, keyboard, button, escape | arrows |
-| `circle-arrow-up-right-exit` | $group:direction-up-right, outwards | arrows |
+| `circle-arrow-up-left-exit` | $group:direction-up-left, $group:exit, keyboard, button, escape | arrows |
+| `circle-arrow-up-right-exit` | $group:direction-up-right, $group:exit | arrows |
 | `circle-check` | $group:check | notifications |
 | `circle-check-big` | $extends:circle-check | $extends:circle-check |
 | `circle-chevron-down` | $group:direction-down, $group:navigation-next, back, menu | arrows |
@@ -414,12 +415,12 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-chevrons-left` | $group:direction-left, $group:navigation-first, previous, rewind, first, start, music, caret, button, pagination, skip, skip-back, seek-back, media-controls, player, playlist, track, chapter, jump, timeline, controls | arrows, multimedia |
 | `circle-chevrons-right` | $group:direction-right, $group:navigation-last, next, skip, fast forward, last, music, caret, button, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control | arrows, multimedia |
 | `circle-chevrons-up` | $group:direction-up, $group:navigation-first, top, page, back to top, scroll, jump, caret, button, skip, pagination, fast, fast scroll, rewind, jump to start, floating action button, anchor, timeline | arrows |
-| `circle-dashed` | pending, dot, progress, issue, draft, code, coding, version control | $extends:circle, development |
+| `circle-dashed` | $group:dashed, pending, dot, progress, issue, draft, code, coding, version control | $extends:circle, development |
 | `circle-dashed-check` | $extends:circle-dashed, $extends:circle-check, changes, revision, reapproval, published, schedule, assignment, request, review | $extends:circle-dashed, notifications |
 | `circle-divide` | calculate, math, ÷, / | math |
 | `circle-dollar-sign` | $group:currency, marketing | finance |
 | `circle-dot` | pending, progress, issue, code, coding, version control, choices, multiple choice, choose, album, music, songs, format, cd, dvd, vinyl, sleeve, cover, platinum, compilation, ep, recording, playback, spin, rotate, rpm, dj | $extends:circle, development |
-| `circle-dot-dashed` | pending, progress, issue, draft, code, coding, version control | $extends:circle-dot |
+| `circle-dot-dashed` | $group:dashed, pending, progress, issue, draft, code, coding, version control | $extends:circle-dot |
 | `circle-ellipsis` | ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
 | `circle-equal` | calculate, shape, = | math |
 | `circle-euro` | $group:currency, symbol, europe, €, euro, coin | finance |
@@ -481,10 +482,10 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `clef-bass` | fa, f, music, note, key, baritone, staff, pitch, bass, subbass, major, scale | multimedia |
 | `clef-treble` | sol, g, music, note, key, treble, staff, pitch, violin, solfege, major, scale | multimedia |
 | `clipboard` | copy, paste | text |
-| `clipboard-check` | $extends:clipboard, $group:check, copied, pasted | $extends:clipboard |
+| `clipboard-check` | $extends:clipboard, $group:check, copied, pasted, result, checklist | $extends:clipboard |
 | `clipboard-clock` | $extends:clipboard, $group:clock, log, alarm, reminder, scheduled, time tracking, timesheets, appointment, logbook | $extends:clipboard, time |
 | `clipboard-copy` | $extends:clipboard | $extends:clipboard |
-| `clipboard-list` | $extends:clipboard, tasks | $extends:clipboard |
+| `clipboard-list` | $extends:clipboard, tasks, checklist | $extends:clipboard |
 | `clipboard-minus` | $extends:clipboard, $group:minus, document, medical, report, doctor | $extends:clipboard |
 | `clipboard-paste` | $extends:clipboard | $extends:clipboard |
 | `clipboard-pen` | $extends:clipboard, $group:pen, signature | $extends:clipboard |
@@ -518,12 +519,12 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cloud-backup` | storage, memory, bytes, servers, backup, time machine, rotate, synchronize, synchronise, refresh, reconnect, transfer, data, security, upload, save, remote, safety | arrows, files |
 | `cloud-check` | $group:check, sync, network, saved, persisted | development |
 | `cloud-cog` | $group:cog, computing, ai, cluster, network | development |
-| `cloud-download` | import | arrows, files |
+| `cloud-download` | import, install, installation | arrows, files |
 | `cloud-drizzle` | $extends:cloud, shower | $extends:cloud |
 | `cloud-exclamation-point` | $extends:cloud, $group:exclamation-mark, sync, network | development, notifications, weather |
 | `cloud-fog` | $extends:cloud, mist | $extends:cloud |
 | `cloud-hail` | $extends:cloud, rainfall | $extends:cloud |
-| `cloud-lightning` | $extends:cloud, bolt | $extends:cloud |
+| `cloud-lightning` | $extends:cloud, bolt, thunder, thunderstorm, thunderbolt | $extends:cloud |
 | `cloud-moon` | $extends:cloud, night | $extends:cloud |
 | `cloud-moon-rain` | $extends:cloud-moon, partly, rainfall | $extends:cloud-moon |
 | `cloud-off` | $group:off, disconnect | $extends:cloud, connectivity |
@@ -533,7 +534,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cloud-sun` | $extends:cloud, partly | $extends:cloud |
 | `cloud-sun-rain` | $extends:cloud-sun, rainfall | $extends:cloud-sun |
 | `cloud-sync` | $group:sync, transfer, backup, storage, upload, download, connection, network, data | arrows, files |
-| `cloud-upload` | file | arrows, files |
+| `cloud-upload` | file, deploy, deployment | arrows, files |
 | `cloudy` | weather, clouds | weather |
 | `clover` | leaf, luck, plant | gaming, nature |
 | `club` | shape, suit, playing, cards | shapes, gaming |
@@ -578,7 +579,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cpu` | processor, cores, technology, computer, chip, circuit, memory, ram, specs, gigahertz, ghz | devices |
 | `cpu-ai` | $group:letter, ai, artificial intelligence, machine learning, neural network, automation, intelligence, generative, assistant, chatbot, llm, deep learning, inference, training, mlops, model, predictive, on-device, edge, api, service, cognitive, processor, chip | $extends:cpu, development |
 | `creative-commons` | $group:letter, licence, license | text |
-| `credit-card` | bank, purchase, payment, cc | account, finance |
+| `credit-card` | bank, purchase, payment, cc, cashier, merchant | account, finance |
 | `credit-card-check` | $extends:credit-card, $group:check, debit, banking, finance, transaction, wallet, checkout, billing, account, cardholder, authorized | $extends:credit-card, shopping |
 | `credit-card-minus` | $extends:credit-card, $group:minus, debit, unlink, revoke, decline, canceled, banking, finance, wallet, transaction, billing, account, checkout | $extends:credit-card, shopping |
 | `credit-card-plus` | $extends:credit-card, $group:plus, debit, banking, finance, transaction, wallet, checkout, billing, account, cardholder, link, save, method, plastic | $extends:credit-card, shopping |
@@ -588,7 +589,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `crop` | photo, image | photography, design |
 | `cross` | healthcare, first aid | shapes, medical |
 | `crosshair` | aim, target | photography |
-| `crown` | diadem, tiara, circlet, corona, king, ruler, winner, favorite, favourite | gaming |
+| `crown` | diadem, tiara, circlet, corona, king, ruler, winner, favorite, favourite, premium, vip, exclusive, pro | gaming |
 | `cuboid` | brick, block, box, 3d, solid, volume, container, storage, shipping, carton, geometry, rectangular, hexahedron, butter, tofu, soap, cheese, package, parcel, crate | shapes, math |
 | `cup-soda` | beverage, cup, drink, soda, straw, water | food-beverage |
 | `cupcake` | cake, dessert, food, celebration, sweet, baking, cooking | food-beverage |
@@ -641,10 +642,10 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `door-closed-cog` | $extends:door-closed, $group:cog, room, access, automation | home, security |
 | `door-closed-locked` | $extends:door-closed, $group:lock | $extends:door-closed |
 | `door-closed-package` | delivery, parcel, doorstep, shipping, drop-off, courier | home, transportation, shopping |
-| `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit | home, travel, security |
+| `door-open` | entrance, entry, exit, ingress, egress, gate, gateway, emergency exit, quit | home, travel, security |
 | `door-stairwell` | staircase, stairway, stairs, steps, ladder, transition, access, structure, spiral, building, vertical, movement, floor, level, entrance, entry, exit, egress, route, indoor, emergency exit | buildings, navigation |
 | `dot` | interpunct, interpoint, middot, step, punctuation, period, full stop, end, finish, final, characters, font, typography, type, center, . | shapes, text |
-| `download` | import, export, save, pull | arrows, files |
+| `download` | import, export, save, pull, install, installation | arrows, files |
 | `drafting-compass` | geometry, trigonometry, radius, diameter, circumference, calculate, measure, arc, curve, draw, sketch | math, design, tools |
 | `drama` | drama, masks, theater, theatre, entertainment, show | multimedia |
 | `drill` | power, bit, head, hole, diy, toolbox, build, construction | tools, home, devices |
@@ -659,7 +660,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ear-off` | $extends:ear, $group:off, hard of hearing, hearing loss, deafness, silence | $extends:ear |
 | `earbuds` | earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume | devices |
 | `earbuds-off` | earphones, audio, sound, bluetooth, wireless, music, noise cancelling, acoustics, stereo, media, listen, pairing, hands-free, speaker, volume, disconnected, disabled, inactive | devices |
-| `earth` | world, browser, language, translate, globe | navigation |
+| `earth` | world, browser, language, translate, globe, www, http, https, website | navigation |
 | `earth-lock` | $extends:earth, $group:lock, vpn, network, encryption, connection | security, connectivity |
 | `eclipse` | lunar, solar, crescent moon, sun, earth, day, night, planet, space, mode, dark, light, toggle, switch, color, css, styles, display, accessibility, contrast, brightness, blend, shade | science, design, accessibility |
 | `egg` | bird, chicken, nest, hatch, shell, incubate, soft boiled, hard, breakfast, brunch, morning, easter | food-beverage, animals |
@@ -669,8 +670,8 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `eighth-notes` | audio, music, sound, notes, quavers | multimedia |
 | `eject` | disc, drive, dvd, blu-ray, cd, media, optical, optical drive, removable media, storage, tray, unmount, usb | devices, files, multimedia |
 | `ellipse` | shape, geometry, rounded, smooth, outline, form, boundary, curve, shapes, ellipse, oval | shapes |
-| `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ... | layout, development |
-| `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ... | layout |
+| `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ..., meatball menu, three dots, 3 dots | layout, development |
+| `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ..., kebab, kebab menu, three dots, 3 dots | layout |
 | `emirati-dirham` | $group:currency, aed, arab emirates dirham, uae, United Arab Emirates, middle east, gulf, exchange rate | finance |
 | `engine` | vehicle, power, energy, drive, repair, car, motor, mechanical, diagnostics, maintenance, warning, dashboard, parts | transportation |
 | `equal` | calculate, math, operator, assignment, code, = | math, development |
@@ -681,19 +682,20 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ethernet-port` | internet, network, connection, cable, lan, port, router, switch, hub, modem, web, online, networking, communication, socket, plug, slot, controller, connector, interface, console, signal, data, input, output | devices, connectivity |
 | `euro` | $group:currency | finance |
 | `ev-charger` | electric, charger, station, vehicle, fast, plug, ev, power, electricity, energy, accumulator, charge | transportation, navigation |
+| `exclamation-mark` | $group:exclamation-mark, bang, surprise, emphasis, interjection, factorial, negation | letters-digits, text, notifications |
 | `expand` | scale, fullscreen, maximize, minimize, contract | arrows, layout |
-| `external-link` | outbound, open, share | arrows, text, social |
-| `eye` | view, watch, see, show, expose, reveal, display, visible, visibility, vision, preview, read | accessibility, photography, design, security |
+| `external-link` | outbound, open, share, redirect | arrows, text, social |
+| `eye` | view, watch, see, show, expose, reveal, display, visible, visibility, vision, preview, read, eyes | accessibility, photography, design, security |
 | `eye-closed` | $extends:eye, hide, conceal, mask, hidden | $extends:eye |
-| `eye-dashed` | $extends:eye, hide, conceal, mask, hidden, invisible | $extends:eye |
+| `eye-dashed` | $extends:eye, $group:dashed, hide, conceal, mask, hidden, invisible | $extends:eye |
 | `eye-off` | $extends:eye, $group:off, conceal, mask | $extends:eye |
-| `face-angry` | anger, rage, fury, resentment, irritation, disgust, emoji, emotion | emoji |
-| `face-expressionless` | nuisance, annoyed, annoyance, frustration, emoji, emotion | emoji |
-| `face-grinning` | happy, happiness, good, laugh, broad smile, pleasure, good cheer, humour, funny, emoji, emotion | emoji |
-| `face-neutral` | emoji, neutral, emotion, meh, blank stare, social masking, irritation, concern, deadpan | emoji |
-| `face-slightly-frowning` | emoji, bad, sadness, emotion, concern, disappointment | emoji |
-| `face-slightly-smiling` | smile, happy, happiness, good, positive, friendly, patronizing, passive aggressive, ironic, emoji, emotion | emoji |
-| `face-slightly-smiling-plus` | $extends:face-slightly-smiling, $extends:group, $group:plus, react, reaction | emoji, social, communication |
+| `face-angry` | $group:emoticon, anger, rage, fury, resentment, irritation, disgust | emoji |
+| `face-expressionless` | $group:emoticon, nuisance, annoyed, annoyance, frustration | emoji |
+| `face-grinning` | $group:emoticon, happy, happiness, good, laugh, broad smile, pleasure, good cheer, humour, funny | emoji |
+| `face-neutral` | $group:emoticon, neutral, meh, blank stare, social masking, irritation, concern, deadpan | emoji |
+| `face-slightly-frowning` | $group:emoticon, bad, sadness, concern, disappointment | emoji |
+| `face-slightly-smiling` | $group:emoticon, smile, happy, happiness, good, positive, friendly, patronizing, passive aggressive, ironic | emoji |
+| `face-slightly-smiling-plus` | $extends:face-slightly-smiling, $extends:group, $group:plus, react | emoji, social, communication |
 | `factory` | building, business, energy, industry, manufacture, sector | buildings, navigation |
 | `fan` | air, cooler, ventilation, ventilator, blower | home |
 | `fast-forward` | music | multimedia, arrows |
@@ -738,24 +740,24 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `file-play` | $extends:file, $group:play, movie, video, film | $extends:file |
 | `file-plus` | $extends:file, $group:plus | $extends:file |
 | `file-plus-corner` | $extends:file-plus | $extends:file-plus |
-| `file-question-mark` | $extends:file, $group:question-mark, readme | $extends:file |
+| `file-question-mark` | $extends:file, $group:question-mark, readme, 404, not found, page not found | $extends:file |
 | `file-scan` | $extends:file, $extends:scan, scan, code | $extends:file |
 | `file-search` | $extends:file, $group:search, lost, browser | $extends:file |
 | `file-search-corner` | $extends:file-search, $group:search | $extends:file-search |
 | `file-signal` | $extends:file, audio, music, volume | $extends:file, multimedia |
 | `file-sliders` | $extends:file, $extends:sliders-horizontal, cogged, gear, mechanical, machinery, configuration, preferences, system, admin, edit, executable | $extends:file, development |
-| `file-spreadsheet` | $extends:file, spreadsheet, sheet, table | $extends:file |
+| `file-spreadsheet` | $extends:file, spreadsheet, sheet, table, csv, xls, xlsx, excel | $extends:file |
 | `file-stack` | $extends:file, $extends:files, versions, revisions, version control, history | $extends:file, development |
 | `file-symlink` | $extends:file, symlink, symbolic, link | $extends:file |
 | `file-terminal` | $extends:file, terminal, bash, script, executable | $extends:file, development |
-| `file-text` | $extends:file, data, txt, pdf | $extends:file, text |
+| `file-text` | $extends:file, data, txt, pdf, doc, docx, word, docs | $extends:file, text |
 | `file-type` | $extends:file, $group:letter, type | $extends:file, text |
 | `file-type-corner` | $extends:file-type | $extends:file-type |
 | `file-up` | $extends:file, $group:direction-up, upload, import, export | $extends:file |
 | `file-user` | $extends:file, $group:user, personal information, listing, networking, cover letter, resume, cv, curriculum vitae, application form | $extends:file, account |
 | `file-video-camera` | $extends:file, $extends:video, video | $extends:file, multimedia |
 | `file-volume` | $extends:file, $extends:volume, audio, volume | $extends:file, multimedia |
-| `file-x` | $extends:file, $group:x, lost | $extends:file |
+| `file-x` | $extends:file, $group:x, lost, 404, not found, page not found | $extends:file |
 | `file-x-corner` | $extends:file-x, $group:x | $extends:file-x |
 | `files` | multiple, copy, documents | files |
 | `film` | movie, video, reel, camera, cinema, entertainment | photography, multimedia |
@@ -819,7 +821,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `footprints` | steps, walking, foot, feet, trail, shoe | navigation |
 | `forklift` | machinery, industrial, warehouse, lifting, storage, equipment, heavy-duty, moving, vehicle, transport, logistics | transportation |
 | `form` | document, page, file, layout, paper, stub, formality, structure, template, inputs, design, components | development |
-| `forward` | send, share, email | mail |
+| `forward` | send, share, email, redirect | mail |
 | `frame` | logo, design, tool | design, photography |
 | `fuel` | filling-station, gas, petrol, tank | transportation, navigation |
 | `fullscreen` | expand, zoom, preview, focus, camera, lens, image | layout, multimedia, photography |
@@ -839,7 +841,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `gap-vertical` | gap, spacing, space, between, padding, margin, vertical, auto layout, layout, distance, frame, distribute | design, layout |
 | `gauge` | dashboard, dial, meter, speed, pressure, measure, level | transportation, science, charts |
 | `gavel` | justice, law, court, judgment, legal, hands, penalty, decision, authority, hammer, mallet | tools |
-| `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems | gaming, finance |
+| `gem` | diamond, crystal, ruby, jewellery, price, special, present, gift, ring, wedding, proposal, marriage, rubygems, premium, vip, exclusive, pro | gaming, finance |
 | `georgian-lari` | $group:currency | finance |
 | `germ` | virus, microbe, bacterium, bacteria, germ, organism, cilia, pathogen, infection, disease, contagion, contamination, microbiology, health, medicine, biology, science, microorganism, pandemic, epidemic, outbreak, amoeba, flu, security, single cell, unicellular, vaccine, immunity, quarantine | medical, science |
 | `germ-off` | $extends:germ, $group:off | $extends:germ |
@@ -854,7 +856,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `git-compare-arrows` | $extends:git-compare | $extends:git-compare |
 | `git-fork` | code, version control | development |
 | `git-graph` | $group:graph, code, version control, commit graph, commits, gitlens | development |
-| `git-merge` | code, version control | development |
+| `git-merge` | code, version control, ci/cd, cicd | development |
 | `git-merge-conflict` | $extends:git-merge, commits, diff, error, conflict | $extends:git-merge |
 | `git-pull-request` | code, version control, open | development |
 | `git-pull-request-arrow` | $extends:git-pull-request | $extends:git-pull-request |
@@ -864,17 +866,17 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `git-pull-request-draft` | $extends:git-pull-request, draft, dashed | $extends:git-pull-request |
 | `glass-water` | beverage, drink, glass, water | food-beverage |
 | `glasses` | glasses, spectacles | accessibility |
-| `globe` | world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network | navigation, connectivity |
-| `globe-ban` | $extends:globe, $group:off, web, website, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction | $extends:globe, security |
+| `globe` | world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network, www, http, https, website | navigation, connectivity |
+| `globe-ban` | $extends:globe, $group:off, web, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction | $extends:globe, security |
 | `globe-check` | $extends:globe, $group:check, web, available, online, status | $extends:globe |
-| `globe-code` | $extends:globe, $group:code, website, digital, access, link | $extends:globe, development |
+| `globe-code` | $extends:globe, $group:code, digital, access, link | $extends:globe, development |
 | `globe-lock` | $extends:globe, $group:lock, vpn, encryption | security, connectivity |
 | `globe-off` | $extends:globe, $group:off, mute, avoid, offline, disconnected, no connection, network failure, signal off | $extends:globe |
 | `globe-plus` | $extends:globe, $group:plus | $extends:globe |
 | `globe-x` | $extends:globe, $group:x, offline, disconnected, no connection, network failure, signal off | $extends:globe |
-| `goal` | flag, bullseye | gaming |
+| `goal` | flag, bullseye, result, outcome, objective, okr | gaming |
 | `gpu` | processor, cores, technology, computer, chip, circuit, specs, graphics processing unit, video card, display adapter, gddr, rendering, digital image processing, crypto mining | devices, gaming |
-| `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate | buildings |
+| `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate, skill, skills, expertise | buildings |
 | `grape` | fruit, wine, food | food-beverage |
 | `graph-hub` | $group:graph, load balancer, distribute, traffic, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, orchestration | connectivity, development |
 | `graph-star` | $group:graph, mind map, hub, dependencies, bonds, cluster, thoughts, ideas, concepts, molecule | development, charts |
@@ -896,8 +898,8 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ham` | food, pork, pig, meat, bone, hock, knuckle, gammon, cured | food-beverage |
 | `hamburger` | burger, cheeseburger, meat, beef, patty, bun, fast food, junk food, takeaway, takeout, snack, dish, restaurant, lunch, meal, savory, savoury, cookery, cooking, grilled, barbecue, barbeque, bbq, lettuce, tomato, relish, pickles, onions, ketchup, mustard, mayonnaise | food-beverage |
 | `hammer` | mallet, nails, diy, toolbox, build, construction | tools, home |
-| `hand` | wave, move, mouse, grab | cursors, accessibility |
-| `hand-coins` | savings, banking, money, finance, offers, mortgage, payment, received, wage, payroll, allowance, pocket money, handout, pennies | finance |
+| `hand` | wave, move, mouse, grab, welcome, hello, hi, greeting, goodbye, bye | cursors, accessibility |
+| `hand-coins` | savings, banking, money, finance, offers, mortgage, payment, received, wage, payroll, allowance, pocket money, handout, pennies, loan, lending, borrow, debt, salary | finance |
 | `hand-fist` | clench, strength, power, unity, solidarity, rebellion, victory, triumph, support, fight, combat, brawl | social, emoji, sports |
 | `hand-grab` | hand | cursors, design, layout |
 | `hand-heart` | $group:heart, emotion | social |
@@ -924,10 +926,10 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `heading-6` | $extends:letter-h, $group:digit, h6 | $extends:letter-h |
 | `headphone-off` | $group:off, music, audio, sound, mute | multimedia, devices |
 | `headphones` | music, audio, sound | multimedia, devices |
-| `headset` | music, audio, sound, gaming, headphones, headset, call, center, phone, telephone, voip, video | multimedia, devices, gaming, communication |
+| `headset` | music, audio, sound, gaming, headphones, headset, call, center, phone, telephone, voip, video, customer service, customer support, helpdesk | multimedia, devices, gaming, communication |
 | `heart` | $group:heart, emotion, suit, playing, cards | medical, social, emoji, gaming, shapes |
 | `heart-crack` | heartbreak, sadness, emotion | emoji |
-| `heart-handshake` | agreement, charity, help, deal, terms, emotion, together, handshake | emoji, social |
+| `heart-handshake` | agreement, charity, help, deal, terms, emotion, together, handshake, insurance | emoji, social |
 | `heart-minus` | $group:minus, unlike, unfavorite, damage | social |
 | `heart-off` | $group:off, unlike, dislike, hate, emotion | social |
 | `heart-plus` | $group:heart, $group:plus, support | social |
@@ -941,12 +943,12 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `hockey-stick` | sport, campus, puck, athlete, ice, player, goal, cricket, bat, sports, game, equipment, stick, ball, match, play | sports |
 | `hop` | beer, brewery, drink | food-beverage |
 | `hop-off` | $extends:hop, $group:off, hop free, allergy, intolerance, diet | $extends:hop |
-| `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet | medical, buildings, navigation |
+| `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet, sick, patient | medical, buildings, navigation |
 | `hot-air-balloon` | aircraft, flight, adventure, travel, sky, celebration, festive | transportation, travel |
 | `hotel` | building, hostel, motel, inn | buildings, navigation, travel |
 | `hourglass` | $group:clock, sandglass | time, gaming |
 | `hourglass-cog` | $extends:hourglass, $group:cog, countdown, timeout, expiration | time |
-| `house` | home, living, building, residence, architecture | buildings, home, navigation |
+| `house` | home, living, building, residence, architecture, homepage | buildings, home, navigation |
 | `house-cog` | $extends:house, $group:cog, property, automation | buildings, home |
 | `house-heart` | $extends:house, $group:heart, home sweet home, abode, healthy living, lifestyle | home, buildings |
 | `house-plug` | $extends:house, autarky, energy | buildings, home, sustainability |
@@ -956,7 +958,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `ice-cream-bowl` | gelato, food, dessert, dish, restaurant, course, meal | food-beverage |
 | `ice-cream-cone` | gelato, food | food-beverage |
 | `id-card` | card, badge, identity, authentication, secure | security, account |
-| `id-card-lanyard` | $extends:id-card, id-card, id-card-lanyard, employee, gate-pass | $extends:id-card |
+| `id-card-lanyard` | $extends:id-card, id-card, id-card-lanyard, employee, gate-pass, job, career, employment, hiring, experience | $extends:id-card |
 | `image` | picture, photo | photography, text, multimedia, files |
 | `image-down` | $extends:image, $group:direction-down, download, save, export | $extends:image |
 | `image-minus` | $extends:image, $group:minus | photography, multimedia, files |
@@ -969,7 +971,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `import` | save | arrows, files |
 | `inbox` | email | mail |
 | `indian-rupee` | $group:currency | finance |
-| `infinity` | unlimited, forever, loop, math | multimedia, math |
+| `infinity` | unlimited, forever, loop, math, ci/cd, cicd, devops, pipeline | multimedia, math |
 | `info` | $group:letter, about, advice, clue, details, help, hint, indicator, information, knowledge, notice, status, support, tooltip | accessibility, notifications |
 | `inspection-panel` | access, cover, tile, metal, materials, screws | tools |
 | `italic` | $group:letter, oblique, format | letters-digits, text |
@@ -995,7 +997,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lamp-wall-down` | $extends:lamp, $group:direction-down, wall | $extends:lamp |
 | `lamp-wall-up` | $extends:lamp, $group:direction-up, wall | $extends:lamp |
 | `land-plot` | area, surface, square metres, allotment, parcel, property, plane, acres, measure, distance, isometric, flag, golf course, hole | math, navigation |
-| `landmark` | bank, building, capitol, finance, money, museum, art gallery, hall, institute, pediment, portico, doric, columns, pillars, classical, architecture, government, institution, monument, site, history, historic, library, temple, ancient, structure | finance, navigation, buildings |
+| `landmark` | bank, building, capitol, finance, money, museum, art gallery, hall, institute, pediment, portico, doric, columns, pillars, classical, architecture, government, institution, monument, site, history, historic, library, temple, ancient, structure, loan, lending | finance, navigation, buildings |
 | `languages` | $group:letter, translate | text |
 | `laptop` | computer, screen, remote | devices |
 | `laptop-minimal` | $extends:laptop | $extends:laptop |
@@ -1055,11 +1057,11 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `letter-y` | $group:letter, uppercase, y-axis, axis, yes, confirm, year, time, chromosome | letters-digits |
 | `letter-z` | $group:letter, uppercase, z-axis, axis, sleep, rest, impedance, electricity, atomic number, chemistry | letters-digits |
 | `letters` | $group:letter, abc, alphabetical, characters, language, literacy, spelling | letters-digits |
-| `library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package | text, multimedia |
+| `library` | books, reading, written, authors, stories, fiction, novels, information, knowledge, education, high school, university, college, academy, learning, study, research, collection, vinyl, records, albums, music, package, wiki, knowledge base | text, multimedia |
 | `library-big` | $extends:library | $extends:library |
-| `life-buoy` | preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut | accessibility, medical |
+| `life-buoy` | preserver, life belt, lifesaver, help, rescue, ship, ring, raft, inflatable, wheel, donut, customer service, customer support, helpdesk | accessibility, medical |
 | `ligature` | $group:letter, alternates, alternatives | text |
-| `lightbulb` | idea, bright, lights | photography, home |
+| `lightbulb` | idea, bright, lights, suggest, suggestion | photography, home |
 | `lightbulb-off` | $extends:lightbulb, $group:off | $extends:lightbulb |
 | `lighthouse` | lighthouse, beacon, coast, navigation, tower, sea, ocean, maritime, guide, safety, light, shine, port, marine, faro, signal, nautical, harbor, shore, light beam, wayfinding, guidance, onboarding, help, landmark | buildings, navigation, travel |
 | `line-dot-bottom-vertical` | code, version, control, station, waypoint, start, first | development, navigation |
@@ -1069,12 +1071,12 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `line-height` | $group:letter, leading, letters, characters, spacing, paragraph, formatting, editor, readability, typesetting | text |
 | `line-squiggle` | $group:line, snakes, annotate, doodle, pen, tool, gesture, draw, wave, art, road | shapes, math, design |
 | `line-style` | $group:line, style, dashed, border | design |
-| `link` | chain, url | text |
+| `link` | chain, url, www, http, https, website | text |
 | `link-2` | $extends:link | $extends:link |
 | `link-2-off` | $extends:link-2, $group:off, unchain | $extends:link-2 |
 | `list` | options | text |
-| `list-check` | $group:check, list, bom | $extends:list |
-| `list-checks` | $group:check, items, pending | $extends:list |
+| `list-check` | $group:check, list, bom, checklist | $extends:list |
+| `list-checks` | $group:check, items, pending, checklist | $extends:list |
 | `list-chevrons-down-up` | $extends:list, $group:direction-down, $group:direction-up, items, collapse, expand, details, disclosure, show, hide, toggle, accordion, more, less, fold, unfold | $extends:list |
 | `list-chevrons-up-down` | $extends:list, $group:direction-up, $group:direction-down, items, collapse, expand, details, disclosure, show, hide, toggle, accordion, more, less, fold, unfold | $extends:list |
 | `list-clock` | $group:clock, log, recent, updated, revision, activity, audit, list | $extends:list, time |
@@ -1092,7 +1094,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `list-sort-ascending` | $group:sort, list, organization, categories, presentation | $extends:list, layout |
 | `list-sort-descending` | $group:sort, list, organization, categories, presentation | $extends:list, layout |
 | `list-start` | queue, top, start, next, playlist | $extends:list, multimedia |
-| `list-todo` | todo, done, check, tick, complete, tasks, items, pending | $extends:list |
+| `list-todo` | todo, done, check, tick, complete, tasks, items, pending, checklist | $extends:list |
 | `list-tree` | tree, browser | $extends:list, files, layout |
 | `list-video` | playlist, video, playback | multimedia |
 | `list-x` | $group:x, playlist, subtract, unqueue | $extends:list, multimedia |
@@ -1107,7 +1109,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `lock-keyhole-open` | $extends:lock-keyhole | $extends:lock-keyhole |
 | `lock-open` | $extends:lock | $extends:lock |
 | `log-in` | sign in, arrow, enter, auth | arrows, account |
-| `log-out` | sign out, arrow, exit, auth | arrows, account |
+| `log-out` | sign out, arrow, exit, auth, quit | arrows, account |
 | `logs` | options, list, menu, order, queue, tasks, logs | text, development |
 | `lollipop` | lolly, candy, sugar, food, sweet, dessert, spiral | food-beverage |
 | `luggage` | baggage, luggage, travel, suitcase | travel, transportation |
@@ -1121,7 +1123,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `mail-minus` | $extends:mail, $group:minus | mail |
 | `mail-open` | $extends:mail, read | mail |
 | `mail-pen` | $extends:mail, $group:pen, reply | mail |
-| `mail-plus` | $extends:mail, $group:plus, compose | mail |
+| `mail-plus` | $extends:mail, $group:plus, compose, invite, invitation | mail |
 | `mail-question-mark` | $extends:mail, $group:question-mark, delivery, undelivered | mail |
 | `mail-search` | $extends:mail, $group:search | mail |
 | `mail-x` | $extends:mail, $group:x | mail |
@@ -1166,7 +1168,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-circle` | comment, chat, conversation, dialog, feedback, speech bubble | social, communication |
 | `message-circle-check` | $extends:message-circle, $group:check, moderate | $extends:message-circle |
 | `message-circle-code` | $extends:message-circle, $group:code, code review | $extends:message-circle, development |
-| `message-circle-dashed` | $extends:message-circle, draft | $extends:message-circle |
+| `message-circle-dashed` | $extends:message-circle, $group:dashed, draft | $extends:message-circle |
 | `message-circle-dashed-check` | $extends:message-circle-dashed, $group:check, pending, provisional, verification, confirmation, status, approval, moderate, resolved | $extends:message-circle-dashed |
 | `message-circle-exclamation-point` | $extends:message-circle, $group:exclamation-mark, report, abuse, offense, protected | $extends:message-circle, notifications |
 | `message-circle-heart` | $extends:message-circle, $group:heart, positive, interest, valentine, dating, date | $extends:message-circle |
@@ -1180,7 +1182,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-square` | comment, chat, conversation, dialog, feedback, speech bubble | social, communication |
 | `message-square-check` | $extends:message-square, $group:check, moderate | $extends:message-square |
 | `message-square-code` | $extends:message-square, $group:code, code review | $extends:message-square, development |
-| `message-square-dashed` | $extends:message-square, draft | $extends:message-square |
+| `message-square-dashed` | $extends:message-square, $group:dashed, draft | $extends:message-square |
 | `message-square-diff` | $extends:message-square, add, patch, difference, plus, minus, plus-minus, math, code review, coding, version control, git | $extends:message-square, development, files |
 | `message-square-dot` | $extends:message-square, $group:dot, unresolved | $extends:message-square, notifications |
 | `message-square-exclamation-point` | $extends:message-square, $group:exclamation-mark, report, abuse, offense, protected | $extends:message-square, notifications |
@@ -1188,7 +1190,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `message-square-lock` | $extends:message-square, $group:lock | $extends:message-square, security |
 | `message-square-more` | $extends:message-square, typing, writing, responding, ellipsis, etc, et cetera, ..., … | $extends:message-square |
 | `message-square-off` | $extends:message-square, $group:x, $group:off, silence, mute, moderate | $extends:message-square |
-| `message-square-plus` | $extends:message-square, $group:plus | $extends:message-square |
+| `message-square-plus` | $extends:message-square, $group:plus, suggest, suggestion | $extends:message-square |
 | `message-square-quote` | $extends:message-square, blockquote, quotation, indent, reply, response | $extends:message-square, text |
 | `message-square-reply` | $extends:message-square, reply, response | $extends:message-square |
 | `message-square-share` | $extends:message-square, network, forward | $extends:message-square |
@@ -1237,6 +1239,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `moped` | scooter, two-wheeler, commute, urban, city, courier, motorbike, moto, motorcycle, transport, vehicle, drive, ride, race, racing, trip, journey, delivery, off-road, dirt bike, trail, enduro | transportation |
 | `mosque` | mosque, masjid, islam, muslim, ramadan, eid, prayer, worship, building, minaret, dome, architecture, faith, religion, holy, sacred, landmark, community, spiritual, tourism, map, heritage | buildings, navigation, travel |
 | `motorbike` | moto, motorcycle, transport, vehicle, drive, ride, trip, race, racing, journey, delivery | transportation |
+| `mound-shovel` | $extends:shovel, sand, pile, grain, desert, nature, dirt pile, sand pile, dirt, soil, earth, gravel, heap, stockpile, aggregate, excavation, earthworks, mine, mining, quarry, sand mine, frac sand, construction, construction site, landscaping, beach | tools, nature |
 | `mountain` | climb, hike, rock | nature |
 | `mountain-snow` | alpine, climb, snow | nature |
 | `mouse` | device, scroll, click | devices |
@@ -1277,9 +1280,9 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `notebook-dot` | $extends:notebook, $group:dot, document, file, page, paper, record, entry, notebook, note | text, notifications |
 | `notebook-pen` | $extends:notebook, $group:pen, noted, eraser, rubber | text |
 | `notebook-tabs` | $extends:notebook, people, family, friends, acquaintances, contacts, details, addresses, phone numbers, directory, listing, networking, alphabetical, a-z | account, communication, social |
-| `notebook-text` | $extends:notebook, pages, paper, write, lines, opened | text |
+| `notebook-text` | $extends:notebook, pages, paper, write, lines, opened, docs, wiki, knowledge base | text |
 | `notepad-text` | notebook, notes, pages, paper, stationery, sketchbook, organizer, organiser, planner, diary, journal, writing, write, written, reading, high school, university, college, academy, student, study, homework, research, lines, opened | text |
-| `notepad-text-dashed` | $extends:notepad-text, draft, template | $extends:notepad-text |
+| `notepad-text-dashed` | $extends:notepad-text, $group:dashed, draft, template | $extends:notepad-text |
 | `numbers` | $group:digit, 123, digits, counting, quantity, math, sequence, integer | letters-digits, text, math |
 | `nut` | hazelnut, acorn, food, diet | food-beverage |
 | `nut-off` | $extends:nut, $group:off, allergy, intolerance | $extends:nut |
@@ -1299,7 +1302,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `package-minus` | $extends:package, $group:minus | $extends:package |
 | `package-open` | box, container, storage, unpack, unarchive, unzip, opened, delivered | $extends:package |
 | `package-pen` | $extends:package, $group:pen | $extends:package |
-| `package-plus` | $extends:package, $group:plus | $extends:package |
+| `package-plus` | $extends:package, $group:plus, install, installation | $extends:package |
 | `package-question-mark` | $extends:package, $group:question-mark, unresolved, placeholder, pending, lost, dependency | $extends:package |
 | `package-search` | $extends:package, $group:search, product process | $extends:package |
 | `package-x` | $extends:package, $group:x | development, files |
@@ -1311,21 +1314,21 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `panda` | animal, wildlife, bear, zoo, bamboo | animals |
 | `panel-bottom` | $group:position-bottom, drawer, dock | layout |
 | `panel-bottom-close` | $extends:panel-bottom, $group:direction-down, hide, chevron, down | $extends:panel-bottom |
-| `panel-bottom-dashed` | $extends:panel-bottom, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-bottom |
+| `panel-bottom-dashed` | $extends:panel-bottom, $group:dashed, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-bottom |
 | `panel-bottom-open` | $extends:panel-bottom, $group:direction-up, show, reveal, chevron, up | $extends:panel-bottom |
 | `panel-left` | $group:position-left, primary, drawer | layout |
 | `panel-left-close` | $extends:panel-left, $group:direction-left, hide, chevron, < | $extends:panel-left |
-| `panel-left-dashed` | $extends:panel-left, sidebar, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-left |
+| `panel-left-dashed` | $extends:panel-left, $group:dashed, sidebar, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-left |
 | `panel-left-open` | $extends:panel-left, $group:direction-right, show, reveal, chevron, right, > | $extends:panel-left |
-| `panel-left-right-dashed` | $extends:panel-left, $group:position-right, sidebar, show, reveal, padding, margin, guide, layout, vertical, bleed | $extends:panel-left |
+| `panel-left-right-dashed` | $extends:panel-left, $group:position-right, $group:dashed, sidebar, show, reveal, padding, margin, guide, layout, vertical, bleed | $extends:panel-left |
 | `panel-right` | $group:position-right, sidebar, secondary, drawer | layout |
 | `panel-right-close` | $extends:panel-right, $group:direction-right, hide, chevron, > | $extends:panel-right |
-| `panel-right-dashed` | $extends:panel-right, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-right |
+| `panel-right-dashed` | $extends:panel-right, $group:dashed, show, reveal, padding, margin, guide, layout, bleed | $extends:panel-right |
 | `panel-right-open` | $extends:panel-right, $group:direction-left, show, reveal, chevron, left, < | $extends:panel-right |
 | `panel-top` | $group:position-top, drawer, browser, webpage | layout |
-| `panel-top-bottom-dashed` | $extends:panel-top, $group:position-bottom, sidebar, primary, show, reveal, padding, margin, guide, layout, horizontal, bleed | layout |
+| `panel-top-bottom-dashed` | $extends:panel-top, $group:position-bottom, $group:dashed, sidebar, primary, show, reveal, padding, margin, guide, layout, horizontal, bleed | layout |
 | `panel-top-close` | $extends:panel-top, $group:direction-up, menu bar, hide, chevron, up | layout |
-| `panel-top-dashed` | $extends:panel-top, menu bar, show, reveal, padding, margin, guide, layout, bleed | layout |
+| `panel-top-dashed` | $extends:panel-top, $group:dashed, menu bar, show, reveal, padding, margin, guide, layout, bleed | layout |
 | `panel-top-open` | $extends:panel-top, $group:direction-down, menu bar, show, reveal, chevron, down | layout |
 | `panels-left-bottom` | $group:position-bottom, $group:position-left, drawers, sidebar, primary | layout |
 | `panels-right-bottom` | $group:position-bottom, $group:position-right, drawers, sidebar, secondary | layout |
@@ -1336,7 +1339,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `parentheses` | code, token, parenthesis, parens, brackets, parameters, arguments, args, input, call, math, formula, function, (, ) | development, math |
 | `park` | nature, green, trees, landscape, rest, walk, leisure, environment, tree, bench, outdoors, recreation | nature, navigation, travel |
 | `parking-meter` | driving, car park, pay, sidewalk, pavement | transportation, navigation |
-| `party-popper` | emoji, congratulations, celebration, party, tada, 🎉, 🎊, excitement, exciting, excites, confetti | emoji |
+| `party-popper` | emoji, congratulations, celebration, party, tada, 🎉, 🎊, excitement, exciting, excites, confetti, welcome | emoji |
 | `pause` | $group:pause, music | multimedia |
 | `paw-print` | pets, vets, veterinarian, domesticated, cat, dog, bear | animals |
 | `pc-case` | personal computer, computer, chassis, workstation, tower, hardware, setup, gaming | devices, gaming |
@@ -1368,11 +1371,11 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `pickaxe` | mining, mine, land worker, extraction, labor, construction, progress, advancement, crafting, building, creation | tools, gaming |
 | `picture-in-picture` | display, play, video, pop out, always on top, window, inset, multitask | multimedia |
 | `picture-in-picture-2` | $extends:picture-in-picture | $extends:picture-in-picture |
-| `piggy-bank` | money, savings | finance |
+| `piggy-bank` | money, savings, budget | finance |
 | `pilcrow` | paragraph, mark, paraph, blind, typography, type, text, prose, symbol | text |
 | `pilcrow-left` | $extends:pilcrow, $group:direction-left | $extends:pilcrow |
 | `pilcrow-right` | $extends:pilcrow, $group:direction-right | $extends:pilcrow |
-| `pill` | medicine, medication, drug, prescription, tablet, pharmacy | medical |
+| `pill` | medicine, medication, drug, prescription, tablet, pharmacy, sick, illness | medical |
 | `pill-bottle` | $extends:pill, supplement, vitamin, capsule, jar, container, healthcare, pharmaceutical | $extends:pill |
 | `pin` | save, map, lock, fix | navigation |
 | `pin-off` | $extends:pin, $group:off, unpin, unlock, unfix, unsave, remove | navigation |
@@ -1398,9 +1401,9 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `popcorn` | cinema, movies, films, salted, sweet, sugar, candy, snack | food-beverage, multimedia |
 | `popsicle` | ice lolly, ice cream, sweet, food | food-beverage |
 | `pound-sterling` | $group:currency | finance |
-| `power` | on, off, device, switch, toggle, binary, boolean, reboot, restart, button, keyboard, troubleshoot | devices |
+| `power` | on, off, device, switch, toggle, binary, boolean, reboot, restart, button, keyboard, troubleshoot, quit | devices |
 | `power-off` | $extends:power, $group:off | $extends:power |
-| `presentation` | screen, whiteboard, marker pens, markers, blackboard, chalk, easel, school, learning, lesson, office, meeting, project, planning | multimedia, communication, design |
+| `presentation` | screen, whiteboard, marker pens, markers, blackboard, chalk, easel, school, learning, lesson, office, meeting, project, planning, ppt, pptx, powerpoint, slides | multimedia, communication, design |
 | `printer` | fax, office, device | devices |
 | `printer-3d` | model, hardware, technology, device, factory, manufacturing, art, extruder, stl, obj, step, additive, fabrication, rapid prototype, layer, filament, nozzle, maker, machine | $extends:printer, tools |
 | `printer-check` | $extends:printer, $group:check, printed | $extends:printer |
@@ -1410,6 +1413,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `puzzle` | component, module, part, piece | development, gaming |
 | `pyramid` | prism, triangle, triangular, hierarchy, structure, geometry, ancient, egyptian, landmark, tourism | shapes, math, travel |
 | `qr-code` | barcode, scan, link, url, information, digital | development, social |
+| `question-mark` | $group:question-mark | text, notifications |
 | `quote` | quotation | text |
 | `rabbit` | animal, rodent, pet, pest, bunny, hare, fast, speed, hop | animals |
 | `radar` | scan, sonar, detect, find, locate | navigation, security, communication |
@@ -1423,7 +1427,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rainbow` | colors, colours, spectrum, light, prism, arc, clear, sunshine | weather |
 | `rat` | mouse, mice, gerbil, rodent, pet, pest, plague, disease | animals |
 | `ratio` | screens, sizes, rotate, rotation, adjust, aspect ratio, proportions, 16:9, widescreen, 4:3, resolution, responsive, mobile, desktop, dimensions, monitor, orientation, portrait, landscape | layout, design, photography |
-| `receipt` | bill, voucher, slip, check, counterfoil, currency, dollar, usd, $ | finance, shopping |
+| `receipt` | bill, voucher, slip, check, counterfoil, currency, dollar, usd, $, cashier | finance, shopping |
 | `receipt-cent` | $extends:receipt, cents, ¢ | $extends:receipt |
 | `receipt-euro` | $extends:receipt, € | $extends:receipt |
 | `receipt-indian-rupee` | $extends:receipt, inr, ₹ | $extends:receipt |
@@ -1462,20 +1466,21 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `road` | road, street, highway, route, path, transport, traffic, drive, map | transportation, navigation |
 | `robot-arm` | mechanical, automation, factory, manufacture, technology, cyborg, industrial, hardware, machinery | science, tools |
 | `robot-vacuum` | appliance, cleaning, household, housekeeping, tool, maintenance, sweeping, hygiene, chores, automation, smart home, device, floor, dust, debris, navigation, sensor | devices, home |
-| `rocket` | release, boost, launch, space, version | gaming, development |
+| `rocket` | release, boost, launch, space, version, deploy, deployment | gaming, development |
 | `rocking-chair` | chair, furniture, seat, comfort, relax | home |
 | `roller-coaster` | attraction, entertainment, amusement park, theme park, funfair | navigation, travel |
 | `rose` | roses, thorns, petals, plant, stem, leaves, spring, bloom, blossom, gardening, botanical, flora, florist, bouquet, bunch, gift, date, romance, romantic, valentines day, special occasion | nature, seasons, social |
 | `rotate-3d` | gizmo, transform, orientation, orbit, axis | design |
 | `rotate-ccw` | arrow, left, counter-clockwise, restart, reload, rerun, refresh, backup, undo, replay, redo, retry, rewind, reverse | arrows, design, photography |
-| `rotate-ccw-clock` | $extends:rotate-ccw, $group:clock, timeline, version, time machine, ccw | arrows, time |
+| `rotate-ccw-clock` | $extends:rotate-ccw, $group:clock, timeline, version, time machine, ccw, changelog, release notes | arrows, time |
 | `rotate-ccw-key` | $extends:rotate-ccw, $group:key, change | security, account |
 | `rotate-ccw-square` | $extends:rotate-ccw, rotate, image, 90, 45, degrees, ° | $extends:rotate-ccw |
 | `rotate-cw` | arrow, right, clockwise, refresh, reload, rerun, redo | arrows, design, photography |
 | `rotate-cw-clock` | $extends:rotate-cw, $group:clock, modify, edit, sync, renew, revision, settings, adjust, upgrade, timeline, version, time machine, backup, synchronize, circular, cycle, update | arrows, time |
 | `rotate-cw-fading-clock` | $extends:rotate-cw, $group:clock, waiting, hourglass, loading, pause | time |
 | `rotate-cw-square` | $extends:rotate-cw, rotate, image, 90, 45, degrees, ° | $extends:rotate-cw |
-| `route` | path, journey, planner, points, stops, stations | navigation |
+| `route` | path, journey, planner, points, stops, stations, direction, right, flow, reroute, detour, navigate, forward, auto, map, waypoint, gps, turn, location, directional | navigation |
+| `route-arrow-right` | $extends:route, $group:direction-right, one-way, arrow | $extends:route, arrows |
 | `route-off` | $extends:route, $group:off, reset, clear, closed | $extends:route |
 | `router` | computer, server, cloud | devices, connectivity, home |
 | `rows-2` | lines, list, queue, preview, panel, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawer | layout, design, text |
@@ -1514,22 +1519,22 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `scan-text` | $extends:scan, recognition, read, translate, copy, lines | text, devices |
 | `school` | building, education, childhood, university, learning, campus, scholar, student, lecture, degree, course, academia, study, knowledge, classroom, research, diploma, graduation, professor, tutorial, homework, assignment, exam | buildings, navigation |
 | `scissors` | cut, snip, chop, stationery, crafts | text, design, tools |
-| `scissors-line-dashed` | $extends:scissors, cut here, along, instructions, diagram | design, tools |
+| `scissors-line-dashed` | $extends:scissors, $group:dashed, cut here, along, instructions, diagram | design, tools |
 | `scooter` | vehicle, drive, trip, journey, transport, electric, ride, urban, commute, speed | transportation |
 | `scratch-blocks` | code, blocks, scratch, turbowarp, mistwarp, visual programming, block-based, drag-and-drop, editor, education, learning, programming, kids, integration | development |
 | `screen-share` | host, desktop, monitor | connectivity, devices, communication |
 | `screen-share-off` | $extends:screen-share, $group:off, disconnect | $extends:screen-share |
 | `screw` | fastener, hardware, bolt, screwdriver, repair, assembly, diy, flathead | tools |
 | `scroll` | paper, log, scripture, document, notes, parchment, list, long, script, story, code, coding | gaming, development, text |
-| `scroll-text` | $extends:scroll | $extends:scroll |
+| `scroll-text` | $extends:scroll, changelog, release notes | $extends:scroll |
 | `search` | $group:search, enlarge | text |
 | `search-check` | $extends:search, $group:check, found | $extends:search |
 | `search-code` | $extends:search, $group:code, grep, chevrons, <> | $extends:search, development |
 | `search-exclamation-point` | $extends:search, $group:exclamation-mark, stop, anomaly | $extends:search |
 | `search-slash` | $extends:search, stop, clear, cancel, abort, / | $extends:search |
-| `search-x` | $extends:search, $group:x, stop | $extends:search |
+| `search-x` | $extends:search, $group:x, stop, 404, not found, page not found | $extends:search |
 | `section` | mark, typography, punctuation, legal, type, text, prose, symbol | text |
-| `send` | email, message, mail, paper airplane, paper aeroplane, submit | mail, communication |
+| `send` | email, message, mail, paper airplane, paper aeroplane, submit, invite, invitation | mail, communication |
 | `send-horizontal` | $extends:send | $extends:send |
 | `send-to-back` | bring, send, move, under, back, backwards, overlap, layer, order | design, layout |
 | `separator-horizontal` | move, split | text, arrows, layout |
@@ -1545,16 +1550,16 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `shapes` | triangle, equilateral, square, circle, classification, different, collection, toy, blocks, learning | shapes, gaming |
 | `share` | network, connections | social |
 | `share-2` | $extends:share | $extends:share |
-| `sheet` | spreadsheets, table, excel | text, files |
+| `sheet` | spreadsheets, table, excel, csv, xls, xlsx | text, files |
 | `shell` | beach, sand, holiday, sea life, fossil, ammonite, biology, ocean, terminal, command line, session, bash, zsh, roll, wrap, chewing gum, bubble gum, sweet, sugar, hosepipe, carpet, string, spiral, spinner, hypnotise, hypnosis | animals, development, nature, travel |
 | `shelving-unit` | ledge, rack, storage, inventory, furniture, sill, shelves, shelf, organize, display, store, arrange, unit, cabinet, fixture, retail, warehouse | home |
 | `shield` | $group:shield, armored, armoured, block, threat, antivirus, vigilance, vigilant, detection, scan, find, strength, strong, tough, invincible, invincibility, invulnerable, undamaged, audit, admin, verification, crest, bravery, knight, foot soldier, infantry, trooper, pawn, battle, war, military, army, cadet, scout | account, security, development, gaming |
 | `shield-ban` | $extends:shield, $group:off, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, error, attacked, damaged, injured, hit, expired, eliminated | account, security, development, gaming |
-| `shield-check` | $extends:shield, $group:check, secured, guarded, defended, blocked, prevented, active, activated, enabled, scanned, found, audited, certification, certified, tested, passed, qualified, cleared, cleaned, disinfected, uninfected, checked | account, security, development, gaming |
+| `shield-check` | $extends:shield, $group:check, secured, guarded, defended, blocked, prevented, active, activated, enabled, scanned, found, audited, certification, certified, tested, passed, qualified, cleared, cleaned, disinfected, uninfected, checked, insurance, guarantee, warranty | account, security, development, gaming |
 | `shield-cog` | $extends:shield, $group:cog | $extends:shield |
 | `shield-cog-corner` | $extends:shield-cog, shield cog | $extends:shield-cog |
 | `shield-ellipsis` | $extends:shield, securing, protecting, guarding, armoring, armouring, defending, blocking, preventing, detecting, scanning, finding, auditing, verifying, upgrading, loader, loading, throbber, progress, dots, more, etc, ..., … | account, security, development, gaming |
-| `shield-exclamation-point` | $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, urgent, alarm, attacked, damaged, injured, hit, expired, disabled, inactive | account, security, development, notifications, gaming |
+| `shield-exclamation-point` | $extends:shield, $group:exclamation-mark, unshielded, insecure, unsecured, unsafe, unprotected, unguarded, unarmored, unarmoured, defenseless, defenceless, undefended, blocked, stopped, intercepted, interception, saved, thwarted, unprevented, detected, scanned, found, exploit, vulnerability, vulnerable, weakness, infection, infected, compromised, data leak, audited, unverified, uncertified, emergency, attention, alarm, attacked, damaged, injured, hit, expired, disabled, inactive | account, security, development, notifications, gaming |
 | `shield-half` | $extends:shield, logo, sigil, flag, team, faction, fraternity, university, college, academy, school, education, uniform, ranking | account, security, development, gaming |
 | `shield-house` | $extends:shield, property, household, connectivity, building, residence | security, development, home, connectivity |
 | `shield-keyhole` | $extends:shield | account, security, development |
@@ -1634,10 +1639,10 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-arrow-down-exit` | $group:direction-down, $group:exit, $group:layout-resize, pour, empty, cell, expand | $extends:square-arrow-down |
 | `square-arrow-down-left` | $group:direction-down-left, sign, keyboard, button, turn | arrows |
 | `square-arrow-down-left-enter` | $group:direction-down-left, $group:enter, $group:layout-resize, collapse, exit, close, return, dock | $extends:square-arrow-down-left-exit |
-| `square-arrow-down-left-exit` | $group:direction-down-left, outwards | arrows |
+| `square-arrow-down-left-exit` | $group:direction-down-left, $group:exit | arrows |
 | `square-arrow-down-right` | $group:direction-down-right, sign, keyboard, button, turn | arrows |
 | `square-arrow-down-right-enter` | $group:direction-down-right, $group:enter, $group:layout-resize | $extends:square-arrow-down-right-exit |
-| `square-arrow-down-right-exit` | $group:direction-down-right, outwards | arrows |
+| `square-arrow-down-right-exit` | $group:direction-down-right, $group:exit | arrows |
 | `square-arrow-left` | $group:direction-left, $group:navigation-previous, previous, sign, keyboard, button, <- | arrows |
 | `square-arrow-left-enter` | $group:direction-left, $group:enter, $group:layout-resize, reverse, back, <-, cell, expand, collapse, split | $extends:square-arrow-left |
 | `square-arrow-left-exit` | $group:direction-left, $group:exit, $group:layout-resize, back, reverse, <-, collapse | $extends:square-arrow-left |
@@ -1649,15 +1654,15 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-arrow-up-exit` | $group:direction-up, $group:exit, upload, share, external link, pop out, open in new window | $extends:square-arrow-up, files, social |
 | `square-arrow-up-left` | $group:direction-up-left, sign, keyboard, button | arrows |
 | `square-arrow-up-left-enter` | $group:direction-up-left, $group:enter, $group:layout-resize, merging | $extends:square-arrow-up-left-exit |
-| `square-arrow-up-left-exit` | $group:direction-up-left, outwards | arrows |
+| `square-arrow-up-left-exit` | $group:direction-up-left, $group:exit | arrows |
 | `square-arrow-up-right` | $group:direction-up-right, sign, keyboard, button, share | arrows, social |
 | `square-arrow-up-right-enter` | $group:direction-up-right, $group:enter, $group:layout-resize, expand, contract | arrows |
-| `square-arrow-up-right-exit` | $group:direction-up-right, outwards, share, open, external, link | arrows, social |
-| `square-asterisk` | password, secret, access, key, multiply, multiplication, glob pattern, wildcard, * | text, security, math, development |
+| `square-arrow-up-right-exit` | $group:direction-up-right, $group:exit, share, open, external, link, redirect | arrows, social |
+| `square-asterisk` | password, secret, access, key, multiply, multiplication, glob pattern, wildcard, *, required, mandatory | text, security, math, development |
 | `square-bookmark` | photo, book | photography, multimedia |
-| `square-bottom-dashed-scissors` | cut, snippet, chop, stationery, crafts | text, design, tools, files, development |
-| `square-centerline-dashed-horizontal` | reflect, mirror, alignment, dashed | design, photography |
-| `square-centerline-dashed-vertical` | reflect, mirror, alignment, dashed | design, photography |
+| `square-bottom-dashed-scissors` | $group:dashed, cut, snippet, chop, stationery, crafts | text, design, tools, files, development |
+| `square-centerline-dashed-horizontal` | $group:dashed, reflect, mirror, alignment | design, photography |
+| `square-centerline-dashed-vertical` | $group:dashed, reflect, mirror, alignment | design, photography |
 | `square-chart-gantt` | $extends:chart-gantt, intentions, code, coding, toolbar, button | $extends:chart-gantt, development |
 | `square-check` | $group:check | notifications |
 | `square-check-big` | $extends:square-check | $extends:square-check |
@@ -1670,14 +1675,14 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-chevrons-right` | next, forward, skip, fast forward, last, end, east, music, caret, button, keyboard, menu, panel, pagination, jump, seek, seek forward, player control, chapter, track, timeline, navigation control, double arrow, media controls, toolbar, keyboard shortcut, skip-to-end, end-of-list | arrows, navigation, multimedia |
 | `square-chevrons-up` | top, ascend, page, page up, back to top, scroll, jump, north, caret, button, keyboard, skip, pagination, first page, fast, fast scroll, rewind, jump to start, floating action button, anchor, mac, control, ctrl, menu, panel, timeline, start, first, return, double arrow, seek, playlist, floating action | arrows, navigation, multimedia, layout |
 | `square-code` | $group:code, gist, source, html, xml | text, development |
-| `square-dashed` | selection, square, rectangular, marquee, tool, dashed, box, region, area, region of interest | design, cursors |
-| `square-dashed-bottom` | rectangle, aspect ratio, 1:1, shape, snippet, code, coding | development, files |
+| `square-dashed` | $group:dashed, selection, square, rectangular, marquee, tool, box, region, area, region of interest | design, cursors |
+| `square-dashed-bottom` | $group:dashed, rectangle, aspect ratio, 1:1, shape, snippet, code, coding | development, files |
 | `square-dashed-bottom-code` | $extends:square-dashed-bottom, $group:code | $extends:square-dashed-bottom |
-| `square-dashed-kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding | charts, development |
-| `square-dashed-mouse-pointer` | inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | cursors, development |
+| `square-dashed-kanban` | $group:dashed, projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, draft, template, boilerplate, code, coding | charts, development |
+| `square-dashed-mouse-pointer` | $group:dashed, inspector, element, mouse, click, pointer, box, browser, selector, target, dom, node | cursors, development |
 | `square-dashed-plus` | $extends:square-dashed, $group:plus, select, placeholder, frame, empty | design, layout |
 | `square-dashed-search` | $extends:square-dashed, $group:search | $extends:square-dashed |
-| `square-dashed-text` | find, search, selection, dashed | text, cursors |
+| `square-dashed-text` | $group:dashed, find, search, selection | text, cursors |
 | `square-dashed-top-solid` | $extends:square-dashed, border, width, layout, style, design, rectangle, aspect ratio, 1:1 | design, development, layout |
 | `square-dashed-x` | $extends:square-dashed, $group:x, deselect, unselect, select, border, width, layout, style, design, rectangle, aspect ratio, 1:1 | design, development, layout |
 | `square-dashed-x-corner` | $extends:square-dashed-x | $extends:square-dashed-x |
@@ -1748,7 +1753,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-stack` | versions, clone, copy, duplicate, multiple, revisions, version control, backup, history | text, files, development |
 | `square-star` | $group:star, badge, medal, honour, decoration, order, pin, laurel, trophy, medallion, insignia, bronze, silver, gold | sports, gaming |
 | `square-stop` | $group:stop, media, music | multimedia |
-| `square-terminal` | code, command line, prompt, shell | development |
+| `square-terminal` | $group:code, code, command line, prompt, shell | development |
 | `square-text` | text, paragraph, content, note, document, body, copy, article, square, container, block, card, placeholder, log, page, paper, sheet, list, script, code, editor | text, layout |
 | `square-user` | $group:user | account |
 | `square-user-round` | $extends:square-user | $extends:square-user |
@@ -1758,7 +1763,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `squares-subtract` | square, pathfinder, path, minus, subtract, subtraction, shape, front, vector | design |
 | `squares-unite` | square, pathfinder, path, unite, union, shape, merge, vector | design |
 | `squircle` | shape | shapes |
-| `squircle-dashed` | $extends:squircle, pending, progress, issue, draft, code, coding, version control | $extends:squircle, development, design |
+| `squircle-dashed` | $extends:squircle, $group:dashed, pending, progress, issue, draft, code, coding, version control | $extends:squircle, development, design |
 | `squirrel` | animal, rodent, pet, pest, nuts, retrieve, updates, storage, stash | animals |
 | `stamp` | mark, print, clone, loyalty, library | design, tools |
 | `star` | $group:star | social, shapes, emoji, gaming |
@@ -1770,7 +1775,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `star-x` | $extends:star, $group:x, mark, symbol, shape, vector, design, graphic | $extends:star |
 | `step-back` | arrow, previous, music, left, reverse | multimedia, arrows |
 | `step-forward` | arrow, next, music, right, continue | multimedia, arrows |
-| `stethoscope` | phonendoscope, medical, heart, lungs, sound | science, medical |
+| `stethoscope` | phonendoscope, medical, heart, lungs, sound, patient | science, medical |
 | `sticker` | reaction, emotion, smile, happy, feedback | social, emoji |
 | `sticky-note` | post-it, comment, annotation, reaction, memo, reminder, todo, task, idea, brainstorm, document, page, paper, sheet, stationary, office | text, social |
 | `sticky-note-check` | $extends:sticky-note, $group:check | $extends:sticky-note |
@@ -1780,7 +1785,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `sticky-note-x` | $extends:sticky-note, $group:x | $extends:sticky-note |
 | `sticky-notes` | post-it, annotation, memo, reminder, todo, tasks, ideas, brainstorm, documents, notes, multiple, collection, group, stack, clone, duplicate, copy | text, social |
 | `stone` | mineral, geology, nature, solid, pebble, crystal, ore, hard, coal, stone, rock, boulder | nature |
-| `store` | shop, supermarket, stand, boutique, building | buildings, navigation, shopping |
+| `store` | shop, supermarket, stand, boutique, building, sell, selling, merchant | buildings, navigation, shopping |
 | `stretch-horizontal` | items, flex, justify, distribute | layout |
 | `stretch-vertical` | items, flex, justify, distribute | layout |
 | `strikethrough` | $group:letter, $group:minus, cross out, format | text |
@@ -1806,7 +1811,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `sword` | battle, challenge, combat, duel, fantasy, game, knight, melee, medieval, offense, rpg, sharp, weapon, war, warrior | gaming |
 | `swords` | battle, challenge, combat, conflict, crossed, duel, faction, fantasy, game, melee, medieval, opponent, rivalry, rpg, versus, weapon, war, warrior | gaming |
 | `syringe` | medicine, medical, needle, pump, plunger, nozzle, blood | science, medical |
-| `table` | spreadsheet, grid | text, files |
+| `table` | spreadsheet, grid, csv, xls, xlsx, excel | text, files |
 | `table-2` | $extends:table | $extends:table |
 | `table-cells-merge` | $extends:table, row | $extends:table |
 | `table-cells-split` | $extends:table, row | $extends:table |
@@ -1817,7 +1822,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tablet` | device, mobile, screen, display, touchscreen, portable, responsive | devices |
 | `tablet-smartphone` | $extends:tablet, phone, cellphone, screens, browser, testing | $extends:tablet, design, development |
 | `tablets` | medicine, medication, drug, prescription, pills, pharmacy | medical |
-| `tag` | label, badge, ticket, mark | account, shopping |
+| `tag` | label, badge, ticket, mark, sell, selling, promotion, promo | account, shopping |
 | `tag-plus` | $extends:tag, $group:plus | $extends:tag |
 | `tag-x` | $extends:tag, $group:x | $extends:tag |
 | `tags` | labels, badges, tickets, marks, copy, multiple | account, shopping |
@@ -1827,11 +1832,11 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tally-4` | count, score, enumerate, days, 4, fourth, quadruple, bars, prison, cell, sentence | math, gaming |
 | `tally-5` | count, score, enumerate, days, five, 5, fifth, bars, prison, cell, sentence, slash, / | math, gaming |
 | `tangent` | tangential, shape, circle, geometry, trigonometry, bezier curve | shapes, math, design |
-| `target` | logo, bullseye, deadline, projects, overview, work, productivity | gaming |
+| `target` | logo, bullseye, deadline, projects, overview, work, productivity, result, outcome, objective, okr | gaming |
 | `telescope` | astronomy, space, discovery, exploration, explore, vision, perspective, focus, stargazing, observe, view | science, tools |
 | `tent` | tipi, teepee, wigwam, lodge, camping, campsite, holiday, retreat, nomadic, native american, indian, wilderness, outdoors | travel, nature |
 | `tent-tree` | $extends:tent | travel, nature |
-| `terminal` | code, command line, prompt, shell | development |
+| `terminal` | $group:code, code, command line, prompt, shell | development |
 | `test-tube` | tube, vial, phial, flask, ampoule, ampule, lab, chemistry, experiment, test | science |
 | `test-tube-diagonal` | $extends:test-tube | $extends:test-tube |
 | `test-tubes` | tubes, vials, phials, flasks, ampoules, ampules, lab, chemistry, experiment, test | science |
@@ -1845,6 +1850,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `text-cursor` | select, caret, type, typing, write, writing, edit, insert, input, textarea | text, cursors |
 | `text-cursor-input` | select | text, layout |
 | `text-initial` | $group:letter, drop cap, format, letter, font size | text |
+| `text-pen` | $group:pen, quick, autosave, prompt, scratch, authoring | text, development |
 | `text-quote` | blockquote, quotation, indent, reply, response | text |
 | `text-search` | $group:search, data, copy, txt, pdf, document | text |
 | `text-wrap` | words, lines, break, paragraph | text |
@@ -1853,9 +1859,9 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `thermometer-snowflake` | $extends:thermometer, cold, freeze, freezing | $extends:thermometer |
 | `thermometer-sun` | $extends:thermometer, warm, hot | $extends:thermometer |
 | `thumbs-down` | dislike, bad, emotion | social, emoji |
-| `thumbs-up` | like, good, emotion | social, emoji |
+| `thumbs-up` | like, good, emotion, recommend, recommendation | social, emoji |
 | `tic-tac-toe` | $group:letter, game, board, grid, strategy, noughts and crosses | gaming |
-| `ticket` | entry, pass, voucher, event, concert, show, perforated, dashed | account, transportation |
+| `ticket` | entry, pass, voucher, event, concert, show, perforated, dashed, invite, invitation | account, transportation |
 | `ticket-check` | $extends:ticket, $group:check, booked, purchased, receipt, redeemed, certified, checked, used | transportation |
 | `ticket-minus` | $extends:ticket, $group:minus, unbook, decrease | transportation |
 | `ticket-percent` | $extends:ticket, $group:percent, book, purchase | transportation, shopping |
@@ -1901,12 +1907,12 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `trending-up` | $group:chart, $group:direction-up | charts, arrows |
 | `trending-up-down` | $group:chart, $group:direction-up, $group:direction-down, arrows, estimated, indeterminate, data fluctuation, uncertain, forecast, variable, prediction, dynamic, volatile | $extends:trending-up |
 | `triangle` | equilateral, delta, shape, pyramid, hierarchy | shapes |
-| `triangle-dashed` | $extends:triangle, dashed | $extends:triangle |
+| `triangle-dashed` | $extends:triangle, $group:dashed | $extends:triangle |
 | `triangle-exclamation-point` | $group:exclamation-mark, linter | $extends:triangle, notifications, development |
 | `triangle-right` | $group:direction-right, volume, controls, controller, tv remote, geometry, delta, ramp, slope, incline, increase | $extends:triangle, math |
-| `triangles-centerline-dashed-horizontal` | reflect, mirror, alignment, dashed | design, photography |
-| `triangles-centerline-dashed-vertical` | reflect, mirror, alignment, dashed | design, photography |
-| `trophy` | prize, sports, winner, achievement, award, champion, celebration, victory, competition, tournament, leaderboard, ranking, success, reward, cup, first, gold | sports, gaming |
+| `triangles-centerline-dashed-horizontal` | $group:dashed, reflect, mirror, alignment | design, photography |
+| `triangles-centerline-dashed-vertical` | $group:dashed, reflect, mirror, alignment | design, photography |
+| `trophy` | prize, sports, winner, achievement, award, champion, celebration, victory, competition, tournament, leaderboard, ranking, success, reward, cup, first, gold, result | sports, gaming |
 | `truck` | delivery, van, shipping, haulage, lorry | transportation |
 | `truck-electric` | $extends:truck, electric | $extends:truck |
 | `tube-lotion` | sunscreen, sunblock, spf, uv, cream, skincare, toothpaste, ointment, bottle, toiletries, bathroom, beach, summer | medical, home, shopping, travel |
@@ -1918,7 +1924,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tv-minimal-play` | $extends:tv-minimal, $group:play, movie, ott, film | $extends:tv-minimal |
 | `type` | $group:letter | letters-digits, text |
 | `type-outline` | $extends:type, silhouette, profile, contour, stroke, line | $extends:type |
-| `umbrella` | rain, weather | weather |
+| `umbrella` | rain, weather, insurance, coverage | weather |
 | `umbrella-off` | $extends:umbrella, $group:off, uncovered, uninsured, antivirus, unprotected, risky | $extends:umbrella |
 | `underline` | $group:letter, format | text |
 | `undo` | redo, rerun, history | text, arrows |
@@ -1943,7 +1949,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-lock` | $extends:user, $group:lock | $extends:user, security |
 | `user-minus` | $extends:user, $group:minus, unfollow, unsubscribe | $extends:user |
 | `user-pen` | $extends:user, $group:pen | $extends:user |
-| `user-plus` | $extends:user, $group:plus, follow, subscribe | $extends:user |
+| `user-plus` | $extends:user, $group:plus, follow, subscribe, invite, invitation | $extends:user |
 | `user-round` | $extends:user | $extends:user |
 | `user-round-arrow-left` | $extends:user-round, $group:direction-left, assign, move, give, setup, self, me, myself, avatar, incoming, recipient, assignee, inbound | $extends:user-round, people |
 | `user-round-check` | $extends:user-round, $group:check, followed, subscribed | $extends:user-round |
@@ -1953,7 +1959,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-round-key` | $extends:user-round, $group:key, login, roles, permissions | $extends:user-round, security |
 | `user-round-minus` | $extends:user-round, $group:minus, unfollow, unsubscribe | $extends:user-round |
 | `user-round-pen` | $extends:user-round, $group:pen | $extends:user-round |
-| `user-round-plus` | $extends:user-round, $group:plus, follow, subscribe | $extends:user-round |
+| `user-round-plus` | $extends:user-round, $group:plus, follow, subscribe, invite, invitation | $extends:user-round |
 | `user-round-search` | $extends:user-round, $group:search | $extends:user-round, social |
 | `user-round-shield` | security, protection, admin, guard, privacy, account, role, permissions, profile, identity, trusted | account, security |
 | `user-round-star` | $extends:user-round, $group:star, admin, avatar, moderator, verified, badge, champion | $extends:user-round |
@@ -1994,7 +2000,7 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `volume-off` | $extends:volume, $group:off | $extends:volume |
 | `volume-x` | $extends:volume | $extends:volume |
 | `vote` | vote, poll, ballot, political, social, check, tick | social |
-| `wallet` | money, finance, pocket | account, finance |
+| `wallet` | money, finance, pocket, budget | account, finance |
 | `wallet-cards` | $extends:wallet, wallet, cards, banking, cash, debit, transport, credit, purchase, payment, shopping, retail, consumer, cc | $extends:wallet |
 | `wallet-minimal` | $extends:wallet | $extends:wallet |
 | `wallpaper` | background, texture, image, art, design, visual, decor, pattern, screen, cover, lock screen | devices, photography |
@@ -2033,13 +2039,13 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `wind-arrow-up` | $extends:wind, $group:direction-up, pressure, gust, windy, sort, increase | $extends:wind |
 | `wine` | alcohol, beverage, bar, drink, glass, sommelier, vineyard, winery | food-beverage |
 | `wine-off` | $extends:wine, $group:off, alcohol free, abstinence, abstaining, teetotalism, allergy, intolerance | $extends:wine |
-| `workflow` | $group:graph, action, continuous integration, ci, automation, devops, node, connection | development |
+| `workflow` | $group:graph, action, continuous integration, ci, automation, devops, node, connection, ci/cd, cicd, pipeline, deploy | development |
 | `worm` | invertebrate, grub, larva, snake, crawl, wiggle, slither, pest control, computer virus, malware | animals, security |
 | `wrench` | account, settings, spanner, diy, toolbox, build, construction | account, development, tools |
 | `wrench-off` | $extends:wrench, $group:off, service, maintenance | $extends:wrench |
 | `x` | $group:letter, $group:x, math, multiply, multiplication | notifications, math, letters-digits |
 | `x-line-top` | $extends:x, $group:x, line, top, arrow, navigation, up, pointer, direction, vector, symbol, mean, median, average, x̄ | $extends:x |
-| `zap` | flash, camera, lightning, electricity, energy, power, quick | photography, weather, devices |
+| `zap` | flash, camera, lightning, electricity, energy, power, quick, thunder, thunderbolt | photography, weather, devices |
 | `zap-off` | $extends:zap, $group:off | photography, devices |
 | `zodiac-aquarius` | water bearer, waves, innovation, air, future, astrology, star sign, horoscope, constellation, celestial | social, emoji |
 | `zodiac-aries` | ram, horns, fire, energy, initiative, astrology, star sign, horoscope, constellation, celestial | social, emoji |
@@ -2057,4 +2063,4 @@ All **2046** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2046 icons*
+*Total: 2052 icons*
