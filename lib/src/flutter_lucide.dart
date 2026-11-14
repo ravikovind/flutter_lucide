@@ -4985,6 +4985,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [cap] icon from the Lucide icon set.
+  ///
+  /// ![cap](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEuMDQgNC4wMTdhMTIgMTIgMCAwMC0yLjYzMSAxMS4xMDEiIC8+CiAgPHBhdGggZD0iTTUgMTZjMy4yOTggMCA2LTMgMTAtM2E4IDggMCAwMTYuODEgMy43OTkgMS4zMyAxLjMzIDAgMDEuMTkuNzAxLjUuNSAwIDAxLS41LjVjLS43MzIuMDAxLTIuMDQtMS4wMDQtMy41LTEtMy4wMDUuMDA4LTUuMTk3IDIuOTgyLTggMy0yLjc2MSAwLTUtMS43OS01LTQtMS41IDAtMi41NDMtLjY2NC0yLjcxMy0xLjNBOC41IDguNSAwIDExMTkgMTIuNWE4LjYgOC42IDAgMDEtLjEzMSAxLjQ5NiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [cap] icon is a graphical symbol that conveys a specific idea or functionality related to hat, baseball, baseball cap, snapback, trucker hat, visor, peak, brim, headwear, headgear, sports, merchandise, apparel, fashion, accessory, casual, shopping, store, clothing, clothes.
+  /// - It belongs to the categories: shopping, sports
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Flaig82](https://github.com/Flaig82), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData cap = IconData(
+    0xe854,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [captions] icon from the Lucide icon set.
   ///
   /// ![captions](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjUiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNNyAxNWg0TTE1IDE1aDJNNyAxMWgyTTEzIDExaDQiIC8+Cjwvc3ZnPgo=)
@@ -13945,6 +13961,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [graph_ring] icon from the Lucide icon set.
+  ///
+  /// ![graph_ring](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcuMDA2IDE5LjI0MWE4IDggMCAwIDEtMTAuMDExIDAiIC8+CiAgPHBhdGggZD0iTTE5LjkxOSAxNC4xNDNhOCA4IDAgMCAwLTQuOTcxLTguNTgzIiAvPgogIDxwYXRoIGQ9Ik00LjA4MSAxNC4xNDNBOCA4IDAgMCAxIDkuMDUyIDUuNTYiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSI1LjAwMSIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjE3IiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjUiIGN5PSIxNyIgcj0iMyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [graph_ring] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, cycle, loop, replication, consensus, cluster, peer-to-peer, p2p, mesh, distributed, decentralized, decentralization, ring topology, circular network.
+  /// - It belongs to the categories: charts
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Carl-Lambert](https://github.com/Carl-Lambert), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData graph_ring = IconData(
+    0xe855,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [graph_star] icon from the Lucide icon set.
   ///
   /// ![graph_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIuMzQyIDkuMzE2IDEuNzY0LTMuNTI3IiAvPgogIDxwYXRoIGQ9Im0xMi41OSAxNC41NDUgMi4zNSAzLjc1OSIgLz4KICA8cGF0aCBkPSJtMTMuOTgyIDEyLjMzMiA0LjAzLjQ0NyIgLz4KICA8cGF0aCBkPSJNNS40MTQgMTcuNTg2IDguODggMTQuMTIiIC8+CiAgPHBhdGggZD0iTTkuMDI1IDkuNzQyIDUuMzE3IDUuNTA1IiAvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iMTIiIHI9IjMiIC8+CiAgPGNpcmNsZSBjeD0iMTUiIGN5PSI0IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMjAiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIxMyIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iMTkiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIC8+Cjwvc3ZnPgo=)
@@ -16158,7 +16190,7 @@ abstract final class LucideIcons {
   /// ![layout_grid](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjMiIHJ4PSIxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTQiIHk9IjE0IiByeD0iMSIgLz4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjE0IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [layout_grid] icon is a graphical symbol that conveys a specific idea or functionality related to app, home, start.
+  /// - The [layout_grid] icon is a graphical symbol that conveys a specific idea or functionality related to app, home, start, apps, menu, block, applications, collection, dashboard, overview, tiles, grid, matrix, launcher, widgets, ui, circles, shortcuts.
   /// - It belongs to the categories: design, layout
   ///
   /// Acknowledgements:
@@ -16174,13 +16206,29 @@ abstract final class LucideIcons {
   /// ![layout_grid_circles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxNy41IiBjeT0iMTcuNSIgcj0iMy41IiAvPgogIDxjaXJjbGUgY3g9IjE3LjUiIGN5PSI2LjUiIHI9IjMuNSIgLz4KICA8Y2lyY2xlIGN4PSI2LjUiIGN5PSIxNy41IiByPSIzLjUiIC8+CiAgPGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIzLjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [layout_grid_circles] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:layout-grid, dot matrix, dots, menu, dashboard, collection, overview, tiles, grid, matrix, launcher, apps, widgets, ui, circles, shortcuts.
+  /// - The [layout_grid_circles] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:layout-grid, dot matrix, dots.
   /// - It belongs to the categories: $extends:layout-grid
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/zenoamaro](https://github.com/zenoamaro), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/mittalyashu](https://github.com/mittalyashu), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData layout_grid_circles = IconData(
     0xe790,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [layout_grid_plus] icon from the Lucide icon set.
+  ///
+  /// ![layout_grid_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgMThoNiIgLz4KICA8cGF0aCBkPSJNMTggMTV2NiIgLz4KICA8cmVjdCB4PSIxNCIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIzIiB5PSIxNCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [layout_grid_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:layout-grid, $group:plus, structure, rows, columns, expand, interface, design, section, widget, tile.
+  /// - It belongs to the categories: $extends:layout-grid
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/AleksejDix](https://github.com/AleksejDix)
+  static const IconData layout_grid_plus = IconData(
+    0xe856,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

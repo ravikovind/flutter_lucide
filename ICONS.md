@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2052** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2055** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -319,6 +319,7 @@ All **2052** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `candy-off` | $extends:candy, $group:off, sugar free, allergy, intolerance, diet | $extends:candy |
 | `cannabis` | cannabis, weed, leaf | nature |
 | `cannabis-off` | $extends:cannabis, $group:off | $extends:cannabis |
+| `cap` | hat, baseball, baseball cap, snapback, trucker hat, visor, peak, brim, headwear, headgear, sports, merchandise, apparel, fashion, accessory, casual, shopping, store, clothing, clothes | shopping, sports |
 | `captions` | closed captions, subtitles, subhead, transcription, transcribe, dialogue, accessibility | multimedia, accessibility |
 | `captions-off` | $extends:captions, $group:off | $extends:captions |
 | `car` | vehicle, drive, trip, journey | transportation |
@@ -879,6 +880,7 @@ All **2052** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate, skill, skills, expertise | buildings |
 | `grape` | fruit, wine, food | food-beverage |
 | `graph-hub` | $group:graph, load balancer, distribute, traffic, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, orchestration | connectivity, development |
+| `graph-ring` | $group:graph, cycle, loop, replication, consensus, cluster, peer-to-peer, p2p, mesh, distributed, decentralized, decentralization, ring topology, circular network | charts |
 | `graph-star` | $group:graph, mind map, hub, dependencies, bonds, cluster, thoughts, ideas, concepts, molecule | development, charts |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design |
 | `grid-2x2-check` | $extends:grid-2x2, $group:check, data | text, layout |
@@ -1017,8 +1019,9 @@ All **2052** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `layout-arrow-right` | $group:direction-right, layout, flex, flexbox, flex-direction, row, auto layout, arrange, order, flow, stack | design, layout |
 | `layout-dashboard` | masonry, brick | design, layout |
 | `layout-freeform` | layout, freeform, free, absolute, position, auto layout, unaligned, scattered, arrange, blocks, canvas, frame | design, layout |
-| `layout-grid` | app, home, start | design, layout |
-| `layout-grid-circles` | $extends:layout-grid, dot matrix, dots, menu, dashboard, collection, overview, tiles, grid, matrix, launcher, apps, widgets, ui, circles, shortcuts | $extends:layout-grid |
+| `layout-grid` | app, home, start, apps, menu, block, applications, collection, dashboard, overview, tiles, grid, matrix, launcher, widgets, ui, circles, shortcuts | design, layout |
+| `layout-grid-circles` | $extends:layout-grid, dot matrix, dots | $extends:layout-grid |
+| `layout-grid-plus` | $extends:layout-grid, $group:plus, structure, rows, columns, expand, interface, design, section, widget, tile | $extends:layout-grid |
 | `layout-list` | todo, tasks, items, pending, image, photo | design, layout, text |
 | `layout-panel-left` | $group:position-left, app, home, start, grid | design, layout |
 | `layout-panel-top` | $group:position-top, window, webpage, section, grid, template, structure | layout |
@@ -2063,4 +2066,4 @@ All **2052** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2052 icons*
+*Total: 2055 icons*
