@@ -1,3 +1,15 @@
+# 1.73.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.73.0
+- Total icon count increased from 2,052+ to 2,055+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- cap, graph-ring, layout-grid-plus
+
+---
+
 # 1.72.0
 
 ## Improvements 🚀
