@@ -1,3 +1,25 @@
+# 1.74.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.74.0
+- Total icon count increased from 2,052+ to 2,089+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- arrows-from-axis-horizontal, arrows-from-axis-vertical, arrows-to-axis-horizontal, arrows-to-axis-vertical, bot-check, bot-minus, bot-plus, bot-x, cap, carets-from-axis-dashed-horizontal, carets-from-axis-dashed-vertical, carets-from-axis-horizontal, carets-from-axis-vertical, carets-to-axis-horizontal, carets-to-axis-vertical, chevrons-from-axis-dashed-horizontal, chevrons-from-axis-dashed-vertical, chevrons-from-axis-horizontal, chevrons-from-axis-vertical, chevrons-to-axis-dashed-horizontal, chevrons-to-axis-dashed-vertical, chevrons-to-axis-horizontal, chevrons-to-axis-vertical, cinema, circle-bounce, circle-person-arms-spread, doghouse, graph-ring, hand-truck, house-arrow-left, house-arrow-right, layout-grid-plus, nigerian-naira, square-axis-horizontal, square-axis-vertical, stroke-width, warehouse-waves
+
+## Renamed Icons ✏️
+- `fold-horizontal` renamed to `arrows-to-axis-dashed-vertical`
+- `fold-vertical` renamed to `arrows-to-axis-dashed-horizontal`
+- `square-centerline-dashed-horizontal` renamed to `square-axis-dashed-vertical`
+- `square-centerline-dashed-vertical` renamed to `square-axis-dashed-horizontal`
+- `triangles-centerline-dashed-horizontal` renamed to `carets-to-axis-dashed-horizontal`
+- `triangles-centerline-dashed-vertical` renamed to `carets-to-axis-dashed-vertical`
+- `unfold-horizontal` renamed to `arrows-from-axis-dashed-vertical`
+- `unfold-vertical` renamed to `arrows-from-axis-dashed-horizontal`
+
+---
+
 # 1.72.0
 
 ## Improvements 🚀
