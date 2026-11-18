@@ -7055,6 +7055,12 @@
     "className": "icon-iv-bag",
     "unicode": "&#59248;"
   },
+  "jacket": {
+    "encodedCode": "\\e879",
+    "prefix": "icon",
+    "className": "icon-jacket",
+    "unicode": "&#59513;"
+  },
   "japanese-yen": {
     "encodedCode": "\\e0fc",
     "prefix": "icon",
@@ -9250,6 +9256,12 @@
     "prefix": "icon",
     "className": "icon-paint-bucket",
     "unicode": "&#58086;"
+  },
+  "paint-gun": {
+    "encodedCode": "\\e87a",
+    "prefix": "icon",
+    "className": "icon-paint-gun",
+    "unicode": "&#59514;"
   },
   "paint-roller": {
     "encodedCode": "\\e59e",

@@ -1,3 +1,15 @@
+# 1.75.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.75.0
+- Total icon count increased from 2,089+ to 2,091+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- jacket, paint-gun
+
+---
+
 # 1.74.0
 
 ## Improvements 🚀
