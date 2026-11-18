@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2089** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2091** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -1013,6 +1013,7 @@ All **2089** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `iteration-ccw` | arrow, right | arrows, development |
 | `iteration-cw` | arrow, left | arrows, development |
 | `iv-bag` | intravenous, therapy, infusion, medicine, medication, treatment, healthcare, hydration, vitamin, supplement, blood, donation, chemotherapy, clinic, feeding tube, administration, health, regeneration | medical |
+| `jacket` | outerwear, fashion, apparel, styled, warm, outfit, wear, coat, blazer, tuxedo, tailor, uniform, attire, clothing, clothes, shopping, cold, warmth, winter, outdoors | shopping, sports |
 | `japanese-yen` | $group:currency | finance |
 | `joystick` | game, console, control stick | gaming, devices |
 | `kanban` | projects, manage, overview, board, tickets, issues, roadmap, plan, intentions, productivity, work, agile, code, coding | charts, development |
@@ -1344,6 +1345,7 @@ All **2089** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `package-search` | $extends:package, $group:search, product process | $extends:package |
 | `package-x` | $extends:package, $group:x | development, files |
 | `paint-bucket` | fill, paint, bucket, color, colour | design, tools |
+| `paint-gun` | spray, airbrush, aerosol, painter, tool, diy, automotive, finishing, coating, color, colour, painting, sprayer, spraying, varnish, lacquer, enamel, pneumatic | tools |
 | `paint-roller` | brush, color, colour, decoration, diy | design, home, tools |
 | `paintbrush` | brush, paintbrush, design, color, colour, decoration, diy | text, design, photography, home, tools |
 | `paintbrush-vertical` | $extends:paintbrush | $extends:paintbrush |
@@ -2100,4 +2102,4 @@ All **2089** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2089 icons*
+*Total: 2091 icons*

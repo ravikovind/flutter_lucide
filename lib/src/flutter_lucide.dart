@@ -16089,6 +16089,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [jacket] icon from the Lucide icon set.
+  ///
+  /// ![jacket](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMmEzIDMgMCAwMC0zIDNjMCAyLjYgNCA0LjQgNCA3IDAtMi42IDQtNC40IDQtN2EzIDMgMCAwMC0zLTMiIC8+CiAgPHBhdGggZD0iTTEyIDEydjEwIiAvPgogIDxwYXRoIGQ9Ik0xOCAxMHYxMGEyIDIgMCAwMS0yIDJIOGEyIDIgMCAwMS0yLTJWMTAiIC8+CiAgPHBhdGggZD0iTTE4IDE3aC0yIiAvPgogIDxwYXRoIGQ9Ik0xOCAyMGgzYTEgMSAwIDAwMS0xVjlhNyA3IDAgMDAtNy03SDlhNyA3IDAgMDAtNyA3djEwYTEgMSAwIDAwMSAxaDMiIC8+CiAgPHBhdGggZD0iTTYgMTdoMiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [jacket] icon is a graphical symbol that conveys a specific idea or functionality related to outerwear, fashion, apparel, styled, warm, outfit, wear, coat, blazer, tuxedo, tailor, uniform, attire, clothing, clothes, shopping, cold, warmth, winter, outdoors.
+  /// - It belongs to the categories: shopping, sports
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Flaig82](https://github.com/Flaig82), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData jacket = IconData(
+    0xe879,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [japanese_yen] icon from the Lucide icon set.
   ///
   /// ![japanese_yen](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2OCIgLz4KICA8cGF0aCBkPSJtNiA0IDYgOCA2LTgiIC8+CiAgPHBhdGggZD0iTTggMTNoOCIgLz4KICA8cGF0aCBkPSJNOCAxN2g4IiAvPgo8L3N2Zz4K)
@@ -21385,6 +21401,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [paint_gun] icon from the Lucide icon set.
+  ///
+  /// ![paint_gun](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTB2LS4xNzJhMiAyIDAgMCAxIC41ODYtMS40MTRsLjgyOC0uODI4QTIgMiAwIDAgMCAxMyA2LjE3MlYzYTEgMSAwIDAgMC0xLTFINmExIDEgMCAwIDAtMSAxdjMuMTcyYTIgMiAwIDAgMCAuNTg2IDEuNDE0bC44MjguODI4QTIgMiAwIDAgMSA3IDkuODI4VjEwIiAvPgogIDxwYXRoIGQ9Im0xMiAxNC0uODEgMy4yNDJhMSAxIDAgMCAxLS45Ny43NThINyIgLz4KICA8cGF0aCBkPSJNMTMgMTJoMSIgLz4KICA8cGF0aCBkPSJNMTguMDEgMTBoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xOC4wMSAxNGguMDEiIC8+CiAgPHBhdGggZD0iTTIyLjAxIDEyaC4wMSIgLz4KICA8cGF0aCBkPSJNMjIuMDEgMTZoLjAxIiAvPgogIDxwYXRoIGQ9Ik0yMi4wMSA4aC4wMSIgLz4KICA8cGF0aCBkPSJtNCAxNC0xLjg0NSA3LjM3OUEuNS41IDAgMCAwIDIuNjQgMjJoMi41OGExIDEgMCAwIDAgLjk3LS43NThMOCAxNCIgLz4KICA8cmVjdCB4PSIyIiB5PSIxMCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [paint_gun] icon is a graphical symbol that conveys a specific idea or functionality related to spray, airbrush, aerosol, painter, tool, diy, automotive, finishing, coating, color, colour, painting, sprayer, spraying, varnish, lacquer, enamel, pneumatic.
+  /// - It belongs to the categories: tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/abdul-karim-mia](https://github.com/abdul-karim-mia)
+  static const IconData paint_gun = IconData(
+    0xe87a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [paint_roller] icon from the Lucide icon set.
   ///
   /// ![paint_roller](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjIiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMCAxNnYtMmEyIDIgMCAwIDEgMi0yaDhhMiAyIDAgMCAwIDItMlY3YTIgMiAwIDAgMC0yLTJoLTIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSI4IiB5PSIxNiIgcng9IjEiIC8+Cjwvc3ZnPgo=)
@@ -26555,7 +26587,7 @@ abstract final class LucideIcons {
 
   /// Represents the [spray_can] icon from the Lucide icon set.
   ///
-  /// ![spray_can](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMyAzaC4wMSIgLz4KICA8cGF0aCBkPSJNNyA1aC4wMSIgLz4KICA8cGF0aCBkPSJNMTEgN2guMDEiIC8+CiAgPHBhdGggZD0iTTMgN2guMDEiIC8+CiAgPHBhdGggZD0iTTcgOWguMDEiIC8+CiAgPHBhdGggZD0iTTMgMTFoLjAxIiAvPgogIDxyZWN0IHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgeD0iMTUiIHk9IjUiIC8+CiAgPHBhdGggZD0ibTE5IDkgMiAydjEwYzAgLjYtLjQgMS0xIDFoLTZjLS42IDAtMS0uNC0xLTFWMTFsMi0yIiAvPgogIDxwYXRoIGQ9Im0xMyAxNCA4LTIiIC8+CiAgPHBhdGggZD0ibTEzIDE5IDgtMiIgLz4KPC9zdmc+Cg==)
+  /// ![spray_can](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTIgMTkgOC0zIiAvPgogIDxwYXRoIGQ9Ik0xNCA2aC0yIiAvPgogIDxwYXRoIGQ9Ik0xOCA4LjE3MlY1YTEgMSAwIDAwLTEtMWgtMmExIDEgMCAwMC0xIDF2My4xNzIiIC8+CiAgPHBhdGggZD0ibTIwIDExLTggMyIgLz4KICA8cGF0aCBkPSJNMjAgMjBhMiAyIDAgMDEtMiAyaC00YTIgMiAwIDAxLTItMnYtOWEzIDMgMCAwMTMtM2gyYTMgMyAwIDAxMyAzeiIgLz4KICA8cGF0aCBkPSJNNCAxMGguMDEiIC8+CiAgPHBhdGggZD0iTTQgMmguMDEiIC8+CiAgPHBhdGggZD0iTTQgNmguMDEiIC8+CiAgPHBhdGggZD0iTTggNGguMDEiIC8+CiAgPHBhdGggZD0iTTggOGguMDEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [spray_can] icon is a graphical symbol that conveys a specific idea or functionality related to paint, color, graffiti, decoration, aerosol, deodorant, shaving foam, air freshener.
