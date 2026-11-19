@@ -1,3 +1,15 @@
+# 1.76.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.76.0
+- Total icon count increased from 2,091+ to 2,092+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- diagram-sankey
+
+---
+
 # 1.75.0
 
 ## Improvements 🚀

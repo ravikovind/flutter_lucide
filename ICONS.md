@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2091** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2092** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -645,6 +645,7 @@ All **2091** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `dessert` | pudding, christmas, xmas, custard, iced bun, icing, fondant, cake, ice cream, gelato, sundae, scoop, dollop, sugar, food, sweet | food-beverage |
 | `diagram-flow-horizontal` | $group:graph, mind map, visualization, brainstorm, brainstorming, ideas, concepts, planning, hierarchy, branches, organization, tree, workflow, flowchart, process, process mapping, sequence | design, charts |
 | `diagram-flow-vertical` | $group:graph, flowchart, workflow, hierarchy, branches, tree, parent, child, process, sequence, decision tree | design, charts, development |
+| `diagram-sankey` | sankey, chart, diagram, flow, change, movement, intersection, road, dataflow, streams, links, transfer, allocation, distribution, energy, resources, budget, conversion, throughput | charts, science, finance |
 | `diameter` | shape, circle, geometry, trigonometry, width, height, size, calculate, measure | shapes, math, design, tools |
 | `diamond` | square, rectangle, oblique, rhombus, shape, suit, playing, cards | shapes, gaming |
 | `diamond-minus` | $group:minus, keyframe, decrease, calculator, button, keyboard, line, divider, separator, horizontal rule, hr, html, markup, markdown, ---, toolbar, operator, code, coding, minimum, downgrade | multimedia, design |
@@ -2102,4 +2103,4 @@ All **2091** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2091 icons*
+*Total: 2092 icons*
