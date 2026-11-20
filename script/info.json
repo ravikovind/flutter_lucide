@@ -1859,6 +1859,12 @@
     "className": "icon-bow-arrow",
     "unicode": "&#58974;"
   },
+  "box-dashed": {
+    "encodedCode": "\\e87b",
+    "prefix": "icon",
+    "className": "icon-box-dashed",
+    "unicode": "&#59515;"
+  },
   "box-select": {
     "encodedCode": "\\e1cb",
     "prefix": "icon",
@@ -2932,6 +2938,12 @@
     "prefix": "icon",
     "className": "icon-chevrons-up",
     "unicode": "&#57460;"
+  },
+  "chocolate-bar": {
+    "encodedCode": "\\e87c",
+    "prefix": "icon",
+    "className": "icon-chocolate-bar",
+    "unicode": "&#59516;"
   },
   "church": {
     "encodedCode": "\\e3e1",
@@ -4392,10 +4404,10 @@
     "unicode": "&#59440;"
   },
   "diagram-sankey": {
-    "encodedCode": "\\e87b",
+    "encodedCode": "\\e87d",
     "prefix": "icon",
     "className": "icon-diagram-sankey",
-    "unicode": "&#59515;"
+    "unicode": "&#59517;"
   },
   "diameter": {
     "encodedCode": "\\e526",
@@ -5795,6 +5807,12 @@
     "className": "icon-folder-minus",
     "unicode": "&#57560;"
   },
+  "folder-network": {
+    "encodedCode": "\\e87e",
+    "prefix": "icon",
+    "className": "icon-folder-network",
+    "unicode": "&#59518;"
+  },
   "folder-open-dot": {
     "encodedCode": "\\e4c7",
     "prefix": "icon",
@@ -5818,6 +5836,12 @@
     "prefix": "icon",
     "className": "icon-folder-pen",
     "unicode": "&#58168;"
+  },
+  "folder-plus-corner": {
+    "encodedCode": "\\e87f",
+    "prefix": "icon",
+    "className": "icon-folder-plus-corner",
+    "unicode": "&#59519;"
   },
   "folder-plus": {
     "encodedCode": "\\e0d9",
@@ -10259,6 +10283,12 @@
     "className": "icon-rectangle-horizontal",
     "unicode": "&#58230;"
   },
+  "rectangle-landscape-play": {
+    "encodedCode": "\\e880",
+    "prefix": "icon",
+    "className": "icon-rectangle-landscape-play",
+    "unicode": "&#59520;"
+  },
   "rectangle-vertical": {
     "encodedCode": "\\e377",
     "prefix": "icon",
@@ -13678,6 +13708,12 @@
     "prefix": "icon",
     "className": "icon-user-round-check",
     "unicode": "&#58473;"
+  },
+  "user-round-clock": {
+    "encodedCode": "\\e881",
+    "prefix": "icon",
+    "className": "icon-user-round-clock",
+    "unicode": "&#59521;"
   },
   "user-round-cog": {
     "encodedCode": "\\e46a",

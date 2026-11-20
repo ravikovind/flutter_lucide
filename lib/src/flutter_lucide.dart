@@ -4025,6 +4025,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [box_dashed] icon from the Lucide icon set.
+  ///
+  /// ![box_dashed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTJ2MyIgLz4KICA8cGF0aCBkPSJNMTIgMjJ2LTMiIC8+CiAgPHBhdGggZD0ibTE4LjI2OCAxOC43MzIgMS43MzItMWEyIDIgMCAwMDEtMS43MzNWMTQiIC8+CiAgPHBhdGggZD0iTTIwLjcgNyAxOCA4LjU1MiIgLz4KICA8cGF0aCBkPSJNMjEgMTBWOGEyIDIgMCAwMC0xLTEuNzNsLTEuNzMyLTEiIC8+CiAgPHBhdGggZD0iTTMgMTBWOGEyIDIgMCAwMTEtMS43M2wxLjczMi0xIiAvPgogIDxwYXRoIGQ9Ik0zLjMgNyA2IDguNTUyIiAvPgogIDxwYXRoIGQ9Im01LjczMiAxOC43MzItMS43MzItMUEyIDIgMCAwMTMgMTZ2LTIiIC8+CiAgPHBhdGggZD0ibTkuMjY4IDIwLjczMiAxLjczMiAxYTIgMiAwIDAwMi0uMDAybDEuNzMyLS45OTgiIC8+CiAgPHBhdGggZD0ibTkuMjY4IDMuMjcgMS43MzItMWEyIDIgMCAwMTIgMGwxLjczMiAxIiAvPgogIDxwYXRoIGQ9Im05LjQ2OCAxMC41NCAyLjUzMyAxLjQ2MiAyLjUzMy0xLjQ2MyIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [box_dashed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:box, $group:dashed, augmented reality, ar, bounding box, bounds, spatial boundary, selection volume, placeholder, volume, wireframe, mesh, unrendered, 3d scanning, spatial mapping, collision, hitbox, bounding volume, collision detection, selection boundary.
+  /// - It belongs to the categories: $extends:box, design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:box](https://github.com/$extends:box)
+  static const IconData box_dashed = IconData(
+    0xe87b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [boxes] icon from the Lucide icon set.
   ///
   /// ![boxes](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45NyAxMi45MkEyIDIgMCAwIDAgMiAxNC42M3YzLjI0YTIgMiAwIDAgMCAuOTcgMS43MWwzIDEuOGEyIDIgMCAwIDAgMi4wNiAwTDEyIDE5di01LjVsLTUtMy00LjAzIDIuNDJaIiAvPgogIDxwYXRoIGQ9Im03IDE2LjUtNC43NC0yLjg1IiAvPgogIDxwYXRoIGQ9Im03IDE2LjUgNS0zIiAvPgogIDxwYXRoIGQ9Ik03IDE2LjV2NS4xNyIgLz4KICA8cGF0aCBkPSJNMTIgMTMuNVYxOWwzLjk3IDIuMzhhMiAyIDAgMCAwIDIuMDYgMGwzLTEuOGEyIDIgMCAwIDAgLjk3LTEuNzF2LTMuMjRhMiAyIDAgMCAwLS45Ny0xLjcxTDE3IDEwLjVsLTUgM1oiIC8+CiAgPHBhdGggZD0ibTE3IDE2LjUtNS0zIiAvPgogIDxwYXRoIGQ9Im0xNyAxNi41IDQuNzQtMi44NSIgLz4KICA8cGF0aCBkPSJNMTcgMTYuNXY1LjE3IiAvPgogIDxwYXRoIGQ9Ik03Ljk3IDQuNDJBMiAyIDAgMCAwIDcgNi4xM3Y0LjM3bDUgMyA1LTNWNi4xM2EyIDIgMCAwIDAtLjk3LTEuNzFsLTMtMS44YTIgMiAwIDAgMC0yLjA2IDBsLTMgMS44WiIgLz4KICA8cGF0aCBkPSJNMTIgOCA3LjI2IDUuMTUiIC8+CiAgPHBhdGggZD0ibTEyIDggNC43NC0yLjg1IiAvPgogIDxwYXRoIGQ9Ik0xMiAxMy41VjgiIC8+Cjwvc3ZnPgo=)
@@ -4779,7 +4795,7 @@ abstract final class LucideIcons {
 
   /// Represents the [calendar_clock] icon from the Lucide icon set.
   ///
-  /// ![calendar_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Ik0xNiAydjMiIC8+CiAgPHBhdGggZD0iTTIxIDcuMzM4VjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDIuMzM4IiAvPgogIDxwYXRoIGQ9Ik0zIDloNS44NTkiIC8+CiAgPHBhdGggZD0iTTggMnYzIiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjYiIC8+Cjwvc3ZnPgo=)
+  /// ![calendar_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0xNyAxNS41djEuN2wxIC42MjUiIC8+CiAgPHBhdGggZD0iTTIxIDguOTM2VjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDMuOTM1IiAvPgogIDxwYXRoIGQ9Ik0zIDloOS44NzMiIC8+CiAgPHBhdGggZD0iTTggMnYzIiAvPgogIDxjaXJjbGUgY3g9IjE3IiBjeT0iMTciIHI9IjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [calendar_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:clock.
@@ -6633,6 +6649,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [chocolate_bar] icon from the Lucide icon set.
+  ///
+  /// ![chocolate_bar](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnYxMCIgLz4KICA8cGF0aCBkPSJNMTcgMTJWNC40YS40LjQgMCAwMC0uNC0uNEExLjYgMS42IDAgMDExNSAyLjRhLjQuNCAwIDAwLS40LS40SDlhMiAyIDAgMDAtMiAydjgiIC8+CiAgPHBhdGggZD0iTTUgMTRhMiAyIDAgMDEyLTJoMTBhMiAyIDAgMDEyIDJ2MmExIDEgMCAwMS0xIDEgMiAyIDAgMDEtLjktLjIwM2wtMS4yLS41OTRhMiAyIDAgMDAtMS44IDBsLTEuMi41OTRhMiAyIDAgMDEtMS44IDBsLTEuMi0uNTk0YTIgMiAwIDAwLTEuOCAwbC0xLjIuNTk0YTIgMiAwIDAxLS45LjE5OEExIDEgMCAwMTUgMTZ6IiAvPgogIDxwYXRoIGQ9Ik03IDE2Ljc0OFYyMGEyIDIgMCAwMDIgMmg2YTIgMiAwIDAwMi0ydi0zLjI1MiIgLz4KICA8cGF0aCBkPSJNNyA3aDEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [chocolate_bar] icon is a graphical symbol that conveys a specific idea or functionality related to candy, dessert, snack, sweet, confectionery, cocoa, treat, sugar, nibble, munch.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData chocolate_bar = IconData(
+    0xe87c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [church] icon from the Lucide icon set.
   ///
   /// ![church](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOWg0IiAvPgogIDxwYXRoIGQ9Ik0xMiA3djUiIC8+CiAgPHBhdGggZD0iTTE0IDIxdi0zYTIgMiAwIDAgMC00IDB2MyIgLz4KICA8cGF0aCBkPSJtMTggOSAzLjUyIDIuMTQ3YTEgMSAwIDAgMSAuNDguODU0VjE5YTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0ydi02Ljk5OWExIDEgMCAwIDEgLjQ4LS44NTRMNiA5IiAvPgogIDxwYXRoIGQ9Ik02IDIxVjdhMSAxIDAgMCAxIC4zNzYtLjc4Mmw1LTMuOTk5YTEgMSAwIDAgMSAxLjI0OS4wMDFsNSA0QTEgMSAwIDAgMSAxOCA3djE0IiAvPgo8L3N2Zz4K)
@@ -8123,7 +8155,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clipboard_clock] icon from the Lucide icon set.
   ///
-  /// ![clipboard_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Ik0xNiA0aDJhMiAyIDAgMCAxIDIgMnYuODMyIiAvPgogIDxwYXRoIGQ9Ik04IDRINmEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMiIgLz4KICA8Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSI2IiAvPgogIDxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
+  /// ![clipboard_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAxMiAydjIuNTEyIiAvPgogIDxwYXRoIGQ9Ik0xNyAxNS41djEuN2wxIC42MjUiIC8+CiAgPHBhdGggZD0iTTggNEg2YTIgMiAwIDAwLTIgMnYxNGEyIDIgMCAwMDIgMmgzLjUxNiIgLz4KICA8Y2lyY2xlIGN4PSIxNyIgY3k9IjE3IiByPSI1IiAvPgogIDxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [clipboard_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard, $group:clock, log, alarm, reminder, scheduled, time tracking, timesheets, appointment, logbook.
@@ -10212,7 +10244,7 @@ abstract final class LucideIcons {
   /// Acknowledgements:
   /// - Contributors: [https://github.com/nito](https://github.com/nito), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData diagram_sankey = IconData(
-    0xe87b,
+    0xe87d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -11883,7 +11915,7 @@ abstract final class LucideIcons {
 
   /// Represents the [file_clock] icon from the Lucide icon set.
   ///
-  /// ![file_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMjJoMmEyIDIgMCAwIDAgMi0yVjhhMi40IDIuNCAwIDAgMC0uNzA2LTEuNzA2bC0zLjU4OC0zLjU4OEEyLjQgMi40IDAgMCAwIDE0IDJINmEyIDIgMCAwIDAtMiAydjIuODUiIC8+CiAgPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDUiIC8+CiAgPHBhdGggZD0iTTggMTR2Mi4ybDEuNiAxIiAvPgogIDxjaXJjbGUgY3g9IjgiIGN5PSIxNiIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  /// ![file_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAwMSAxaDUiIC8+CiAgPHBhdGggZD0iTTE0LjUgMjJIMThhMiAyIDAgMDAyLTJWOGEyLjQgMi40IDAgMDAtLjcwNi0xLjcwNmwtMy41ODgtMy41ODhBMi40IDIuNCAwIDAwMTQgMkg2YTIgMiAwIDAwLTIgMnY0LjUxMiIgLz4KICA8cGF0aCBkPSJNNyAxNS41djEuN2wxIC42MjUiIC8+CiAgPGNpcmNsZSBjeD0iNyIgY3k9IjE3IiByPSI1IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [file_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file, $group:clock, log.
@@ -13003,7 +13035,7 @@ abstract final class LucideIcons {
 
   /// Represents the [folder_clock] icon from the Lucide icon set.
   ///
-  /// ![folder_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Ik03IDIwSDRhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMy45YTIgMiAwIDAgMSAxLjY5LjlsLjgxIDEuMmEyIDIgMCAwIDAgMS42Ny45SDIwYTIgMiAwIDAgMSAyIDIiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  /// ![folder_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMTUuNXYxLjdsMSAuNjI1IiAvPgogIDxwYXRoIGQ9Ik04LjUxMiAyMEg0YTIgMiAwIDAxLTItMlY1YTIgMiAwIDAxMi0yaDMuOWEyIDIgMCAwMTEuNjkuOWwuODEgMS4yYTIgMiAwIDAwMS42Ny45SDIwYTIgMiAwIDAxMiAydjEuNTE2IiAvPgogIDxjaXJjbGUgY3g9IjE3IiBjeT0iMTciIHI9IjUiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [folder_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:folder, $group:clock.
@@ -13225,6 +13257,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [folder_network] icon from the Lucide icon set.
+  ///
+  /// ![folder_network](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTR2NCIgLz4KICA8cGF0aCBkPSJNMTcgNGEyIDIgMCAwMTIgMnY2YTIgMiAwIDAxLTIgMkg3YTIgMiAwIDAxLTItMlY0YTIgMiAwIDAxMi0yaDIuNWExLjUgMS41IDAgMDExLjIuNmwuNi44YTEuNSAxLjUgMCAwMDEuMi42eiIgLz4KICA8cGF0aCBkPSJNMjEgMjBoLTciIC8+CiAgPHBhdGggZD0iTTMgMjBoNyIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjIwIiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [folder_network] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:folder, network, ftp, sftp, file transfer, file transfer protocol, shared folder, file sharing, network drive, network storage, remote, server, nas, smb, nfs.
+  /// - It belongs to the categories: $extends:folder, connectivity, development
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:folder](https://github.com/$extends:folder)
+  static const IconData folder_network = IconData(
+    0xe87e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [folder_open] icon from the Lucide icon set.
   ///
   /// ![folder_open](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtNiAxNCAxLjUtMi45QTIgMiAwIDAgMSA5LjI0IDEwSDIwYTIgMiAwIDAgMSAxLjk0IDIuNWwtMS41NCA2YTIgMiAwIDAgMS0xLjk1IDEuNUg0YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDMuOWEyIDIgMCAwIDEgMS42OS45bC44MSAxLjJhMiAyIDAgMCAwIDEuNjcuOUgxOGEyIDIgMCAwIDEgMiAydjIiIC8+Cjwvc3ZnPgo=)
@@ -13301,6 +13349,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData folder_plus = IconData(
     0xe0d9,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [folder_plus_corner] icon from the Lucide icon set.
+  ///
+  /// ![folder_plus_corner](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTR2NiIgLz4KICA8cGF0aCBkPSJNMjIgMTEuMzU0VjhhMiAyIDAgMDAtMi0yaC03LjlhMiAyIDAgMDEtMS42OS0uOUw5LjYgMy45QTIgMiAwIDAwNy45MyAzSDRhMiAyIDAgMDAtMiAydjEzYTIgMiAwIDAwMiAyaDkuMzU0IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [folder_plus_corner] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:folder, $group:plus.
+  /// - It belongs to the categories: $extends:folder
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:folder](https://github.com/$extends:folder), [https://github.com/nicolasakf](https://github.com/nicolasakf), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData folder_plus_corner = IconData(
+    0xe87f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -18363,7 +18427,7 @@ abstract final class LucideIcons {
 
   /// Represents the [mail_clock] icon from the Lucide icon set.
   ///
-  /// ![mail_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYgMTR2Mi4ybDEuNiAxIiAvPgogIDxwYXRoIGQ9Im0yMiA3LS43NTkuNDg0IiAvPgogIDxwYXRoIGQ9Ik02LjgzNSAyMEg0YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDE2YTIgMiAwIDAxMiAydjIiIC8+CiAgPHBhdGggZD0iTTcuNjA1IDEwLjU2NyAyIDciIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  /// ![mail_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMTUuNXYxLjdsMSAuNjI1IiAvPgogIDxwYXRoIGQ9Im0yMiA3LTIuMjQ0IDEuNDMiIC8+CiAgPHBhdGggZD0iTTIyIDkuNTE2VjZhMiAyIDAgMDAtMi0ySDRhMiAyIDAgMDAtMiAydjEyYTIgMiAwIDAwMiAyaDQuNTEyIiAvPgogIDxwYXRoIGQ9Ik05LjYyIDExLjg0OCAyIDciIC8+CiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxNyIgcj0iNSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [mail_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:mail, $group:clock, scheduled, send later, delivery, reminder, outgoing.
@@ -23573,6 +23637,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData rectangle_horizontal = IconData(
     0xe376,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [rectangle_landscape_play] icon from the Lucide icon set.
+  ///
+  /// ![rectangle_landscape_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMDMzIDExLjQ0YS42NS42NSAwIDAxMCAxLjEybC00LjA2NSAyLjM1MmEuNjUuNjUgMCAwMS0uOTY4LS41NlY5LjY0OGEuNjUuNjUgMCAwMS45NjctLjU2eiIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [rectangle_landscape_play] icon is a graphical symbol that conveys a specific idea or functionality related to music, video, start, movie.
+  /// - It belongs to the categories: arrows, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/scottgriffinm](https://github.com/scottgriffinm)
+  static const IconData rectangle_landscape_play = IconData(
+    0xe880,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -31749,6 +31829,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData user_round_check = IconData(
     0xe469,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [user_round_clock] icon from the Lucide icon set.
+  ///
+  /// ![user_round_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgMTUuNXYxLjdsMSAuNjI1IiAvPgogIDxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAxNi44OTgtNy45MjQiIC8+CiAgPHBhdGggZD0iTTguOTg3IDEyLjg5N2E1IDUgMCAxMTYuMDA4LTQuNjczIiAvPgogIDxjaXJjbGUgY3g9IjE3IiBjeT0iMTciIHI9IjUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [user_round_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:user-round, $group:clock, log, recent, activity, session, avatar, badge, reminder, audit.
+  /// - It belongs to the categories: $extends:user-round, time, people
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jamiemlaw](https://github.com/jamiemlaw), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData user_round_clock = IconData(
+    0xe881,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
