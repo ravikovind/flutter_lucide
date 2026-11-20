@@ -4391,6 +4391,12 @@
     "className": "icon-diagram-flow-vertical",
     "unicode": "&#59440;"
   },
+  "diagram-sankey": {
+    "encodedCode": "\\e87b",
+    "prefix": "icon",
+    "className": "icon-diagram-sankey",
+    "unicode": "&#59515;"
+  },
   "diameter": {
     "encodedCode": "\\e526",
     "prefix": "icon",

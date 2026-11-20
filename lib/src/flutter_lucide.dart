@@ -10201,6 +10201,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [diagram_sankey] icon from the Lucide icon set.
+  ///
+  /// ![diagram_sankey](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgMTJjLTIuNTM0IDAtNC4wNTgtLjQ5Mi01LjA5My0xLjA4LTEuMDY1LS42MDYtMS44MjMtMS40MjUtMi43MzYtMi41Mi0uODUtMS4wMi0xLjk3LTIuNDcyLTMuNTU3LTMuNTU3QzcuOTE0IDMuNjggNS44MTQgMyAzIDNhMSAxIDAgMDAtMSAxdjNhMSAxIDAgMDAxIDFjMS45MzUgMCAzLjAyMy40NDQgMy43OTIuOTcuODgxLjYwMiAxLjUxMiAxLjQgMi41MzcgMi42My43Ljg0IDEuNTQ4IDEuODI3IDIuNjkxIDIuNzE4IiAvPgogIDxwYXRoIGQ9Ik0zIDE2YTEgMSAwIDAwLTEgMXYzYTEgMSAwIDAwMSAxYzEwIDAgMTAtNCAxOC00YTEgMSAwIDAwMS0xdi0zYTEgMSAwIDAwLTEtMWMtOCAwLTggNC0xOCA0IiAvPgogIDxwYXRoIGQ9Ik0zIDNoMThhMSAxIDAgMDExIDF2M2ExIDEgMCAwMS0xIDFoLTguMDM2IiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [diagram_sankey] icon is a graphical symbol that conveys a specific idea or functionality related to sankey, chart, diagram, flow, change, movement, intersection, road, dataflow, streams, links, transfer, allocation, distribution, energy, resources, budget, conversion, throughput.
+  /// - It belongs to the categories: charts, science, finance
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/nito](https://github.com/nito), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData diagram_sankey = IconData(
+    0xe87b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [diameter] icon from the Lucide icon set.
   ///
   /// ![diameter](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjE5IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyIiAvPgogIDxwYXRoIGQ9Ik02LjQ4IDMuNjZhMTAgMTAgMCAwIDEgMTMuODYgMTMuODYiIC8+CiAgPHBhdGggZD0ibTYuNDEgNi40MSAxMS4xOCAxMS4xOCIgLz4KICA8cGF0aCBkPSJNMy42NiA2LjQ4YTEwIDEwIDAgMCAwIDEzLjg2IDEzLjg2IiAvPgo8L3N2Zz4K)
