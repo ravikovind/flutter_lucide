@@ -1,3 +1,15 @@
+# 1.77.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.77.0
+- Total icon count increased from 2,092+ to 2,098+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- box-dashed, chocolate-bar, folder-network, folder-plus-corner, rectangle-landscape-play, user-round-clock
+
+---
+
 # 1.76.0
 
 ## Improvements 🚀

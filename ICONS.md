@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2092** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2098** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -259,6 +259,7 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bottle-wine` | alcohol, drink, glass, goblet, chalice, vineyard, winery, red, white, rose, dry, sparkling, bar, party, nightclub, nightlife, sommelier, restaurant, dinner, meal | food-beverage |
 | `bow-arrow` | archer, archery, game, war, weapon | gaming, sports |
 | `box` | cube, package, container, storage, geometry, 3d, isometric | shapes, gaming, development, math |
+| `box-dashed` | $extends:box, $group:dashed, augmented reality, ar, bounding box, bounds, spatial boundary, selection volume, placeholder, volume, wireframe, mesh, unrendered, 3d scanning, spatial mapping, collision, hitbox, bounding volume, collision detection, selection boundary | $extends:box, design |
 | `boxes` | cubes, packages, parts, group, units, collection, cluster, geometry | shapes, gaming, development, logistics |
 | `boxes-linked` | $group:graph, cubes, package, module, dependencies, link, chain, blockchain, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development, logistics |
 | `braces` | json, code, token, curly brackets, curly braces, data, {, } | development, files |
@@ -422,6 +423,7 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `chevrons-to-axis-vertical` | $group:collapse | arrows, layout |
 | `chevrons-up` | $group:direction-up, $group:navigation-first, forward, ahead, faster, speed, boost | arrows |
 | `chevrons-up-down` | $group:direction-up, $group:direction-down, $group:expand | arrows |
+| `chocolate-bar` | candy, dessert, snack, sweet, confectionery, cocoa, treat, sugar, nibble, munch | food-beverage |
 | `church` | temple, building | buildings, navigation |
 | `cigarette` | smoking | travel, transportation, medical |
 | `cigarette-off` | $extends:cigarette, $group:off, no-smoking | $extends:cigarette |
@@ -834,11 +836,13 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `folder-key` | $extends:folder, $group:key | $extends:folder, security |
 | `folder-lock` | $extends:folder, $group:lock | $extends:folder, security |
 | `folder-minus` | $extends:folder, $group:minus | $extends:folder |
+| `folder-network` | $extends:folder, network, ftp, sftp, file transfer, file transfer protocol, shared folder, file sharing, network drive, network storage, remote, server, nas, smb, nfs | $extends:folder, connectivity, development |
 | `folder-open` | $extends:folder | $extends:folder |
 | `folder-open-dot` | $extends:folder-open, $group:dot, root, project, pinned | $extends:folder-open, development |
 | `folder-output` | $extends:folder, import, export | $extends:folder |
 | `folder-pen` | $extends:folder, $group:pen | $extends:folder |
 | `folder-plus` | $extends:folder, $group:plus | $extends:folder |
+| `folder-plus-corner` | $extends:folder, $group:plus | $extends:folder |
 | `folder-root` | $extends:folder, root, project, git, repo | $extends:folder, development |
 | `folder-search` | $extends:folder, $group:search, lost, browser | $extends:folder |
 | `folder-search-2` | $extends:folder-search | $extends:folder-search |
@@ -1481,6 +1485,7 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rectangle-ellipsis` | login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | text, development |
 | `rectangle-goggles` | vr, virtual, augmented, reality, headset, goggles | devices, gaming, multimedia |
 | `rectangle-horizontal` | rectangle, aspect ratio, 16:9, horizontal, shape | shapes, design |
+| `rectangle-landscape-play` | music, video, start, movie | arrows, multimedia |
 | `rectangle-vertical` | rectangle, aspect ratio, 9:16, vertical, shape | shapes, design |
 | `recycle` | sustainability, salvage, arrows | sustainability |
 | `redo` | undo, rerun, history | text, arrows |
@@ -1992,6 +1997,7 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `user-round` | $extends:user | $extends:user |
 | `user-round-arrow-left` | $extends:user-round, $group:direction-left, assign, move, give, setup, self, me, myself, avatar, incoming, recipient, assignee, inbound | $extends:user-round, people |
 | `user-round-check` | $extends:user-round, $group:check, followed, subscribed | $extends:user-round |
+| `user-round-clock` | $extends:user-round, $group:clock, log, recent, activity, session, avatar, badge, reminder, audit | $extends:user-round, time, people |
 | `user-round-cog` | $extends:user-round, $group:cog | $extends:user-round |
 | `user-round-exclamation-point` | $extends:user-round, $extends:user-exclamation-point | $extends:user-round |
 | `user-round-group` | $extends:user-round, group, team, community, membership, collaboration, organization, directory, staff, family, ancestry, ancestors, lineage, parents | $extends:user-round, people, social |
@@ -2103,4 +2109,4 @@ All **2092** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2092 icons*
+*Total: 2098 icons*
