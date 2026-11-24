@@ -766,7 +766,7 @@ abstract final class LucideIcons {
   /// ![app_window](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMCA0djQiIC8+CiAgPHBhdGggZD0iTTIgOGgyMCIgLz4KICA8cGF0aCBkPSJNNiA0djQiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
-  /// - The [app_window] icon is a graphical symbol that conveys a specific idea or functionality related to application, menu bar, pane, executable.
+  /// - The [app_window] icon is a graphical symbol that conveys a specific idea or functionality related to application, app, window, gui, interface, modal, popup, menu bar, pane, executable, instance, integration, software.
   /// - It belongs to the categories: layout, development
   ///
   /// Acknowledgements:
@@ -789,6 +789,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData app_window_mac = IconData(
     0xe5d2,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [app_window_plus] icon from the Lucide icon set.
+  ///
+  /// ![app_window_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgNHY0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxN2g2IiAvPgogIDxwYXRoIGQ9Ik0xOCA0djQiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+CiAgPHBhdGggZD0iTTIgOGgyMCIgLz4KICA8cGF0aCBkPSJNMjIgMTFWNmEyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTJhMiAyIDAgMDAyIDJoOSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [app_window_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:app-window, $group:plus, open, install, tab, expand.
+  /// - It belongs to the categories: layout, design, development, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/vaporvee](https://github.com/vaporvee)
+  static const IconData app_window_plus = IconData(
+    0xe886,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -28533,6 +28549,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData square_plus = IconData(
     0xe173,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [square_plus_corner] icon from the Lucide icon set.
+  ///
+  /// ![square_plus_corner](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuMzU0IDIxSDVhMiAyIDAgMDEtMi0yVjVhMiAyIDAgMDEyLTJoMTRhMiAyIDAgMDEyIDJ2Ny4zNTQiIC8+CiAgPHBhdGggZD0iTTE1IDE4aDYiIC8+CiAgPHBhdGggZD0iTTE4IDE1djYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [square_plus_corner] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:square-plus.
+  /// - It belongs to the categories: $extends:square-plus
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/Alberto6677](https://github.com/Alberto6677)
+  static const IconData square_plus_corner = IconData(
+    0xe887,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
