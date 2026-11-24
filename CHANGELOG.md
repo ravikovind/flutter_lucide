@@ -1,3 +1,15 @@
+# 1.78.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.78.0
+- Total icon count increased from 2,098+ to 2,102+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- circle-speed-lines, graph-path, hole, package-arrow-bend-up-left
+
+---
+
 # 1.77.0
 
 ## Improvements 🚀
