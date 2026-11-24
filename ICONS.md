@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2098** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2102** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -504,6 +504,7 @@ All **2098** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `circle-slash` | $group:off, diameter, zero, Ø, nothing, null, void, no, stop, error, incorrect, mistake, wrong, failure, divide, division, or | development, math |
 | `circle-slash-2` | diameter, zero, ø, nothing, null, void, ban, math, divide, division, half, split, /, average, avg, mean, median, normal | $extends:circle-slash, shapes |
 | `circle-small` | shape, bullet, gender, genderless | $extends:circle |
+| `circle-speed-lines` | fast, quick, motion, movement, moving, velocity, animation, express, acceleration, rapid, swift, racing, momentum, motion blur | design |
 | `circle-star` | $group:star, badge, medal, honour, decoration, order, pin, laurel, trophy, medallion, insignia, bronze, silver, gold | sports, gaming |
 | `circle-stop` | $group:stop, media, music | multimedia |
 | `circle-user` | $group:user | account |
@@ -915,6 +916,7 @@ All **2098** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `graduation-cap` | school, university, learn, study, mortarboard, education, ceremony, academic, hat, diploma, bachelor's, master's, doctorate, skill, skills, expertise | buildings, education |
 | `grape` | fruit, wine, food | food-beverage |
 | `graph-hub` | $group:graph, load balancer, distribute, traffic, parallel, branch, hierarchy, routing, dispatcher, cluster, backend, fan-out, orchestration | connectivity, development |
+| `graph-path` | $group:graph, line, dot, analysis, branch, branching, merging, converging, trail, route, analytics, timeline, waypoint, milestone, tracking, trend, sequence | charts, finance, travel |
 | `graph-ring` | $group:graph, cycle, loop, replication, consensus, cluster, peer-to-peer, p2p, mesh, distributed, decentralized, decentralization, ring topology, circular network | charts |
 | `graph-star` | $group:graph, mind map, hub, dependencies, bonds, cluster, thoughts, ideas, concepts, molecule | development, charts |
 | `grid-2x2` | table, rows, columns, blocks, plot, land, geometry, measure, size, width, height, distance, surface area, square meter, acre, window, skylight | text, layout, design |
@@ -979,6 +981,7 @@ All **2098** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `highlighter` | mark, text | text, design, education |
 | `hiking-stick` | hiking, walking, stick, trekking, trail, pole, backpacking, outdoors, mountains | sports, travel, nature, navigation |
 | `hockey-stick` | sport, campus, puck, athlete, ice, player, goal, cricket, bat, sports, game, equipment, stick, ball, match, play | sports |
+| `hole` | opening, cavity, pit, void, tunnel, portal, bore, aperture, cutout, pothole, drilling, 3d, cad, terrain, hazard | shapes, tools |
 | `hop` | beer, brewery, drink | food-beverage |
 | `hop-off` | $extends:hop, $group:off, hop free, allergy, intolerance, diet | $extends:hop |
 | `hospital` | infirmary, sanatorium, healthcare, doctor, hospice, clinic, emergency room, ward, building, medical, vet, sick, patient | medical, buildings, navigation |
@@ -1341,6 +1344,7 @@ All **2098** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `origami` | paper, bird | animals, design |
 | `package` | box, container, storage, sealed, delivery, undelivered, unopened, packed, archive, zip, module, shipping, recipient, inventory, logistics, tracking, order, product | files, development, logistics |
 | `package-2` | $extends:package | $extends:package |
+| `package-arrow-bend-up-left` | $extends:package, $group:direction-left, $group:direction-up-left, shipment, move, framed, returned, back, send back, refund, exchange, reverse, revert, undo, return, parcel, return shipping, reverse logistics, restocking, return merchandise authorization, rma | $extends:package |
 | `package-check` | $extends:package, $group:check, delivered | $extends:package |
 | `package-minus` | $extends:package, $group:minus | $extends:package |
 | `package-open` | box, container, storage, unpack, unarchive, unzip, opened, delivered | $extends:package |
@@ -2109,4 +2113,4 @@ All **2098** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2098 icons*
+*Total: 2102 icons*

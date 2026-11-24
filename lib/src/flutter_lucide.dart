@@ -7945,6 +7945,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [circle_speed_lines] icon from the Lucide icon set.
+  ///
+  /// ![circle_speed_lines](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNiAxMkgyIiAvPgogIDxwYXRoIGQ9Ik03LjMzOCAxNyBMNCAxNyIgLz4KICA8cGF0aCBkPSJNNy4zMzggNyBMMy41IDciIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxMiIgcj0iNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [circle_speed_lines] icon is a graphical symbol that conveys a specific idea or functionality related to fast, quick, motion, movement, moving, velocity, animation, express, acceleration, rapid, swift, racing, momentum, motion blur.
+  /// - It belongs to the categories: design
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData circle_speed_lines = IconData(
+    0xe882,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [circle_star] icon from the Lucide icon set.
   ///
   /// ![circle_star](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8cGF0aCBkPSJNMTEuMDUxIDcuNjE2YTEgMSAwIDAgMSAxLjkwOS4wMjRsLjczNyAxLjQ1MmExIDEgMCAwIDAgLjczNy41MzVsMS42MzQuMjU2YTEgMSAwIDAgMSAuNTg4IDEuODA2bC0xLjE3MiAxLjE2OGExIDEgMCAwIDAtLjI4Mi44NjZsLjI1OSAxLjYxM2ExIDEgMCAwIDEtMS41NDEgMS4xMzRsLTEuNDY1LS43NWExIDEgMCAwIDAtLjkxMiAwbC0xLjQ2NS43NWExIDEgMCAwIDEtMS41MzktMS4xMzNsLjI1OC0xLjYxM2ExIDEgMCAwIDAtLjI4Mi0uODY3bC0xLjE1Ni0xLjE1MmExIDEgMCAwIDEgLjU3Mi0xLjgyMmwxLjYzMy0uMjU2YTEgMSAwIDAgMCAuNzM3LS41MzV6IiAvPgo8L3N2Zz4K)
@@ -14521,6 +14537,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [graph_path] icon from the Lucide icon set.
+  ///
+  /// ![graph_path](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTAuNjI4IDExLjE2MyAzLjc0NCAyLjY3NCIgLz4KICA8cGF0aCBkPSJtMTYuODk1IDEzLjIxIDIuMjEtNC40MiIgLz4KICA8cGF0aCBkPSJtNS4xNjMgMTUuMzcyIDIuNjc0LTMuNzQ0IiAvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTUiIHI9IjIiIC8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSI3IiByPSIyIiAvPgogIDxjaXJjbGUgY3g9IjQiIGN5PSIxNyIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI5IiBjeT0iMTAiIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [graph_path] icon is a graphical symbol that conveys a specific idea or functionality related to $group:graph, line, dot, analysis, branch, branching, merging, converging, trail, route, analytics, timeline, waypoint, milestone, tracking, trend, sequence.
+  /// - It belongs to the categories: charts, finance, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/jwlinqx](https://github.com/jwlinqx), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData graph_path = IconData(
+    0xe883,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [graph_ring] icon from the Lucide icon set.
   ///
   /// ![graph_ring](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcuMDA2IDE5LjI0MWE4IDggMCAwIDEtMTAuMDExIDAiIC8+CiAgPHBhdGggZD0iTTE5LjkxOSAxNC4xNDNhOCA4IDAgMCAwLTQuOTcxLTguNTgzIiAvPgogIDxwYXRoIGQ9Ik00LjA4MSAxNC4xNDNBOCA4IDAgMCAxIDkuMDUyIDUuNTYiIC8+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSI1LjAwMSIgcj0iMyIgLz4KICA8Y2lyY2xlIGN4PSIxOSIgY3k9IjE3IiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjUiIGN5PSIxNyIgcj0iMyIgLz4KPC9zdmc+Cg==)
@@ -15541,6 +15573,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/joffx](https://github.com/joffx), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData hockey_stick = IconData(
     0xe7c1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [hole] icon from the Lucide icon set.
+  ///
+  /// ![hole](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi41NyAxNGExMCA2IDAgMCAxIDE4Ljg2IDAiIC8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSIxMCIgcnk9IjYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [hole] icon is a graphical symbol that conveys a specific idea or functionality related to opening, cavity, pit, void, tunnel, portal, bore, aperture, cutout, pothole, drilling, 3d, cad, terrain, hazard.
+  /// - It belongs to the categories: shapes, tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/KesleyDavid](https://github.com/KesleyDavid), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData hole = IconData(
+    0xe884,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -21333,6 +21381,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/jguddas](https://github.com/jguddas)
   static const IconData package_2 = IconData(
     0xe340,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [package_arrow_bend_up_left] icon from the Lucide icon set.
+  ///
+  /// ![package_arrow_bend_up_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTUuMzQzVjEybDguNzEtNSIgLz4KICA8cGF0aCBkPSJtMTcgMjItMy0zIDMtMyIgLz4KICA8cGF0aCBkPSJNMjEgMTVWOGEyIDIgMCAwMC0xLTEuNzNsLTctNGEyIDIgMCAwMC0yIDBsLTcgNEEyIDIgMCAwMDMgOHY4YTIgMiAwIDAwMSAxLjczbDcgNCIgLz4KICA8cGF0aCBkPSJNMjIgMjJ2LTFhMiAyIDAgMDAtMi0yaC02IiAvPgogIDxwYXRoIGQ9Ik0zLjI5IDcgMTIgMTIiIC8+CiAgPHBhdGggZD0ibTcuNSA0LjI3IDkgNS4xNSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [package_arrow_bend_up_left] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:package, $group:direction-left, $group:direction-up-left, shipment, move, framed, returned, back, send back, refund, exchange, reverse, revert, undo, return, parcel, return shipping, reverse logistics, restocking, return merchandise authorization, rma.
+  /// - It belongs to the categories: $extends:package
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:package](https://github.com/$extends:package), [https://github.com/thanakritju](https://github.com/thanakritju)
+  static const IconData package_arrow_bend_up_left = IconData(
+    0xe885,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
