@@ -793,6 +793,54 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [app_window_mac_minus] icon from the Lucide icon set.
+  ///
+  /// ![app_window_mac_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOGguMDEiIC8+CiAgPHBhdGggZD0iTTEzLjM1NCAyMEg0YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ2NyIgLz4KICA8cGF0aCBkPSJNMTYgMTdoNiIgLz4KICA8cGF0aCBkPSJNNiA4aC4wMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [app_window_mac_minus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:app-window-mac, $group:minus, close, uninstall, collapse.
+  /// - It belongs to the categories: $extends:app-window-mac
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:app-window-mac](https://github.com/$extends:app-window-mac), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData app_window_mac_minus = IconData(
+    0xe886,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [app_window_mac_plus] icon from the Lucide icon set.
+  ///
+  /// ![app_window_mac_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOGguMDEiIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+CiAgPHBhdGggZD0iTTIyIDExVjZhMiAyIDAgMCAwLTItMkg0YTIgMiAwIDAgMC0yIDJ2MTJhMiAyIDAgMCAwIDIgMmg5IiAvPgogIDxwYXRoIGQ9Ik02IDhoLjAxIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [app_window_mac_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:app-window-mac, $group:plus, open, install, tab, expand.
+  /// - It belongs to the categories: $extends:app-window-mac
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:app-window-mac](https://github.com/$extends:app-window-mac), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData app_window_mac_plus = IconData(
+    0xe887,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [app_window_minus] icon from the Lucide icon set.
+  ///
+  /// ![app_window_minus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgNHY0IiAvPgogIDxwYXRoIGQ9Ik0xMy4zNTQgMjBINGEyIDIgMCAwIDEtMi0yVjZhMiAyIDAgMCAxIDItMmgxNmEyIDIgMCAwIDEgMiAydjciIC8+CiAgPHBhdGggZD0iTTE2IDE3aDYiIC8+CiAgPHBhdGggZD0iTTIyIDhIMiIgLz4KICA8cGF0aCBkPSJNNiA4VjQiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [app_window_minus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:app-window, $group:minus, close, uninstall, collapse.
+  /// - It belongs to the categories: layout, design, development, files
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:app-window](https://github.com/$extends:app-window), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData app_window_minus = IconData(
+    0xe888,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [app_window_plus] icon from the Lucide icon set.
   ///
   /// ![app_window_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgNHY0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxN2g2IiAvPgogIDxwYXRoIGQ9Ik0xOCA0djQiIC8+CiAgPHBhdGggZD0iTTE5IDE0djYiIC8+CiAgPHBhdGggZD0iTTIgOGgyMCIgLz4KICA8cGF0aCBkPSJNMjIgMTFWNmEyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2MTJhMiAyIDAgMDAyIDJoOSIgLz4KPC9zdmc+Cg==)
@@ -804,7 +852,7 @@ abstract final class LucideIcons {
   /// Acknowledgements:
   /// - Contributors: [https://github.com/vaporvee](https://github.com/vaporvee)
   static const IconData app_window_plus = IconData(
-    0xe886,
+    0xe889,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -9161,6 +9209,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [columns_2_plus_left] icon from the Lucide icon set.
+  ///
+  /// ![columns_2_plus_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxOCIgLz4KICA8cGF0aCBkPSJNMyA1LjUzNlY1YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtLjUzNSIgLz4KICA8cGF0aCBkPSJNNSAxNVY5IiAvPgogIDxwYXRoIGQ9Ik04IDEySDIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [columns_2_plus_left] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:columns-2, $group:plus, $group:position-left, settings, customize, table, grid, adjust, configuration, layout.
+  /// - It belongs to the categories: $extends:columns-2
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/JMOAWeber](https://github.com/JMOAWeber)
+  static const IconData columns_2_plus_left = IconData(
+    0xe88a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [columns_2_plus_right] icon from the Lucide icon set.
+  ///
+  /// ![columns_2_plus_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3YxOCIgLz4KICA8cGF0aCBkPSJNMTYgMTJoNiIgLz4KICA8cGF0aCBkPSJNMTkgMTVWOSIgLz4KICA8cGF0aCBkPSJNMjEgNS41MzZWNWEyIDIgMCAwMC0yLTJINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJoMTRhMiAyIDAgMDAyLTJ2LS41MzUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [columns_2_plus_right] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:columns-2, $group:plus, $group:position-right, settings, customize, table, grid, adjust, configuration, layout.
+  /// - It belongs to the categories: $extends:columns-2
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/JMOAWeber](https://github.com/JMOAWeber)
+  static const IconData columns_2_plus_right = IconData(
+    0xe88b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [columns_3] icon from the Lucide icon set.
   ///
   /// ![columns_3](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik05IDN2MTgiIC8+CiAgPHBhdGggZD0iTTE1IDN2MTgiIC8+Cjwvc3ZnPgo=)
@@ -12501,6 +12581,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData file_text = IconData(
     0xe0cc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [file_text_sparkles] icon from the Lucide icon set.
+  ///
+  /// ![file_text_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgOUg4IiAvPgogIDxwYXRoIGQ9Ik0xMi41MzYgMjJINmEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMy41IDE3SDgiIC8+CiAgPHBhdGggZD0iTTE1IDhhMSAxIDAgMCAxLTEtMVYyYTIuNCAyLjQgMCAwIDEgMS43MDQuNzA2bDMuNTg4IDMuNTg4QTIuNCAyLjQgMCAwIDEgMjAgOHoiIC8+CiAgPHBhdGggZD0iTTE2IDEzSDgiIC8+CiAgPHBhdGggZD0iTTE4IDIydi00IiAvPgogIDxwYXRoIGQ9Ik0yMCAyMGgtNCIgLz4KICA8cGF0aCBkPSJNMjAgOHYxLjEyNyIgLz4KICA8cGF0aCBkPSJNMjEgMTN2MiIgLz4KICA8cGF0aCBkPSJNMjIgMTRoLTIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [file_text_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file-text, $group:sparkles, summarize, writing, enhance.
+  /// - It belongs to the categories: $extends:file-text, ai
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:file-text](https://github.com/$extends:file-text), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData file_text_sparkles = IconData(
+    0xe88c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -16025,6 +16121,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [image_sparkles] icon from the Lucide icon set.
+  ///
+  /// ![image_sparkles](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTMgM2gyIiAvPgogIDxwYXRoIGQ9Ik0xNCAydjIiIC8+CiAgPHBhdGggZD0iTTE4IDZoNCIgLz4KICA8cGF0aCBkPSJNMjAgNHY0IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMS44NzNWMTlhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDQiIC8+CiAgPHBhdGggZD0ibTYgMjEgOS4wODYtOS4wODZhMiAyIDAgMCAxIDIuODI4IDBMMjEgMTUiIC8+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjkiIHI9IjIiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [image_sparkles] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:image, $group:sparkles, enhance.
+  /// - It belongs to the categories: photography, multimedia, ai
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/$extends:image](https://github.com/$extends:image), [https://github.com/jguddas](https://github.com/jguddas)
+  static const IconData image_sparkles = IconData(
+    0xe88d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [image_up] icon from the Lucide icon set.
   ///
   /// ![image_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMyAyMUg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ2MTBsLTMuMS0zLjFhMiAyIDAgMCAwLTIuODE0LjAxNEw2IDIxIiAvPgogIDxwYXRoIGQ9Im0xNCAxOS41IDMtMyAzIDMiIC8+CiAgPHBhdGggZD0iTTE3IDIydi01LjUiIC8+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjkiIHI9IjIiIC8+Cjwvc3ZnPgo=)
@@ -18185,6 +18297,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [list_x_corner] icon from the Lucide icon set.
+  ///
+  /// ![list_x_corner](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTYgNSA1IiAvPgogIDxwYXRoIGQ9Ik0xNiAxMkgzIiAvPgogIDxwYXRoIGQ9Ik0xNiA1SDMiIC8+CiAgPHBhdGggZD0ibTIwIDE2LTUgNSIgLz4KICA8cGF0aCBkPSJNMyAxOWg4LjUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [list_x_corner] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:list-x, $group:x, mark, sharp, options, bottom, to-do, checklist, item, task, entry, queue.
+  /// - It belongs to the categories: text, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/AbeyHurtis](https://github.com/AbeyHurtis)
+  static const IconData list_x_corner = IconData(
+    0xe88e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [loader] icon from the Lucide icon set.
   ///
   /// ![loader](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY0IiAvPgogIDxwYXRoIGQ9Im0xNi4yIDcuOCAyLjktMi45IiAvPgogIDxwYXRoIGQ9Ik0xOCAxMmg0IiAvPgogIDxwYXRoIGQ9Im0xNi4yIDE2LjIgMi45IDIuOSIgLz4KICA8cGF0aCBkPSJNMTIgMTh2NCIgLz4KICA8cGF0aCBkPSJtNC45IDE5LjEgMi45LTIuOSIgLz4KICA8cGF0aCBkPSJNMiAxMmg0IiAvPgogIDxwYXRoIGQ9Im00LjkgNC45IDIuOSAyLjkiIC8+Cjwvc3ZnPgo=)
@@ -19435,7 +19563,7 @@ abstract final class LucideIcons {
 
   /// Represents the [message_circle_reply] icon from the Lucide icon set.
   ///
-  /// ![message_circle_reply](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAgMSAuMDk0IDEuMTY3bC0xLjA2NSAzLjI5YTEgMSAwIDAgMCAxLjIzNiAxLjE2OGwzLjQxMy0uOTk4YTIgMiAwIDAgMSAxLjA5OS4wOTIgMTAgMTAgMCAxIDAtNC43NzctNC43MTkiIC8+CiAgPHBhdGggZD0ibTEwIDE1LTMtMyAzLTMiIC8+CiAgPHBhdGggZD0iTTcgMTJoOGEyIDIgMCAwIDEgMiAydjEiIC8+Cjwvc3ZnPgo=)
+  /// ![message_circle_reply](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMi45OTIgMTYuMzQyYTIgMiAwIDAxLjA5NCAxLjE2N2wtMS4wNjUgMy4yOWExIDEgMCAwMDEuMjM2IDEuMTY4bDMuNDEzLS45OThhMiAyIDAgMDExLjA5OS4wOTIgMTAgMTAgMCAxMC00Ljc3Ny00LjcxOSIgLz4KICA8cGF0aCBkPSJNOCAxMmg2YTIgMiAwIDAxMiAydjEiIC8+CiAgPHBhdGggZD0ibTExIDE1LTMtMyAzLTMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [message_circle_reply] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-circle, reply, response.
@@ -19691,7 +19819,7 @@ abstract final class LucideIcons {
 
   /// Represents the [message_square_reply] icon from the Lucide icon set.
   ///
-  /// ![message_square_reply](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6IiAvPgogIDxwYXRoIGQ9Im0xMCA4LTMgMyAzIDMiIC8+CiAgPHBhdGggZD0iTTE3IDE0di0xYTIgMiAwIDAgMC0yLTJINyIgLz4KPC9zdmc+Cg==)
+  /// ![message_square_reply](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjIgMTdhMiAyIDAgMDEtMiAySDYuODI4YTIgMiAwIDAwLTEuNDE0LjU4NmwtMi4yMDIgMi4yMDJBLjcuNyAwIDAxMiAyMS4yODZWNWEyIDIgMCAwMTItMmgxNmEyIDIgMCAwMTIgMnoiIC8+CiAgPHBhdGggZD0iTTE2IDE0di0xYTIgMiAwIDAwLTItMkg4IiAvPgogIDxwYXRoIGQ9Im0xMSA4LTMgMyAzIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [message_square_reply] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:message-square, reply, response.
@@ -22793,6 +22921,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [plane_off] icon from the Lucide icon set.
+  ///
+  /// ![plane_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTYuMzI4IDEwLjY3MiAxOS41IDcuNUMyMSA2IDIxLjUgNCAyMSAzYy0xLS41LTMgMC00LjUgMS41bC0zLjE3MiAzLjE3MiIgLz4KICA8cGF0aCBkPSJtMiAyIDIwIDIwIiAvPgogIDxwYXRoIGQ9Ik02LjU5NCA2LjU5NCA0LjggNi4yYy0uNS0uMS0uOS4xLTEuMS41bC0uMy41Yy0uMi41LS4xIDEgLjMgMS4zTDkgMTJsLTIgM0g0bC0xIDEgMyAyIDIgMyAxLTF2LTNsMy0yIDMuNSA1LjNjLjMuNC44LjUgMS4zLjNsLjUtLjJjLjQtLjMuNi0uNy41LTEuMmwtLjM5NC0xLjc5NCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [plane_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:plane.
+  /// - It belongs to the categories: transportation, travel, navigation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/ahtohbi4](https://github.com/ahtohbi4), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/dango0812](https://github.com/dango0812)
+  static const IconData plane_off = IconData(
+    0xe88f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [plane_takeoff] icon from the Lucide icon set.
   ///
   /// ![plane_takeoff](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMmgyMCIgLz4KICA8cGF0aCBkPSJNNi4zNiAxNy40IDQgMTdsLTItNCAxLjEtLjU1YTIgMiAwIDAgMSAxLjggMGwuMTcuMWEyIDIgMCAwIDAgMS44IDBMOCAxMiA1IDZsLjktLjQ1YTIgMiAwIDAgMSAyLjA5LjJsNC4wMiAzYTIgMiAwIDAgMCAyLjEuMmw0LjE5LTIuMDZhMi40MSAyLjQxIDAgMCAxIDEuNzMtLjE3TDIxIDdhMS40IDEuNCAwIDAgMSAuODcgMS45OWwtLjM4Ljc2Yy0uMjMuNDYtLjYuODQtMS4wNyAxLjA4TDcuNTggMTcuMmEyIDIgMCAwIDEtMS4yMi4xOFoiIC8+Cjwvc3ZnPgo=)
@@ -23710,13 +23854,29 @@ abstract final class LucideIcons {
   /// ![rectangle_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [rectangle_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 16:9, horizontal, shape.
+  /// - The [rectangle_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 16:9, horizontal, shape, widget, card, panel, banner, block, frame, artboard, slide, landscape.
   /// - It belongs to the categories: shapes, design
   ///
   /// Acknowledgements:
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData rectangle_horizontal = IconData(
     0xe376,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [rectangle_horizontal_plus] icon from the Lucide icon set.
+  ///
+  /// ![rectangle_horizontal_plus](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNIDEyIDkgTCAxMiAxNSIgLz4KICA8cGF0aCBkPSJNIDkgMTIgTCAxNSAxMiIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [rectangle_horizontal_plus] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:rectangle-horizontal, $group:plus, positive, button.
+  /// - It belongs to the categories: math, tools, development, text
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ammar08429](https://github.com/ammar08429)
+  static const IconData rectangle_horizontal_plus = IconData(
+    0xe890,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -24425,6 +24585,38 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [rows_2_plus_bottom] icon from the Lucide icon set.
+  ///
+  /// ![rows_2_plus_bottom](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjJ2LTYiIC8+CiAgPHBhdGggZD0iTTE4LjQ2NCAyMUgxOWEyIDIgMCAwMDItMlY1YTIgMiAwIDAwLTItMkg1YTIgMiAwIDAwLTIgMnYxNGEyIDIgMCAwMDIgMmguNTM1IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMkgzIiAvPgogIDxwYXRoIGQ9Ik05IDE5aDYiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [rows_2_plus_bottom] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:rows-2, $group:plus, $group:position-bottom.
+  /// - It belongs to the categories: $extends:rows-2
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/JMOAWeber](https://github.com/JMOAWeber)
+  static const IconData rows_2_plus_bottom = IconData(
+    0xe891,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [rows_2_plus_top] icon from the Lucide icon set.
+  ///
+  /// ![rows_2_plus_top](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY2IiAvPgogIDxwYXRoIGQ9Ik0xOC40NjQgM0gxOWEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJINWEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmguNTM1IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMkgzIiAvPgogIDxwYXRoIGQ9Ik05IDVoNiIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [rows_2_plus_top] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:rows-2, $group:plus, $group:position-top.
+  /// - It belongs to the categories: $extends:rows-2
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/JMOAWeber](https://github.com/JMOAWeber)
+  static const IconData rows_2_plus_top = IconData(
+    0xe892,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [rows_3] icon from the Lucide icon set.
   ///
   /// ![rows_3](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0yMSA5SDMiIC8+CiAgPHBhdGggZD0iTTIxIDE1SDMiIC8+Cjwvc3ZnPgo=)
@@ -25077,6 +25269,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/edik17](https://github.com/edik17), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData screw = IconData(
     0xe7a0,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [screwdriver] icon from the Lucide icon set.
+  ///
+  /// ![screwdriver](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTcgN2gyLjc1YTEgMSAwIDAgMCAuODc0LS41MTVsMS4yNS0yLjI1M2ExIDEgMCAwIDAtLjE2OC0xLjE5NGwtLjc1LS43NDdhMSAxIDAgMCAwLTEuMDQxLS4yMzNsLTIuNCAxLjMxOEExIDEgMCAwIDAgMTcgNC4yNXpsLTUgNSIgLz4KICA8cGF0aCBkPSJNOS42NDggMTEuMzUxYTEuMiAxLjIgMCAwIDEgMS43MDMgMGwxLjI5NSAxLjI5N2ExLjIgMS4yIDAgMCAxIDAgMS43MDRsLS4zMTIuMzEyYy0uMjY0LjI2NC0uNjA1LjQzLS45NC41OTVhMi41IDIuNSAwIDAgMC0xLjEzNSAxLjEzNmMtLjE2Ni4zMzUtLjMzMi42NzctLjU5Ny45NEw1LjYyMyAyMS4zOGEyLjEgMi4xIDAgMCAxLTMuNDYyLTIuMzEyIDIuMSAyLjEgMCAwIDEgLjQ2LS42ODhsNC4wNC00LjA0MmMuMjY0LS4yNjUuNjA3LS40MzIuOTQzLS41OTdhMi41IDIuNSAwIDAgMCAxLjEzNi0xLjEzN2MuMTY2LS4zMzcuMzMzLS42OC41OTgtLjk0NXoiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [screwdriver] icon is a graphical symbol that conveys a specific idea or functionality related to tool, hardware, repair, screw, flathead, phillips, diy, fix, maintenance, construction, fastener, fastening, assembly, workshop, mechanic, furniture.
+  /// - It belongs to the categories: tools
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/josh-f](https://github.com/josh-f), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/abdul-karim-mia](https://github.com/abdul-karim-mia)
+  static const IconData screwdriver = IconData(
+    0xe893,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -28564,7 +28772,7 @@ abstract final class LucideIcons {
   /// Acknowledgements:
   /// - Contributors: [https://github.com/Alberto6677](https://github.com/Alberto6677)
   static const IconData square_plus_corner = IconData(
-    0xe887,
+    0xe894,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -31022,7 +31230,7 @@ abstract final class LucideIcons {
   /// ![train_front](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNOCAzLjFWN2E0IDQgMCAwIDAgOCAwVjMuMSIgLz4KICA8cGF0aCBkPSJtOSAxNS0xLTEiIC8+CiAgPHBhdGggZD0ibTE1IDE1IDEtMSIgLz4KICA8cGF0aCBkPSJNOSAxOWMtMi44IDAtNS0yLjItNS01di00YTggOCAwIDAgMSAxNiAwdjRjMCAyLjgtMi4yIDUtNSA1WiIgLz4KICA8cGF0aCBkPSJtOCAxOS0yIDMiIC8+CiAgPHBhdGggZD0ibTE2IDE5IDIgMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
-  /// - The [train_front] icon is a graphical symbol that conveys a specific idea or functionality related to railway, metro, subway, underground, high-speed, bullet, fast, track, line.
+  /// - The [train_front] icon is a graphical symbol that conveys a specific idea or functionality related to railway, metro, subway, underground, high-speed, bullet, fast, track, line, station, transportation, vehicle, commute, travel, rail, liner, passenger.
   /// - It belongs to the categories: transportation
   ///
   /// Acknowledgements:
@@ -31045,6 +31253,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley)
   static const IconData train_front_tunnel = IconData(
     0xe507,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [train_high_speed] icon from the Lucide icon set.
+  ///
+  /// ![train_high_speed](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAyMWgyMCIgLz4KICA8cGF0aCBkPSJNMiAzYzQgMCAxMSAwIDE4IDcgMiAyIDQgNyAtMiA3IEgyIiAvPgogIDxwYXRoIGQ9Ik0yIDloM2ExIDEgMCAwIDEgMCA0SDIiIC8+CiAgPHBhdGggZD0iTTkgNGMwIDQgMyA3IDExIDciIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [train_high_speed] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:train-front.
+  /// - It belongs to the categories: $extends:train-front, travel
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/SlDo](https://github.com/SlDo), [https://github.com/rrod497](https://github.com/rrod497), [https://github.com/ericfennis](https://github.com/ericfennis)
+  static const IconData train_high_speed = IconData(
+    0xe895,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -31109,6 +31333,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData trash = IconData(
     0xe18d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [trash_leaf] icon from the Lucide icon set.
+  ///
+  /// ![trash_leaf](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTF2My4xMjMiIC8+CiAgPHBhdGggZD0iTTEyIDIyYzAtMS4zMzMuODQtMi4zODIgMi4zMS0yLjY2NyAxLjEtLjIxMyAyLjIzNi0uODg5IDIuNjktMS4zMzMiIC8+CiAgPHBhdGggZD0iTTE0IDExaC4wMSIgLz4KICA8cGF0aCBkPSJNMTcgMjJhNCA0IDAgMCAxLS44NDctNy45MWMyLjcyMy0uNTg3IDMuNjIxLS44ODUgNC41NjgtMS45OTZhLjI1My4yNTMgMCAwIDEgLjQyNi4wNTNjLjQ2IDEuMDY3Ljg1MyAyLjQ1OS44NTMgNC4zNTMgMCAzLTIuMjM5IDUuNS01IDUuNSIgLz4KICA8cGF0aCBkPSJNMTkgNnYyLjQ4MyIgLz4KICA8cGF0aCBkPSJNMyA2aDE4IiAvPgogIDxwYXRoIGQ9Ik04IDIySDdhMiAyIDAgMCAxLTItMlY2IiAvPgogIDxwYXRoIGQ9Ik04IDZWNGEyIDIgMCAwIDEgMi0yaDRhMiAyIDAgMCAxIDIgMnYyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [trash_leaf] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:trash, compost, organic, biodegradable, eco, green, environment, sustainability, composting, food waste, garden waste, yard waste.
+  /// - It belongs to the categories: $extends:trash, sustainability
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData trash_leaf = IconData(
+    0xe896,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );

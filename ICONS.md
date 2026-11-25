@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2104** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2119** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -57,6 +57,9 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `aperture` | camera, photo, pictures, shutter, exposure | photography |
 | `app-window` | application, app, window, gui, interface, modal, popup, menu bar, pane, executable, instance, integration, software | layout, development |
 | `app-window-mac` | $extends:app-window, preferences, macos, osx, desktop, title bar, traffic lights, close button, minimize, maximize, native app | $extends:app-window |
+| `app-window-mac-minus` | $extends:app-window-mac, $group:minus, close, uninstall, collapse | $extends:app-window-mac |
+| `app-window-mac-plus` | $extends:app-window-mac, $group:plus, open, install, tab, expand | $extends:app-window-mac |
+| `app-window-minus` | $extends:app-window, $group:minus, close, uninstall, collapse | layout, design, development, files |
 | `app-window-plus` | $extends:app-window, $group:plus, open, install, tab, expand | layout, design, development, files |
 | `apple` | fruit, food, healthy, snack, nutrition, fresh, produce, grocery, organic, harvest, vitamin, red, green, juicy, sweet, tart, bite, orchard, plant, core, raw, diet | food-beverage |
 | `archive` | index, backup, box, storage, records | files, mail |
@@ -580,6 +583,8 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `cog` | $group:cog, computing, fixed, build, construction, parts | account |
 | `coins` | $group:digit, money, cash, finance, gamble | gaming, finance |
 | `columns-2` | lines, list, queue, preview, panel, parallel, series, split, vertical, horizontal, half, center, middle, even, sidebar, drawer, gutter, fold, reflow, typography, pagination, pages | layout, design, text |
+| `columns-2-plus-left` | $extends:columns-2, $group:plus, $group:position-left, settings, customize, table, grid, adjust, configuration, layout | $extends:columns-2 |
+| `columns-2-plus-right` | $extends:columns-2, $group:plus, $group:position-right, settings, customize, table, grid, adjust, configuration, layout | $extends:columns-2 |
 | `columns-3` | lines, list, queue, preview, parallel, series, split, vertical, horizontal, thirds, triple, center, middle, alignment, even, sidebars, drawers, gutters, fold, reflow, typography, pagination, pages | layout, design, text |
 | `columns-3-cog` | $extends:columns-3, $group:cog, columns, customize, table, grid, adjust, panel, layout | layout, design |
 | `columns-4` | lines, list, queue, preview, parallel, series, split, vertical, horizontal, thirds, triple, center, middle, alignment, even, sidebars, drawers, gutters, fold, reflow, typography, pagination, pages, prison, jail, bars, sentence, police, cops, cell, crime, criminal, justice, law, enforcement, grill | layout, design, text |
@@ -789,6 +794,7 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `file-symlink` | $extends:file, symlink, symbolic, link | $extends:file |
 | `file-terminal` | $extends:file, terminal, bash, script, executable | $extends:file, development |
 | `file-text` | $extends:file, data, txt, pdf, doc, docx, word, docs | $extends:file, text |
+| `file-text-sparkles` | $extends:file-text, $group:sparkles, summarize, writing, enhance | $extends:file-text, ai |
 | `file-type` | $extends:file, $group:letter, type | $extends:file, text |
 | `file-type-corner` | $extends:file-type | $extends:file-type |
 | `file-up` | $extends:file, $group:direction-up, upload, import, export | $extends:file |
@@ -1009,6 +1015,7 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `image-off` | $extends:image, $group:off | photography, multimedia, files |
 | `image-play` | $extends:image, $group:play, gif | $extends:image |
 | `image-plus` | $extends:image, $group:plus | photography, multimedia, files |
+| `image-sparkles` | $extends:image, $group:sparkles, enhance | photography, multimedia, ai |
 | `image-up` | $extends:image, $group:direction-up, upload, import | $extends:image |
 | `image-upscale` | $extends:image, resize, sharpen, increase | photography, multimedia |
 | `images` | picture, photo, multiple, copy, gallery, album, collection, slideshow, showcase | photography, text, multimedia, files |
@@ -1144,6 +1151,7 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `list-tree` | tree, browser | $extends:list, files, layout |
 | `list-video` | playlist, video, playback | multimedia |
 | `list-x` | $group:x, playlist, subtract, unqueue | $extends:list, multimedia |
+| `list-x-corner` | $extends:list-x, $group:x, mark, sharp, options, bottom, to-do, checklist, item, task, entry, queue | text, multimedia |
 | `loader` | loading, wait, busy, progress, spinner, spinning, throbber | cursors |
 | `loader-circle` | $extends:loader, circle | cursors |
 | `loader-pinwheel` | $extends:loader, beach ball, frozen, freeze | cursors |
@@ -1432,6 +1440,7 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `pizza` | pie, quiche, food | food-beverage |
 | `plane` | plane, trip, airplane | transportation, travel, navigation |
 | `plane-landing` | $extends:plane, arrival, landing | transportation, travel |
+| `plane-off` | $extends:plane | transportation, travel, navigation |
 | `plane-takeoff` | $extends:plane, departure, takeoff | transportation, travel |
 | `plant-pot` | plant, leaf, nature, pot, houseplant, gardening, planter, decor, indoor | home, nature |
 | `play` | $group:play, music, audio, video | multimedia |
@@ -1489,7 +1498,8 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rectangle-circle` | compose, keyboard, key, button | development, text |
 | `rectangle-ellipsis` | login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | text, development |
 | `rectangle-goggles` | vr, virtual, augmented, reality, headset, goggles | devices, gaming, multimedia |
-| `rectangle-horizontal` | rectangle, aspect ratio, 16:9, horizontal, shape | shapes, design |
+| `rectangle-horizontal` | rectangle, aspect ratio, 16:9, horizontal, shape, widget, card, panel, banner, block, frame, artboard, slide, landscape | shapes, design |
+| `rectangle-horizontal-plus` | $extends:rectangle-horizontal, $group:plus, positive, button | math, tools, development, text |
 | `rectangle-landscape-play` | music, video, start, movie | arrows, multimedia |
 | `rectangle-vertical` | rectangle, aspect ratio, 9:16, vertical, shape | shapes, design |
 | `recycle` | sustainability, salvage, arrows | sustainability |
@@ -1534,6 +1544,8 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `route-off` | $extends:route, $group:off, reset, clear, closed | $extends:route |
 | `router` | computer, server, cloud | devices, connectivity, home |
 | `rows-2` | lines, list, queue, preview, panel, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawer | layout, design, text |
+| `rows-2-plus-bottom` | $extends:rows-2, $group:plus, $group:position-bottom | $extends:rows-2 |
+| `rows-2-plus-top` | $extends:rows-2, $group:plus, $group:position-top | $extends:rows-2 |
 | `rows-3` | lines, list, queue, preview, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawers | layout, design, text |
 | `rows-4` | lines, list, queue, preview, paragraphs, parallel, series, split, vertical, horizontal, half, center, middle, even, drawers, grill | layout, design, text |
 | `rss` | feed, subscribe, news, updates, notifications, content, blog, articles, broadcast, syndication, reader, channels, posts, publishing, digest, alert, following, inbox, newsletter, weblog, podcast | development, social |
@@ -1575,6 +1587,7 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `screen-share` | host, desktop, monitor | connectivity, devices, communication |
 | `screen-share-off` | $extends:screen-share, $group:off, disconnect | $extends:screen-share |
 | `screw` | fastener, hardware, bolt, screwdriver, repair, assembly, diy, flathead | tools |
+| `screwdriver` | tool, hardware, repair, screw, flathead, phillips, diy, fix, maintenance, construction, fastener, fastening, assembly, workshop, mechanic, furniture | tools |
 | `scroll` | paper, log, scripture, document, notes, parchment, list, long, script, story, code, coding | gaming, development, text |
 | `scroll-text` | $extends:scroll, changelog, release notes | $extends:scroll |
 | `search` | $group:search, enlarge | text |
@@ -1946,12 +1959,14 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `tractor` | farming, farmer, ranch, harvest, equipment, vehicle | transportation, sustainability, food-beverage |
 | `traffic-cone` | roadworks, tarmac, safety, block | transportation |
 | `trailer` | tow, shipping, delivery, haulage, vehicle, equipment, freight | transportation, logistics |
-| `train-front` | railway, metro, subway, underground, high-speed, bullet, fast, track, line | transportation |
+| `train-front` | railway, metro, subway, underground, high-speed, bullet, fast, track, line, station, transportation, vehicle, commute, travel, rail, liner, passenger | transportation |
 | `train-front-tunnel` | $extends:train-front, speed | $extends:train-front, navigation |
+| `train-high-speed` | $extends:train-front | $extends:train-front, travel |
 | `train-track` | railway, line | transportation, navigation |
 | `tram-front` | railway, metro, subway, underground, track, line, tourism | transportation |
 | `transgender` | gender, inclusive | medical, people |
 | `trash` | $group:minus, empty, deletion, cleanup, junk, garbage, bin, waste, recycle, discard, rubbish | files, mail |
+| `trash-leaf` | $extends:trash, compost, organic, biodegradable, eco, green, environment, sustainability, composting, food waste, garden waste, yard waste | $extends:trash, sustainability |
 | `trash-off` | $extends:trash, $group:minus, $group:off, trash, prevent, locked, protected | $extends:trash |
 | `tree-deciduous` | tree, forest, park, nature | nature, sustainability |
 | `tree-palm` | vacation, leisure, island | nature, sustainability, travel |
@@ -2115,4 +2130,4 @@ All **2104** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2104 icons*
+*Total: 2119 icons*
