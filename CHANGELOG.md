@@ -1,3 +1,15 @@
+# 1.79.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.79.0
+- Total icon count increased from 2,102+ to 2,104+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- app-window-plus, square-plus-corner
+
+---
+
 # 1.78.0
 
 ## Improvements 🚀

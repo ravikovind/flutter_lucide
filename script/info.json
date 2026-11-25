@@ -359,6 +359,12 @@
     "className": "icon-app-window-mac",
     "unicode": "&#58834;"
   },
+  "app-window-plus": {
+    "encodedCode": "\\e886",
+    "prefix": "icon",
+    "className": "icon-app-window-plus",
+    "unicode": "&#59526;"
+  },
   "app-window": {
     "encodedCode": "\\e426",
     "prefix": "icon",
@@ -12310,6 +12316,12 @@
     "prefix": "icon",
     "className": "icon-square-play",
     "unicode": "&#58497;"
+  },
+  "square-plus-corner": {
+    "encodedCode": "\\e887",
+    "prefix": "icon",
+    "className": "icon-square-plus-corner",
+    "unicode": "&#59527;"
   },
   "square-plus": {
     "encodedCode": "\\e173",

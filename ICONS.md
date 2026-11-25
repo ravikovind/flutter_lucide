@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2102** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2104** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -55,8 +55,9 @@ All **2102** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `antenna` | signal, connection, connectivity, tv, television, broadcast, live, frequency, tune, scan, channels, aerial, receiver, transmission, transducer, terrestrial, satellite, cable | devices, multimedia, communication, connectivity |
 | `anvil` | metal, iron, alloy, materials, heavy, weight, blacksmith, forge, acme | tools, gaming |
 | `aperture` | camera, photo, pictures, shutter, exposure | photography |
-| `app-window` | application, menu bar, pane, executable | layout, development |
+| `app-window` | application, app, window, gui, interface, modal, popup, menu bar, pane, executable, instance, integration, software | layout, development |
 | `app-window-mac` | $extends:app-window, preferences, macos, osx, desktop, title bar, traffic lights, close button, minimize, maximize, native app | $extends:app-window |
+| `app-window-plus` | $extends:app-window, $group:plus, open, install, tab, expand | layout, design, development, files |
 | `apple` | fruit, food, healthy, snack, nutrition, fresh, produce, grocery, organic, harvest, vitamin, red, green, juicy, sweet, tart, bite, orchard, plant, core, raw, diet | food-beverage |
 | `archive` | index, backup, box, storage, records | files, mail |
 | `archive-arrow-down` | $extends:archive, unarchive, email, download, save | $extends:archive |
@@ -1791,6 +1792,7 @@ All **2102** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `square-pilcrow` | paragraph, mark, paraph, blind, typography, type, text, prose, symbol | text |
 | `square-play` | $group:play, music, audio, video | multimedia |
 | `square-plus` | $group:plus, positive, calculate, calculator, button, keyboard, toolbar, maximum, upgrade, operator, join, concatenate, code, coding | math, development, text |
+| `square-plus-corner` | $extends:square-plus | $extends:square-plus |
 | `square-power` | on, off, device, switch, toggle, binary, boolean, reboot, restart, button, keyboard, troubleshoot | devices |
 | `square-radical` | calculate, formula, math, operator, root, square, symbol | development, math |
 | `square-round-corner` | border, radius, style, design, corner, layout, round, rounded | design, development, layout |
@@ -2113,4 +2115,4 @@ All **2102** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2102 icons*
+*Total: 2104 icons*
