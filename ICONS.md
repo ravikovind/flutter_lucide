@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2119** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2123** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -262,6 +262,7 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bot-x` | $extends:bot, $group:x, disconnected, offline, integration | $extends:bot |
 | `bottle-wine` | alcohol, drink, glass, goblet, chalice, vineyard, winery, red, white, rose, dry, sparkling, bar, party, nightclub, nightlife, sommelier, restaurant, dinner, meal | food-beverage |
 | `bow-arrow` | archer, archery, game, war, weapon | gaming, sports |
+| `bowl-chopsticks` | $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining | food-beverage |
 | `box` | cube, package, container, storage, geometry, 3d, isometric | shapes, gaming, development, math |
 | `box-dashed` | $extends:box, $group:dashed, augmented reality, ar, bounding box, bounds, spatial boundary, selection volume, placeholder, volume, wireframe, mesh, unrendered, 3d scanning, spatial mapping, collision, hitbox, bounding volume, collision detection, selection boundary | $extends:box, design |
 | `boxes` | cubes, packages, parts, group, units, collection, cluster, geometry | shapes, gaming, development, logistics |
@@ -712,6 +713,7 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `eighth-note` | audio, music, sound, note, quaver | multimedia |
 | `eighth-notes` | audio, music, sound, notes, quavers | multimedia |
 | `eject` | disc, drive, dvd, blu-ray, cd, media, optical, optical drive, removable media, storage, tray, unmount, usb | devices, files, multimedia |
+| `elevator` | $group:direction-up, $group:direction-down, building, doors, floor, lift, lobby, shaft, transportation | accessibility, buildings, home, navigation, transportation |
 | `ellipse` | shape, geometry, rounded, smooth, outline, form, boundary, curve, shapes, ellipse, oval | shapes |
 | `ellipsis` | et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, coding, spread, rest, more, further, extra, overflow, dots, …, ..., meatball menu, three dots, 3 dots | layout, development |
 | `ellipsis-vertical` | menu, options, spread, more, further, extra, overflow, dots, …, ..., kebab, kebab menu, three dots, 3 dots | layout |
@@ -913,6 +915,7 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `globe` | world, browser, language, translate, location, country, coverage, publish, connection, global, earth, globe, internet, planet, network, www, http, https, website | navigation, connectivity |
 | `globe-ban` | $extends:globe, $group:off, web, banned, geo blocking, offline, parental controls, content filter, region lock, public access, access control, domain blocking, region restriction | $extends:globe, security |
 | `globe-check` | $extends:globe, $group:check, web, available, online, status | $extends:globe |
+| `globe-clock` | $extends:globe, $group:clock, world clock, timezone, international time, time conversion, time difference, local time | $extends:globe, time |
 | `globe-code` | $extends:globe, $group:code, digital, access, link | $extends:globe, development |
 | `globe-lock` | $extends:globe, $group:lock, vpn, encryption | security, connectivity |
 | `globe-off` | $extends:globe, $group:off, mute, avoid, offline, disconnected, no connection, network failure, signal off | $extends:globe |
@@ -1499,8 +1502,8 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `rectangle-ellipsis` | login, password, authenticate, 2fa, field, fill, ellipsis, et cetera, etc, loader, loading, progress, pending, throbber, menu, options, operator, code, spread, rest, more, further, extra, overflow, dots, …, ... | text, development |
 | `rectangle-goggles` | vr, virtual, augmented, reality, headset, goggles | devices, gaming, multimedia |
 | `rectangle-horizontal` | rectangle, aspect ratio, 16:9, horizontal, shape, widget, card, panel, banner, block, frame, artboard, slide, landscape | shapes, design |
+| `rectangle-horizontal-play` | music, video, start, movie | arrows, multimedia |
 | `rectangle-horizontal-plus` | $extends:rectangle-horizontal, $group:plus, positive, button | math, tools, development, text |
-| `rectangle-landscape-play` | music, video, start, movie | arrows, multimedia |
 | `rectangle-vertical` | rectangle, aspect ratio, 9:16, vertical, shape | shapes, design |
 | `recycle` | sustainability, salvage, arrows | sustainability |
 | `redo` | undo, rerun, history | text, arrows |
@@ -1839,6 +1842,7 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `star-off` | $extends:star, $group:off, dislike, unlike, remove, unrate | social |
 | `star-plus` | $extends:star, $group:plus, join | $extends:star |
 | `star-x` | $extends:star, $group:x, mark, symbol, shape, vector, design, graphic | $extends:star |
+| `steering-wheel` | driving, driver, steering, wheel, helm, racing, racer, motor sport, formula one, formula 1, f1, car, vehicle, direction, cockpit, automotive | transportation, sports, gaming |
 | `step-back` | arrow, previous, music, left, reverse | multimedia, arrows |
 | `step-forward` | arrow, next, music, right, continue | multimedia, arrows |
 | `stethoscope` | phonendoscope, medical, heart, lungs, sound, patient | science, medical |
@@ -2130,4 +2134,4 @@ All **2119** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2119 icons*
+*Total: 2123 icons*
