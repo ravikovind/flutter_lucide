@@ -353,17 +353,35 @@
     "className": "icon-aperture",
     "unicode": "&#57408;"
   },
+  "app-window-mac-minus": {
+    "encodedCode": "\\e886",
+    "prefix": "icon",
+    "className": "icon-app-window-mac-minus",
+    "unicode": "&#59526;"
+  },
+  "app-window-mac-plus": {
+    "encodedCode": "\\e887",
+    "prefix": "icon",
+    "className": "icon-app-window-mac-plus",
+    "unicode": "&#59527;"
+  },
   "app-window-mac": {
     "encodedCode": "\\e5d2",
     "prefix": "icon",
     "className": "icon-app-window-mac",
     "unicode": "&#58834;"
   },
+  "app-window-minus": {
+    "encodedCode": "\\e888",
+    "prefix": "icon",
+    "className": "icon-app-window-minus",
+    "unicode": "&#59528;"
+  },
   "app-window-plus": {
-    "encodedCode": "\\e886",
+    "encodedCode": "\\e889",
     "prefix": "icon",
     "className": "icon-app-window-plus",
-    "unicode": "&#59526;"
+    "unicode": "&#59529;"
   },
   "app-window": {
     "encodedCode": "\\e426",
@@ -3965,6 +3983,18 @@
     "className": "icon-coins",
     "unicode": "&#57495;"
   },
+  "columns-2-plus-left": {
+    "encodedCode": "\\e88a",
+    "prefix": "icon",
+    "className": "icon-columns-2-plus-left",
+    "unicode": "&#59530;"
+  },
+  "columns-2-plus-right": {
+    "encodedCode": "\\e88b",
+    "prefix": "icon",
+    "className": "icon-columns-2-plus-right",
+    "unicode": "&#59531;"
+  },
   "columns-2": {
     "encodedCode": "\\e098",
     "prefix": "icon",
@@ -5416,6 +5446,12 @@
     "prefix": "icon",
     "className": "icon-file-terminal",
     "unicode": "&#58152;"
+  },
+  "file-text-sparkles": {
+    "encodedCode": "\\e88c",
+    "prefix": "icon",
+    "className": "icon-file-text-sparkles",
+    "unicode": "&#59532;"
   },
   "file-text": {
     "encodedCode": "\\e0cc",
@@ -7001,6 +7037,12 @@
     "className": "icon-image-plus",
     "unicode": "&#57847;"
   },
+  "image-sparkles": {
+    "encodedCode": "\\e88d",
+    "prefix": "icon",
+    "className": "icon-image-sparkles",
+    "unicode": "&#59533;"
+  },
   "image-up": {
     "encodedCode": "\\e5cb",
     "prefix": "icon",
@@ -7882,6 +7924,12 @@
     "prefix": "icon",
     "className": "icon-list-video",
     "unicode": "&#58082;"
+  },
+  "list-x-corner": {
+    "encodedCode": "\\e88e",
+    "prefix": "icon",
+    "className": "icon-list-x-corner",
+    "unicode": "&#59534;"
   },
   "list-x": {
     "encodedCode": "\\e240",
@@ -9905,6 +9953,12 @@
     "className": "icon-plane-landing",
     "unicode": "&#58317;"
   },
+  "plane-off": {
+    "encodedCode": "\\e88f",
+    "prefix": "icon",
+    "className": "icon-plane-off",
+    "unicode": "&#59535;"
+  },
   "plane-takeoff": {
     "encodedCode": "\\e3ce",
     "prefix": "icon",
@@ -10307,6 +10361,12 @@
     "className": "icon-rectangle-goggles",
     "unicode": "&#58966;"
   },
+  "rectangle-horizontal-plus": {
+    "encodedCode": "\\e890",
+    "prefix": "icon",
+    "className": "icon-rectangle-horizontal-plus",
+    "unicode": "&#59536;"
+  },
   "rectangle-horizontal": {
     "encodedCode": "\\e376",
     "prefix": "icon",
@@ -10576,6 +10636,18 @@
     "prefix": "icon",
     "className": "icon-router",
     "unicode": "&#58303;"
+  },
+  "rows-2-plus-bottom": {
+    "encodedCode": "\\e891",
+    "prefix": "icon",
+    "className": "icon-rows-2-plus-bottom",
+    "unicode": "&#59537;"
+  },
+  "rows-2-plus-top": {
+    "encodedCode": "\\e892",
+    "prefix": "icon",
+    "className": "icon-rows-2-plus-top",
+    "unicode": "&#59538;"
   },
   "rows-2": {
     "encodedCode": "\\e439",
@@ -10864,6 +10936,12 @@
     "prefix": "icon",
     "className": "icon-screw",
     "unicode": "&#59296;"
+  },
+  "screwdriver": {
+    "encodedCode": "\\e893",
+    "prefix": "icon",
+    "className": "icon-screwdriver",
+    "unicode": "&#59539;"
   },
   "scroll-text": {
     "encodedCode": "\\e45f",
@@ -12318,10 +12396,10 @@
     "unicode": "&#58497;"
   },
   "square-plus-corner": {
-    "encodedCode": "\\e887",
+    "encodedCode": "\\e894",
     "prefix": "icon",
     "className": "icon-square-plus-corner",
-    "unicode": "&#59527;"
+    "unicode": "&#59540;"
   },
   "square-plus": {
     "encodedCode": "\\e173",
@@ -13319,6 +13397,12 @@
     "className": "icon-train-front",
     "unicode": "&#58630;"
   },
+  "train-high-speed": {
+    "encodedCode": "\\e895",
+    "prefix": "icon",
+    "className": "icon-train-high-speed",
+    "unicode": "&#59541;"
+  },
   "train-track": {
     "encodedCode": "\\e508",
     "prefix": "icon",
@@ -13348,6 +13432,12 @@
     "prefix": "icon",
     "className": "icon-trash-2",
     "unicode": "&#57742;"
+  },
+  "trash-leaf": {
+    "encodedCode": "\\e896",
+    "prefix": "icon",
+    "className": "icon-trash-leaf",
+    "unicode": "&#59542;"
   },
   "trash-off": {
     "encodedCode": "\\e763",

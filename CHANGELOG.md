@@ -1,3 +1,15 @@
+# 1.80.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.80.0
+- Total icon count increased from 2,104+ to 2,119+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- app-window-mac-minus, app-window-mac-plus, app-window-minus, columns-2-plus-left, columns-2-plus-right, file-text-sparkles, image-sparkles, list-x-corner, plane-off, rectangle-horizontal-plus, rows-2-plus-bottom, rows-2-plus-top, screwdriver, train-high-speed, trash-leaf
+
+---
+
 # 1.79.0
 
 ## Improvements 🚀
