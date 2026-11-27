@@ -1,6 +1,6 @@
 # Lucide Icons Reference
 
-All **2123** icons available in `flutter_lucide`. Search by name, tag, or category.
+All **2124** icons available in `flutter_lucide`. Search by name, tag, or category.
 
 > Dart usage: replace `-` with `_` in the icon name — e.g. `pin-x` → `LucideIcons.pin_x`
 >
@@ -262,12 +262,13 @@ All **2123** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `bot-x` | $extends:bot, $group:x, disconnected, offline, integration | $extends:bot |
 | `bottle-wine` | alcohol, drink, glass, goblet, chalice, vineyard, winery, red, white, rose, dry, sparkling, bar, party, nightclub, nightlife, sommelier, restaurant, dinner, meal | food-beverage |
 | `bow-arrow` | archer, archery, game, war, weapon | gaming, sports |
-| `bowl-chopsticks` | $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining | food-beverage |
+| `bowl-chopsticks` | $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining, poke, culinary, asian, chinese, oriental, eastern, brunch, lunch, dinner | food-beverage |
 | `box` | cube, package, container, storage, geometry, 3d, isometric | shapes, gaming, development, math |
 | `box-dashed` | $extends:box, $group:dashed, augmented reality, ar, bounding box, bounds, spatial boundary, selection volume, placeholder, volume, wireframe, mesh, unrendered, 3d scanning, spatial mapping, collision, hitbox, bounding volume, collision detection, selection boundary | $extends:box, design |
 | `boxes` | cubes, packages, parts, group, units, collection, cluster, geometry | shapes, gaming, development, logistics |
 | `boxes-linked` | $group:graph, cubes, package, module, dependencies, link, chain, blockchain, supply chain, integration, component, logistics, distributed, interconnected, relationship, coupling, system architecture, distributed systems, inventory | development, logistics |
 | `braces` | json, code, token, curly brackets, curly braces, data, {, } | development, files |
+| `braces-sigma` | $group:letter, latex, math, formula, sum, expression, structure, curly braces, parse tree, syntax tree, summation notation, equation editor | math, development, text, science |
 | `brackets` | code, token, array, list, square, [, ] | development, files |
 | `brain` | medical, mind, mental, intellect, cerebral, consciousness, genius, artificial intelligence, ai, think, thought, insight, intelligent, smart, deep learning, machine learning, computing, skill, skills, expertise | medical, science, ai |
 | `brain-circuit` | $extends:brain | science, development, ai |
@@ -2134,4 +2135,4 @@ All **2123** icons available in `flutter_lucide`. Search by name, tag, or catego
 | `zoom-in` | $group:plus, magnifying glass | accessibility, layout, design, photography |
 | `zoom-out` | $group:minus, magnifying glass | accessibility, layout, design, photography |
 
-*Total: 2123 icons*
+*Total: 2124 icons*
