@@ -1883,6 +1883,12 @@
     "className": "icon-bow-arrow",
     "unicode": "&#58974;"
   },
+  "bowl-chopsticks": {
+    "encodedCode": "\\e897",
+    "prefix": "icon",
+    "className": "icon-bowl-chopsticks",
+    "unicode": "&#59543;"
+  },
   "box-dashed": {
     "encodedCode": "\\e87b",
     "prefix": "icon",
@@ -4835,6 +4841,12 @@
     "className": "icon-eject",
     "unicode": "&#59187;"
   },
+  "elevator": {
+    "encodedCode": "\\e898",
+    "prefix": "icon",
+    "className": "icon-elevator",
+    "unicode": "&#59544;"
+  },
   "ellipse": {
     "encodedCode": "\\e6b2",
     "prefix": "icon",
@@ -6328,6 +6340,12 @@
     "prefix": "icon",
     "className": "icon-globe-check",
     "unicode": "&#59132;"
+  },
+  "globe-clock": {
+    "encodedCode": "\\e899",
+    "prefix": "icon",
+    "className": "icon-globe-clock",
+    "unicode": "&#59545;"
   },
   "globe-code": {
     "encodedCode": "\\e76d",
@@ -10361,6 +10379,12 @@
     "className": "icon-rectangle-goggles",
     "unicode": "&#58966;"
   },
+  "rectangle-horizontal-play": {
+    "encodedCode": "\\e880",
+    "prefix": "icon",
+    "className": "icon-rectangle-horizontal-play",
+    "unicode": "&#59520;"
+  },
   "rectangle-horizontal-plus": {
     "encodedCode": "\\e890",
     "prefix": "icon",
@@ -12616,6 +12640,12 @@
     "prefix": "icon",
     "className": "icon-stars",
     "unicode": "&#58386;"
+  },
+  "steering-wheel": {
+    "encodedCode": "\\e89a",
+    "prefix": "icon",
+    "className": "icon-steering-wheel",
+    "unicode": "&#59546;"
   },
   "step-back": {
     "encodedCode": "\\e3e9",

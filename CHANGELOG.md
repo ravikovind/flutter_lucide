@@ -1,3 +1,18 @@
+# 1.81.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.81.0
+- Total icon count increased from 2,119+ to 2,123+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- bowl-chopsticks, elevator, globe-clock, steering-wheel
+
+## Renamed Icons ✏️
+- `rectangle-landscape-play` renamed to `rectangle-horizontal-play`
+
+---
+
 # 1.80.0
 
 ## Improvements 🚀

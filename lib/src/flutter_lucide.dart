@@ -4073,6 +4073,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [bowl_chopsticks] icon from the Lucide icon set.
+  ///
+  /// ![bowl_chopsticks](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTIgNC05IiAvPgogIDxwYXRoIGQ9Im0yMiA1LTQgNyIgLz4KICA8cGF0aCBkPSJNNCAxMmExIDEgMCAwMC0uOTkgMS4xMzNBOSA5IDAgMDAxMiAyMWE5IDkgMCAwMDguOTktNy44NjdBMSAxIDAgMDAyMCAxMnoiIC8+CiAgPHBhdGggZD0iTTUgMTEuOTVhMy41IDMuNSAwIDExNSAwIiAvPgogIDxwYXRoIGQ9Ik03IDIxaDEwIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [bowl_chopsticks] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining.
+  /// - It belongs to the categories: food-beverage
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/HACENE-IHAB](https://github.com/HACENE-IHAB), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kemie](https://github.com/kemie)
+  static const IconData bowl_chopsticks = IconData(
+    0xe897,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [box] icon from the Lucide icon set.
   ///
   /// ![box](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMjEgOGEyIDIgMCAwIDAtMS0xLjczbC03LTRhMiAyIDAgMCAwLTIgMGwtNyA0QTIgMiAwIDAgMCAzIDh2OGEyIDIgMCAwIDAgMSAxLjczbDcgNGEyIDIgMCAwIDAgMiAwbDctNEEyIDIgMCAwIDAgMjEgMTZaIiAvPgogIDxwYXRoIGQ9Im0zLjMgNyA4LjcgNSA4LjctNSIgLz4KICA8cGF0aCBkPSJNMTIgMjJWMTIiIC8+Cjwvc3ZnPgo=)
@@ -11273,6 +11289,22 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
+  /// Represents the [elevator] icon from the Lucide icon set.
+  ///
+  /// ![elevator](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTggMTAgMi0yIDIgMiIgLz4KICA8cGF0aCBkPSJtMTggMTQgMiAyIDItMiIgLz4KICA8cGF0aCBkPSJNMiAxOWgxNCIgLz4KICA8cGF0aCBkPSJNNCAxOVY3YTIgMiAwIDAxMi0yaDZhMiAyIDAgMDEyIDJ2MTIiIC8+CiAgPHBhdGggZD0iTTkgNXYxNCIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [elevator] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, $group:direction-down, building, doors, floor, lift, lobby, shaft, transportation.
+  /// - It belongs to the categories: accessibility, buildings, home, navigation, transportation
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/AJAyanbisi](https://github.com/AJAyanbisi), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
+  static const IconData elevator = IconData(
+    0xe898,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
   /// Represents the [ellipse] icon from the Lucide icon set.
   ///
   /// ![ellipse](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjEwIiByeT0iNiIgLz4KPC9zdmc+Cg==)
@@ -14485,6 +14517,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/csandman](https://github.com/csandman), [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/Barakudum](https://github.com/Barakudum)
   static const IconData globe_check = IconData(
     0xe6fc,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [globe_clock] icon from the Lucide icon set.
+  ///
+  /// ![globe_clock](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuNSAxNS43NThBMTQuNSAxNC41IDAgMCAxIDEyLjAwMSAyMiAxMCAxMCAwIDAgMSA5LjUgMi4zMTYiIC8+CiAgPHBhdGggZD0iTTE3IDUuNXYxLjdsMSAuNjI1IiAvPgogIDxwYXRoIGQ9Ik0yIDEyaDcuNSIgLz4KICA8cGF0aCBkPSJNMjEuNjc4IDE0LjVhMTAgMTAgMCAwIDEtOS42NzcgNy41IDE0LjQ4IDE0LjQ4IDAgMCAxLTQuMDA5LTEwIDE2IDE2IDAgMCAxIC4zMDctMyIgLz4KICA8Y2lyY2xlIGN4PSIxNyIgY3k9IjciIHI9IjUiIC8+Cjwvc3ZnPgo=)
+  ///
+  /// Description:
+  /// - The [globe_clock] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:globe, $group:clock, world clock, timezone, international time, time conversion, time difference, local time.
+  /// - It belongs to the categories: $extends:globe, time
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/ericfennis](https://github.com/ericfennis), [https://github.com/abdul-karim-mia](https://github.com/abdul-karim-mia)
+  static const IconData globe_clock = IconData(
+    0xe899,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -20379,7 +20427,7 @@ abstract final class LucideIcons {
 
   /// Represents the [monitor_smartphone] icon from the Lucide icon set.
   ///
-  /// ![monitor_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTggOFY2YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjdhMiAyIDAgMCAwIDIgMmg4IiAvPgogIDxwYXRoIGQ9Ik0xMCAxOXYtMy45NiAzLjE1IiAvPgogIDxwYXRoIGQ9Ik03IDE5aDUiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIxNiIgeT0iMTIiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  /// ![monitor_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMTR2NCIgLz4KICA8cGF0aCBkPSJNMTggNWEyIDIgMCAwMC0yLTJINGEyIDIgMCAwMC0yIDJ2N2EyIDIgMCAwMDIgMmg3IiAvPgogIDxwYXRoIGQ9Ik03IDE4aDQiIC8+CiAgPHJlY3QgeD0iMTUiIHk9IjkiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [monitor_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:monitor, $extends:smartphone, screens, sync, cast.
@@ -23851,7 +23899,7 @@ abstract final class LucideIcons {
 
   /// Represents the [rectangle_horizontal] icon from the Lucide icon set.
   ///
-  /// ![rectangle_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  /// ![rectangle_horizontal](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [rectangle_horizontal] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 16:9, horizontal, shape, widget, card, panel, banner, block, frame, artboard, slide, landscape.
@@ -23861,6 +23909,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/Reund0](https://github.com/Reund0), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/ericfennis](https://github.com/ericfennis)
   static const IconData rectangle_horizontal = IconData(
     0xe376,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [rectangle_horizontal_play] icon from the Lucide icon set.
+  ///
+  /// ![rectangle_horizontal_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMDMzIDExLjQ0YS42NS42NSAwIDAxMCAxLjEybC00LjA2NSAyLjM1MmEuNjUuNjUgMCAwMS0uOTY4LS41NlY5LjY0OGEuNjUuNjUgMCAwMS45NjctLjU2eiIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [rectangle_horizontal_play] icon is a graphical symbol that conveys a specific idea or functionality related to music, video, start, movie.
+  /// - It belongs to the categories: arrows, multimedia
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/scottgriffinm](https://github.com/scottgriffinm)
+  static const IconData rectangle_horizontal_play = IconData(
+    0xe880,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -23881,25 +23945,9 @@ abstract final class LucideIcons {
     fontPackage: _fontPackage,
   );
 
-  /// Represents the [rectangle_landscape_play] icon from the Lucide icon set.
-  ///
-  /// ![rectangle_landscape_play](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUuMDMzIDExLjQ0YS42NS42NSAwIDAxMCAxLjEybC00LjA2NSAyLjM1MmEuNjUuNjUgMCAwMS0uOTY4LS41NlY5LjY0OGEuNjUuNjUgMCAwMS45NjctLjU2eiIgLz4KICA8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
-  ///
-  /// Description:
-  /// - The [rectangle_landscape_play] icon is a graphical symbol that conveys a specific idea or functionality related to music, video, start, movie.
-  /// - It belongs to the categories: arrows, multimedia
-  ///
-  /// Acknowledgements:
-  /// - Contributors: [https://github.com/scottgriffinm](https://github.com/scottgriffinm)
-  static const IconData rectangle_landscape_play = IconData(
-    0xe880,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
   /// Represents the [rectangle_vertical] icon from the Lucide icon set.
   ///
-  /// ![rectangle_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjYiIHk9IjIiIHJ4PSIyIiAvPgo8L3N2Zz4K)
+  /// ![rectangle_vertical](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjUiIHk9IjIiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [rectangle_vertical] icon is a graphical symbol that conveys a specific idea or functionality related to rectangle, aspect ratio, 9:16, vertical, shape.
@@ -26587,7 +26635,7 @@ abstract final class LucideIcons {
 
   /// Represents the [smartphone] icon from the Lucide icon set.
   ///
-  /// ![smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjUiIHk9IjIiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNMTIgMThoLjAxIiAvPgo8L3N2Zz4K)
+  /// ![smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSI2IiB5PSIyIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNMTIgMThoLjAxIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to phone, cellphone, device, mobile, screen, display, touchscreen, portable, responsive.
@@ -26603,7 +26651,7 @@ abstract final class LucideIcons {
 
   /// Represents the [smartphone_charging] icon from the Lucide icon set.
   ///
-  /// ![smartphone_charging](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjUiIHk9IjIiIHJ4PSIyIiByeT0iMiIgLz4KICA8cGF0aCBkPSJNMTIuNjY3IDggMTAgMTJoNGwtMi42NjcgNCIgLz4KPC9zdmc+Cg==)
+  /// ![smartphone_charging](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIuNjY3IDggMTAgMTJoNGwtMi42NjcgNCIgLz4KICA8cmVjdCB4PSI2IiB5PSIyIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiByeT0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [smartphone_charging] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:smartphone, power.
@@ -26619,7 +26667,7 @@ abstract final class LucideIcons {
 
   /// Represents the [smartphone_nfc] icon from the Lucide icon set.
   ///
-  /// ![smartphone_nfc](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik0xMyA4LjMyYTcuNDMgNy40MyAwIDAgMSAwIDcuMzYiIC8+CiAgPHBhdGggZD0iTTE2LjQ2IDYuMjFhMTEuNzYgMTEuNzYgMCAwIDEgMCAxMS41OCIgLz4KICA8cGF0aCBkPSJNMTkuOTEgNC4xYTE1LjkxIDE1LjkxIDAgMCAxIC4wMSAxNS44IiAvPgo8L3N2Zz4K)
+  /// ![smartphone_nfc](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjYiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xMyA4LjMyYTcuNDMgNy40MyAwIDAgMSAwIDcuMzYiIC8+CiAgPHBhdGggZD0iTTE2LjQ2IDYuMjFhMTEuNzYgMTEuNzYgMCAwIDEgMCAxMS41OCIgLz4KICA8cGF0aCBkPSJNMTkuOTEgNC4xYTE1LjkxIDE1LjkxIDAgMCAxIC4wMSAxNS44IiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [smartphone_nfc] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:smartphone, contactless, payment, near-field communication.
@@ -26635,7 +26683,7 @@ abstract final class LucideIcons {
 
   /// Represents the [smartphone_user_round] icon from the Lucide icon set.
   ///
-  /// ![smartphone_user_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMjJINmEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMmgxMGEyIDIgMCAwMTIgMnY0IiAvPgogIDxwYXRoIGQ9Ik0xMSAxOGguMDEiIC8+CiAgPHBhdGggZD0iTTIyIDIyYTQgNCAwIDAwLTggMCIgLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE1IiByPSIzIiAvPgo8L3N2Zz4K)
+  /// ![smartphone_user_round](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0yMSAyMmE0IDQgMCAwMC04IDAiIC8+CiAgPHBhdGggZD0iTTkgMjJINmEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMmg4YTIgMiAwIDAxMiAydjQiIC8+CiAgPGNpcmNsZSBjeD0iMTciIGN5PSIxNSIgcj0iMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [smartphone_user_round] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:smartphone, $group:user, avatar, owner, authentication.
@@ -28843,7 +28891,7 @@ abstract final class LucideIcons {
 
   /// Represents the [square_sigma] icon from the Lucide icon set.
   ///
-  /// ![square_sigma](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjMiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNiA4LjlWN0g4bDQgNS00IDVoOHYtMS45IiAvPgo8L3N2Zz4K)
+  /// ![square_sigma](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik0xNSA5YTEgMSAwIDAwLS45OTktMUg5LjQ5OWEuNS41IDAgMDAtLjQxNi43NzdsMS43NzQgMi42N2ExIDEgMCAwMTAgMS4xMDdsLTEuNzc0IDIuNjdhLjUuNSAwIDAwLjQxNi43NzZoNC42MDJhLjkuOSAwIDAwLjktLjkiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [square_sigma] icon is a graphical symbol that conveys a specific idea or functionality related to $group:letter, sum, calculate, formula, math, enumeration, enumerate.
@@ -29301,6 +29349,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/colebemis](https://github.com/colebemis), [https://github.com/jguddas](https://github.com/jguddas), [https://github.com/RajnishKMehta](https://github.com/RajnishKMehta)
   static const IconData star_x = IconData(
     0xe70a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [steering_wheel] icon from the Lucide icon set.
+  ///
+  /// ![steering_wheel](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuMDcgMTEuNDgzIDIuMzQxIDkuNDEyIiAvPgogIDxwYXRoIGQ9Ik0xMiAyMnYtOCIgLz4KICA8cGF0aCBkPSJtMTMuOTMzIDExLjQ4MyA3LjcyOC0yLjA3MSIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIiAvPgo8L3N2Zz4K)
+  ///
+  /// Description:
+  /// - The [steering_wheel] icon is a graphical symbol that conveys a specific idea or functionality related to driving, driver, steering, wheel, helm, racing, racer, motor sport, formula one, formula 1, f1, car, vehicle, direction, cockpit, automotive.
+  /// - It belongs to the categories: transportation, sports, gaming
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/abdul-karim-mia](https://github.com/abdul-karim-mia)
+  static const IconData steering_wheel = IconData(
+    0xe89a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -30075,7 +30139,7 @@ abstract final class LucideIcons {
 
   /// Represents the [tablet_smartphone] icon from the Lucide icon set.
   ///
-  /// ![tablet_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjMiIHk9IjgiIHJ4PSIyIiAvPgogIDxwYXRoIGQ9Ik01IDRhMiAyIDAgMCAxIDItMmgxMmEyIDIgMCAwIDEgMiAydjE2YTIgMiAwIDAgMS0yIDJoLTIuNCIgLz4KICA8cGF0aCBkPSJNOCAxOGguMDEiIC8+Cjwvc3ZnPgo=)
+  /// ![tablet_smartphone](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNSA0YTIgMiAwIDAxMi0yaDEyYTIgMiAwIDAxMiAydjE2YTIgMiAwIDAxLTIgMmgtNC40IiAvPgogIDxwYXRoIGQ9Ik03IDE4aC4wMSIgLz4KICA8cmVjdCB4PSIzIiB5PSI4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [tablet_smartphone] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:tablet, phone, cellphone, screens, browser, testing.
@@ -32683,7 +32747,7 @@ abstract final class LucideIcons {
 
   /// Represents the [vibrate] icon from the Lucide icon set.
   ///
-  /// ![vibrate](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMiA4IDIgMi0yIDIgMiAyLTIgMiIgLz4KICA8cGF0aCBkPSJtMjIgOC0yIDIgMiAyLTIgMiAyIDIiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSI4IiB5PSI1IiByeD0iMSIgLz4KPC9zdmc+Cg==)
+  /// ![vibrate](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMiA4IDIgMi0yIDIgMiAyLTIgMiIgLz4KICA8cGF0aCBkPSJtMjIgOC0yIDIgMiAyLTIgMiAyIDIiIC8+CiAgPHJlY3QgeD0iOCIgeT0iNSIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMiIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [vibrate] icon is a graphical symbol that conveys a specific idea or functionality related to smartphone, notification, rumble, haptic feedback, screen.
@@ -32699,7 +32763,7 @@ abstract final class LucideIcons {
 
   /// Represents the [vibrate_off] icon from the Lucide icon set.
   ///
-  /// ![vibrate_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMiA4IDIgMi0yIDIgMiAyLTIgMiIgLz4KICA8cGF0aCBkPSJtMjIgOC0yIDIgMiAyLTIgMiAyIDIiIC8+CiAgPHBhdGggZD0iTTggOHYxMGMwIC41NS40NSAxIDEgMWg2Yy41NSAwIDEtLjQ1IDEtMXYtMiIgLz4KICA8cGF0aCBkPSJNMTYgMTAuMzRWNmMwLS41NS0uNDUtMS0xLTFoLTQuMzQiIC8+CiAgPGxpbmUgeDE9IjIiIHgyPSIyMiIgeTE9IjIiIHkyPSIyMiIgLz4KPC9zdmc+Cg==)
+  /// ![vibrate_off](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAuNjU3IDVIMTRhMiAyIDAgMDEyIDJ2My4zNDMiIC8+CiAgPHBhdGggZD0iTTE2IDE2djFhMiAyIDAgMDEtMiAyaC00YTIgMiAwIDAxLTItMlY4IiAvPgogIDxwYXRoIGQ9Im0yIDIgMjAgMjAiIC8+CiAgPHBhdGggZD0ibTIgOCAyIDItMiAyIDIgMi0yIDIiIC8+CiAgPHBhdGggZD0ibTIyIDgtMiAyIDIgMi0yIDIgMiAyIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [vibrate_off] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:vibrate, $group:off, notifications.
