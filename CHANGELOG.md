@@ -1,3 +1,15 @@
+# 1.82.0
+
+## Improvements 🚀
+- Updated to Lucide Icons 1.82.0
+- Total icon count increased from 2,123+ to 2,124+ icons
+- Updated `README.md` with the latest information
+
+## New Icons 🎨
+- braces-sigma
+
+---
+
 # 1.81.0
 
 ## Improvements 🚀

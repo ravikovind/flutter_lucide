@@ -1919,6 +1919,12 @@
     "className": "icon-boxes",
     "unicode": "&#58064;"
   },
+  "braces-sigma": {
+    "encodedCode": "\\e89b",
+    "prefix": "icon",
+    "className": "icon-braces-sigma",
+    "unicode": "&#59547;"
+  },
   "braces": {
     "encodedCode": "\\e36a",
     "prefix": "icon",

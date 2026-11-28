@@ -891,7 +891,7 @@ abstract final class LucideIcons {
 
   /// Represents the [archive_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![archive_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik00IDh2MTFhMiAyIDAgMCAwIDIgMmguMzQzIiAvPgogIDxwYXRoIGQ9Ik0yMCA4djExYTIgMiAwIDAgMS0yIDJoLS4zNDMiIC8+CiAgPHBhdGggZD0ibTkgMTggMyAzIDMtMyIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2OSIgLz4KPC9zdmc+Cg==)
+  /// ![archive_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNMjAgOHYxMWEyIDIgMCAwMS0yIDJoLS4zNDMiIC8+CiAgPHBhdGggZD0iTTQgOHYxMWEyIDIgMCAwMDIgMmguMzQzIiAvPgogIDxwYXRoIGQ9Im05IDE4IDMgMyAzLTMiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [archive_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:archive, unarchive, email, download, save.
@@ -907,7 +907,7 @@ abstract final class LucideIcons {
 
   /// Represents the [archive_arrow_up] icon from the Lucide icon set.
   ///
-  /// ![archive_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjIiIHk9IjMiIHJ4PSIxIiAvPgogIDxwYXRoIGQ9Ik00IDh2MTFhMiAyIDAgMCAwIDIgMmgyIiAvPgogIDxwYXRoIGQ9Ik0yMCA4djExYTIgMiAwIDAgMS0yIDJoLTIiIC8+CiAgPHBhdGggZD0ibTkgMTUgMy0zIDMgMyIgLz4KICA8cGF0aCBkPSJNMTIgMTJ2OSIgLz4KPC9zdmc+Cg==)
+  /// ![archive_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNMjAgOHYxMWEyIDIgMCAwMS0yIDJoLTIiIC8+CiAgPHBhdGggZD0iTTQgOHYxMWEyIDIgMCAwMDIgMmgyIiAvPgogIDxwYXRoIGQ9Im05IDE2IDMtMyAzIDMiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [archive_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:archive, unarchive.
@@ -4078,11 +4078,11 @@ abstract final class LucideIcons {
   /// ![bowl_chopsticks](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTIgNC05IiAvPgogIDxwYXRoIGQ9Im0yMiA1LTQgNyIgLz4KICA8cGF0aCBkPSJNNCAxMmExIDEgMCAwMC0uOTkgMS4xMzNBOSA5IDAgMDAxMiAyMWE5IDkgMCAwMDguOTktNy44NjdBMSAxIDAgMDAyMCAxMnoiIC8+CiAgPHBhdGggZD0iTTUgMTEuOTVhMy41IDMuNSAwIDExNSAwIiAvPgogIDxwYXRoIGQ9Ik03IDIxaDEwIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
-  /// - The [bowl_chopsticks] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining.
+  /// - The [bowl_chopsticks] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:soup, ramen, noodles, soup, cuisine, japanese, asian food, broth, udon, soba, pho, miso, noodle soup, noodle bowl, dining, poke, culinary, asian, chinese, oriental, eastern, brunch, lunch, dinner.
   /// - It belongs to the categories: food-beverage
   ///
   /// Acknowledgements:
-  /// - Contributors: [https://github.com/HACENE-IHAB](https://github.com/HACENE-IHAB), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kemie](https://github.com/kemie)
+  /// - Contributors: [https://github.com/HACENE-IHAB](https://github.com/HACENE-IHAB), [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere), [https://github.com/kemie](https://github.com/kemie)
   static const IconData bowl_chopsticks = IconData(
     0xe897,
     fontFamily: _fontFamily,
@@ -4165,6 +4165,22 @@ abstract final class LucideIcons {
   /// - Contributors: [https://github.com/danielbayley](https://github.com/danielbayley), [https://github.com/karsa-mistmere](https://github.com/karsa-mistmere)
   static const IconData braces = IconData(
     0xe36a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Represents the [braces_sigma] icon from the Lucide icon set.
+  ///
+  /// ![braces_sigma](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTUgOWExIDEgMCAwMC0uOTk5LTFIOS40OTlhLjUuNSAwIDAwLS40MTYuNzc3bDEuNzc0IDIuNjdhMSAxIDAgMDEwIDEuMTA3bC0xLjc3NCAyLjY3YS41LjUgMCAwMC40MTYuNzc2aDQuNjAyYS45LjkgMCAwMC45LS45IiAvPgogIDxwYXRoIGQ9Ik0xNyAyMWgxYTIgMiAwIDAwMi0ydi01YTIgMiAwIDAxMi0yIDIgMiAwIDAxLTItMlY1YTIgMiAwIDAwLTItMmgtMSIgLz4KICA8cGF0aCBkPSJNNyAzSDZhMiAyIDAgMDAtMiAydjVhMiAyIDAgMDEtMiAyIDIgMiAwIDAxMiAydjVhMiAyIDAgMDAyIDJoMSIgLz4KPC9zdmc+Cg==)
+  ///
+  /// Description:
+  /// - The [braces_sigma] icon is a graphical symbol that conveys a specific idea or functionality related to $group:letter, latex, math, formula, sum, expression, structure, curly braces, parse tree, syntax tree, summation notation, equation editor.
+  /// - It belongs to the categories: math, development, text, science
+  ///
+  /// Acknowledgements:
+  /// - Contributors: [https://github.com/LinXruan](https://github.com/LinXruan), [https://github.com/$extends:braces](https://github.com/$extends:braces)
+  static const IconData braces_sigma = IconData(
+    0xe89b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
@@ -4747,7 +4763,7 @@ abstract final class LucideIcons {
 
   /// Represents the [calendar_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![calendar_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTcgNCA0IDQtNCIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0xOCAxM3Y4IiAvPgogIDxwYXRoIGQ9Ik0yMSAxMC4zNTRWNWEyIDIgMCAwMC0yLTJINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJoNy4zNDMiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
+  /// ![calendar_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTggMyAzdi02IiAvPgogIDxwYXRoIGQ9Ik0xNiAydjMiIC8+CiAgPHBhdGggZD0ibTE4IDIxIDMtMyIgLz4KICA8cGF0aCBkPSJNMjEgMTIuMzQzVjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDcuMzciIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [calendar_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:direction-down, $group:sort.
@@ -4795,7 +4811,7 @@ abstract final class LucideIcons {
 
   /// Represents the [calendar_arrow_up] icon from the Lucide icon set.
   ///
-  /// ![calendar_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTQgMTcgNC00IDQgNCIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0xOCAyMXYtOCIgLz4KICA8cGF0aCBkPSJNMjEgMTAuMzQzVjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDkiIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
+  /// ![calendar_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTggMy0zIDMgMyIgLz4KICA8cGF0aCBkPSJNMTYgMnYzIiAvPgogIDxwYXRoIGQ9Ik0xOCAyMXYtNiIgLz4KICA8cGF0aCBkPSJNMjEgMTIuMzQzVjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjE0YTIgMiAwIDAwMiAyaDciIC8+CiAgPHBhdGggZD0iTTMgOWgxOCIgLz4KICA8cGF0aCBkPSJNOCAydjMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [calendar_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:calendar, $group:direction-up, $group:sort.
@@ -8267,7 +8283,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clipboard_copy] icon from the Lucide icon set.
   ///
-  /// ![clipboard_copy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHg9IjgiIHk9IjIiIHJ4PSIxIiByeT0iMSIgLz4KICA8cGF0aCBkPSJNOCA0SDZhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJ2LTIiIC8+CiAgPHBhdGggZD0iTTE2IDRoMmEyIDIgMCAwIDEgMiAydjQiIC8+CiAgPHBhdGggZD0iTTIxIDE0SDExIiAvPgogIDxwYXRoIGQ9Im0xNSAxMC00IDQgNCA0IiAvPgo8L3N2Zz4K)
+  /// ![clipboard_copy](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTUgMTEtMyAzIDMgMyIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAxMiAydjQiIC8+CiAgPHBhdGggZD0iTTIwIDE0aC04IiAvPgogIDxwYXRoIGQ9Ik04IDRINmEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJoMTJhMiAyIDAgMDAyLTJ2LTIiIC8+CiAgPHJlY3QgeD0iOCIgeT0iMiIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [clipboard_copy] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard.
@@ -8315,7 +8331,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clipboard_paste] icon from the Lucide icon set.
   ///
-  /// ![clipboard_paste](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgMTRoMTAiIC8+CiAgPHBhdGggZD0iTTE2IDRoMmEyIDIgMCAwIDEgMiAydjEuMzQ0IiAvPgogIDxwYXRoIGQ9Im0xNyAxOCA0LTQtNC00IiAvPgogIDxwYXRoIGQ9Ik04IDRINmEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDEuNzkzLTEuMTEzIiAvPgogIDxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
+  /// ![clipboard_paste](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTRoOCIgLz4KICA8cGF0aCBkPSJNMTYgNGgyYTIgMiAwIDAxMiAydjIuMzciIC8+CiAgPHBhdGggZD0ibTE3IDE3IDMtMy0zLTMiIC8+CiAgPHBhdGggZD0iTTggNEg2YTIgMiAwIDAwLTIgMnYxNGEyIDIgMCAwMDIgMmgxMmEyIDIgMCAwMDItMnYtLjM3IiAvPgogIDxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjEiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [clipboard_paste] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clipboard.
@@ -8619,7 +8635,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clock_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![clock_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIgMSIgLz4KICA8cGF0aCBkPSJNMTIuMzM3IDIxLjk5NGExMCAxMCAwIDEgMSA5LjU4OC04Ljc2NyIgLz4KICA8cGF0aCBkPSJtMTQgMTggNCA0IDQtNCIgLz4KICA8cGF0aCBkPSJNMTggMTR2OCIgLz4KPC9zdmc+Cg==)
+  /// ![clock_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIuNDIyIDEuMjExIiAvPgogIDxwYXRoIGQ9Im0xOCAyMS0zLTMiIC8+CiAgPHBhdGggZD0ibTIxIDE4LTMgM3YtNiIgLz4KICA8cGF0aCBkPSJNMjEuODMgMTMuODQ5YTEwIDEwIDAgMTAtOC41NjUgOC4wNzMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [clock_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:direction-down, $group:sort.
@@ -8635,7 +8651,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clock_arrow_left] icon from the Lucide icon set.
   ///
-  /// ![clock_arrow_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDEuNS44IiAvPgogIDxwYXRoIGQ9Ik0xMi4zMzggMjEuOTk0YTEwIDEwIDAgMSAxIDkuNTg3LTguNzY3IiAvPgogIDxwYXRoIGQ9Ik0xNCAxOGg4IiAvPgogIDxwYXRoIGQ9Im0xOCAyMi00LTQgNC00IiAvPgo8L3N2Zz4K)
+  /// ![clock_arrow_left](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIuMjI5IDEuMTE0IiAvPgogIDxwYXRoIGQ9Ik0xMy4yNjUgMjEuOTJhMTAgMTAgMCAxMTguNTY1LTguMDczIiAvPgogIDxwYXRoIGQ9Ik0xNSAxOGg2IiAvPgogIDxwYXRoIGQ9Im0xOCAxNS0zIDMgMyAzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [clock_arrow_left] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:direction-left, assign, range.
@@ -8651,7 +8667,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clock_arrow_right] icon from the Lucide icon set.
   ///
-  /// ![clock_arrow_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIgMSIgLz4KICA8cGF0aCBkPSJNMTMuNSAyMS44ODVBMTAgMTAgMCAxIDEgMjIgMTIiIC8+CiAgPHBhdGggZD0iTTE0IDE4aDgiIC8+CiAgPHBhdGggZD0ibTE4IDIyIDQtNC00LTQiIC8+Cjwvc3ZnPgo=)
+  /// ![clock_arrow_right](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIuNDIyIDEuMjExIiAvPgogIDxwYXRoIGQ9Ik0xMy44NSAyMS44M2ExMCAxMCAwIDExOC4wNy04LjU2NiIgLz4KICA8cGF0aCBkPSJtMTggMTUgMyAzLTMgMyIgLz4KICA8cGF0aCBkPSJNMjEgMThoLTYiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [clock_arrow_right] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:direction-right, range, unassign.
@@ -8667,7 +8683,7 @@ abstract final class LucideIcons {
 
   /// Represents the [clock_arrow_up] icon from the Lucide icon set.
   ///
-  /// ![clock_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDEuNTYuNzgiIC8+CiAgPHBhdGggZD0iTTEzLjIyNyAyMS45MjVhMTAgMTAgMCAxIDEgOC43NjctOS41ODgiIC8+CiAgPHBhdGggZD0ibTE0IDE4IDQtNCA0IDQiIC8+CiAgPHBhdGggZD0iTTE4IDIydi04IiAvPgo8L3N2Zz4K)
+  /// ![clock_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgNnY2bDIuMjI5IDEuMTE0IiAvPgogIDxwYXRoIGQ9Ik0xOCAxNXY2IiAvPgogIDxwYXRoIGQ9Im0yMSAxOC0zLTMtMyAzIiAvPgogIDxwYXRoIGQ9Ik0yMS45MiAxMy4yNjVhMTAgMTAgMCAxMC04LjA3MyA4LjU2NSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [clock_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:clock, $group:direction-up, $group:sort.
@@ -8827,7 +8843,7 @@ abstract final class LucideIcons {
 
   /// Represents the [cloud_download] icon from the Lucide icon set.
   ///
-  /// ![cloud_download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OGwtNC00IiAvPgogIDxwYXRoIGQ9Im0xMiAyMSA0LTQiIC8+CiAgPHBhdGggZD0iTTQuMzkzIDE1LjI2OUE3IDcgMCAxIDEgMTUuNzEgOGgxLjc5YTQuNSA0LjUgMCAwIDEgMi40MzYgOC4yODQiIC8+Cjwvc3ZnPgo=)
+  /// ![cloud_download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMjF2LTgiIC8+CiAgPHBhdGggZD0iTTUgMTYuNzQ4QTcgNyAwIDExMTUuNzEgOWgxLjc5YTQuNSA0LjUgMCAwMTEuNSA4Ljc0MiIgLz4KICA8cGF0aCBkPSJtOSAxOCAzIDMgMy0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [cloud_download] icon is a graphical symbol that conveys a specific idea or functionality related to import, install, installation.
@@ -9067,7 +9083,7 @@ abstract final class LucideIcons {
 
   /// Represents the [cloud_upload] icon from the Lucide icon set.
   ///
-  /// ![cloud_upload](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNNCAxNC44OTlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIDIuNSA4LjI0MiIgLz4KICA8cGF0aCBkPSJtOCAxNyA0LTQgNCA0IiAvPgo8L3N2Zz4K)
+  /// ![cloud_upload](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTN2OCIgLz4KICA8cGF0aCBkPSJNNSAxNi43NUE3IDcgMCAxMTE1LjcxIDloMS43OWE0LjUgNC41IDAgMDExLjUgOC43NDIiIC8+CiAgPHBhdGggZD0ibTkgMTYgMy0zIDMgMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [cloud_upload] icon is a graphical symbol that conveys a specific idea or functionality related to file, deploy, deployment.
@@ -12251,7 +12267,7 @@ abstract final class LucideIcons {
 
   /// Represents the [file_input] icon from the Lucide icon set.
   ///
-  /// ![file_input](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNCAxMVY0YTIgMiAwIDAgMSAyLTJoOGEyLjQgMi40IDAgMCAxIDEuNzA2LjcwNmwzLjU4OCAzLjU4OEEyLjQgMi40IDAgMCAxIDIwIDh2MTJhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJ2LTEiIC8+CiAgPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDUiIC8+CiAgPHBhdGggZD0iTTIgMTVoMTAiIC8+CiAgPHBhdGggZD0ibTkgMTggMy0zLTMtMyIgLz4KPC9zdmc+Cg==)
+  /// ![file_input](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAwMSAxaDUiIC8+CiAgPHBhdGggZD0iTTQgMTFWNGEyIDIgMCAwMTItMmg4YTIuNCAyLjQgMCAwMTEuNzA2LjcwNmwzLjU4OCAzLjU4OEEyLjQgMi40IDAgMDEyMCA4djEyYTIgMiAwIDAxLTIgMkg2YTIgMiAwIDAxLTItMnYtMSIgLz4KICA8cGF0aCBkPSJNNCAxNWg4IiAvPgogIDxwYXRoIGQ9Im05IDE4IDMtMy0zLTMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [file_input] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file.
@@ -12347,7 +12363,7 @@ abstract final class LucideIcons {
 
   /// Represents the [file_output] icon from the Lucide icon set.
   ///
-  /// ![file_output](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNNC4yMjYgMjAuOTI1QTIgMiAwIDAgMCA2IDIyaDEyYTIgMiAwIDAgMCAyLTJWOGEyLjQgMi40IDAgMCAwLS43MDYtMS43MDZsLTMuNTg4LTMuNTg4QTIuNCAyLjQgMCAwIDAgMTQgMkg2YTIgMiAwIDAgMC0yIDJ2My4xMjciIC8+CiAgPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDUiIC8+CiAgPHBhdGggZD0ibTUgMTEtMyAzIiAvPgogIDxwYXRoIGQ9Im01IDE3LTMtM2gxMCIgLz4KPC9zdmc+Cg==)
+  /// ![file_output](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTQgMnY1YTEgMSAwIDAwMSAxaDUiIC8+CiAgPHBhdGggZD0iTTQgOS4zNDRWNGEyIDIgMCAwMTItMmg4YTIuNCAyLjQgMCAwMTEuNzA2LjcwNmwzLjU4OCAzLjU4OEEyLjQgMi40IDAgMDEyMCA4djEyYTIgMiAwIDAxLTIgMkg2YTIgMiAwIDAxLTEuODIxLTEuMTcyIiAvPgogIDxwYXRoIGQ9Im03IDEyLTMgMyIgLz4KICA8cGF0aCBkPSJtNyAxOC0zLTNoOCIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [file_output] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:file.
@@ -13339,7 +13355,7 @@ abstract final class LucideIcons {
 
   /// Represents the [folder_input] icon from the Lucide icon set.
   ///
-  /// ![folder_input](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA5VjVhMiAyIDAgMCAxIDItMmgzLjlhMiAyIDAgMCAxIDEuNjkuOWwuODEgMS4yYTIgMiAwIDAgMCAxLjY3LjlIMjBhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMnYtMSIgLz4KICA8cGF0aCBkPSJNMiAxM2gxMCIgLz4KICA8cGF0aCBkPSJtOSAxNiAzLTMtMy0zIiAvPgo8L3N2Zz4K)
+  /// ![folder_input](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxM2g4IiAvPgogIDxwYXRoIGQ9Ik0yIDlWNWEyIDIgMCAwMTItMmgzLjlhMiAyIDAgMDExLjY5LjlsLjgxIDEuMmEyIDIgMCAwMDEuNjcuOUgyMGEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJINGEyIDIgMCAwMS0yLTJ2LTEiIC8+CiAgPHBhdGggZD0ibTcgMTYgMy0zLTMtMyIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [folder_input] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:folder, import, export.
@@ -13467,7 +13483,7 @@ abstract final class LucideIcons {
 
   /// Represents the [folder_output] icon from the Lucide icon set.
   ///
-  /// ![folder_output](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiA3LjVWNWEyIDIgMCAwIDEgMi0yaDMuOWEyIDIgMCAwIDEgMS42OS45bC44MSAxLjJhMiAyIDAgMCAwIDEuNjcuOUgyMGEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0xLjUiIC8+CiAgPHBhdGggZD0iTTIgMTNoMTAiIC8+CiAgPHBhdGggZD0ibTUgMTAtMyAzIDMgMyIgLz4KPC9zdmc+Cg==)
+  /// ![folder_output](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMiAxM2g4IiAvPgogIDxwYXRoIGQ9Ik0yIDcuMzdWNWEyIDIgMCAwMTItMmgzLjlhMiAyIDAgMDExLjY5LjlsLjgxIDEuMmEyIDIgMCAwMDEuNjcuOUgyMGEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJINGEyIDIgMCAwMS0xLjc5Ni0xIiAvPgogIDxwYXRoIGQ9Im01IDEwLTMgMyAzIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [folder_output] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:folder, import, export.
@@ -15243,7 +15259,7 @@ abstract final class LucideIcons {
 
   /// Represents the [hard_drive_download] icon from the Lucide icon set.
   ///
-  /// ![hard_drive_download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY4IiAvPgogIDxwYXRoIGQ9Im0xNiA2LTQgNC00LTQiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIyIiB5PSIxNCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTYgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCAxOGguMDEiIC8+Cjwvc3ZnPgo=)
+  /// ![hard_drive_download](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiAydjgiIC8+CiAgPHBhdGggZD0ibTE1IDctMyAzLTMtMyIgLz4KICA8cGF0aCBkPSJNNiAxOGguMDEiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMTQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [hard_drive_download] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:hard-drive, $extends:download.
@@ -15259,7 +15275,7 @@ abstract final class LucideIcons {
 
   /// Represents the [hard_drive_upload] icon from the Lucide icon set.
   ///
-  /// ![hard_drive_upload](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTYgNi00LTQtNCA0IiAvPgogIDxwYXRoIGQ9Ik0xMiAydjgiIC8+CiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiB4PSIyIiB5PSIxNCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTYgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMCAxOGguMDEiIC8+Cjwvc3ZnPgo=)
+  /// ![hard_drive_upload](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMThoLjAxIiAvPgogIDxwYXRoIGQ9Ik0xMiAydjgiIC8+CiAgPHJlY3QgeD0iMiIgeT0iMTQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTYgMThoLjAxIiAvPgogIDxwYXRoIGQ9Im0xNSA1LTMtMy0zIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [hard_drive_upload] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:hard-drive, $extends:upload, save.
@@ -29851,7 +29867,7 @@ abstract final class LucideIcons {
 
   /// Represents the [sunrise] icon from the Lucide icon set.
   ///
-  /// ![sunrise](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY4IiAvPgogIDxwYXRoIGQ9Im00LjkzIDEwLjkzIDEuNDEgMS40MSIgLz4KICA8cGF0aCBkPSJNMiAxOGgyIiAvPgogIDxwYXRoIGQ9Ik0yMCAxOGgyIiAvPgogIDxwYXRoIGQ9Im0xOS4wNyAxMC45My0xLjQxIDEuNDEiIC8+CiAgPHBhdGggZD0iTTIyIDIySDIiIC8+CiAgPHBhdGggZD0ibTggNiA0LTQgNCA0IiAvPgogIDxwYXRoIGQ9Ik0xNiAxOGE0IDQgMCAwIDAtOCAwIiAvPgo8L3N2Zz4K)
+  /// ![sunrise](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3Y2IiAvPgogIDxwYXRoIGQ9Ik0xNiAxN2E0IDQgMCAwMC04IDAiIC8+CiAgPHBhdGggZD0ibTE5LjA3IDkuOTMtMS40MSAxLjQxIiAvPgogIDxwYXRoIGQ9Ik0yIDE3aDIiIC8+CiAgPHBhdGggZD0iTTIwIDE3aDIiIC8+CiAgPHBhdGggZD0iTTIyIDIxSDIiIC8+CiAgPHBhdGggZD0ibTQuOTMgOS45MyAxLjQxIDEuNDEiIC8+CiAgPHBhdGggZD0ibTkgNiAzLTMgMyAzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [sunrise] icon is a graphical symbol that conveys a specific idea or functionality related to weather, time, morning, day.
@@ -29867,7 +29883,7 @@ abstract final class LucideIcons {
 
   /// Represents the [sunset] icon from the Lucide icon set.
   ///
-  /// ![sunset](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTBWMiIgLz4KICA8cGF0aCBkPSJtNC45MyAxMC45MyAxLjQxIDEuNDEiIC8+CiAgPHBhdGggZD0iTTIgMThoMiIgLz4KICA8cGF0aCBkPSJNMjAgMThoMiIgLz4KICA8cGF0aCBkPSJtMTkuMDcgMTAuOTMtMS40MSAxLjQxIiAvPgogIDxwYXRoIGQ9Ik0yMiAyMkgyIiAvPgogIDxwYXRoIGQ9Im0xNiA2LTQgNC00LTQiIC8+CiAgPHBhdGggZD0iTTE2IDE4YTQgNCAwIDAgMC04IDAiIC8+Cjwvc3ZnPgo=)
+  /// ![sunset](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgOVYzIiAvPgogIDxwYXRoIGQ9Im0xNSA2LTMgMy0zLTMiIC8+CiAgPHBhdGggZD0iTTE2IDE3YTQgNCAwIDAwLTggMCIgLz4KICA8cGF0aCBkPSJtMTkuMDcgOS45My0xLjQxIDEuNDEiIC8+CiAgPHBhdGggZD0iTTIgMTdoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTdoMiIgLz4KICA8cGF0aCBkPSJNMjIgMjFIMiIgLz4KICA8cGF0aCBkPSJtNC45MyA5LjkzIDEuNDEgMS40MSIgLz4KPC9zdmc+Cg==)
   ///
   /// Description:
   /// - The [sunset] icon is a graphical symbol that conveys a specific idea or functionality related to weather, time, evening, night.
@@ -33163,7 +33179,7 @@ abstract final class LucideIcons {
 
   /// Represents the [waves_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![waves_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMTBMMTIgMiIgLz4KICA8cGF0aCBkPSJNMTYgNkwxMiAxMEw4IDYiIC8+CiAgPHBhdGggZD0iTTIgMTVDMi42IDE1LjUgMy4yIDE2IDQuNSAxNkM3IDE2IDcgMTQgOS41IDE0QzEyLjEgMTQgMTEuOSAxNiAxNC41IDE2QzE3IDE2IDE3IDE0IDE5LjUgMTRDMjAuOCAxNCAyMS40IDE0LjUgMjIgMTUiIC8+CiAgPHBhdGggZD0iTTIgMjFDMi42IDIxLjUgMy4yIDIyIDQuNSAyMkM3IDIyIDcgMjAgOS41IDIwQzEyLjEgMjAgMTEuOSAyMiAxNC41IDIyQzE3IDIyIDE3IDIwIDE5LjUgMjBDMjAuOCAyMCAyMS40IDIwLjUgMjIgMjEiIC8+Cjwvc3ZnPgo=)
+  /// ![waves_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3Y2bDMtMyIgLz4KICA8cGF0aCBkPSJNMiAxNGMuNi41IDEuMiAxIDIuNSAxIDIuNSAwIDIuNS0yIDUtMiAyLjYgMCAyLjQgMiA1IDIgMi41IDAgMi41LTIgNS0yIDEuMyAwIDEuOS41IDIuNSAxIiAvPgogIDxwYXRoIGQ9Ik0yIDIwYy42LjUgMS4yIDEgMi41IDEgMi41IDAgMi41LTIgNS0yIDIuNiAwIDIuNCAyIDUgMiAyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDEiIC8+CiAgPHBhdGggZD0ibTkgNiAzIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [waves_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-down, water, sea, level, sound, hertz, wavelength, vibrate, low, tide, ocean, rising, down, falling.
@@ -33179,7 +33195,7 @@ abstract final class LucideIcons {
 
   /// Represents the [waves_arrow_up] icon from the Lucide icon set.
   ///
-  /// ![waves_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgMnY4IiAvPgogIDxwYXRoIGQ9Ik0yIDE1Yy42LjUgMS4yIDEgMi41IDEgMi41IDAgMi41LTIgNS0yIDIuNiAwIDIuNCAyIDUgMiAyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDEiIC8+CiAgPHBhdGggZD0iTTIgMjFjLjYuNSAxLjIgMSAyLjUgMSAyLjUgMCAyLjUtMiA1LTIgMi42IDAgMi40IDIgNSAyIDIuNSAwIDIuNS0yIDUtMiAxLjMgMCAxLjkuNSAyLjUgMSIgLz4KICA8cGF0aCBkPSJtOCA2IDQtNCA0IDQiIC8+Cjwvc3ZnPgo=)
+  /// ![waves_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTIgM3Y2IiAvPgogIDxwYXRoIGQ9Ik0yIDE0Yy42LjUgMS4yIDEgMi41IDEgMi41IDAgMi41LTIgNS0yIDIuNiAwIDIuNCAyIDUgMiAyLjUgMCAyLjUtMiA1LTIgMS4zIDAgMS45LjUgMi41IDEiIC8+CiAgPHBhdGggZD0iTTIgMjBjLjYuNSAxLjIgMSAyLjUgMSAyLjUgMCAyLjUtMiA1LTIgMi42IDAgMi40IDIgNSAyIDIuNSAwIDIuNS0yIDUtMiAxLjMgMCAxLjkuNSAyLjUgMSIgLz4KICA8cGF0aCBkPSJtOSA2IDMtMyAzIDMiIC8+Cjwvc3ZnPgo=)
   ///
   /// Description:
   /// - The [waves_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $group:direction-up, water, sea, level, sound, hertz, wavelength, vibrate, high, tide, ocean, rising.
@@ -33579,7 +33595,7 @@ abstract final class LucideIcons {
 
   /// Represents the [wind_arrow_down] icon from the Lucide icon set.
   ///
-  /// ![wind_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMnY4IiAvPgogIDxwYXRoIGQ9Ik0xMi44IDIxLjZBMiAyIDAgMSAwIDE0IDE4SDIiIC8+CiAgPHBhdGggZD0iTTE3LjUgMTBhMi41IDIuNSAwIDEgMSAyIDRIMiIgLz4KICA8cGF0aCBkPSJtNiA2IDQgNCA0LTQiIC8+Cjwvc3ZnPgo=)
+  /// ![wind_arrow_down](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgM3Y2IiAvPgogIDxwYXRoIGQ9Ik0xMi44IDIwLjZBMiAyIDAgMTAxNCAxN0gyIiAvPgogIDxwYXRoIGQ9Ik0xNy41IDlhMi41IDIuNSAwIDExMiA0SDIiIC8+CiAgPHBhdGggZD0ibTggNiAzIDMgMy0zIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [wind_arrow_down] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:wind, $group:direction-down, pressure.
@@ -33595,7 +33611,7 @@ abstract final class LucideIcons {
 
   /// Represents the [wind_arrow_up] icon from the Lucide icon set.
   ///
-  /// ![wind_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTAgMnY4IiAvPgogIDxwYXRoIGQ9Ik0xMi44IDIxLjZBMiAyIDAgMSAwIDE0IDE4SDIiIC8+CiAgPHBhdGggZD0iTTE3LjUgMTBhMi41IDIuNSAwIDEgMSAyIDRIMiIgLz4KICA8cGF0aCBkPSJtNiA2IDQgLTQgNCA0IiAvPgo8L3N2Zz4K)
+  /// ![wind_arrow_up](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSI0OCIKICBoZWlnaHQ9IjQ4IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ViMWQyNSIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJNMTEgM3Y2IiAvPgogIDxwYXRoIGQ9Ik0xMi44IDIwLjZBMiAyIDAgMTAxNCAxN0gyIiAvPgogIDxwYXRoIGQ9Ik0xNy41IDlhMi41IDIuNSAwIDExMiA0SDIiIC8+CiAgPHBhdGggZD0ibTggNiAzLTMgMyAzIiAvPgo8L3N2Zz4K)
   ///
   /// Description:
   /// - The [wind_arrow_up] icon is a graphical symbol that conveys a specific idea or functionality related to $extends:wind, $group:direction-up, pressure, gust, windy, sort, increase.
